@@ -1,66 +1,67 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-organize_central_asia_title;Hegemony in Central Asia;;;;;;;;;;;;;
-organize_central_asia_desc;Our domination over the steppes is now uncontested: it is time we organize the area to better serve our needs.;;;;;;;;;;;;;
-conquest_of_red_water_title;Conquest of the coast;;;;;;;;;;;;;
-conquest_of_red_water_desc;Our control over the Turkmenia region is now complete enough that we can make our move towards the Caspian Sea by conquering the area known as Kyzyl-Su, the Red Water, before anyone else cut us there.;;;;;;;;;;;;;
-claim_artois_title;Claim Artois;;;;;;;;;;;;;
-claim_artois_desc;The comte d'Artois has traditionally been part of the Low Countries. Only during the era of foreign rule by Habsburg scum was it snatched by the King of France. As such, it is our duty to reclaim those lands back into our glorious realm, put their people to work and profit from their land!;;;;;;;;;;;;;
-rename_artois_NET_title;Artois is ours!;;;;;;;;;;;;;
-rename_artois_NET_desc;The region of Artois is finally back in $COUNTRY_ADJ$ hands! The area has been part of our rightful historical realm and this should reflect on the world's maps.;;;;;;;;;;;;;
-rename_artois_FRA_title;Artois is ours!;;;;;;;;;;;;;
-rename_artois_FRA_desc;The region of Artois is finally back in $COUNTRY_ADJ$ hands! The area has been part of our rightful historical realm and this should reflect on the world's maps.;;;;;;;;;;;;;
-build_neuschwanstein_title;The Neuschwanstein Castle;;;;;;;;;;;;;
-build_neuschwanstein_desc;The Neuschwanstein Castle is a nineteenth-century Romanesque Revival palace on a rugged hill above the village of Hohenschwangau. The palace was commissioned paid out of his personal fortune by Ludwig II of Bavaria, "The Swan King", as a retreat and as a homage to Richard Wagner. The palace was intended as a personal refuge for the reclusive sovereign: it is said that from his bedroom in Hohenschwangau, Ludwig trained a telescope on a ridge to keep an eye on Neuschwanstein as it was being constructed.;;;;;;;;;;;;;
-EVTNAME110082;Smuggle Tea to $COUNTRY$;;;;;;;;;;;;;
-EVTDESC110082;After a failed attempt to cultivate tea in $COUNTRY$ in 1882 with seeds from India, Prince Mohammad Mirza known as "Kashef Al Saltaneh" who was born in Lahijan, imported Indian tea and started its cultivation in Lahijan. Kashef, who was the first mayor of Tehran and an Iranian ambassador to India under British rule, knew that the British would not allow him to learn about the secrets of tea production, as it was it is their biggest business in India. So being fluent in French, the prince pretended to be a French laborer and started to work in the tea plantations and factories to learn how to produce tea. Ultimately his plan was to take back some samples of this tea to $COUNTRY$ to cultivate. He was successful in this endeavor only because of his diplomatic immunity which stopped the British from searching his secretly stashed sample. At the time, Kashef brought 3000 saplings into his country from the Northern part of India, Kangra and he started the cultivation in the region Gilan, south of the Caspian Sea. The climate there was well suited for tea cultivation, and the tea industry quickly expanded in Gilan and Mazanderan region.;;;;;;;;;;;;;
-EVT110082OPTA;A wonderful initiative!;;;;;;;;;;;;;
-EVT110082OPTB;No thanks.;;;;;;;;;;;;;
-EVTNAME110083;A Trip To Europe;;;;;;;;;;;;;
-EVTDESC110083;Numerous suzerains of so-called "uncivilized" nations have made the decision to travel to Europe in order to support westernization policies. From Nasser al-Din Shah Qajar of Persia to Chulalongkorn of Siam and the many princes of India, the experience proved successful in enlightening rulers throughout the world. While this could help our country enter modernity, it will surely anger our more traditional elites...;;;;;;;;;;;;;
-EVT110083OPTA;We could learn a lot.;;;;;;;;;;;;;
-EVT110083OPTB;A king's place is in his country.;;;;;;;;;;;;;
-EVTNAME110084;The Treaty of Erzurum of $YEAR$;;;;;;;;;;;;;
-EVTDESC110084;Tensions have risen again between the Ottoman Empire and Qajar Persia after order has been restored in the Kurdish areas. Border conflicts are now a common occurrence, driving up jingoist sentiment in both courts. Wishing to protect their interests in the region, the United Kingdom and Russia have intervened to find a diplomatic solution to the issues that plagued the area. The proposed treaty includes nine articles treating various issues, from territorial compromises to the status of pilgrims, forever establishing the western concepts of nation and borders in the region.;;;;;;;;;;;;;
-EVT110084OPTA;This seems fair.;;;;;;;;;;;;;
-EVT110084OPTB;We will resolve the issue our own way!;;;;;;;;;;;;;
-EVTNAME110085;A Rise To Power;;;;;;;;;;;;;
-EVTDESC110085;Amir Kabir has gained more and more power in our country. He now cumulates the positions of Chief Minister and Chief of the Army: this situation could be dangerous especially while the Shah remains young. His popularity is still low, both in court and abroad many despise him. Some whisper in our ear that it could be our only opportunity to stop him before it's too late...;;;;;;;;;;;;;
-EVT110085OPTA;The Shah demands his head.;;;;;;;;;;;;;
-EVT110085OPTB;His life is safe: exile him.;;;;;;;;;;;;;
-EVT110085OPTC;He is our friend and advisor.;;;;;;;;;;;;;
-EVTNAME110086;Amir Kabir assassinated!;;;;;;;;;;;;;
-EVTDESC110086;In $YEAR$ Amir Kabir Mirza Taghi Khan Farahani was murdered while traveling to Kashan, an obviously political move. Some are pointing fingers at the disgruntled nobles, including the Queen Mother. Others are blaming foreign powers. With him, many believe, died the prospect of an independent Iran led by meritocracy rather than nepotism.;;;;;;;;;;;;;
-EVT110086OPTA;We mourn his loss.;;;;;;;;;;;;;
-EVT110086OPTB;We shall find whoever is guilty!;;;;;;;;;;;;;
-EVTNAME110087;The Swan King;;;;;;;;;;;;;
-EVTDESC110087;Crown Prince Ludwig had just turned 18 when his father died after a three-day illness, and he ascended the Bavarian throne. Although he was not prepared for high office, his youth and brooding good looks made him popular in Bavaria and elsewhere. Rather than live with the frustrations of a modern constitution and a feisty parliament reining him in, he spent his years lost in Romantic literature and operas, most notably by summoning Wagner at his court or by funding the construction of the Neuschwanstein Castle.;;;;;;;;;;;;;
-EVT110087OPTA;Long may he reign!;;;;;;;;;;;;;
-EVTNAME110088;Landel de Moura;;;;;;;;;;;;;
-EVTDESC110088;Father Roberto Landel de Moura was ordained to the priesthood in 1886 in Rome, where he also studied the physical sciences. A famous local inventor, he got recognized by his broadcast of a human voice over 8km around Sao Paulo - a technological feet of note! He then secured multiple patents, both Brazilian and American, for Wireless Telephone and Wireless Telegraph. His subsequent requests to the Brazilian government for assistance in developing his invention were denied, and his efforts then languished.;;;;;;;;;;;;;
-EVT110088OPTA;Support his effort!;;;;;;;;;;;;;
-EVT110088OPTB;Give him an official acknowledgment.;;;;;;;;;;;;;
-EVT110088OPTC;Interesting I'm sure...;;;;;;;;;;;;;
-EVTNAME110089;The $CAPITAL$ Convention on the South Tirol Dispute;;;;;;;;;;;;;
-EVTDESC110089;$FROMCOUNTRY_ADJ$ diplomats arrived today in $CAPITAL$ for the biggest breakthrough in $COUNTRY_ADJ$-$FROMCOUNTRY_ADJ$ relationship in decades: a convention on the future of South Tirol, a territory both governments claim. We have to set a position and negotiate aggressively lest talks break and raise the spectre of total war with $FROMCOUNTRY$.;;;;;;;;;;;;;
-EVT110089OPTA;There can be no compromise. South Tirol is $COUNTRY_ADJ$!;;;;;;;;;;;;;
-EVT110089OPTB;Propose that we split the state, and that the minorities have their rights respected.;;;;;;;;;;;;;
-EVT110089OPTC;A population and province exchange is needed to settle this once and for all.;;;;;;;;;;;;;
-EVTNAME110090;$FROMCOUNTRY_ADJ$-$COUNTRY_ADJ$ Talks Break Down;;;;;;;;;;;;;
-EVTDESC110090;Our envoys returned from $FROMCOUNTRY$ after talks with $FROMCOUNTRY_ADJ$ diplomats broke down. Their intransigent position on their claims and the rights of the $FROMCOUNTRY_ADJ$ population in South Tirol meant that no compromise was possible - something that senior figures in $CAPITAL$ see as the $COUNTRY_ADJ$ government inching closer to a state of total war with $FROMCOUNTRY$.;;;;;;;;;;;;;
-EVT110090OPTA;They will pay for their stubbornness.;;;;;;;;;;;;;
-EVTNAME110091;The $FROMCOUNTRY_ADJ$ Proposal: Splitting South Tirol;;;;;;;;;;;;;
-EVTDESC110091;After a particularly intense and long round of talks, the $FROMCOUNTRY_ADJ$ government sent a proposal they are willing to accept: split South Tirol with Bozen going to the Germans and Trent to the Italians. Diplomats in $CAPITAL$ are unsure what to make of this - it would settle the South Tirol question for now, with $FROMCOUNTRY$ promising to abdicate their claims, but is that in the best interests of $COUNTRY$?;;;;;;;;;;;;;
-EVT110091OPTA;That is an acceptable compromise.;;;;;;;;;;;;;
-EVT110091OPTB;That is not in the best interested of the $COUNTRY_ADJ$ government.;;;;;;;;;;;;;
-EVTNAME110092;The $FROMCOUNTRY_ADJ$ Proposal: Population Transfers;;;;;;;;;;;;;
-EVTDESC110092;After a particularly intense and long round of talks, the $FROMCOUNTRY_ADJ$ government sent a proposal they are willing to accept: split South Tirol with Bozen going to the Germans and Trent to the Italians. Furthermore, they propose that the German population in Trent be paid reparations and sent to Bozen, and that the German population in Trent be sent to Bozen - with reparations paid for the displaced. Diplomats in $CAPITAL$ are unsure what to make of this - it would settle the South Tirol question once and for all, with $FROMCOUNTRY$ obliged abdicate their claims, but is that in the best interests of $COUNTRY$?;;;;;;;;;;;;;
-FRA_404;Artois;;;;;;;;;;;;;
-amir_kabir;Amir Kabir;;;;;;;;;;;;;
-desc_amir_kabir;Amir Kabir Mirza Taghi Khan Farahani is overseeing great works of reform in our country, to the anger of some.;;;;;;;;;;;;;
-racial_tensions;Racial tensions;;;;;;;;;;;;;
-desc_racial_tensions;Following racial riots targeting minorities, tension and hatred are high in the local community.;;;;;;;;;;;;;
-EVTOPTB110083;A king's place is in his country.;;;;;;;;;;;;;
-EVTOPTA110083;We could learn a lot.;;;;;;;;;;;;;
-EVTOPTA110092;A sad state of affairs.;;;;;;;;;;;;;
-EVTOPTB110082;No thanks.;;;;;;;;;;;;;
-EVTOPTA110082;Wonderful initiative!;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+organize_central_asia_title;中亚霸权;;;;;;;;;;;;x
+organize_central_asia_desc;我们对大草原的统治现在是无可争议的：现在是我们组织该地区以更好地满足我们需求的时候了。;;;;;;;;;;;;x
+conquest_of_red_water_title;征服海岸;;;;;;;;;;;;x
+conquest_of_red_water_desc;我们对土库曼尼亚地区的控制现已足够完善，我们可以通过征服被称为红水的克孜勒苏地区前往里海，赶在其他人切断我们之前。;;;;;;;;;;;;x
+claim_artois_title;宣称阿图瓦;;;;;;;;;;;;x
+claim_artois_desc;阿图瓦伯国一直是低地国家的一部分。只是在哈布斯堡的外国统治时代，才被法国国王抢走。因此，我们有责任将这些土地收回到我们光荣的国家，让他们的人民工作并从他们的土地中获利！;;;;;;;;;;;;x
+rename_artois_NET_title;阿图瓦是我们的！;;;;;;;;;;;;x
+rename_artois_NET_desc;阿图瓦地区终于回到了$COUNTRY_ADJ$手中！该地区已成为我们合法历史国土的一部分，这应该反映在世界地图上。;;;;;;;;;;;;x
+rename_artois_FRA_title;阿图瓦是我们的！;;;;;;;;;;;;x
+rename_artois_FRA_desc;阿图瓦地区终于回到了$COUNTRY_ADJ$手中！该地区已成为我们合法历史国土的一部分，这应该反映在世界地图上。;;;;;;;;;;;;x
+build_neuschwanstein_title;新天鹅堡;;;;;;;;;;;;x
+build_neuschwanstein_desc;新天鹅堡是一座十九世纪的罗马复兴式宫殿，位于旧天鹅堡上方的崎岖山丘上。 这座宫殿是由巴伐利亚的路德维希二世，“天鹅之王”，的个人财产支付的，作为隐居处和向理查德·瓦格纳致敬。这座宫殿的目的是作为隐居的君主的个人避难所。据说，在他位于旧天鹅堡的卧室里，路德维希在山脊上布置了一架望远镜，以便在新天鹅堡建造时留意它。;;;;;;;;;;;;x
+EVTNAME110082;向$COUNTRY$走私茶叶;;;;;;;;;;;;x
+EVTDESC110082;1882年通过印度茶种在$COUNTRY$培育茶叶的尝试失败之后，生于拉希詹、人称Kashef Al Saltaneh的穆罕默德·米尔扎进口了一批印度茶并尝试在拉希詹培育它们。Kashef作为首任德黑兰市长和伊朗驻英属印度大使，明白英国人不会允许他了解到茶叶种植的奥秘所在，因为那是他们在印度的主要收入来源。因此在法国人的暗中支持下，他假扮为法国劳工进入茶叶种植园工作，学习如何培育茶叶。他计划最终将这些样品送回$COUNTRY$栽培。 仅仅因为外交豁免阻止英国人搜查他的秘密样本，他的计划才得以成功。Kashef将3000多株样本从北印度的坎格拉带回伊朗并开始在里海南部的吉兰地区栽种。那里的气候非常适合茶叶种植，因此茶产业迅速在吉兰与马赞德兰地区发展。;;;;;;;;;;;;x
+EVT110082OPTA;一个很棒的举措！;;;;;;;;;;;;x
+EVT110082OPTB;不了，谢谢;;;;;;;;;;;;x
+EVTNAME110083;欧洲之旅;;;;;;;;;;;;x
+EVTDESC110083;众多所谓的“未开化”国家的君主已经决定前往欧洲以支持西化政策。从波斯的纳赛尔丁·卡扎尔沙阿到暹罗的朱拉隆功，以及印度的众多土邦王公，这些经验证明对全世界的统治者是成功的。虽然这有助于我们的国家进入现代社会，但它肯定会激怒我们更多的传统精英......;;;;;;;;;;;;x
+EVT110083OPTA;我们将学到很多;;;;;;;;;;;;x
+EVT110083OPTB;君主应留在其国;;;;;;;;;;;;x
+EVTNAME110084;$YEAR$年埃尔祖鲁姆条约;;;;;;;;;;;;x
+EVTDESC110084;在库尔德地区恢复秩序后，奥斯曼帝国和卡扎尔波斯之间的紧张局势再次升级。 边界冲突现在是一种常见现象，在双方宫廷都引发了沙文主义情绪。为了保护他们在该地区的利益，联合王国和俄罗斯进行了干预，以寻求外交解决困扰该地区的问题。拟议条约包括九条处理各种问题的条款，从领土妥协到朝圣者地位，在该地区永远建立西方式的国家概念和边界等等。;;;;;;;;;;;;x
+EVT110084OPTA;这看起来很公平。;;;;;;;;;;;;x
+EVT110084OPTB;我们会用自己的方式解决这一问题！;;;;;;;;;;;;x
+EVTNAME110085;权势的上升;;;;;;;;;;;;x
+EVTDESC110085;埃米尔·卡比尔在我国获得了越来越多的权力。他现在身兼首席部长和陆军参谋长的职位：这种情况可能很危险，特别是当沙阿仍然年轻时。他的声望仍然很低，无论是在宫中还是国外，许多人都看不起他。有人在我们耳边窃窃私语，说这可能是我们唯一的机会阻止他，以免为时已晚......;;;;;;;;;;;;x
+EVT110085OPTA;沙阿要他死;;;;;;;;;;;;x
+EVT110085OPTB;留他一命，驱逐其人;;;;;;;;;;;;x
+EVT110085OPTC;他是我们的朋友和顾问。;;;;;;;;;;;;x
+EVTNAME110086;埃米尔·卡比尔被刺杀！;;;;;;;;;;;;x
+EVTDESC110086;$YEAR$年，阿米尔·卡比尔·米尔扎·塔吉·汗·法拉哈尼在前往卡尚时被谋杀，这显然是一个政治举动。一些人指责不满的贵族，包括王太后。其他人则指责外国势力。许多人认为，随着他的逝去，一个由精英统治而非裙带关系领导的独立伊朗的前景也随之破灭。;;;;;;;;;;;;x
+EVT110086OPTA;我们为他的死哀悼。;;;;;;;;;;;;x
+EVT110086OPTB;我们将缉捕凶手！;;;;;;;;;;;;x
+EVTNAME110087;天鹅王;;;;;;;;;;;;x
+EVTDESC110087;路德维希王储刚满18岁，父亲因病三天去世，他登上了巴伐利亚王位。虽然他没有准备好担任要职，但他的年轻和深沉的美貌使他在巴伐利亚和其他地方广受欢迎。他没有忍受现代宪法和活跃的议会对他的束缚所带来的挫折，而是在浪漫主义文学和歌剧中度过了迷惘的岁月，最著名的是在宫廷召见瓦格纳，或资助建造新天鹅堡。;;;;;;;;;;;;x
+EVT110087OPTA;愿他统治长久！;;;;;;;;;;;;x
+EVTNAME110088;兰德尔·德·莫拉;;;;;;;;;;;;x
+EVTDESC110088;罗伯托·兰德尔·莫拉神父于1886年在罗马被任命为神职人员，在那里他还研究了物理科学。作为一名著名的本地发明家，他在圣保罗周围将一个人声播放到八公里外。随后，他获得了无线电话和无线电报的多项巴西和美国专利。他后来向巴西政府请求协助发展他的发明的请求被拒绝了，他的努力也随之白费。;;;;;;;;;;;;x
+EVT110088OPTA;支持他的努力！;;;;;;;;;;;;x
+EVT110088OPTB;给他一个官方的承认。;;;;;;;;;;;;x
+EVT110088OPTC;我确定，这很有意思...;;;;;;;;;;;;x
+EVTNAME110089;对于南蒂罗尔争端的$CAPITAL$公约;;;;;;;;;;;;x
+EVTDESC110089;$FROMCOUNTRY_ADJ$外交官今天抵达了$CAPITAL$，这是几十年来$COUNTRY_ADJ$-$FROMCOUNTRY_ADJ$关系的最大突破：关于南蒂罗尔未来的公约，这是两国政府都声称的领土。 我们必须确定立场并积极谈判，以免谈判破裂并引发与$FROMCOUNTRY$的全面战争。;;;;;;;;;;;;x
+EVT110089OPTA;没有妥协的余地。南蒂罗尔是$COUNTRY_ADJ$！;;;;;;;;;;;;x
+EVT110089OPTB;建议我们分割南蒂罗尔，这样少数民族的权利就能得到尊重。;;;;;;;;;;;;x
+EVT110089OPTC;为了一劳永逸地解决这一问题，需要进行人口和省份交换。;;;;;;;;;;;;x
+EVTNAME110090;$FROMCOUNTRY_ADJ$-$COUNTRY_ADJ$对话无果而终;;;;;;;;;;;;x
+EVTDESC110090;在与$FROMCOUNTRY_ADJ$外交官的谈判破裂后，我们的特使从$FROMCOUNTRY$返回。他们在南蒂罗尔的$FROMCOUNTRY_ADJ$居民的权利和索赔问题上的强硬立场意味着不可能达成妥协——这一点被$CAPITAL$的高级官员视为$COUNTRY_ADJ$政府与$FROMCOUNTRY$逐渐接近全面战争状态。;;;;;;;;;;;;x
+EVT110090OPTA;他们将为自己的顽固付出代价。;;;;;;;;;;;;x
+EVTNAME110091;$FROMCOUNTRY_ADJ$提议：分割南蒂罗尔;;;;;;;;;;;;x
+EVTDESC110091;经过一轮特别激烈和漫长的谈判后，$FROMCOUNTRY_ADJ$政府提出了一项他们愿意接受的建议：分割南蒂罗尔，波岑归德国，特伦特归意大利。$CAPITAL$的外交官们不确定如何看待这一点——这将暂时解决南蒂罗尔问题，$FROMCOUNTRY$承诺放弃他们的主张，但这是否符合$COUNTRY$的最佳利益？;;;;;;;;;;;;x
+EVT110091OPTA;这是一个可以接受的妥协。;;;;;;;;;;;;x
+EVT110091OPTB;这不符合$COUNTRY_ADJ$政府的最佳利益。;;;;;;;;;;;;x
+EVTNAME110092;$FROMCOUNTRY_ADJ$提议：人口迁徙;;;;;;;;;;;;x
+EVTDESC110092;经过一轮特别激烈和漫长的谈判后，$FROMCOUNTRY_ADJ$政府提出了一项他们愿意接受的建议：分割南蒂罗尔，波岑归德国，特伦特归意大利。此外，他们还建议向特伦特的德意志人支付赔偿金，并将其送往波岑，那样特伦特的德意志人将被送往波岑，同时向失去家园的人支付赔偿金。$CAPITAL$的外交官们不确定该怎么办——这将一劳永逸地解决南蒂罗尔问题，$FROMCOUNTRY$必须放弃其主张，但这是否符合$COUNTRY$的最佳利益？;;;;;;;;;;;;x
+FRA_404;阿图瓦;;;;;;;;;;;;x
+amir_kabir;埃米尔·卡比尔;;;;;;;;;;;;x
+desc_amir_kabir;埃米尔·卡比尔·米尔扎·塔基·汗·法拉哈尼正在监督我国的伟大改革工作，这令一些人愤怒。;;;;;;;;;;;;x
+racial_tensions;种族摩擦;;;;;;;;;;;;x
+desc_racial_tensions;在针对少数民族的种族骚乱之后，当地社区的紧张和仇恨程度很高。;;;;;;;;;;;;x
+EVTOPTB110083;君主应留在其国;;;;;;;;;;;;x
+EVTOPTA110083;我们将学到很多。;;;;;;;;;;;;x
+EVTOPTA110092;糟糕的事态;;;;;;;;;;;;x
+EVTOPTB110082;不了，谢谢。;;;;;;;;;;;;x
+EVTOPTA110082;很棒的举措！;;;;;;;;;;;;x

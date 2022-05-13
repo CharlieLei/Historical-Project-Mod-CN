@@ -1,103 +1,104 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-EVTNAME96000;War is Upon Us;La Guerre c'est Ici;Der Krieg Kommt;;;;;;;;;;;
-EVTDESC96000;$COUNTRY$ is in a state of total war with one of the Great Powers of the world. In a modern age where warfare has the capability of killing millions, the very future of our nation could be at stake. The call has gone out to the $COUNTRY_ADJ$ people: put aside your petty differences," your day-to-day lives and your personal ambitions. $COUNTRY$ must pull together in this, our hour of need!;;;;;;;;;;;;x",,;
-EVTOPTA96000;We shall be victorious!;Nous serons victorieux!;Wir sind siegreich!;;;;;;;;;;;
-EVTNAME96010;The Treaty of $CAPITAL$;Le Traité de $CAPITAL$;Der Vertrag von $CAPITAL$;;;;;;;;;;;
-EVTDESC96010;We have lost the war, and like vultures the victors have descended upon us. We have been forced to the bargaining table to accept humiliating terms regarding the breakup of our empire, with many of our lands simply given away, and we shall be permitted no overseas holdings whatsoever. This is a moment that shall be remembered in $COUNTRY$ for years to come.;;;;;;;;;;;;;
-EVTNAME96004;The Demands of War;Les Demandes de la Guerre;Die Nachfragen des Krieges;;;;;;;;;;;
-EVTDESC96004;The constant state of war $COUNTRY$ is under has taken its toll on our people. Shortages of basic goods and the failure to deliver swift victory have worn down the enthusiasm with which the $COUNTRY_ADJ$ people initially greeted the war effort. If things don't turn around soon, we could face growing weariness and unrest within our own borders.;;;;;;;;;;;;;
-EVTOPTA96004;We will win this war!;Nous gagnerons la guerre!;Wir gewinnen den Krieg!;;;;;;;;;;;
-EVTNAME96005;Is It All For Nothing?;Est-il Tout Pour Rien?;Ist Alles Für Nichts?;;;;;;;;;;;
-EVTDESC96005;Growing demonstrations in $CAPITAL$ demonstrate the prevailing attitude of the $COUNTRY_ADJ$ people: get us out of the war, and soon. Too many have been lost, too many sacrifices made, and all for what? The people wish to go back to their regular lives, without the constant spectre of war hanging over their heads.;;;;;;;;;;;;;
-EVTOPTA96005;Do not lose hope!;Ne perdez pas l'espoir!;Verlieren Sie nicht Hoffnung!;;;;;;;;;;;
-EVTNAME96006;Total Collapse;Effondrement Total;Gesamteinsturz;;;;;;;;;;;
-EVTDESC96006;The war effort is not going well, to put it lightly. Advisors are saying that $COUNTRY$ should sue for peace, do whatever it takes to end this war before something even more terrible happens. The people are on the brink of revolt. We must act!;;;;;;;;;;;;;
-EVTOPTA96006;Disaster!;Désastre!;Unfall!;;;;;;;;;;;
-EVTOPTA96010;We welcome peace;La paix est bienvenue;Frieden ist willkommen;;;;;;;;;;;
-EVTNAME96013;The Breakup of $FROMCOUNTRY$;La Dissolution de $FROMCOUNTRY$;Das Auseinanderbrechen von $FROMCOUNTRY$;;;;;;;;;;;
-EVTDESC96013;$FROMCOUNTRY$ has been forced to concede defeat in its war, and we have been invited to the negotiating table to discuss the potential breakup of their empire. This could potentially mean we see $COUNTRY_ADJ$ lands returned to us, though if we forego our claims it could mean salvaging a relationship with $FROMCOUNTRY$.;;;;;;;;;;;;;
-EVTOPTA96013;We will attend the talks;Nous joindrons les entretiens;Wir gehen zu den Gesprächen;;;;;;;;;;;
-EVTOPTB96013;We will not attend;Nous n'irons pas;Wir gehen nicht;;;;;;;;;;;
-EVTNAME96014;The Breakup of $FROMCOUNTRY$;La Dissolution de $FROMCOUNTRY$;Das Auseinanderbrechen von $FROMCOUNTRY$;;;;;;;;;;;
-EVTDESC96014;$FROMCOUNTRY$ has been forced to concede defeat in its war, and now treaty talks have begun to discuss the breakup of their empire. As an enemy of $FROMCOUNTRY$, our place at the table is assured. At the very least, any $COUNTRY_ADJ$ lands currently in $FROMCOUNTRY_ADJ$ possession should be returned.;;;;;;;;;;;;;
-EVTOPTA96014;We simply wish our lands back;Nous voulons nos terres;Wir wünschen unsere Länder;;;;;;;;;;;
-EVTNAME96015;$COUNTRY_ADJ$ Freedom;Liberté $COUNTRY_ADJ$;$COUNTRY_ADJ$ Freiheit;;;;;;;;;;;
-EVTDESC96015;The defeat of $FROMCOUNTRY$ in their war has forced them to the negotiating table, and one of the terms for the breakup of their empire is our release from their direct rule. This would mean casting out $FROMCOUNTRY_ADJ$ officials and potentially turning them into an enemy. We could maintain our close ties with $FROMCOUNTRY$ even with our freedom, though this would mean passing up a chance for freedom and goodwill from $FROMCOUNTRY$'s enemies.;;;;;;;;;;;;;
-EVTOPTA96015;$COUNTRY$ shall be free;$COUNTRY$ sera libre;$COUNTRY$ ist frei;;;;;;;;;;;
-EVTOPTB96015;$FROMCOUNTRY$ is our ally;$FROMCOUNTRY$ est notre allié;$FROMCOUNTRY$ ist unser Verbündetes;;;;;;;;;;;
-EVTNAME96016;The $FROMCOUNTRY_ADJ$ Colonies;Les Colonies $FROMCOUNTRY_ADJ$;Das $FROMCOUNTRY_ADJ$ Kolonien;;;;;;;;;;;
-EVTDESC96016;One of the matters discussed at the treaty talks is what to do with $FROMCOUNTRY$'s colonial holdings. They should not be allowed to keep these lands, but determinining how they should be disposed of is no simple matter. For now, agreement has been reached determining some of the territory, and any remaining will have to be negotiated over in the coming year.;;;;;;;;;;;;;
-EVTOPTA96016;We will take what we can;Nous voulons autant que possible;Wir wünschen so viel wie möglich;;;;;;;;;;;
-EVTOPTB96016;Our only interest is limiting $FROMCOUNTRY_ADJ$ power;Nous voulons seulement;Wir wünschen nur wenig;;;;;;;;;;;
-EVTOPTC96016;We have no interest in their colonies;Nous ne voulons pas les colonies;Wir wünschen nicht die Kolonien;;;;;;;;;;;
-EVTDESC96017;One of the matters discussed at the treaty talks is what to do with $FROMCOUNTRY$'s colonial holdings. We are not a great power, and it's possible that even if pursue some of their colonies for our own we'll end up with nothing... but if we do not try, we'll end up with nothing for sure. Even so, making the attempt could be seen as aggressive.;;;;;;;;;;;;;
-EVTNAME96020;The War is Over;La Guerre c'est Finie;Der Krieg ist Fertig;;;;;;;;;;;
-EVTDESC96020;With the war finished, the $COUNTRY_ADJ$ people have taken to the streets of $CAPITAL$ in celebration. The toll of the war has been heavy, but today $COUNTRY$ is simply happy to be at peace.;;;;;;;;;;;;;
-EVTOPTA96020;Long live $COUNTRY$!;Vive $COUNTRY$!;Lieben lang $COUNTRY$!;;;;;;;;;;;
-EVTDESC96022;$FROMCOUNTRY$ has been created from the ether, but the powers-that-be have determined at least some of their lands rightfully belong to $COUNTRY$ and should be returned to us. The $COUNTRY_ADJ$ people have rejoiced at this news.;;;;;;;;;;;;;
-EVTNAME96025;Enemy of my Enemy;Ennemi de mon Ennemi;Feind meines Feindes;;;;;;;;;;;
-EVTDESC96025;Now that we are in a state of total war, the idea has arisen that $COUNTRY$ should approach $FROMCOUNTRY$'s enemies to see if there are those who would join our side against them. This may mean an unholy alliance with those who might never fight at our side otherwise, but as the old saying goes: 'The enemy of my enemy is my friend.' If we are to win the war against $FROMCOUNTRY$, we may have to take that to heart.;;;;;;;;;;;;;
-EVTOPTA96025;Do it;Oui;Ja;;;;;;;;;;;
-EVTOPTB96025;We don't need more allies;Nous n'avons pas besoin de plus d'alliés;Wir benötigen nicht mehr Verbündete;;;;;;;;;;;
-EVTNAME96030;The Shadow of War;L'ombre de la Guerre;Der Schatten des Krieges;;;;;;;;;;;
-EVTDESC96030;A diplomat from $FROMCOUNTRY$ has approached us with a proposal: an alliance with them, to fight in a war against their enemy... who is certainly no friend of ours. While the alliance does not necessarily obligate us, the question really remains whether or not $COUNTRY$ even wishes to go to war. If we fight with $FROMCOUNTRY$, we stand the chance of gaining the spoils of war for ourselves. It also means we could fall with them. The choice is ours.;;;;;;;;;;;;;
-EVTOPTA96030;We will ally with $FROMCOUNTRY$;Nous convenons;Wir stimmen zu;;;;;;;;;;;
-EVTOPTB96030;We refuse;Nous refusons;Wir lehnen ab;;;;;;;;;;;
-EVTNAME96031;$FROMCOUNTRY$ Has Agreed;$FROMCOUNTRY$ a Convenu;$FROMCOUNTRY$ hat Zugestimmt;;;;;;;;;;;
-EVTDESC96031;We have received word from $FROMCOUNTRY$ that they have agreed to an alliance. Whether or not they will actually live up to that alliance and join us in the war remains to be seen.;;;;;;;;;;;;;
-EVTOPTA96031;Great;Excellent;Ausgezeichnet;;;;;;;;;;;
-EVTNAME96065;Outrage!;;;;;;;;;;;;;
-EVTDESC96065;A diplomatic incident with one of our enemies has outraged $COUNTRY_ADJ$ citizens. Several weeks ago, an envoy assigned to $CAPITAL$ was accused of stealing national secrets. It turned out the truth was far worse, and an investigation has unearthed a conspiracy to destabilize $COUNTRY$ and leave it weak for invasion. This has leaked out to the public, and now crowds in the capital are calling for total war.;;;;;;;;;;;;;
-EVTOPTA96065;We must defend $COUNTRY_ADJ$ interests, no matter the cost.;;;;;;;;;;;;;
-EVTOPTB96065;We cannot afford such a war.;;;;;;;;;;;;;
-EVTNAME96066;Assassination!;;;;;;;;;;;;;
-EVTDESC96066;The assassination of a prominent $COUNTRY_ADJ$ citizen by a dissident has, after a thorough investigation, turned out to be at the instigation of an enemy power. This is but the latest in a string of incidents designed to destabilize $COUNTRY$. The results of the investigation have leaked to the public, and massive crowds gathered in the streets of $CAPITAL$ are now calling for total war.;;;;;;;;;;;;;
-EVTNAME96070;The $COUNTRY_ADJ$ Colonies;Les Colonies $COUNTRY_ADJ$;Das $COUNTRY_ADJ$ Kolonien;;;;;;;;;;;
-EVTDESC96070;According to the peace treaty, our colonies and overseas territories must be surrendered. Negotiations are currently underway as to which nations they will be 'assigned' to. It appears our humiliation is not yet complete.;;;;;;;;;;;;;
-EVTOPTA96070;Time to carve up our empire.;Nous n'avons aucun choix.;Wir haben keine Wahl.;;;;;;;;;;;
-EVTNAME96071;Transfer of the $FROMCOUNTRY_ADJ$ Colonies;Les Colonies $FROMCOUNTRY_ADJ$;Das $FROMCOUNTRY_ADJ$ Kolonien;;;;;;;;;;;
-EVTDESC96071;Negotiations are still underway as to which countries will obtain control over the remaining $FROMCOUNTRY_ADJ$ colonies and overseas territories.;;;;;;;;;;;;;
-EVTOPTA96071;We will accept control over the colony.;Nous acceptons.;Wir nehmen an.;;;;;;;;;;;
-EVTOPTB96071;We do not wish any more colonies.;Nous refusons.;Wir lehnen ab.;;;;;;;;;;;
-EVTOPTC96071;We will skip the current colony.;;;;;;;;;;;;;
-EVTDESC96081;An isolated $FROMCOUNTRY_ADJ$ territory has been offered to us. We should consider whether we wish to adminster it, as accessing the land may be difficult according to current borders. But, then again, do we truly wish $FROMCOUNTRY$ to keep it?;;;;;;;;;;;;;
-EVTNAME96085;The New $COUNTRY_ADJ$ Government;Le Nouveau Gouvernement $COUNTRY_ADJ$;Die Neue $COUNTRY_ADJ$ Regierung;;;;;;;;;;;
-EVTDESC96085;As the armies of our former enemy depart $CAPITAL$, they leave behind a newly-installed democratic government friendly to their nation. How long this government will last is unknown, but many within $COUNTRY$ question whether 'freedom' imposed by a foreign power is truly that.;;;;;;;;;;;;;
-EVTOPTA96085;We welcome the new regime.;Nous faisons bon accueil au nouveau régime.;Wir begrüßen das neue Regime.;;;;;;;;;;;
-EVTDESC96086;As the armies of our former enemy leave $CAPITAL$, they leave behind a newly-installed fascist government friendly to their nation. How long this government will last is unknown, but many within $COUNTRY$ seem already determined to overthrow it in the name of freedom.;;;;;;;;;;;;;
-EVTDESC96087;As the armies of our former enemy leave $CAPITAL$, they leave behind a newly-installed communist government friendly to their nation. How long this government will last is unknown, but many within $COUNTRY$ seem already determined to overthrow it in the name of freedom.;;;;;;;;;;;;;
-EVTNAME96130;The Price of Infamy;Le Prix de l'Infamie;Der Preis der Niedertracht;;;;;;;;;;;
-EVTDESC96130;There are rumblings in the international community regarding $COUNTRY$'s warlike demeanor, and some are talking about the need for a united front to contain $COUNTRY_ADJ$ aggression. There are even efforts to stir up our own citizens against us. We will have to be careful in the future, lest we face not a single enemy but that of the world's great powers united against us.;;;;;;;;;;;;;
-EVTOPTA96130;Just let them try it!;Laissez-les Venir!;Lassen Sie Kommen!;;;;;;;;;;;
-EVTNAME96131;An Ease in Tensions;Un Amoindrissement des Tensions;Eine Verminderung von Spannungen;;;;;;;;;;;
-EVTDESC96131;The world's great powers have taken note of $COUNTRY$'s efforts to change our aggressive ways. Some are making overtures to improve relations, and their diplomats are expressing hope that $COUNTRY$ will continue to deal with other countries in a civilized manner.;;;;;;;;;;;;;
-EVTOPTA96131;Thanks for the vote of confidence.;Merci pour le vote de confiance.;Dank für die Vertrauensabstimmung.;;;;;;;;;;;
-EVTNAME96136;The $FROMCOUNTRY_ADJ$ Ultimatum;$FROMCOUNTRY_ADJ$ Ultimatum;Das $FROMCOUNTRY_ADJ$ Ultimatum;;;;;;;;;;;
-EVTDESC96136;$FROMCOUNTRY_ADJ$ diplomats have approached our nation with an ultimatum: dimantle $COUNTRY$ immediately, or the great powers of the world will be forced to unite against us. Their demands consist of the following:\n\n1. The return of all unlawfully-held territories gained by conquest.\n2. The release of any aspirant peoples currently within our lands.\n3. The transfer of all colonies and overseas territories to the other great powers.\n4. An agreement by $COUNTRY$ not to declare war on any other nation for a period of no less than ten years.\n\nIt goes without saying that these demands are extremely humiliating, and the $COUNTRY_ADJ$ people would be justifiably upset should we agree. If we do not, however, $COUNTRY$ will face a great war which even we may not be able to deal with.;;;;;;;;;;;;;
-EVTOPTA96136;Never!;Nous refusons!;Wir lehnen ab!;;;;;;;;;;;
-EVTOPTB96136;We have no choice but to accept.;Nous acceptons.;Wir nehmen an.;;;;;;;;;;;
-EVTNAME96141;$FROMCOUNTRY$ Joins the War;$FROMCOUNTRY$ Déclare la Guerre;$FROMCOUNTRY$ Erklärt Krieg;;;;;;;;;;;
-EVTDESC96141;We have received a cable from $FROMCOUNTRY$: they have declared war upon us, and will pursue the war until such a time as $COUNTRY$ is disarmed and submitted to the will of the international community.;;;;;;;;;;;;;
-EVTOPTA96141;We shall see about that.;Je doute de lui.;Ich bezweifele es.;;;;;;;;;;;
-EVTNAME96150;$COUNTRY$ Stands Triumphant;$COUNTRY$ est Triomphante;$COUNTRY$ ist Triumphierend;;;;;;;;;;;
-EVTDESC96150;We have proven that no nation can stand in $COUNTRY$'s way. We will do as we please, and no amount of objection from the so-called great powers of the world will deter us from achieving our destiny. For now there is peace, and if other nations seek to stop us from achieving our future goals, they are welcome to try.;;;;;;;;;;;;;
-EVTOPTA96150;Excellent!;Excellent!;Ausgezeichnet!;;;;;;;;;;;
-EVT96090OPTA;The monarchy will go into exile.;;;;;;;;;;;;;
-EVT96090OPTB;Never! The monarchy will remain.;;;;;;;;;;;;;
-EVTNAME96061;The $COUNTRY_ADJ$ Dominion;;;;;;;;;;;;;
-EVTDESC96061;We have been freed as a vassal.;;;;;;;;;;;;;
-EVTNAME96060;$COUNTRY$ Granted Independence;;;;;;;;;;;;;
-EVTDESC96060;Freedom!;;;;;;;;;;;;;
-EVTNAME96019;The $COUNTRY_ADJ$ Colonies;;;;;;;;;;;;;
-EVTDESC96019;We are in the process of negotiating the disbursement of our colonies and overseas territories.;;;;;;;;;;;;;
-EVT96019OPTA;If we must.;;;;;;;;;;;;;
-EVTNAME96018;$COUNTRY$ Granted Independence;;;;;;;;;;;;;
-EVTDESC96018;Freedom!;;;;;;;;;;;;;
-EVTNAME96012;$COUNTRY$ Granted Independence;;;;;;;;;;;;;
-EVTDESC96012;Freedom!;;;;;;;;;;;;;
-EVTNAME96003;Call Allies Refresh;;;;;;;;;;;;;
-EVTDESC96003;Gives the AI the chance to call new allies into the war.;;;;;;;;;;;;;
-EVT96003OPTA;Stop fucking with the localization Rylock;;;;;;;;;;;;;
-EVTNAME96001;Call Allies;;;;;;;;;;;;;
-EVTDESC96001;This should call any allies into the Great War.;;;;;;;;;;;;;
-EVT96001OPTA;Let's make sure we have everyone.;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+EVTNAME96000;Õ½Õù½µÁÙ;;;;;;;;;;;;x
+EVTDESC96000;$COUNTRY$ÓëÊÀ½çÁĞÇ¿Ö®Ò»´¦ÓÚÈ«ÃæÕ½Õù×´Ì¬¡£ÔÚÏÖ´ú£¬Õ½Õùİ±¶¾°ÙÍò£¬ÔÚÎ´À´£¬ÎÒ¹úÎ£ÈçÀÛÂÑ¡£ºô»½ÒÑ¾­È¥Íù$COUNTRY_ADJ$ÈËÃñ£ºÅ×¿ªĞ¡ÊÂ£¬ÈÕ³£Éú»îºÍ¸öÈËÒ°ĞÄ£¬$COUNTRY$±ØĞëÍÅ½áÓÚ´Ë£¬ÔÚÉúËÀ´æÍöÖ®Ê±£¡;;;;;;;;;;;;x
+EVTOPTA96000;ÎÒÃÇ»áÈ¡µÃÊ¤Àû£¡;;;;;;;;;;;;x
+EVTNAME96010;$CAPITAL$ÌõÔ¼;;;;;;;;;;;;x
+EVTDESC96010;ÎÒÃÇÒÑ¾­ÊäµôÁËÕ½Õù£¬¾ÍÏñÍºğÕÒ»Ñù£¬Ê¤ÀûÕßÒÑ¾­½µÁÙÔÚÎÒÃÇÉíÉÏ¡£ÎÒÃÇ±»ÆÈÔÚÌ¸ÅĞ×ÀÉÏ½ÓÊÜ¹ØÓÚÎÒÃÇµÛ¹ú½âÌåµÄĞßÈèĞÔÌõ¿î£¬ÎÒÃÇµÄĞí¶àÍÁµØ¶¼±»·ÅÆúÁË£¬ÎÒÃÇ½«²»±»ÔÊĞí³ÖÓĞÈÎºÎº£ÍâÁìµØ¡£ÕâÊÇÒ»¸ö½«ÔÚÎ´À´¼¸Äê±»$COUNTRY$¼Ç×¡µÄÊ±¿Ì¡£;;;;;;;;;;;;x
+EVTNAME96004;Õ½ÕùµÄĞèÇó;;;;;;;;;;;;x
+EVTDESC96004;$COUNTRY$³ÖĞø²»¶ÏµÄÕ½Õù×´Ì¬Ê¹ÎÒÃÇµÄÈËÃñ¸¶³öÁË¾Ş´óµÄ´ú¼Û¡£»ù±¾ÉÌÆ·µÄ¶ÌÈ±ÒÔ¼°Î´ÄÜËÙÕ½ËÙ¾öÒÑ¾­Ä¥ÃğÁË$COUNTRY_ADJ$ÈËÃñÆğ³õÓ­Õ½µÄÈÈÇé¡£Èç¹ûÊÂÌ¬²»ÂíÉÏºÃ×ª£¬ÎÒÃÇ¾ÍÒªÃæ¶ÔÈÕÒæ¸ßÕÇµÄÑáÕ½ÇéĞ÷ºÍ¹úÄÚµÄ¶¯µ´²»°²ÁË¡£;;;;;;;;;;;;x
+EVTOPTA96004;ÎÒÃÇ»áÓ®µÃÕâ³¡Õ½Õù£¡;;;;;;;;;;;;x
+EVTNAME96005;Ò»ÇĞÖÕ½«Í½ÀÍÎŞÒæ?;;;;;;;;;;;;x
+EVTDESC96005;ÔÚ$CAPITAL$£¬Ô½À´Ô½¶àµÄÊ¾ÍşÓÎĞĞ±íÃ÷ÁË$COUNTRY_ADJ$ÈËÃñµÄÆÕ±éÌ¬¶È£º¾¡¿ìÈÃÎÒÃÇ°ÚÍÑÕ½Õù¡£Ê§È¥ÁËÌ«¶à£¬ÎşÉüÁËÌ«¶à£¬Õâ¶¼ÊÇÎªÁËÊ²Ã´£¿ÈËÃñÏ£Íû»Ø¹éµ½ÈÕ³£Éú»î£¬Ã»ÓĞİÓÈÆÔÚÄÔº£ÖĞ»ÓÖ®²»È¥µÄÕ½ÊÂ¡£;;;;;;;;;;;;x
+EVTOPTA96005;²»ÒªÊ§È¥Ï£Íû£¡;;;;;;;;;;;;x
+EVTNAME96006;È«Ãæ±ÀÀ£;;;;;;;;;;;;x
+EVTDESC96006;ËµµÃÇáÒ»µã£¬Õ½ÕùÊ±ÆÚµÄÅ¬Á¦½øÕ¹²¢²»Ë³Àû¡£¹ËÎÊËµ$COUNTRY$Ó¦µ±ÇóºÍ£¬²»Ï§Ò»ÇĞ´ú¼ÛÔÚ¸üÔã¸âµÄÇé¿ö·¢ÉúÖ®Ç°½áÊøÕâ³¡Õ½Õù¡£ÈËÃñÕıÔÚ·´¿¹µÄ±ßÔµ¡£ÎÒÃÇ±ØĞëĞĞ¶¯£¡;;;;;;;;;;;;x
+EVTOPTA96006;ÔÖÄÑ£¡;;;;;;;;;;;;x
+EVTOPTA96010;ÎÒÃÇ»¶Ó­ºÍÆ½;;;;;;;;;;;;x
+EVTNAME96013;$FROMCOUNTRY$½âÌå;;;;;;;;;;;;x
+EVTDESC96013;$FROMCOUNTRY$±»ÆÈ³ĞÈÏÕ½°Ü£¬ÎÒÃÇÊÜÑûµ½Ì¸ÅĞ×ÀÉÏ¾ÍËûÃÇµÛ¹úÇ±ÔÚµÄ½âÌåÒ»ÊÂ½øĞĞÌÖÂÛ¡£Õâ¿ÉÄÜÒâÎ¶×ÅÎÒÃÇ¼ûÖ¤ÁË$COUNTRY_ADJ$ÍÁµØ»Ø¹éÓÚÎÒÃÇ£¬ËäÈ»Èç¹ûÎÒÃÇ·ÅÆú¸ÃÁìÍÁÖ÷È¨½«¿ÉÄÜÍì¾ÈÓë$FROMCOUNTRY$µÄ¹ØÏµ¡£;;;;;;;;;;;;x
+EVTOPTA96013;ÎÒÃÇ½«³öÏ¯»áÌ¸;;;;;;;;;;;;x
+EVTOPTB96013;ÎÒÃÇ²»»á³öÏ¯;;;;;;;;;;;;x
+EVTNAME96014;$FROMCOUNTRY$½âÌå;;;;;;;;;;;;x
+EVTDESC96014;$FROMCOUNTRY$±»ÆÈ³ĞÈÏÕ½°Ü£¬Ä¿Ç°ÌõÔ¼Ì¸ÅĞÒÑ¿ªÊ¼ÌÖÂÛËûÃÇµÛ¹úµÄ½âÌå¡£×÷Îª$FROMCOUNTRY$µÄµĞÈË£¬ÎÒÃÇÔÚÌ¸ÅĞ×ÀÉÏÓĞÒ»Ï¯Ö®µØ¡£ÖÁÉÙÈÎºÎÄ¿Ç°±»$COUNTRY_ADJ$·Ç·¨Õ¼ÁìµÄ$FROMCOUNTRY_ADJ$ÍÁµØÓ¦±»¹é»¹¡£;;;;;;;;;;;;x
+EVTOPTA96014;ÎÒÃÇÖ»ÊÇÏ£ÍûÒª»ØÎÒÃÇµÄÍÁµØ;;;;;;;;;;;;x
+EVTNAME96015;$COUNTRY_ADJ$×ÔÓÉ;;;;;;;;;;;;x
+EVTDESC96015;$FROMCOUNTRY$µÄÕ½°ÜÊ¹ËûÃÇ²»µÃ²»À´µ½Ì¸ÅĞ×ÀÇ°£¬ÓĞ¹ØËûÃÇµÄµÛ¹ú½âÌåµÄÌõÔ¼Ö®Ò»¾ÍÊÇ½«ÎÒÃÇ´ÓËûÃÇµÄÖ±½ÓÍ³ÖÎÖĞ½â·Å¡£Õâ½«ÒâÎ¶×ÅÇıÖğ$FROMCOUNTRY_ADJ$¹ÙÔ±£¬²¢Ç±ÔÚµØ½«Ö®±äÎªµĞÈË¡£ÎÒÃÇÉõÖÁ¿ÉÒÔÒÔ×ÔÓÉÎª´ú¼ÛÖ»ÎªÎ¬³ÖÓë$FROMCOUNTRY$µÄ½ôÃÜ¹ØÏµ£¬¾¡¹ÜÕâÒâÎ¶×ÅÓëÎÒÃÇµÄ×ÔÓÉºÍ$FROMCOUNTRY$µÄµĞÈËµÄÓÑºÃÊ§Ö®½»±Û¡£;;;;;;;;;;;;x
+EVTOPTA96015;$COUNTRY$Ó¦»ñ×ÔÓÉ;;;;;;;;;;;;x
+EVTOPTB96015;$FROMCOUNTRY$ÊÇÎÒÃÇµÄÃËÓÑ;;;;;;;;;;;;x
+EVTNAME96016;$FROMCOUNTRY_ADJ$Ö³ÃñµØ;;;;;;;;;;;;x
+EVTDESC96016;Ì¸ÅĞ×ÀÉÏÌÖÂÛµÄ»°ÌâÖ®Ò»ÊÇÈçºÎ´¦ÖÃ$FROMCOUNTRY$µÄÖ³ÃñµØËùÓĞÈ¨¡£ËûÃÇ²»¸Ã±»ÔÊĞí±£ÓĞÕâĞ©ÍÁµØ£¬µ«ÊÇ¾ö¶¨ÈçºÎ´¦ÀíËüÃÇ²¢²»¼òµ¥¡£Ä¿Ç°£¬ÒÑ¾­´ï³ÉĞ­ÒéÈ·¶¨ÁËÄ³Ğ©ÁìÍÁµÄ¹éÊô£¬Ê£ÓàËùÓĞÁìÍÁ½«ÒªÔÚÃ÷Äê½øĞĞĞ­ÉÌ¡£;;;;;;;;;;;;x
+EVTOPTA96016;ÎÒÃÇ½«¾¡¿ÉÄÜµÄÄÃ×ß;;;;;;;;;;;;x
+EVTOPTB96016;ÎÒÃÇÎ¨Ò»µÄĞËÈ¤¾ÍÊÇÖÆÔ¼$FROMCOUNTRY_ADJ$¹úÁ¦;;;;;;;;;;;;x
+EVTOPTC96016;ÎÒÃÇ¶ÔËûÃÇµÄÖ³ÃñµØÃ»ĞËÈ¤;;;;;;;;;;;;x
+EVTDESC96017;Ì¸ÅĞ×ÀÉÏÌÖÂÛµÄ»°ÌâÖ®Ò»ÊÇÈçºÎ´¦ÖÃ$FROMCOUNTRY$µÄÖ³ÃñµØËùÓĞÈ¨¡£ÎÒÃÇ²»ÊÇ´ó¹ú£¬¾ÍËãÎÒÃÇÌá³öÒªÒ»Ğ©Ö³ÃñµØ£¬×îÖÕºÜ¿ÉÄÜÒ²»áÎŞ¹û¶øÖÕ¡­µ«ÊÇÈç¹ûÎÒÃÇ²»×ö£¬ÎÒÃÇ×îÖÕ¿Ï¶¨ÊÇÎŞ¹û¶øÖÕ¡£¼´±ãÈç´Ë£¬ÓĞËù³¢ÊÔ¿ÉÄÜ»á±»ÊÓÎªÌôĞÆ¡£;;;;;;;;;;;;x
+EVTNAME96020;Õ½ÕùÒÑ¾­½áÊøÁË;;;;;;;;;;;;x
+EVTDESC96020;Ëæ×ÅÕ½ÕùµÄ½áÊø£¬$COUNTRY_ADJ$ÈËÃñ×ßÉÏ$CAPITAL$½ÖÍ·»¶Çì¡£Õ½Õù´ú¼Û²ÒÖØ£¬µ«½ñÌì$COUNTRY$´¿´âÎªºÍÆ½¶ø¿ìÀÖ¡£;;;;;;;;;;;;x
+EVTOPTA96020;$COUNTRY$ÍòËê£¡;;;;;;;;;;;;x
+EVTDESC96022;$FROMCOUNTRY$ÓÉ²ÔÌìËù´´Ôì£¬µ«µ±È¨ÕßÈ·¶¨ÖÁÉÙÄ³Ğ©ÍÁµØÓ¦µ±ÊôÓÚ$COUNTRY$£¬²¢ÇÒÓ¦µ±¹é»¹¸øÎÒÃÇ¡£$COUNTRY_ADJ$ÈËÃñÎªÕâÒ»ÏûÏ¢¸Ğµ½¸ßĞË¡£;;;;;;;;;;;;x
+EVTNAME96025;ÎÒµĞÈËµÄµĞÈË;;;;;;;;;;;;x
+EVTDESC96025;Ä¿Ç°ÎÒÃÇ´¦ÓÚÈ«ÃæÕ½Õù×´Ì¬£¬Ò»ÖÖ¹Ûµã²úÉúÁË£¬$COUNTRY$Ó¦Óë$FROMCOUNTRY$µÄµĞ¹ú½ÓÇ¢£¬¿´ÊÇ·ñÓĞ¹ú¼ÒÔ¸ÒâÓëÎÒÃÇ¹²Í¬¶Ô¿¹ËûÃÇ¡£Õâ¿ÉÄÜÒâÎ¶×ÅÓë¿ÉÄÜ´ÓÎ´ÓëÎÒÃÇ²¢¼ç×÷Õ½µÄ¹ú¼Ò×é³É·ÇÉñÊ¥Í¬ÃË£¬µ«ÀÏ»°ËµµÄºÃ£º¡°µĞÈËµÄµĞÈË¾ÍÊÇÅóÓÑ¡±Èç¹ûÎÒÃÇÒªÓ®µÃÕâ³¡¶Ô$FROMCOUNTRY$µÄÕ½Õù£¬Ò²ĞíÎÒÃÇ²»µÃ²»¶Ô´ËÈÏÕæ¿¼ÂÇ¡£;;;;;;;;;;;;x
+EVTOPTA96025;×ö°É;;;;;;;;;;;;x
+EVTOPTB96025;ÎÒÃÇ²»ĞèÒª¸ü¶àµÄÃËÓÑ;;;;;;;;;;;;x
+EVTNAME96030;Õ½ÕùµÄÒõÓ°;;;;;;;;;;;;x
+EVTDESC96030;Ò»Î»À´×Ô$FROMCOUNTRY$µÄÍâ½»¹Ù´ø×ÅÒ»¸öÇëÇóÓëÎÒÃÇ½ÓÇ¢£ºÓëËûÃÇ½á³ÉÍ¬ÃË£¬ÓëËûÃÇµÄµĞÈË¿ªÕ½¡­ÄÇ¸öµĞÈËÏÔÈ»²»ÊÇÎÒÃÇµÄÅóÓÑ¡£ËäÈ»Í¬ÃË²¢²»Ç¿ÆÈÎÒÃÇ£¬µ«ÕæÕıµÄÎÊÌâÔÚÓÚ$COUNTRY$µ½µ×ÊÇ²»ÊÇÏ£Íû·¢¶¯Õ½Õù¡£Èç¹ûÎÒÃÇÓë$FROMCOUNTRY$²¢¼ç×÷Õ½£¬ÎÒÃÇÓĞ»ú»á·ÖÒ»±­¸ş£¬Ò²ÓĞ¿ÉÄÜÓëËûÃÇÒ»Í¬Õ½°Ü¡£Ñ¡ÔñÈ¨ÔÚÎÒÃÇÊÖÉÏ¡£;;;;;;;;;;;;x
+EVTOPTA96030;ÎÒÃÇ½«ºÍ$FROMCOUNTRY$½áÃË;;;;;;;;;;;;x
+EVTOPTB96030;ÎÒÃÇ¾Ü¾ø;;;;;;;;;;;;x
+EVTNAME96031;$FROMCOUNTRY$½ÓÊÜÌáÒé;;;;;;;;;;;;x
+EVTDESC96031;ÎÒÃÇ´Ó$FROMCOUNTRY$ÄÇÀïÊÕµ½ÏûÏ¢£¬ËûÃÇÍ¬ÒâÓëÎÒÃÇ½áÃË¡£ËûÃÇÊÇ·ñÕæÄÜ×öµ½Í¬ÃË²¢ÓëÎÒÃÇ²¢¼ç×÷Õ½»¹ÓĞ´ı¹Û²ì¡£;;;;;;;;;;;;x
+EVTOPTA96031;ºÜºÃ;;;;;;;;;;;;x
+EVTNAME96065;Ì«¿É¶ñÁË£¡;;;;;;;;;;;;x
+EVTDESC96065;Ò»¼şÓëÎÒÃÇÒ»¸öµĞ¹ú·¢ÉúµÄÍâ½»ÊÂ¼ş¼¤Å­ÁË$COUNTRY_ADJ$¹«Ãñ¡£¼¸ÖÜÇ°£¬Ò»Î»±»ÅÉµ½$CAPITAL$µÄ¹«Ê¹±»Ö¸µÁÈ¡¹ú¼Ò»úÃÜ¡£½á¹ûÊÂÊµ¸üÎªÑÏ¾ş£¬µ÷²é½ÒÂ¶ÁË¶¯Ò¡$COUNTRY$Éç»á°²¶¨µÄÒõÄ±£¬²¢Ê¹Ö®ÎŞÁ¦µÖµ²ÈëÇÖ¡£Õâ¼şÊÂÒÑ¾­±»ÆØ¹â£¬Ê×¶¼ÈËÃñ¸ßºôĞûÕ½¡£;;;;;;;;;;;;x
+EVTOPTA96065;ÎÒÃÇ±ØĞë²»Ï§Ò»ÇĞ´ú¼Ûº´ÎÀ$COUNTRY_ADJ$ÀûÒæ;;;;;;;;;;;;x
+EVTOPTB96065;ÎÒÃÇÎŞ·¨³ĞÊÜÕâÑùµÄÕ½Õù;;;;;;;;;;;;x
+EVTNAME96066;´ÌÉ±£¡;;;;;;;;;;;;x
+EVTDESC96066;Ò»Î»$COUNTRY_ADJ$ÓÅĞã¹«Ãñ±»Õş¼û²»Í¬Õß°µÉ±Ò»ÊÂ¾­¹ı³¹²é£¬Ö¤ÊµÊÇÊÜµ½µĞ¶ÔÊÆÁ¦µÄÉ¿¶¯ÌôËô¡£ÕâÊÇÒ»Á¬´®ÓÃÓÚ¶¯Ò¡$COUNTRY$Éç»á°²¶¨µÄÊÂ¼şÖĞ×î½üµÄÒ»¼ş¡£µ÷²é½á¹ûÒÑ±»ÆØ¹â£¬´óÁ¿ÈËÈº×ßÉÏ$CAPITAL$½ÖÍ·£¬¸ßºôĞûÕ½¡£;;;;;;;;;;;;x
+EVTNAME96070;$COUNTRY_ADJ$Ö³ÃñµØ;;;;;;;;;;;;x
+EVTDESC96070;¸ù¾İºÍÆ½ÌõÔ¼£¬ÎÒÃÇ±ØĞë·ÅÆúÖ³ÃñµØºÍº£ÍâÁì¡£Ä¿Ç°¾Í¡°·ÖÅÉ¡±¸øÄÄ¹úµÄÌ¸ÅĞÕıÔÚ½øĞĞ¡£ÎÒÃÇËùÊÜµÄĞßÈèËÆºõ»¹Î´Íê½á¡£;;;;;;;;;;;;x
+EVTOPTA96070;¹Ï·ÖÎÒÃÇµÛ¹úµÄÊ±¿Ì;;;;;;;;;;;;x
+EVTNAME96071;$FROMCOUNTRY_ADJ$Ö³ÃñµØ×ªÈÃ;;;;;;;;;;;;x
+EVTDESC96071;Ä¿Ç°Ì¸ÅĞÈÔÔÚ½øĞĞ£¬Ì½ÌÖÄÄ¹ú½«»ñµÃ$FROMCOUNTRY_ADJ$Ê£ÓàÖ³ÃñµØºÍº£ÍâÁìµÄ¿ØÖÆÈ¨¡£;;;;;;;;;;;;x
+EVTOPTA96071;ÎÒÃÇ½«½ÓÊÜÖ³ÃñµØµÄ¿ØÖÆÈ¨¡£;;;;;;;;;;;;x
+EVTOPTB96071;ÎÒÃÇ²»Ï£Íû¸ü¶àµÄÖ³ÃñµØ¡£;;;;;;;;;;;;x
+EVTOPTC96071;ÎÒÃÇ½«Ìø¹ıµ±Ç°µÄÖ³ÃñµØ¡£;;;;;;;;;;;;x
+EVTDESC96081;Ò»¿é$FROMCOUNTRY_ADJ$¹ÂÁ¢ÁìÍÁ±»·Ö¸øÁËÎÒÃÇ¡£ÎÒÃÇÓ¦µ±¿¼ÂÇÊÇ·ñÏ£Íû½øĞĞ¹ÜÀí£¬ÒòÎª¾ÍÄ¿Ç°µÄ±ß¾³ĞÎÊÆÀ´¿´ÕÆ¿ØÕâÆ¬ÁìÍÁÒ²Ğí»áÀ§ÄÑÖØÖØ¡£µ«ÊÇ»°Ëµ»ØÀ´£¬ÎÒÃÇÕæµÄÏ£Íû$FROMCOUNTRY$ÁôÏÂËü£¿;;;;;;;;;;;;x
+EVTNAME96085;$COUNTRY_ADJ$ĞÂÕş¸®;;;;;;;;;;;;x
+EVTDESC96085;Ëæ×ÅÒÔÇ°µÄµĞÈË´Ó$CAPITAL$³·¾ü£¬ËûÃÇÁôÏÂµÄÊÇÒ»¸ö¶ÔËûÃÇ¹ú¼Ò±íÊ¾ÓÑÉÆµÄĞÂÈÎÃñÖ÷Õş¸®¡£ĞÂÕş¸®ÄÜÎ¬³Ö¶à¾ÃÓÌÎ´¿ÉÖª£¬µ«ÊÇĞí¶à$COUNTRY$ÈËÃñÖÊÒÉÍâÀ´ÊÆÁ¦Ç¿¼ÓµÄ¡°×ÔÓÉ¡±µ½µ×ÊÇ²»ÊÇÕæÕıµÄ×ÔÓÉ¡£;;;;;;;;;;;;x
+EVTOPTA96085;ÎÒÃÇ»¶Ó­ĞÂÕşÈ¨¡£;;;;;;;;;;;;x
+EVTDESC96086;Ëæ×ÅÒÔÇ°µÄµĞÈË´Ó$CAPITAL$³·¾ü£¬ËûÃÇÁôÏÂµÄÊÇÒ»¸ö¶ÔËûÃÇ¹ú¼Ò±íÊ¾ÓÑÉÆµÄĞÂĞË·¨Î÷Ë¹Õş¸®¡£ĞÂÕş¸®ÄÜÎ¬³Ö¶à¾ÃÓÌÎ´¿ÉÖª£¬µ«ÊÇĞí¶à$COUNTRY$ÈËÃñËÆºõÒÑ¾­¾ö¶¨ÒÔ×ÔÓÉÖ®ÃûÍÆ·­Ëü¡£;;;;;;;;;;;;x
+EVTDESC96087;Ëæ×ÅÒÔÇ°µÄµĞÈË´Ó$CAPITAL$³·¾ü£¬ËûÃÇÁôÏÂµÄÊÇÒ»¸ö¶ÔËûÃÇ¹ú¼Ò±íÊ¾ÓÑÉÆµÄĞÂÈÎ¹²²úÖ÷ÒåÕş¸®¡£ĞÂÕş¸®ÄÜÎ¬³Ö¶à¾ÃÓÌÎ´¿ÉÖª£¬µ«ÊÇĞí¶à$COUNTRY$ÈËÃñËÆºõÒÑ¾­¾ö¶¨ÒÔ×ÔÓÉÖ®ÃûÍÆ·­Ëü¡£;;;;;;;;;;;;x
+EVTNAME96130;¶ñÃûµÄ´ú¼Û;;;;;;;;;;;;x
+EVTDESC96130;¹ú¼ÊÉç»á¶Ô$COUNTRY$µÄºÃÕ½·çÆøÒéÂÛ·×·×£¬ÓĞĞ©ÈËÌÖÂÛ½¨Á¢Í³Ò»Õ½ÏßµÖÓù$COUNTRY_ADJ$ÇÖÂÔµÄ±ØÒªĞÔ£¬ÉõÖÁÓĞÉ¿¶¯ÎÒÃÇ×Ô¼ºµÄ¹«Ãñ¶Ô¿¹ÎÒÃÇµÄÆóÍ¼¡£ÔÚÎ´À´£¬ÎÒÃÇ½«²»µÃ²»Ğ¡ĞÄ½÷É÷£¬ÒÔÃâÃæÁÙµÄ²»ÊÇÒ»¸öµĞÈË¶øÊÇÊÀ½ç´ó¹úÁªºÏ¶Ô¿¹ÎÒÃÇ¡£;;;;;;;;;;;;x
+EVTOPTA96130;¾ÍÈÃËûÃÇÊÔÊÔ°É£¡;;;;;;;;;;;;x
+EVTNAME96131;½ôÕÅ¾ÖÊÆ»º½â;;;;;;;;;;;;x
+EVTDESC96131;ÊÀ½ç´ó¹úÒÑ¾­×¢Òâµ½$COUNTRY$¸Ä±äÇÖÂÔĞÔ×÷·çµÄÅ¬Á¦¡£ÓĞĞ©¹ú¼ÒÌáÒé¸ÄÉÆ¹ØÏµ£¬ËûÃÇµÄÍâ½»¹Ù±íÊ¾Ï£Íû$COUNTRY$»á¼ÌĞøÒÔÎÄÃ÷µÄ·½Ê½ÓëÆäËû¹ú¼ÒÏà´¦¡£;;;;;;;;;;;;x
+EVTOPTA96131;Ğ»Ğ»ÄãµÄĞÅÈÎÆ±¡£;;;;;;;;;;;;x
+EVTNAME96136;$FROMCOUNTRY_ADJ$×îºóÍ¨ëº;;;;;;;;;;;;x
+EVTDESC96136;$FROMCOUNTRY_ADJ$Íâ½»¹Ù¸øÎÒ¹úÏÂÁË×îºóÍ¨ëº£ºÁ¢¼´Ö«½â$COUNTRY$£¬·ñÔòÊÀ½çÁĞÇ¿½«²»µÃ²»ÁªºÏ¶Ô¿¹ÎÒÃÇ¡£ËûÃÇµÄÒªÇóÈçÏÂ£º\n\n1.¹é»¹ËùÓĞÕ÷Õ½ËùµÃµÄ·Ç·¨Õ¼ÓĞÁìÍÁ\n2. ÊÍ·ÅÄ¿Ç°ÎÒ¹úÖ®ÄÚËùÓĞÕşÖÎ·¸\n3. ½«ËùÓĞÖ³ÃñµØºÍº£ÍâÁì×ªÈÃ¸øÆäËû´ó¹ú\n4. $COUNTRY$Ìá³öĞ­Òé£¬ÔÚÒ»¶Î²»ÉÙÓÚÊ®ÄêµÄÊ±¼äÄÚ²»¶ÔÈÎºÎËû¹úĞûÕ½\n\n²»ÑÔ¶øÓ÷µÄÊÇ£¬ÕâĞ©ÒªÇóÉ¥È¨Èè¹ú£¬ÎÒÃÇÍ¬ÒâµÄ»°£¬$COUNTRY_ADJ$ÈËÃñºÁÎŞÒÉÎÊ»áÏİÈëÒ»Æ¬»ìÂÒ£¬¶øÈç¹ûÎÒÃÇ²»Í¬Òâ£¬$COUNTRY$½«Ãæ¶ÔÒ»³¡ÎÒÃÇÎŞÁ¦Ó¦¶ÔµÄ´óÕ½¡£;;;;;;;;;;;;x
+EVTOPTA96136;¾ø²»!;;;;;;;;;;;;x
+EVTOPTB96136;ÎÒÃÇÃ»ÓĞÑ¡Ôñ£¬Ö»ÄÜ½ÓÊÜ¡£;;;;;;;;;;;;x
+EVTNAME96141;$FROMCOUNTRY$¼ÓÈëÕ½Õù;;;;;;;;;;;;x
+EVTDESC96141;ÎÒÃÇÊÕµ½Ò»·âÀ´×Ô$FROMCOUNTRY$µÄµç±¨£ºËûÃÇÒÑÏòÎÒ¹úĞûÕ½£¬¶øÇÒ»á½«Õ½Õù½øĞĞÖÁ$COUNTRY$½â³ıÎä×°²¢·ş´Ó¹ú¼ÊÉç»áµÄÒâÔ¸¡£;;;;;;;;;;;;x
+EVTOPTA96141;ÎÒÃÇÓ¦µ±¿´µ½ÕâÒ»µã;;;;;;;;;;;;x
+EVTNAME96150;$COUNTRY$¿­Ğı;;;;;;;;;;;;x
+EVTDESC96150;ÎÒÃÇÒÑ¾­ÏÔÊ¾ÁË$COUNTRY$Èñ²»¿Éµ±¡£ÎÒÃÇËæĞÄËùÓû£¬À´×ÔËùÎ½´ó¹úµÄÔÙ¶àÒìÒéÒ²ÎŞ·¨×èÖ¹ÎÒÃÇ´ïµ½Ä¿µÄ¡£Ä¿Ç°Ò»Æ¬ºÍÆ½£¬Èç¹ûÆäËû¹ú¼ÒÁ¦Í¼×èÄÓÎÒÃÇÊµÏÖÎ´À´µÄÄ¿±ê£¬ÎÒÃÇËæÊ±·îÅã¡£;;;;;;;;;;;;x
+EVTOPTA96150;·Ç³£ºÃ£¡;;;;;;;;;;;;x
+EVT96090OPTA;¾ıÖ÷½«»áÁ÷Íö¡£;;;;;;;;;;;;x
+EVT96090OPTB;²»£¡¾ıÖ÷ÖÆ½«±£Áô¡£;;;;;;;;;;;;x
+EVTNAME96061;$COUNTRY_ADJ$×ÔÖÎÁì;;;;;;;;;;;;x
+EVTDESC96061;ÎÒÃÇ½«×÷Îª¸½Ó¹¶ÀÁ¢¡£;;;;;;;;;;;;x
+EVTNAME96060;$COUNTRY$ÊÚÓè¶ÀÁ¢;;;;;;;;;;;;x
+EVTDESC96060;×ÔÓÉ£¡;;;;;;;;;;;;x
+EVTNAME96019;$COUNTRY_ADJ$Ö³ÃñµØ;;;;;;;;;;;;x
+EVTDESC96019;ÎÒÃÇÕıÔÚÌ¸ÅĞÎÒÃÇµÄÖ³ÃñµØºÍº£ÍâÁìÍÁµÄÖ§¸¶¡£;;;;;;;;;;;;x
+EVT96019OPTA;Èç¹ûÎÒÃÇ±ØĞëÕâÑù×öµÄ»°¡£;;;;;;;;;;;;x
+EVTNAME96018;$COUNTRY$ÊÚÓè¶ÀÁ¢;;;;;;;;;;;;x
+EVTDESC96018;×ÔÓÉ£¡;;;;;;;;;;;;x
+EVTNAME96012;$COUNTRY$ÊÚÓè¶ÀÁ¢;;;;;;;;;;;;x
+EVTDESC96012;×ÔÓÉ£¡;;;;;;;;;;;;x
+EVTNAME96003;ÃËÓÑÕÙ»½Ë¢ĞÂ;;;;;;;;;;;;x
+EVTDESC96003;ÈÃAIÓĞ»ú»áÔÚÕ½ÕùÖĞÕÙ»½ĞÂµÄÃËÓÑ¡£;;;;;;;;;;;;x
+EVT96003OPTA;Í£Ö¹¸ÃËÀµÄ±¾µØ»¯°ÉRylock;;;;;;;;;;;;x
+EVTNAME96001;ÕÙ»½ÃËÓÑ;;;;;;;;;;;;x
+EVTDESC96001;Õâ½«ÔÚ³¬¼¶´óÕ½ÖĞÕÙ»½ËùÓĞÃËÓÑ¡£;;;;;;;;;;;;x
+EVT96001OPTA;ÈÃÎÒÃÇ¿´¿´ÊÇ²»ÊÇ¶¼µ½ÆëÁË;;;;;;;;;;;;x

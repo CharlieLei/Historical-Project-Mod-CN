@@ -1,342 +1,343 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-steal_puppet;Take Puppet;;;;;;;;;;;;;
-steal_puppet_short;Puppet $THIRD$;;;;;;;;;;;;;
-steal_puppet_desc;Take a puppet from a third country and make it our puppet.;;;;;;;;;;;;;
-steal_puppet_setup;Take $THIRD$ from $RECIPIENT$.;;;;;;;;;;;;;
-cut_down_to_size;Cut Down to Size;;;;;;;;;;;;;
-place_in_the_sun;Place in the Sun;;;;;;;;;;;;;
-acquire_state;Acquire State;;;;;;;;;;;;;
-take_from_sphere;Take from Sphere;;;;;;;;;;;;;
-permanent_colonial_claim;Reconquer Colony;;;;;;;;;;;;;
-permanent_colonial_claim_short;Reconquer Colony;;;;;;;;;;;;;
-permanent_colonial_claim_desc;Acquire a state that is a rightful colony of ours according to the Great Powers Conference.;;;;;;;;;;;;;
-permanent_colonial_claim_setup;Acquire $STATE$ from $RECIPIENT$.;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_REPARATIONS_PEU_CHL;$ORDER$War of the Pacific;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_REPARATIONS_BOL_CHL;$ORDER$War of the Pacific;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_REPARATIONS_CHL_PBC;$ORDER$War of the Confederation;;;;;;;;;;;;;
-NORMAL_WAR_NAME_REPARATIONS_CHL_PBC;$ORDER$War of the Confederation;;;;;;;;;;;;;
-NORMAL_WAR_NAME_REPARATIONS_FRA_MEX;$ORDER$ French Intervention in Mexico;;;;;;;;;;;;;
-AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_CHL_PBC;$ORDER$War of the Confederation;;;;;;;;;;;;;
-NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_CHL_PBC;$ORDER$War of the Confederation;;;;;;;;;;;;;
-NORMAL_WAR_NAME_REPARATIONS;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_REPARATIONS;$ORDER$War of $FIRST$ Aggression;;;;;;;;;;;;;
-war_reparations;Reparations;;;;;;;;;;;;;
-war_reparations_desc;Demand reparations from another country.;;;;;;;;;;;;;
-war_reparations_short;Demand Reparations;;;;;;;;;;;;;
-war_reparations_setup;Demand reparations from another country.;;;;;;;;;;;;;
-install_democracy_make_puppet;Install a Democratic Puppet;;;;;;;;;;;;;
-install_democracy_make_puppet_desc;Install a democratic puppet government in the country's capital;;;;;;;;;;;;;
-install_democracy_make_puppet_short;Install a democratic puppet government in $RECIPIENT$;;;;;;;;;;;;;
-install_democracy_make_puppet_setup;Install a democratic puppet government in $RECIPIENT$;;;;;;;;;;;;;
-install_communism_make_puppet;Install a Communist Puppet;;;;;;;;;;;;;
-install_communism_make_puppet_desc;Install a communist puppet government in the country's capital;;;;;;;;;;;;;
-install_communism_make_puppet_short;Install a communist puppet government in $RECIPIENT$;;;;;;;;;;;;;
-install_communism_make_puppet_setup;Install a communist puppet government in $RECIPIENT$;;;;;;;;;;;;;
-install_fascism_make_puppet;Install a Fascist Puppet;;;;;;;;;;;;;
-install_fascism_make_puppet_desc;Install a fascist puppet government in the country's capital;;;;;;;;;;;;;
-install_fascism_make_puppet_short;Install a fascist puppet government in $RECIPIENT$;;;;;;;;;;;;;
-install_fascism_make_puppet_setup;Install a fascist puppet government in $RECIPIENT$;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_FRA_EGY;$ORDER$French Intervention in Egypt;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_NET_EGY;$ORDER$Dutch Intervention in Egypt;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_SPA_EGY;$ORDER$Spanish Intervention in Egypt;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_AUS_EGY;$ORDER$Austrian Intervention in Egypt;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_RUS_EGY;$ORDER$Russian Intervention in Egypt;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_PRU_EGY;$ORDER$Prussian Intervention in Egypt;;;;;;;;;;;;;
-NORMAL_WAR_LIBERATE_NAME_ENG_EGY;$ORDER$British Intervention in Egypt;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_TUR_ITA;$ORDER$Italo-Turkish War;;;;;;;;;;;;;
-NORMAL_WAR_PUPPET_NAME_QNG_PGG;$ORDER$Panthay Rebellion;;;;;;;;;;;;;
-NORMAL_WAR_PUPPET_NAME_QNG_UYG;$ORDER$Dungan Revolt;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_ANY_NAME_QNG_XBI;$ORDER$Dungan Revolt;;;;;;;;;;;;;
-AGRESSION_WAR_CONQUEST_ANY_NAME_BHR_QAT;$ORDER$Qatari朆ahraini War;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_ANY_NAME_BHR_QAT;$ORDER$Qatari朆ahraini War;;;;;;;;;;;;;
-AGRESSION_WAR_CONQUEST_ANY_NAME_RUS_CIR;$ORDER$Russo-Circassian War;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_ANY_NAME_RUS_CIR;$ORDER$Russo-Circassian War;;;;;;;;;;;;;
-AGRESSION_WAR_CONQUEST_ANY_NAME_RUS_DAG;$ORDER$Murid War;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_ANY_NAME_RUS_DAG;$ORDER$Murid War;;;;;;;;;;;;;
-AGRESSION_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$Anglo朣ikh War;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$Anglo朣ikh War;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_ARC_ENT;$ORDER$Platine War;;;;;;;;;;;;;
-AGRESSION_CIVIL_WAR_NAME_ARC_ENT;$ORDER$Platine War;;;;;;;;;;;;;
-NO_ALLOWED_STATES;(There are no applicable states).;;;;;;;;;;;;;
-po_reduce_prestige;Prestige is reduced by -$VALUE$.;;;;;;;;;;;;;
-NORMAL_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;;
-AGRESSION_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;;
-NORMAL_PUNITIVE_EXPEDITION_WAR_NAME_ENG_QNG;$ORDER$Opium War;;;;;;;;;;;;;
-treaty_port_casus_belli;Punitive Expedition;;;;;;;;;;;;;
-treaty_port_casus_belli_desc;Force a country to negotiate an unequal treaty, which includes a treaty port if there's one available.;;;;;;;;;;;;;
-treaty_port_casus_belli_short;Negotiate an unequal treaty;;;;;;;;;;;;;
-treaty_port_casus_belli_setup;Force a country to negotiate an unequal treaty, which includes a treaty port if there's one available;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$Dominican War of Independence;;;;;;;;;;;;;
-AGRESSION_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$Dominican War of Independence;;;;;;;;;;;;;
-AGRESSION_WAR_GUNBOAT_NAME;Gunboat Diplomacy;;;;;;;;;;;;;
-status_quo;Status Quo;;;;;;;;;;;;;
-AGRESSION_WAR_BOXER_NAME;Boxer War;;;;;;;;;;;;;
-call_allies_cb;Call Allies;;;;;;;;;;;;;
-call_allies_cb_desc;Call Allies into war;;;;;;;;;;;;;
-AGRESSION_WAR_ALL_CORES_NAME;$ORDER$War of $FIRST$ Liberation;;;;;;;;;;;;;
-NORMAL_WAR_ALL_CORES_NAME;$ORDER$War of $FIRST$ Liberation;;;;;;;;;;;;;
-AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST$ War to Humiliate $SECOND$;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;
-AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le contr鬺e de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ 黚er $SECOND_COUNTRY$;;;;;;;;;;;
-NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$er Krieg;Baza;Guerra $ORDER$$FIRST$-$SECOND$;Base:;Alap:;Z醟ladna:;;;;;;
-AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$War of $FIRST$ Aggression;$ORDER$$FIRST$ guerre d'aggression;$ORDER$$FIRST$er Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;$ORDER$Guerra de $FIRST$ agresi髇;$ORDER$ Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ h醔or?$ORDER$$FIRST$-$SECOND$ v醠ka;;;;;;;
-NORMAL_WAR_DISMANTLE_NAME;$ORDER$$FIRST$ War to Dismantle the $SECOND$ Empire;Grande Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Gr鲞er Krieg;Baza;Base:;Base:;Alap:;Z醟ladna:;;;;;;
-AGRESSION_WAR_DISMANTLE_NAME;$ORDER$ War of $FIRST$ Aggression;$ORDER$ Offensive Militaire $FIRST$;$ORDER$ $FIRST$ Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;Guerra $ORDER$$FIRST$-$SECOND$;$ORDER$ Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ h醔or?$ORDER$$FIRST$-$SECOND$ v醠ka;;;;;;;
-NORMAL_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$$FIRST$-$SECOND$ War of Imperial Restoration;;;;;;;;;;;;;
-AGRESSION_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$$FIRST$-$SECOND$ War of Imperial Restoration;;;;;;;;;;;;;
-NORMAL_WAR_FREE_BALKANS_NAME;$ORDER$$FIRST$-$SECOND$ War of the Balkans;;;;;;;;;;;;;
-AGRESSION_WAR_FREE_BALKANS_NAME;$ORDER$$FIRST$-$SECOND$ War of the Balkans;;;;;;;;;;;;;
-NORMAL_WAR_MONROE_DOCTRINE_NAME;$ORDER$$FIRST$-$SECOND$ War of Anti-Imperialism;;;;;;;;;;;;;
-AGRESSION_WAR_MONROE_DOCTRINE_NAME;$ORDER$$FIRST$-$SECOND$ War of Anti-Imperialism;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_AMERICA_NAME;$ORDER$$FIRST$-$SECOND$ War of American Restoration;;;;;;;;;;;;;
-AGRESSION_WAR_RESTORE_AMERICA_NAME;$ORDER$$FIRST$-$SECOND$ War of American Restoration;;;;;;;;;;;;;
-NORMAL_WAR_HOLY_LAND_NAME;$ORDER$$FIRST$-$SECOND$ Levantine War;;;;;;;;;;;;;
-AGRESSION_WAR_HOLY_LAND_NAME;$ORDER$$FIRST$-$SECOND$ Levantine War;;;;;;;;;;;;;
-NORMAL_WAR_BRITISH_RAJ_NAME;$ORDER$$SECOND$ War of the British Raj;;;;;;;;;;;;;
-AGRESSION_WAR_BRITISH_RAJ_NAME;$ORDER$$SECOND$ War of the British Raj;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_USA_FSA;$ORDER$American Civil War;$ORDER$ guerre de r閎ellion;$ORDER$Rebellionskrieg;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$American Civil War;$ORDER$ guerre de r閎ellion;$ORDER$Rebellionskrieg;;;;;;;;;;;
-NORMAL_WAR_CHINA_REUNIFICATION;$ORDER$ War of Chinese Reunification;Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg;Baza;Base:;Base:;Alap:;Z醟ladna:;;;;;;
-AGRESSION_WAR_CHINA_REUNIFICATION;$ORDER$ War of Chinese Reunification;Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg;Baza;Base:;Base:;Alap:;Z醟ladna:;;;;;;
-NORMAL_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST$ Jihad;;;;;;;;;;;;;
-AGRESSION_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST$ Jihad;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$ Platine War;;;;;;;;;;;;;
-AGRESSION_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$ Platine War;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_TKG_SAT;$ORDER$Boshin War;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_TKG_CHO;$ORDER$Boshin War;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_TKG_TOS;$ORDER$Boshin War;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_TKG_KAG;$ORDER$Boshin War;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_TKG_SEN;$ORDER$Boshin War;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_TKG_YZW;$ORDER$Boshin War;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_ENG_TRN;$ORDER$Boer War;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_ENG_ORA;$ORDER$Boer War;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_ENG_NAL;$ORDER$Boer War;;;;;;;;;;;;;
-NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$Oriental Crisis;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$Opium War;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_SHW_GON;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_SHW_GON;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_SHW_TIG;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_SHW_TIG;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_GON_SHW;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_GON_SHW;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_GON_TIG;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_GON_TIG;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_TIG_SHW;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_TIG_SHW;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_TIG_GON;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_WAR_RESTORE_ORDER_NAME_TIG_GON;Zemene Mesafint;;;;;;;;;;;;;
-NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;;;;;;;;;;;
-AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;;;;;;;;;;;
-NORMAL_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Restoration;;;;;;;;;;;;;
-AGRESSION_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Restoration;;;;;;;;;;;;;
-NORMAL_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$FIRST$ War of Colonial Reconquest;;;;;;;;;;;;;
-AGRESSION_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$FIRST$ War of Colonial Reconquest;;;;;;;;;;;;;
-NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;;;;;;;;;;
-AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;;;;;;;;;;
-NORMAL_WAR_PUPPET_NAME_ENG_IRE;$ORDER$Irish War of Independence;;;;;;;;;;;;;
-AGRESSION_WAR_PUPPET_NAME_ENG_IRE;$ORDER$Irish War of Independence;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$War of Arabian Domination;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$War of Arabian Domination;;;;;;;;;;;;;
-NORMAL_WAR_NAME_ENG_USA;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$FIRST$ Conquest of $STATE$;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$FIRST$ Liberation of $STATE$;;;;;;;;;;;;;
-AGRESSION_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;;;;;;;;;;;
-NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;;;;;;;;;;;
-AGRESSION_CIVIL_WAR_NAME_QNG_TPG;$ORDER$Taiping Rebellion;;;;;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_QNG_TPG;$ORDER$Taiping Rebellion;;;;;;;;;;;;;
-punitive_effects;National Humiliation;Humiliation Nationale;Nationale Erniedrigung;;;;;;;;;;;
-punitive_effects_desc;Our humiliation at the hands of the victors, and the punitive effects of reparations have taken its toll on our people.  We will be all but unable to wage war unless someone declares war on us first.;;;;;;;;;;;;;
-no_more_war;No More War;Nous ne Voulons pas la Guerre;Wir W黱schen Nicht Krieg;;;;;;;;;;;
-no_more_war_desc;Our people are tired of war. It will be difficult to get their enthusiasm for another anytime soon, so in the meantime our ability to wage war will be very limited. NOTE: This means you have very few CB's that you can begin a war with while this modifier lasts!;;;;;;;;;;;;;
-end_the_war;End the War;La Guerre Doit Finir;Der Krieg Muss Beenden;;;;;;;;;;;
-end_the_war_desc;Our enemy is defeated. The people call out for us to end the war, even if we don't get everything we intended.;;;;;;;;;;;;;
-dismantle_cb;Dismantle Nation;Grande Guerre;Gesamtkrieg;;;;;;;;;;;
-dismantle_cb_desc;Force an enemy great power to dismantle their empire and pay reparations;Obliger un autre pays ?se d閟armer et ?nous verser des compensations;Zwischen Sie ein anderes Land zur Abr黶tung und zu Reparationszahlungen an uns.;;;;;;;;;;;
-dismantle_cb_short;Force $RECIPIENT$ to dismantle their empire;R閐uire $RECIPIENT$;Reduzieren Sie die Gr鲞e von $RECIPIENT$;;;;;;;;;;;
-dismantle_cb_setup;Force $RECIPIENT$ to dismantle their empire;R閐uire $RECIPIENT$;Reduzieren Sie die Gr鲞e von $RECIPIENT$;;;;;;;;;;;
-dismantle_cb_add;Dismantle Nation;Grande Guerre;Gr鲞er Krieg;;;;;;;;;;;
-dismantle_cb_add_desc;Force an enemy great power to dismantle their empire and pay reparations;Obliger un autre pays ?se d閟armer et ?nous verser des compensations;Zwischen Sie ein anderes Land zur Abr黶tung und zu Reparationszahlungen an uns.;;;;;;;;;;;
-dismantle_cb_add_short;Force $RECIPIENT$ to dismantle their empire;R閐uire $RECIPIENT$;Reduzieren Sie die Gr鲞e von $RECIPIENT$;;;;;;;;;;;
-dismantle_cb_add_setup;Force $RECIPIENT$ to dismantle their empire;R閐uire $RECIPIENT$;Reduzieren Sie die Gr鲞e von $RECIPIENT$;;;;;;;;;;;
-dismantle_cb_add_new;Dismantle Nation;Grande Guerre;Gr鲞er Krieg;;;;;;;;;;;
-dismantle_cb_add_new_desc;Force an enemy great power to dismantle their empire and pay reparations;Obliger un autre pays ?se d閟armer et ?nous verser des compensations;Zwischen Sie ein anderes Land zur Abr黶tung und zu Reparationszahlungen an uns.;;;;;;;;;;;
-dismantle_cb_add_new_short;Force $RECIPIENT$ to dismantle their empire;R閐uire $RECIPIENT$;Reduzieren Sie die Gr鲞e von $RECIPIENT$;;;;;;;;;;;
-dismantle_cb_add_new_setup;Force $RECIPIENT$ to dismantle their empire;R閐uire $RECIPIENT$;Reduzieren Sie die Gr鲞e von $RECIPIENT$;;;;;;;;;;;
-great_war_install_democracy;Install Democracy;Installez la d閙ocratie;Verursachen Sie Demokratie;;;;;;;;;;;
-great_war_install_democracy_desc;Install a friendly democracy in the country's capital;Install a friendly democracy in the target country's capital;Install a friendly democracy in the target country's capital;;;;;;;;;;;
-great_war_install_democracy_short;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;
-great_war_install_democracy_setup;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;
-great_war_install_fascism;Install Fascism;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;
-great_war_install_fascism_desc;Install a friendly fascist government in the country's capital;Install a friendly fascist government in the country's capital;Install a friendly fascist government in the country's capital;;;;;;;;;;;
-great_war_install_fascism_short;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;
-great_war_install_fascism_setup;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;
-great_war_install_communism;Install Communism;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;
-great_war_install_communism_desc;Install a friendly communist government in the country's capital;Install a friendly communist government in the country's capital;Install a friendly communist government in the country's capital;;;;;;;;;;;
-great_war_install_communism_short;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;
-great_war_install_communism_setup;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;
-install_democracy;Install Democracy;Installez la d閙ocratie;Verursachen Sie Demokratie;;;;;;;;;;;
-install_democracy_desc;Install a friendly democracy in the country's capital;Install a friendly democracy in the target country's capital;Install a friendly democracy in the target country's capital;;;;;;;;;;;
-install_democracy_short;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;
-install_democracy_setup;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;Install a friendly democracy in $RECIPIENT$;;;;;;;;;;;
-install_fascism;Install Fascism;Installez le fascisme;Bringen Sie Faschismus an;;;;;;;;;;;
-install_fascism_desc;Install a friendly fascist government in the country's capital;Install a friendly fascist government in the country's capital;Install a friendly fascist government in the country's capital;;;;;;;;;;;
-install_fascism_short;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;
-install_fascism_setup;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;Install a fascist government in $RECIPIENT$;;;;;;;;;;;
-install_communism;Install Communism;Installez le communisme;Bringen Sie Kommunismus an;;;;;;;;;;;
-install_communism_desc;Install a friendly communist government in the country's capital;Install a friendly communist government in the country's capital;Install a friendly communist government in the country's capital;;;;;;;;;;;
-install_communism_short;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;
-install_communism_setup;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;Install a communist government in $RECIPIENT$;;;;;;;;;;;
-great_war_liberate;Liberate;Peuple libre;Freies Volk;;;;;;;;;;;
-great_war_liberate_desc;Liberate a country from its oppressors;Lib閞er un pays de ses oppresseurs;Befreien Sie ein Land von seinen Unterdr點kern.;;;;;;;;;;;
-great_war_liberate_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-great_war_liberate_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ ?$RECIPIENT$ pour le rendre ?$THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zur點k;;;;;;;;;;;
-great_war_acquire_core;Acquire core;Prendre territoire cl?Kernprovinz erwerben;;;;;;;;;;;;
-great_war_acquire_core_desc;Acquire an enemy state where we have core provinces;Prendre un 蓆at ennemi o?nous avons des provinces principales;Erobern Sie einen feindlichen Staat, in dem wir Kernprovinzen haben.;;;;;;;;;;;
-great_war_acquire_core_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-great_war_acquire_core_setup;Acquire core $STATE$ from $RECIPIENT$;Prendre 蓆at cl?$STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-great_war_place_in_the_sun;Place in the sun;Une place au soleil;Ein Platz an der Sonne;;;;;;;;;;;
-great_war_place_in_the_sun_desc;Acquire an enemy colonial state;Prendre un 蓆at colonial ennemi;Erobern Sie einen feindlichen Kolonialstaat.;;;;;;;;;;;
-great_war_place_in_the_sun_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-great_war_place_in_the_sun_setup;Acquire colony $STATE$ from $RECIPIENT$;Prendre colonie $STATE$ de $RECIPIENT$;Kolonie $STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-great_war_release_puppet;Release Puppet;Lib閞er un 蓆at fantoche;Marionettenstaat entlassen;;;;;;;;;;;
-great_war_release_puppet_short;$THIRD$ is released;$THIRD$ est lib閞?$THIRD$ wurde entlassen;;;;;;;;;;;;
-great_war_release_puppet_setup;Release $THIRD$ from $RECIPIENT$;Lib閞er $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;;;;;
-great_war_release_puppet_desc;Release a country from its sovereign nation;Lib閞er un pays de sa nation souveraine;Entlassen Sie ein Land von seinem Herrenland.;;;;;;;;;;;
-great_war_take_from_sphere;Take from sphere of influence;Prendre ?la sph鑢e d'influence;Aus Einflusssph鋜e entfernen;;;;;;;;;;;
-great_war_take_from_sphere_desc;Remove a country from someone's Sphere of Influence and add it to our own;Supprimer un pays de la sph鑢e d'influence de quelqu'un et l'ajouter ?la n魌re;Entfernen Sie ein Land aus einer anderen Einflusssph鋜e und f黦en Sie es Ihrer eigenen hinzu.;;;;;;;;;;;
-great_war_take_from_sphere_short;Take $THIRD$ from sphere of influence;Prendre $THIRD$ ?la sph鑢e d'influence;$THIRD$ aus Einflusssph鋜e entfernen;;;;;;;;;;;
-great_war_take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ ?la sph鑢e d'influence de $RECIPIENT$;$THIRD$ aus Einflusssph鋜e von $RECIPIENT$ entfernen;;;;;;;;;;;
-add_to_sphere_AI;Add to Sphere;ajouter ?la sph鑢e;In Einflusssph鋜e aufnehmen;;;;;;;;;;;
-add_to_sphere_AI_desc;Add country to our Sphere of Influence;Ajouter un pays ?notre sph鑢e d'influence;F黦en Sie das Land Ihrer Einflusssph鋜e hinzu.;;;;;;;;;;;
-add_to_sphere_AI_short;Add $RECIPIENT$ to Sphere of Influence;ajouter $RECIPIENT$ ?la sph鑢e d'influence;$RECIPIENT$ in Einflusssph鋜e aufnehmen;;;;;;;;;;;
-add_to_sphere_AI_setup;Add $RECIPIENT$ to Sphere of Influence;ajouter $RECIPIENT$ ?la sph鑢e d'influence;$RECIPIENT$ in Einflusssph鋜e aufnehmen;;;;;;;;;;;
-unification_add_to_sphere;Unification Add to Sphere;ajouter ?la sph鑢e;In Einflusssph鋜e aufnehmen;;;;;;;;;;;
-unification_add_to_sphere_desc;Add country of our culture group to our Sphere of Influence;Ajouter un pays ?notre sph鑢e d'influence;F黦en Sie das Land Ihrer Einflusssph鋜e hinzu.;;;;;;;;;;;
-unification_add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;ajouter $RECIPIENT$ ?la sph鑢e d'influence;$RECIPIENT$ in Einflusssph鋜e aufnehmen;;;;;;;;;;;
-unification_add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;ajouter $RECIPIENT$ ?la sph鑢e d'influence;$RECIPIENT$ in Einflusssph鋜e aufnehmen;;;;;;;;;;;
-take_from_sphere_AI;Take from sphere of influence;Prendre ?la sph鑢e d'influence;Aus Einflusssph鋜e entfernen;;;;;;;;;;;
-take_from_sphere_AI_desc;Remove a country from someone's Sphere of Influence and add it to our own;Supprimer un pays de la sph鑢e d'influence de quelqu'un et l'ajouter ?la n魌re;Entfernen Sie ein Land aus einer anderen Einflusssph鋜e und f黦en Sie es Ihrer eigenen hinzu.;;;;;;;;;;;
-take_from_sphere_AI_short;Take $THIRD$ from sphere of influence;Prendre $THIRD$ ?la sph鑢e d'influence;$THIRD$ aus Einflusssph鋜e entfernen;;;;;;;;;;;
-take_from_sphere_AI_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ ?la sph鑢e d'influence de $RECIPIENT$;$THIRD$ aus Einflusssph鋜e von $RECIPIENT$ entfernen;;;;;;;;;;;
-free_peoples_AI;Free People;Peuple libre;Freies Volk;;;;;;;;;;;
-free_peoples_AI_desc;Liberate a country's single state from its oppressors.;Lib閞er un pays de ses oppresseurs;Befreien Sie ein Land von seinen Unterdr點kern.;;;;;;;;;;;
-free_peoples_AI_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-free_peoples_AI_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ ?$RECIPIENT$ pour le rendre ?$THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zur點k;;;;;;;;;;;
-free_peoples;Free People;Peuple libre;Freies Volk;;;;;;;;;;;
-free_peoples_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ ?$RECIPIENT$ pour le rendre ?$THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zur點k;;;;;;;;;;;
-free_allied_cores;Free Allied Cores;Peuple libre;Freies Volk;;;;;;;;;;;
-free_allied_cores_desc;Liberate cores belonging to an allied country in your sphere;Lib閞er un pays de ses oppresseurs;Befreien Sie ein Land von seinen Unterdr點kern.;;;;;;;;;;;
-free_allied_cores_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-free_allied_cores_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ ?$RECIPIENT$ pour le rendre ?$THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zur點k;;;;;;;;;;;
-release_puppet_AI;Release Puppet;Lib閞er un 蓆at fantoche;Marionettenstaat entlassen;;;;;;;;;;;
-release_puppet_AI_short;$THIRD$ is released;$THIRD$ est lib閞?$THIRD$ wurde entlassen;;;;;;;;;;;;
-release_puppet_AI_setup;Release $THIRD$ from $RECIPIENT$;Lib閞er $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;;;;;
-release_puppet_AI_desc;Release a country from its sovereign nation;Lib閞er un pays de sa nation souveraine;Entlassen Sie ein Land von seinem Herrenland.;;;;;;;;;;;
-demand_concession_NI_casus_belli;Demand Concession;Demande de concession;Konzession verlangen;;;;;;;;;;;
-demand_concession_NI_casus_belli_desc;Force an uncivilized country to secede territory to form a colonial concession.;Obligez un pays non civilis椐W ?faire s閏ession d'un territoire pour former une concession coloniale.;Zwingen Sie ein unzivilisiertes Land, Gebiete zur Gr黱dung einer Kolonialkonzession abzuspalten.;;;;;;;;;;;
-demand_concession_NI_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez ?ce que $RECIPIENT$ fasse s閏ession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gr黱dung einer Kolonialkonzession abspaltet.;;;;;;;;;;;
-demand_concession_NI_casus_belli_short;Demand $STATE$;Demander $STATE$;Fordern Sie $STATE$;;;;;;;;;;;
-demand_concession_BC_casus_belli;Demand Concession;Demande de concession;Konzession verlangen;;;;;;;;;;;
-demand_concession_BC_casus_belli_desc;Force an uncivilized country to secede territory to form a colonial concession.;Obligez un pays non civilis椐W ?faire s閏ession d'un territoire pour former une concession coloniale.;Zwingen Sie ein unzivilisiertes Land, Gebiete zur Gr黱dung einer Kolonialkonzession abzuspalten.;;;;;;;;;;;
-demand_concession_BC_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez ?ce que $RECIPIENT$ fasse s閏ession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gr黱dung einer Kolonialkonzession abspaltet.;;;;;;;;;;;
-demand_concession_BC_casus_belli_short;Demand $STATE$;Demander $STATE$;Fordern Sie $STATE$;;;;;;;;;;;
-establish_protectorate_NI_casus_belli;Establish Protectorate;蓆ablir un protectorat;Protektorat gr黱den;;;;;;;;;;;
-establish_protectorate_NI_casus_belli_desc;Annex an uncivilized country by forcing them to become a protectorate of ours.;Annexez un pays non civilis椐W en l'obligeant ?devenir l'un de nos protectorats.;Annektieren Sie ein unzivilisiertes Land, indem Sie es zwingen, eines Ihrer Protektorate zu werden.;;;;;;;;;;;
-establish_protectorate_NI_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;Annexez $RECIPIENT$ en 閠ablissant un protectorat.;Annektieren Sie $RECIPIENT$ durch die Gr黱dung eines Protektorats.;;;;;;;;;;;
-establish_protectorate_NI_casus_belli_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;;;;;
-establish_protectorate_BC_casus_belli;Establish Protectorate;蓆ablir un protectorat;Protektorat gr黱den;;;;;;;;;;;
-establish_protectorate_BC_casus_belli_desc;Annex an uncivilized country by forcing them to become a protectorate of ours.;Annexez un pays non civilis椐W en l'obligeant ?devenir l'un de nos protectorats.;Annektieren Sie ein unzivilisiertes Land, indem Sie es zwingen, eines Ihrer Protektorate zu werden.;;;;;;;;;;;
-establish_protectorate_BC_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;Annexez $RECIPIENT$ en 閠ablissant un protectorat.;Annektieren Sie $RECIPIENT$ durch die Gr黱dung eines Protektorats.;;;;;;;;;;;
-establish_protectorate_BC_casus_belli_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;;;;;
-unification_humiliate;Assert Hegemony;Imposer l'h間閙onie;Vorherrschaft durchsetzen;;;;;;;;;;;
-unification_humiliate_desc;Remove a country from someone's Sphere of Influence and add it to our own;Supprimer un pays de la sph鑢e d'influence de quelqu'un et l'ajouter ?la n魌re;Entfernen Sie ein Land aus einer anderen Einflusssph鋜e und f黦en Sie es Ihrer eigenen hinzu.;;;;;;;;;;;
-unification_humiliate_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ ?la sph鑢e d'influence de $RECIPIENT$;$THIRD$ aus Einflusssph鋜e von $RECIPIENT$ entfernen;;;;;;;;;;;
-unification_humiliate_short;Take $THIRD$ from sphere of influence;Prendre $THIRD$ ?la sph鑢e d'influence;$THIRD$ aus Einflusssph鋜e entfernen;;;;;;;;;;;
-claim_colonial_region;Effective Occupation - Demand State;;;;;;;;;;;;;
-claim_colonial_region_desc;Force an uncivilized country to secede territory that we have claims on according to Article 35 of the West Africa Conference, which delineates the doctrine of effective occupation.;;;;;;;;;;;;;
-claim_colonial_region_setup;Demand that $RECIPIENT$ secede territory that we have claims on according to Article 35 of the West Africa Conference, which delineates the doctrine of effective occupation.;;;;;;;;;;;;;
-claim_colonial_region_short;Demand $STATE$;;;;;;;;;;;;;
-claim_colonial_region_full;Effective Occupation - Annex;;;;;;;;;;;;;
-claim_colonial_region_full_desc;Force an uncivilized country to become a protectorate according to Article 33 of the West Africa Conference, which delineates the doctrine of spheres of influence.;;;;;;;;;;;;;
-claim_colonial_region_full_setup;Force $RECIPIENT$ to become a protectorate according to Article 33 of the West Africa Conference, which delineates the doctrine of spheres of influence.;;;;;;;;;;;;;
-claim_colonial_region_full_short;Annex $RECIPIENT$;;;;;;;;;;;;;
-colonial_conquest;Imperialism - Demand State;;;;;;;;;;;;;
-colonial_conquest_desc;Acquire a state from an uncivilized country where we have colonial claims. This will give 0.5 to 2 infamy and we will have to wait 1 to 5 years before we are able to use Imperialism Casus Bellis again.;;;;;;;;;;;;;
-colonial_conquest_setup;Acquire $STATE$ from $RECIPIENT$. This will give 0.5 to 2 infamy and we will have to wait 1 to 5 years before we are able to use Imperialism Casus Bellis again.;;;;;;;;;;;;;
-colonial_conquest_short;Acquire $STATE$;;;;;;;;;;;;;
-colonial_conquest_full;Imperialism - Annex;;;;;;;;;;;;;
-colonial_conquest_full_desc;Force an uncivilized country that we have colonial claims on to become a protectorate. This will give 0.5 to 2 infamy and we will have to wait 5 years before we are able to use Imperialism Casus Bellis again.;;;;;;;;;;;;;
-colonial_conquest_full_setup;Force $RECIPIENT$ to become a protectorate. This will give 0.5 to 2 infamy and we will have to wait 5 years before we are able to use Imperialism Casus Bellis again.;;;;;;;;;;;;;
-colonial_conquest_full_short;Annex $RECIPIENT$;;;;;;;;;;;;;
-annex_africa;Scramble for Africa - Demand State;;;;;;;;;;;;;
-annex_africa_desc;Force an uncivilized country to secede territory according to rules set at the Conference of Great Powers;;;;;;;;;;;;;
-annex_africa_setup;Demand that $RECIPIENT$ secede territory according to rules set at the Conference of Great Powers;;;;;;;;;;;;;
-annex_africa_short;Demand $STATE$;;;;;;;;;;;;;
-annex_africa_full;Scramble for Africa - Annex;;;;;;;;;;;;;
-annex_africa_full_desc;Force an uncivilized country to become a protectorate according to rules set at the Conference of Great Powers;;;;;;;;;;;;;
-annex_africa_full_setup;Annex $RECIPIENT$ according to rules set at the Conference of Great Powers;;;;;;;;;;;;;
-annex_africa_full_short;Annex $RECIPIENT$;;;;;;;;;;;;;
-restore_austrian_empire;Acquire Austrian Core;Prendre territoire cl?Kernprovinz erwerben;;;;;;;;;;;;
-restore_austrian_empire_desc;Acquire an enemy state where Austria has traditionally ruled;Prendre un 蓆at ennemi o?nous avons des provinces principales;Erobern Sie einen feindlichen Staat, in dem wir Kernprovinzen haben.;;;;;;;;;;;
-restore_austrian_empire_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-restore_austrian_empire_setup;Acquire core $STATE$ from $RECIPIENT$;Prendre 蓆at cl?$STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-free_balkans;Free Balkans;Peuple libre;Freies Volk;;;;;;;;;;;
-free_balkans_desc;Liberate an entire country in the Balkans from its oppressor;Lib閞er un pays de ses oppresseurs;Befreien Sie ein Land von seinen Unterdr點kern.;;;;;;;;;;;
-free_balkans_short;Liberate $THIRD$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-free_balkans_setup;Free $THIRD$ from control of $RECIPIENT$;Prendre $STATE$ ?$RECIPIENT$ pour le rendre ?$THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zur點k;;;;;;;;;;;
-monroe_doctrine;Monroe Doctrine;Peuple libre;Freies Volk;;;;;;;;;;;
-monroe_doctrine_desc;Drive out a European colonial power from the Americas;Lib閞er un pays de ses oppresseurs;Befreien Sie ein Land von seinen Unterdr點kern.;;;;;;;;;;;
-monroe_doctrine_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-monroe_doctrine_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ ?$RECIPIENT$ pour le rendre ?$THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zur點k;;;;;;;;;;;
-oriental_crisis;Oriental Crisis;Peuple libre;Freies Volk;;;;;;;;;;;
-oriental_crisis_desc;Liberate Ottoman territory from Egyptian control;Lib閞er un pays de ses oppresseurs;Befreien Sie ein Land von seinen Unterdr點kern.;;;;;;;;;;;
-oriental_crisis_short;$THIRD$ acquires $STATE$;$THIRD$ prend $STATE$;$THIRD$ erwirbt $STATE$;;;;;;;;;;;
-oriental_crisis_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;Prendre $STATE$ ?$RECIPIENT$ pour le rendre ?$THIRD$;Geben Sie $STATE$ an $THIRD$ von $RECIPIENT$ zur點k;;;;;;;;;;;
-restore_america;Acquire American Core;Prendre territoire cl?Kernprovinz erwerben;;;;;;;;;;;;
-restore_america_desc;Acquire an enemy state with the goal of restoring the United States;Prendre un 蓆at ennemi o?nous avons des provinces principales;Erobern Sie einen feindlichen Staat, in dem wir Kernprovinzen haben.;;;;;;;;;;;
-restore_america_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-restore_america_setup;Acquire core $STATE$ from $RECIPIENT$;Prendre 蓆at cl?$STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-claim_holy_land;Claim the Levant;Prendre territoire cl?Kernprovinz erwerben;;;;;;;;;;;;
-claim_holy_land_desc;Acquire a state in the Levant now that it has been abandoned by the Ottoman Empire;Prendre un 蓆at ennemi o?nous avons des provinces principales;Erobern Sie einen feindlichen Staat, in dem wir Kernprovinzen haben.;;;;;;;;;;;
-claim_holy_land_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-claim_holy_land_setup;Acquire $STATE$ from $RECIPIENT$;Prendre 蓆at cl?$STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-restore_british_raj;Claim the British Raj;R閐uire;Gr鲞e reduzieren;;;;;;;;;;;
-restore_british_raj_desc;Puppet an enemy nation that rightfully belongs within the British Raj;Obliger un autre pays ?se d閟armer et ?nous verser des compensations;Zwischen Sie ein anderes Land zur Abr黶tung und zu Reparationszahlungen an uns.;;;;;;;;;;;
-restore_british_raj_short;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;
-restore_british_raj_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;
-great_game_cb;The Great Game;R閐uire;Gr鲞e reduzieren;;;;;;;;;;;
-great_game_cb_desc;The Great Game between Russia and the British Empire demands that all uncivilized nations in Central Asia be turned into puppets to prevent the other from doing the same.;Obliger un autre pays ?se d閟armer et ?nous verser des compensations;Zwischen Sie ein anderes Land zur Abr黶tung und zu Reparationszahlungen an uns.;;;;;;;;;;;
-great_game_cb_short;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;
-great_game_cb_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;
-china_acquire_state;Chinese Reunification;Prendre 蓆at;$STATE$ erwerben;;;;;;;;;;;
-china_acquire_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-china_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre $STATE$ de $RECIPIENT$;$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-china_acquire_state_desc;Acquire a Chinese state;Prendre un 蓆at ennemi;Erobern Sie einen feindlichen Staat.;;;;;;;;;;;
-unification_GP_humiliate;Unification Humiliate;Humilier;Erniedrigen;;Humillar;;;;;;;;;
-unification_GP_humiliate_short;Humiliate $RECIPIENT$;Humilier $RECIPIENT$;$RECIPIENT$ erniedrigen;;Humillar a $RECIPIENT$;;;;;;;;;
-unification_GP_humiliate_setup;Humiliate $RECIPIENT$;Humilier $RECIPIENT$;$RECIPIENT$ erniedrigen;;Humillar a $RECIPIENT$;;;;;;;;;
-unification_GP_humiliate_desc;Show our military might by humiliating an enemy greater power of our culture group, thus increasing our prestige while lowering theirs;Afficher notre puissance militaire en humiliant un pays ennemi et en augmentant notre prestige tout en r閐uisant le leur;Zeigen Sie unsere Milit鋜macht durch Erniedrigung eines feindlichen Landes, wodurch Sie unser Prestige steigern und ihres verringern.;;Demostrar nuestro poder militar humillando a un pa韘 enemigo, para aumentar nuestro prestigio y reducir el suyo;;;;;;;;;
-colonial_reconquest_cb;Colonial Reconquest;;;;;;;;;;;;;
-colonial_reconquest_cb_desc;Force the rebellious colony back into the fold;;;;;;;;;;;;;
-colonial_reconquest_cb_setup;Annex $RECIPIENT$, our rebellious colony;;;;;;;;;;;;;
-colonial_reconquest_cb_short;Annex $RECIPIENT$;;;;;;;;;;;;;
-acquire_any_state;Acquire State;Prendre territoire cl?Kernprovinz erwerben;;;;;;;;;;;;
-acquire_any_state_desc;Acquire an enemy state;Prendre un 蓆at ennemi o?nous avons des provinces principales;Erobern Sie einen feindlichen Staat, in dem wir Kernprovinzen haben.;;;;;;;;;;;
-acquire_any_state_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-acquire_any_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre 蓆at cl?$STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-conquest_any;Conquest;;;;;;;;;;;;;
-conquest_any_desc;Conquer an enemy country;;;;;;;;;;;;;
-conquest_any_setup;Annex $RECIPIENT$;;;;;;;;;;;;;
-conquest_any_short;Annex $RECIPIENT$;;;;;;;;;;;;;
-sahel_jihad_cb;Sahel Jihad;Prendre territoire cl?Kernprovinz erwerben;;;;;;;;;;;;
-sahel_jihad_cb_desc;Acquire an infidel state;Prendre un 蓆at ennemi o?nous avons des provinces principales;Erobern Sie einen feindlichen Staat, in dem wir Kernprovinzen haben.;;;;;;;;;;;
-sahel_jihad_cb_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;
-sahel_jihad_cb_setup;Acquire $STATE$ from $RECIPIENT$;Prendre 蓆at cl?$STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;
-acquire_all_cores;Acquire All Cores;;;;;;;;;;;;;
-acquire_all_cores_short;Acquire all cores from $RECIPIENT$;;;;;;;;;;;;;
-acquire_all_cores_setup;Acquire all core provinces from $RECIPIENT$;;;;;;;;;;;;;
-acquire_all_cores_desc;Acquire all enemy states where we have core provinces;;;;;;;;;;;;;
-AGRESSION_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
-NORMAL_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
-AGRESSION_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
-NORMAL_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+steal_puppet;夺取傀儡国;;;;;;;;;;;;x
+steal_puppet_short;傀儡$THIRD$;;;;;;;;;;;;x
+steal_puppet_desc;从第三国夺取一个§Y傀儡§W并使之成为我们的傀儡。;;;;;;;;;;;;x
+steal_puppet_setup;从$RECIPIENT$夺取$THIRD$;;;;;;;;;;;;x
+cut_down_to_size;制裁;;;;;;;;;;;;x
+place_in_the_sun;阳光下的地盘;;;;;;;;;;;;x
+acquire_state;获得地区;;;;;;;;;;;;x
+take_from_sphere;争夺势力范围;;;;;;;;;;;;x
+permanent_colonial_claim;收复殖民地;;;;;;;;;;;;x
+permanent_colonial_claim_short;收复殖民地;;;;;;;;;;;;x
+permanent_colonial_claim_desc;根据列强会议的规定，夺取一块属于我们的§Y合法殖民地§W的§Y州§W;;;;;;;;;;;;x
+permanent_colonial_claim_setup;从$RECIPIENT$手中夺取$STATE$;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_REPARATIONS_PEU_CHL;$ORDER$太平洋战争;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_REPARATIONS_BOL_CHL;$ORDER$太平洋战争;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_REPARATIONS_CHL_PBC;$ORDER$邦联战争;;;;;;;;;;;;x
+NORMAL_WAR_NAME_REPARATIONS_CHL_PBC;$ORDER$邦联战争;;;;;;;;;;;;x
+NORMAL_WAR_NAME_REPARATIONS_FRA_MEX;$ORDER$法国干涉墨西哥战争;;;;;;;;;;;;x
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_CHL_PBC;$ORDER$邦联战争;;;;;;;;;;;;x
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_CHL_PBC;$ORDER$邦联战争;;;;;;;;;;;;x
+NORMAL_WAR_NAME_REPARATIONS;$ORDER$$FIRST$-$SECOND$战争;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_REPARATIONS;$ORDER$$FIRST$侵略战争;;;;;;;;;;;;x
+war_reparations;战争赔款;;;;;;;;;;;;x
+war_reparations_desc;要求$RECIPIENT$§Y赔款§W;;;;;;;;;;;;x
+war_reparations_short;要求赔款;;;;;;;;;;;;x
+war_reparations_setup;要求$RECIPIENT$§Y赔款§W;;;;;;;;;;;;x
+install_democracy_make_puppet;扶持民主傀儡政府;;;;;;;;;;;;x
+install_democracy_make_puppet_desc;在该国首都扶持§Y民主傀儡政府§W;;;;;;;;;;;;x
+install_democracy_make_puppet_short;在$RECIPIENT$扶植民主傀儡政府;;;;;;;;;;;;x
+install_democracy_make_puppet_setup;在$RECIPIENT$扶植民主傀儡政府;;;;;;;;;;;;x
+install_communism_make_puppet;扶持共产主义傀儡政府;;;;;;;;;;;;x
+install_communism_make_puppet_desc;在该国首都扶持§Y共产主义傀儡政府§W;;;;;;;;;;;;x
+install_communism_make_puppet_short;在$RECIPIENT$扶植共产主义傀儡政府;;;;;;;;;;;;x
+install_communism_make_puppet_setup;在$RECIPIENT$扶植共产主义傀儡政府;;;;;;;;;;;;x
+install_fascism_make_puppet;扶持法西斯傀儡政府;;;;;;;;;;;;x
+install_fascism_make_puppet_desc;在该国首都扶持§Y法西斯傀儡政府§W;;;;;;;;;;;;x
+install_fascism_make_puppet_short;在$RECIPIENT$扶植法西斯傀儡政府;;;;;;;;;;;;x
+install_fascism_make_puppet_setup;在$RECIPIENT$扶植法西斯傀儡政府;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME_FRA_EGY;$ORDER$法国干涉埃及战争;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME_NET_EGY;$ORDER$荷兰干涉埃及战争;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME_SPA_EGY;$ORDER$西班牙干涉埃及战争;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME_AUS_EGY;$ORDER$奥地利干涉埃及战争;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME_RUS_EGY;$ORDER$俄国干涉埃及战争;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME_PRU_EGY;$ORDER$普鲁士干涉埃及战争;;;;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME_ENG_EGY;$ORDER$英国干涉埃及战争;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_TUR_ITA;$ORDER$意土战争;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_QNG_PGG;$ORDER$云南回变;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_QNG_UYG;$ORDER$西北回变;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_ANY_NAME_QNG_XBI;$ORDER$西北回变;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_BHR_QAT;$ORDER$卡塔尔-巴林战争;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_ANY_NAME_BHR_QAT;$ORDER$卡塔尔-巴林战争;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_RUS_CIR;$ORDER$俄罗斯-切尔克西亚战争;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_ANY_NAME_RUS_CIR;$ORDER$俄罗斯-切尔克西亚战争;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_RUS_DAG;$ORDER$穆尔战争;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_ANY_NAME_RUS_DAG;$ORDER$穆尔战争;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$英锡战争;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_ANY_NAME_ENG_PNJ;$ORDER$英锡战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_ARC_ENT;$ORDER$拉普拉塔战争;;;;;;;;;;;;x
+AGRESSION_CIVIL_WAR_NAME_ARC_ENT;$ORDER$拉普拉塔战争;;;;;;;;;;;;x
+NO_ALLOWED_STATES;（没有可以割让的地区）;;;;;;;;;;;;x
+po_reduce_prestige;威望减少§R-$VALUE$§W;;;;;;;;;;;;x
+NORMAL_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST$-$SECOND$战争;;;;;;;;;;;;x
+AGRESSION_PUNITIVE_EXPEDITION_WAR_NAME;$ORDER$$FIRST$-$SECOND$战争;;;;;;;;;;;;x
+NORMAL_PUNITIVE_EXPEDITION_WAR_NAME_ENG_QNG;$ORDER$鸦片战争;;;;;;;;;;;;x
+treaty_port_casus_belli;强租口岸;;;;;;;;;;;;x
+treaty_port_casus_belli_desc;强制§Y该国§W签订§Y不平等条约§W，割让§Y租借地§W。(需要有可用租借地);;;;;;;;;;;;x
+treaty_port_casus_belli_short;签订不平等条约;;;;;;;;;;;;x
+treaty_port_casus_belli_setup;强制§Y该国§W签订§Y不平等条约§W，割让§Y租借地§W。(需要有可用租借地);;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$多米尼加独立战争;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$多米尼加独立战争;;;;;;;;;;;;x
+AGRESSION_WAR_GUNBOAT_NAME;炮舰外交;;;;;;;;;;;;x
+status_quo;维持现状;;;;;;;;;;;;x
+AGRESSION_WAR_BOXER_NAME;义和团战争;;;;;;;;;;;;x
+call_allies_cb;召唤盟友;;;;;;;;;;;;x
+call_allies_cb_desc;召唤盟友进入战争;;;;;;;;;;;;x
+AGRESSION_WAR_ALL_CORES_NAME;$ORDER$$FIRST$解放战争;;;;;;;;;;;;x
+NORMAL_WAR_ALL_CORES_NAME;$ORDER$$FIRST$解放战争;;;;;;;;;;;;x
+AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST$羞辱$SECOND$战争;;;;;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME;$ORDER$$FIRST$控制$SECOND_COUNTRY$战争;;;;;;;;;;;;x
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST$-$SECOND$战争;;;;;;;;;;;;x
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST$侵略战争;;;;;;;;;;;;x
+NORMAL_WAR_DISMANTLE_NAME;$ORDER$$FIRST$肢解$SECOND$帝国战争;;;;;;;;;;;;x
+AGRESSION_WAR_DISMANTLE_NAME;$ORDER$$FIRST$侵略战争;;;;;;;;;;;;x
+NORMAL_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$$FIRST$-$SECOND$帝国重建战争;;;;;;;;;;;;x
+AGRESSION_WAR_AUSTRIAN_EMPIRE_NAME;$ORDER$$FIRST$-$SECOND$帝国重建战争;;;;;;;;;;;;x
+NORMAL_WAR_FREE_BALKANS_NAME;$ORDER$$FIRST$-$SECOND$巴尔干战争;;;;;;;;;;;;x
+AGRESSION_WAR_FREE_BALKANS_NAME;$ORDER$$FIRST$-$SECOND$巴尔干战争;;;;;;;;;;;;x
+NORMAL_WAR_MONROE_DOCTRINE_NAME;$ORDER$$FIRST$-$SECOND$反帝国主义战争;;;;;;;;;;;;x
+AGRESSION_WAR_MONROE_DOCTRINE_NAME;$ORDER$$FIRST$-$SECOND$反帝国主义战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_AMERICA_NAME;$ORDER$$FIRST$-$SECOND$ 美国重建战争;;;;;;;;;;;;x
+AGRESSION_WAR_RESTORE_AMERICA_NAME;$ORDER$$FIRST$-$SECOND$ 美国重建战争;;;;;;;;;;;;x
+NORMAL_WAR_HOLY_LAND_NAME;$ORDER$$FIRST$-$SECOND$黎凡特战争;;;;;;;;;;;;x
+AGRESSION_WAR_HOLY_LAND_NAME;$ORDER$$FIRST$-$SECOND$黎凡特战争;;;;;;;;;;;;x
+NORMAL_WAR_BRITISH_RAJ_NAME;$ORDER$$SECOND$英属印度战争;;;;;;;;;;;;x
+AGRESSION_WAR_BRITISH_RAJ_NAME;$ORDER$$SECOND$英属印度战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_FSA;$ORDER$美国内战;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$美国内战;;;;;;;;;;;;x
+NORMAL_WAR_CHINA_REUNIFICATION;$ORDER$中华统一战争;;;;;;;;;;;;x
+AGRESSION_WAR_CHINA_REUNIFICATION;$ORDER$中华统一战争;;;;;;;;;;;;x
+NORMAL_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST$圣战;;;;;;;;;;;;x
+AGRESSION_WAR_SAHEL_JIHAD_NAME;$ORDER$$FIRST$圣战;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$拉普拉塔战争;;;;;;;;;;;;x
+AGRESSION_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$拉普拉塔战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_SAT;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_CHO;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_TOS;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_KAG;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_SEN;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_TKG_YZW;$ORDER$戊辰战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_TRN;$ORDER$布尔战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_ORA;$ORDER$布尔战争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_ENG_NAL;$ORDER$布尔战争;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$东方危机;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$鸦片战争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_SHW_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_SHW_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_SHW_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_SHW_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_GON_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_GON_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_GON_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_GON_TIG;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_TIG_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_TIG_SHW;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_TIG_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME_TIG_GON;埃塞俄比亚王侯纷争;;;;;;;;;;;;x
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$克里米亚战争;;;;;;;;;;;;x
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$克里米亚战争;;;;;;;;;;;;x
+NORMAL_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST$$COUNTRY_ADJ$复国战争;;;;;;;;;;;;x
+AGRESSION_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST$$COUNTRY_ADJ$复国战争;;;;;;;;;;;;x
+NORMAL_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$FIRST$殖民地再征服战争;;;;;;;;;;;;x
+AGRESSION_WAR_COLONIAL_RECONQUEST_NAME;$ORDER$$FIRST$殖民地再征服战争;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$罗马尼亚独立战争;;;;;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$罗马尼亚独立战争;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_IRE;$ORDER$爱尔兰独立战争;;;;;;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME_ENG_IRE;$ORDER$爱尔兰独立战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$阿拉伯主导权战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$阿拉伯主导权战争;;;;;;;;;;;;x
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$FIRST$-$SECOND$战争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$FIRST$征服$STATE$的战争;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$FIRST$解放$STATE$的战争;;;;;;;;;;;;x
+AGRESSION_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$美墨战争;;;;;;;;;;;;x
+NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$美墨战争;;;;;;;;;;;;x
+AGRESSION_CIVIL_WAR_NAME_QNG_TPG;太平天国战争;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_QNG_TPG;太平天国战争;;;;;;;;;;;;x
+punitive_effects;国耻;;;;;;;;;;;;x
+punitive_effects_desc;我们在胜利者面前受尽屈辱，战争赔款的惩罚性影响已经令人民苦不堪言。我国无法发动战争，除非别国首先对我方宣战。;;;;;;;;;;;;x
+no_more_war;不要再战了;;;;;;;;;;;;x
+no_more_war_desc;我们的人民已经厌倦了战争，他们的作战热情很难在短时间内复苏，因此我国目前发起战争的能力相当有限。§Y注意：这意味着在此修正期间，你可用的宣战理由将变得非常之少。§W;;;;;;;;;;;;x
+end_the_war;结束战争;;;;;;;;;;;;x
+end_the_war_desc;我国的敌人战败了。人民呼吁政府尽快结束战争，即使我们得不到预先希望的一切。;;;;;;;;;;;;x
+dismantle_cb;肢解国家;;;;;;;;;;;;x
+dismantle_cb_desc;强迫一位敌对§Y列强§W肢解他们的帝国并支付战争赔款。;;;;;;;;;;;;x
+dismantle_cb_short;强制$RECIPIENT$解散帝国;;;;;;;;;;;;x
+dismantle_cb_setup;强制$RECIPIENT$解散帝国;;;;;;;;;;;;x
+dismantle_cb_add;肢解国家;;;;;;;;;;;;x
+dismantle_cb_add_desc;强迫一位敌对§Y列强§W肢解他们的帝国并支付战争赔款。;;;;;;;;;;;;x
+dismantle_cb_add_short;强制$RECIPIENT$解散帝国;;;;;;;;;;;;x
+dismantle_cb_add_setup;强制$RECIPIENT$解散帝国;;;;;;;;;;;;x
+dismantle_cb_add_new;肢解国家;;;;;;;;;;;;x
+dismantle_cb_add_new_desc;强迫一位敌对§Y列强§W肢解他们的帝国并支付战争赔款。;;;;;;;;;;;;x
+dismantle_cb_add_new_short;强制$RECIPIENT$解散帝国;;;;;;;;;;;;x
+dismantle_cb_add_new_setup;强制$RECIPIENT$解散帝国;;;;;;;;;;;;x
+great_war_install_democracy;建立民主政权;;;;;;;;;;;;x
+great_war_install_democracy_desc;在该国首都建立§Y友好的民主政权§W;;;;;;;;;;;;x
+great_war_install_democracy_short;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+great_war_install_democracy_setup;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+great_war_install_fascism;建立法西斯政权;;;;;;;;;;;;x
+great_war_install_fascism_desc;在该国首都§Y建立友好的法西斯政权§W;;;;;;;;;;;;x
+great_war_install_fascism_short;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+great_war_install_fascism_setup;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+great_war_install_communism;建立共产主义政权;;;;;;;;;;;;x
+great_war_install_communism_desc;在该国首都§Y建立友好的共产主义政权§W;;;;;;;;;;;;x
+great_war_install_communism_short;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+great_war_install_communism_setup;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+install_democracy;建立民主政权;;;;;;;;;;;;x
+install_democracy_desc;在该国首都建立§Y友好的民主政权§W;;;;;;;;;;;;x
+install_democracy_short;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+install_democracy_setup;在$RECIPIENT$建立友好的民主政权;;;;;;;;;;;;x
+install_fascism;建立法西斯政权;;;;;;;;;;;;x
+install_fascism_desc;在该国首都§Y建立友好的法西斯政权§W;;;;;;;;;;;;x
+install_fascism_short;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+install_fascism_setup;在$RECIPIENT$扶植法西斯政权;;;;;;;;;;;;x
+install_communism;建立共产主义政权;;;;;;;;;;;;x
+install_communism_desc;在该国首都§Y建立友好的共产主义政权§W;;;;;;;;;;;;x
+install_communism_short;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+install_communism_setup;在$RECIPIENT$扶植共产主义政权;;;;;;;;;;;;x
+great_war_liberate;解放;;;;;;;;;;;;x
+great_war_liberate_desc;从压迫者手中解放一个§Y国家§W;;;;;;;;;;;;x
+great_war_liberate_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+great_war_liberate_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+great_war_acquire_core;获得核心;;;;;;;;;;;;x
+great_war_acquire_core_desc;获得我们视为§Y核心领土§W的敌方§Y省份§W;;;;;;;;;;;;x
+great_war_acquire_core_short;获得$STATE$;;;;;;;;;;;;x
+great_war_acquire_core_setup;从$RECIPIENT$获得核心领土$STATE$;;;;;;;;;;;;x
+great_war_place_in_the_sun;阳光下的地盘;;;;;;;;;;;;x
+great_war_place_in_the_sun_desc;获得敌方的一个§Y殖民领§W;;;;;;;;;;;;x
+great_war_place_in_the_sun_short;获得$STATE$;;;;;;;;;;;;x
+great_war_place_in_the_sun_setup;获得$RECIPIENT$的殖民地$STATE$;;;;;;;;;;;;x
+great_war_release_puppet;释放傀儡国;;;;;;;;;;;;x
+great_war_release_puppet_short;$THIRD$获得独立;;;;;;;;;;;;x
+great_war_release_puppet_setup;从$RECIPIENT$的控制下中释放$THIRD$;;;;;;;;;;;;x
+great_war_release_puppet_desc;从宗主国手中解放一个§Y附庸国§W;;;;;;;;;;;;x
+great_war_take_from_sphere;争夺势力范围;;;;;;;;;;;;x
+great_war_take_from_sphere_desc;将一个国家移出他所在的§Y势力范围§W并纳入我方控制。;;;;;;;;;;;;x
+great_war_take_from_sphere_short;将$THIRD$从其原本的势力范围中移出并纳入我国势力范围;;;;;;;;;;;;x
+great_war_take_from_sphere_setup;将$THIRD$从$RECIPIENT$的势力范围中移出并纳入我国势力范围;;;;;;;;;;;;x
+add_to_sphere_AI;纳入势力范围;;;;;;;;;;;;x
+add_to_sphere_AI_desc;将该国纳入我们的§Y势力范围§W;;;;;;;;;;;;x
+add_to_sphere_AI_short;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+add_to_sphere_AI_setup;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+unification_add_to_sphere;民族统一战争(纳入势力范围);;;;;;;;;;;;x
+unification_add_to_sphere_desc;将§Y同文化组国家§W添加入我们的§Y势力范围§W;;;;;;;;;;;;x
+unification_add_to_sphere_short;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+unification_add_to_sphere_setup;将$RECIPIENT$纳入势力范围;;;;;;;;;;;;x
+take_from_sphere_AI;争夺势力范围;;;;;;;;;;;;x
+take_from_sphere_AI_desc;将一个国家移出他所在的§Y势力范围§W并纳入我方控制。;;;;;;;;;;;;x
+take_from_sphere_AI_short;将$THIRD$从其原本的势力范围中移出并纳入我国势力范围;;;;;;;;;;;;x
+take_from_sphere_AI_setup;将$THIRD$从$RECIPIENT$的势力范围中移出并纳入我国势力范围;;;;;;;;;;;;x
+free_peoples_AI;解放民族;;;;;;;;;;;;x
+free_peoples_AI_desc;从压迫者手中解放一个§Y国家§W;;;;;;;;;;;;x
+free_peoples_AI_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+free_peoples_AI_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+free_peoples;解放人民;;;;;;;;;;;;x
+free_peoples_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+free_peoples_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+free_allied_cores;解放盟国核心领土;;;;;;;;;;;;x
+free_allied_cores_desc;解放你势力范围内§Y同盟国家§W的核心领土;;;;;;;;;;;;x
+free_allied_cores_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+free_allied_cores_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+release_puppet_AI;释放傀儡国;;;;;;;;;;;;x
+release_puppet_AI_short;$THIRD$获得独立;;;;;;;;;;;;x
+release_puppet_AI_setup;从$RECIPIENT$的控制下中释放$THIRD$;;;;;;;;;;;;x
+release_puppet_AI_desc;从宗主国手中解放一个§Y附庸国§W;;;;;;;;;;;;x
+demand_concession_NI_casus_belli;索要殖民地;;;;;;;;;;;;x
+demand_concession_NI_casus_belli_desc;强令§Y未开化国家§W割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_NI_casus_belli_setup;要求$RECIPIENT$割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_NI_casus_belli_short;索要$STATE$;;;;;;;;;;;;x
+demand_concession_BC_casus_belli;索要殖民地;;;;;;;;;;;;x
+demand_concession_BC_casus_belli_desc;强令§Y未开化国家§W割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_BC_casus_belli_setup;要求$RECIPIENT$割让领土成为我国殖民地。;;;;;;;;;;;;x
+demand_concession_BC_casus_belli_short;索要$STATE$;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli;建立保护国;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli_desc;吞并§Y未开化国家§W，使其成为我们的保护国。;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli_setup;吞并$RECIPIENT$，成为我们的保护国;;;;;;;;;;;;x
+establish_protectorate_NI_casus_belli_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli;建立保护国;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli_desc;吞并§Y未开化国家§W，使其成为我们的保护国。;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli_setup;吞并$RECIPIENT$，成为我们的保护国;;;;;;;;;;;;x
+establish_protectorate_BC_casus_belli_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+unification_humiliate;宣示霸权;;;;;;;;;;;;x
+unification_humiliate_desc;将一个国家移出他所在的§Y势力范围§W并纳入我方控制。;;;;;;;;;;;;x
+unification_humiliate_setup;将$THIRD$从$RECIPIENT$的势力范围中移出并纳入我国势力范围;;;;;;;;;;;;x
+unification_humiliate_short;将$THIRD$从其原本的势力范围中移出并纳入我国势力范围;;;;;;;;;;;;x
+claim_colonial_region;有效占领-索要领土;;;;;;;;;;;;x
+claim_colonial_region_desc;根据西非会议第35条，强制一个§Y未开化国家§W割让我们拥有主权宣称的领土，该条规定了有效占领的原则。;;;;;;;;;;;;x
+claim_colonial_region_setup;根据西非会议第35条，要求$RECIPIENT$割让我们拥有主权宣称的领土，该条规定了有效占领的原则。;;;;;;;;;;;;x
+claim_colonial_region_short;索要$STATE$;;;;;;;;;;;;x
+claim_colonial_region_full;有效占领-吞并;;;;;;;;;;;;x
+claim_colonial_region_full_desc;根据西非会议第35条，强制一个§Y未开化国家§W成为我们的保护国，该条规定了划定势力范围的原则。;;;;;;;;;;;;x
+claim_colonial_region_full_setup;根据西非会议第35条，强制$RECIPIENT$成为我们的保护国，该条规定了划分势力范围的原则。;;;;;;;;;;;;x
+claim_colonial_region_full_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+colonial_conquest;殖民征服;;;;;;;;;;;;x
+colonial_conquest_desc;获取我们有§Y宣称§W的敌方§Y殖民地§W，但这将为我们带来§R0.5～2点§W的随机§R恶名§W。;;;;;;;;;;;;x
+colonial_conquest_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+colonial_conquest_short;获得$STATE$;;;;;;;;;;;;x
+colonial_conquest_full;帝国主义-吞并;;;;;;;;;;;;x
+colonial_conquest_full_desc;迫使一个我们拥有§Y殖民宣称§W的§Y未开化国家§W成为保护国。这将给我们带来§R0.5到2§W点恶名，我们必须§Y等待5年§W才能再次使用帝国主义理由。;;;;;;;;;;;;x
+colonial_conquest_full_setup;迫使$RECIPIENT$成为保护国。这将给我们带来§R0.5到2§W点恶名，我们必须§Y等待5年§W才能再次使用帝国主义理由。;;;;;;;;;;;;x
+colonial_conquest_full_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+annex_africa;瓜分非洲——索要领土;;;;;;;;;;;;x
+annex_africa_desc;强令§Y未开化国家§W依据国际列强会议原则割让领土。;;;;;;;;;;;;x
+annex_africa_setup;依据国际列强会议原则，强令$RECIPIENT$割让领土。;;;;;;;;;;;;x
+annex_africa_short;索要$STATE$;;;;;;;;;;;;x
+annex_africa_full;瓜分非洲——吞并;;;;;;;;;;;;x
+annex_africa_full_desc;强令§Y未开化国家§W依据国际列强会议原则成为我们的保护国。;;;;;;;;;;;;x
+annex_africa_full_setup;依据国际列强会议原则，吞并$RECIPIENT$。;;;;;;;;;;;;x
+annex_africa_full_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+restore_austrian_empire;获得奥地利核心;;;;;;;;;;;;x
+restore_austrian_empire_desc;获得§Y长期接受奥地利统治§W的敌方§Y省份§W;;;;;;;;;;;;x
+restore_austrian_empire_short;获得$STATE$;;;;;;;;;;;;x
+restore_austrian_empire_setup;从$RECIPIENT$获得核心领土$STATE$;;;;;;;;;;;;x
+free_balkans;解放巴尔干;;;;;;;;;;;;x
+free_balkans_desc;从压迫者手中解放一个§Y完整的巴尔干国家§W;;;;;;;;;;;;x
+free_balkans_short;解放$THIRD$;;;;;;;;;;;;x
+free_balkans_setup;从$RECIPIENT$控制下解放$THIRD$;;;;;;;;;;;;x
+monroe_doctrine;门罗主义;;;;;;;;;;;;x
+monroe_doctrine_desc;从美洲大陆驱逐§Y欧洲殖民势力§W;;;;;;;;;;;;x
+monroe_doctrine_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+monroe_doctrine_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+oriental_crisis;东方危机;;;;;;;;;;;;x
+oriental_crisis_desc;从埃及控制下解放§Y奥斯曼领土§W;;;;;;;;;;;;x
+oriental_crisis_short;$THIRD$获得$STATE$;;;;;;;;;;;;x
+oriental_crisis_setup;将$STATE$从$RECIPIENT$归还给$THIRD$;;;;;;;;;;;;x
+restore_america;获得美国核心;;;;;;;;;;;;x
+restore_america_desc;获得敌方控制的§Y省份§W以§Y重建美利坚合众国§W;;;;;;;;;;;;x
+restore_america_short;获得$STATE$;;;;;;;;;;;;x
+restore_america_setup;从$RECIPIENT$获得核心领土$STATE$;;;;;;;;;;;;x
+claim_holy_land;夺回圣地;;;;;;;;;;;;x
+claim_holy_land_desc;获得已经被§Y奥斯曼帝国§W放弃的§Y黎凡特地区§W某省份;;;;;;;;;;;;x
+claim_holy_land_short;获得$STATE$;;;;;;;;;;;;x
+claim_holy_land_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+restore_british_raj;宣称英属印度;;;;;;;;;;;;x
+restore_british_raj_desc;将本属于§Y英属印度§W的一个§Y敌对国家§W变为傀儡;;;;;;;;;;;;x
+restore_british_raj_short;$RECIPIENT$成为$ACTOR$的傀儡国;;;;;;;;;;;;x
+restore_british_raj_setup;$RECIPIENT$成为$ACTOR$的傀儡国;;;;;;;;;;;;x
+great_game_cb;大博弈;;;;;;;;;;;;x
+great_game_cb_desc;英俄大博弈的目标是将中亚所有§Y未开化国家§W转化为§Y傀儡国§W，以免对方做出同样的事情。;;;;;;;;;;;;x
+great_game_cb_short;$RECIPIENT$成为$ACTOR$的傀儡国;;;;;;;;;;;;x
+great_game_cb_setup;$RECIPIENT$成为$ACTOR$的傀儡国;;;;;;;;;;;;x
+china_acquire_state;统一中国;;;;;;;;;;;;x
+china_acquire_state_short;获得$STATE$;;;;;;;;;;;;x
+china_acquire_state_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+china_acquire_state_desc;获得中国的一个§Y地区§W;;;;;;;;;;;;x
+unification_GP_humiliate;民族统一战争(羞辱);;;;;;;;;;;;x
+unification_GP_humiliate_short;羞辱$RECIPIENT$;;;;;;;;;;;;x
+unification_GP_humiliate_setup;羞辱$RECIPIENT$;;;;;;;;;;;;x
+unification_GP_humiliate_desc;羞辱§Y同文化组的列强§W来展现我国的军事实力，在提升我国§Y威望§W的同时降低他们的。;;;;;;;;;;;;x
+colonial_reconquest_cb;收复殖民地;;;;;;;;;;;;x
+colonial_reconquest_cb_desc;强制§Y叛乱殖民地§W重归宗主国;;;;;;;;;;;;x
+colonial_reconquest_cb_setup;吞并我国发生叛乱的殖民地$RECIPIENT$;;;;;;;;;;;;x
+colonial_reconquest_cb_short;重新吞并$RECIPIENT$;;;;;;;;;;;;x
+acquire_any_state;获得地区;;;;;;;;;;;;x
+acquire_any_state_desc;获得敌方的一个§Y地区§W;;;;;;;;;;;;x
+acquire_any_state_short;获得$STATE$;;;;;;;;;;;;x
+acquire_any_state_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+conquest_any;征服;;;;;;;;;;;;x
+conquest_any_desc;征服§Y敌方国家§W;;;;;;;;;;;;x
+conquest_any_setup;吞并$RECIPIENT$;;;;;;;;;;;;x
+conquest_any_short;吞并$RECIPIENT$;;;;;;;;;;;;x
+sahel_jihad_cb;萨赫勒圣战;;;;;;;;;;;;x
+sahel_jihad_cb_desc;获得异教§Y省份§W;;;;;;;;;;;;x
+sahel_jihad_cb_short;获得$STATE$;;;;;;;;;;;;x
+sahel_jihad_cb_setup;从$RECIPIENT$获得$STATE$;;;;;;;;;;;;x
+acquire_all_cores;获得所有核心领土;;;;;;;;;;;;x
+acquire_all_cores_short;从$RECIPIENT$获得所有核心领土;;;;;;;;;;;;x
+acquire_all_cores_setup;从$RECIPIENT$获得所有核心领土;;;;;;;;;;;;x
+acquire_all_cores_desc;获得敌方一切拥有我国§Y核心宣称§W的§Y省份§W;;;;;;;;;;;;x
+AGRESSION_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$美英战争;;;;;;;;;;;;x
+NORMAL_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$美英战争;;;;;;;;;;;;x
+AGRESSION_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$美英战争;;;;;;;;;;;;x
+NORMAL_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$美英战争;;;;;;;;;;;;x

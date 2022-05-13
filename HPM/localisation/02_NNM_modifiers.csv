@@ -1,222 +1,223 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-state_of_emergency_modifier;State of Emergency;;;;;;;;;;;;;
-state_of_emergency_modifier_desc;State of Emergency or State of Exception means that the government can suspend and/or change some functions of the executive, the legislative and/or the judiciary during this period of time. It alerts citizens to change their normal behavior and orders government agencies to implement emergency plans. A government can declare a state of emergency during a time of natural or human-made disaster, during a period of civil unrest, or following a declaration of war or situation of international/internal armed conflict.;;;;;;;;;;;;;
-ANY_ALL;Any province;;;;;;;;;;;;;
-HAS_NOT_GOODS;produces ;;;;;;;;;;;;;
-IS_IN_REGION; is in the region ;Est dans la région;Ist in der Region ;;Está en la región;;;;;;;;;
-TRIGMOD_HEADER;The $MONARCHTITLE$ reports that;$head_of_government$ rapporte que;$head_of_government$ berichtet, dass;Kiedy modyfikator zwi¹zany z okreœlonym wydarzeniem wp³ywa na twoje pañstwo (np. c³o narzucone przez pañstwo trzecie);$head_of_government$ informa de;Quando subisci l'influenza di un modificatore condizionato (ad es. il Pedaggio sullo Stretto);Mikor valami esemény módosulása van rád hatással (korábbi hang-vám);Kdy jste subjektem trojnásobného modifikátoru;;;;;;
-TRIGMODLOST_HEADER;The $MONARCHTITLE$ reports that;$head_of_government$ rapporte que;$head_of_government$ berichtet, dass;Kiedy modyfikator zwi¹zany z okreœlonym wydarzeniem przestaje oddzia³ywaæ na twoje pañstwo (np. c³o narzucone przez pañstwo trzecie);$head_of_government$ informa de;Quando l'effetto di un modificatore condizionato (ad es. il Pedaggio sullo Stretto) cessa;Mikor egy módosítást okozó esemény befejezõdik (korábbi hang-vám);Kdy jste subjektem trojnásobného modifikátoru.;;;;;;
-TRIGGER_CIV_PROGRESS_LESS;Civilization progress: §Y50§W%;;;;;;;;;;;;;
-had_liberal_revolution;Liberal Revolution has ended;;;;;;;;;;;;;
-oriental_crisis_support_OE;Supports the Ottomans;;;;;;;;;;;;;
-oriental_crisis_support_Egypt;Supports the Egyptians;;;;;;;;;;;;;
-MAJORITY_IS_NOT;Majority of the population is not ;;;;;;;;;;;;;
-crimean_surrender;the Ottomans have surrendered;;;;;;;;;;;;;
-colonial_chaos;Colonial Chaos;;;;;;;;;;;;;
-colonial_chaos_desc;Our colony is in chaos, and we are in danger of losing it utterly if order is not restored soon!;;;;;;;;;;;;;
-loss_of_control;Loss of Control;;;;;;;;;;;;;
-loss_of_control_desc;We have lost control over the colony.;;;;;;;;;;;;;
-nationalist_agitation;Nationalist Agitation;;;;;;;;;;;;;
-nationalist_agitation_desc;Nationalists are active in the province, stirring up trouble with random acts of violence. If left unchecked, they may rise in rebellion against us.;;;;;;;;;;;;;
-patriot_uprising;Patriot Uprising;;;;;;;;;;;;;
-patriot_uprising_desc;Foreign patriots have taken control of the province.;;;;;;;;;;;;;
-the_ikhwan;The Ikhwan;;;;;;;;;;;;;
-the_ikhwan_desc;An alliance has been made with the Bedouin Wahhabists. Islam shall remain pure in our nation, in exchange for their military support.;;;;;;;;;;;;;
-mandate;Mandate of Heaven;;;;;;;;;;;;;
-holy_city;The Holy City;;;;;;;;;;;;;
-holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;;;;;;;;;;
-self_strengthening_movement;Self-Strengthening Movement;;;;;;;;;;;;;
-drive_to_reunify;Reunification Drive;;;;;;;;;;;;;
-drive_to_reunify_desc;We must reunite the country, at any cost!;;;;;;;;;;;;;
-taiping_draft;Emergency Draft;;;;;;;;;;;;;
-the_female_shortage;The Female Shortage;;;;;;;;;;;;;
-the_female_shortage_desc;A populational deficit means that there are more men than women in China, slowing down population growth and upsetting the mass of single males that will never form a family.;;;;;;;;;;;;;
-christian_pamphlets;Christian Pamphlets;;;;;;;;;;;;;
-chinese_floods;Chinese Floods;;;;;;;;;;;;;
-small_country_draft;Emergency Draft;;;;;;;;;;;;;
-small_country_draft_desc;We must recruit all able-bodied men to fight!;;;;;;;;;;;;;
-daimyo_draft;Emergency Draft;;;;;;;;;;;;;
-daimyo_draft_desc;We must recruit all able-bodied men to fight!;;;;;;;;;;;;;
-sons_of_liberty;Sons of Liberty;;;;;;;;;;;;;
-sons_of_liberty_desc;A militia of pro-democracy liberals, determined to either see the United States returned to its democratic tradition or secede their state from the union.;;;;;;;;;;;;;
-peasant_revolt;Open Revolt;;;;;;;;;;;;;
-peasant_revolt_desc;There is increased agitation within the province, including riots and random violence which the local government has had difficulty putting down.;;;;;;;;;;;;;
-shastar_vidya;Shastar Vidiya;;;;;;;;;;;;;
-shastar_vidya_desc;The renowned Sikh fighting style, it is a martial art involving sword play ...and has made the Sikhs into fearsome combatants.;;;;;;;;;;;;;
-force_publique;Force Publique;;;;;;;;;;;;;
-force_publique_title;Form the Force Publique;;;;;;;;;;;;;
-force_publique_desc;The Force Publique was the official armed force of the Belgian-controlled Congo Free State. Though ostensibly formed to combat Arab Slavers, the soldiers were often used to enforce economic quotas with brutal punishment.;;;;;;;;;;;;;
-rcmp;R.C.M.P.;;;;;;;;;;;;;
-rcmp_desc;The Royal Canadian Mounted Police was formed to patrol the newly-acquired North-West Territories, eventually uniting with the Dominion Police to keep order throughout all Canadian provinces.;;;;;;;;;;;;;
-kalmar_union;Kalmar Union;;;;;;;;;;;;;
-kalmar_union_desc;We have agreed in principle to a closer bond with the other Scandinavian nations.;;;;;;;;;;;;;
-leader_of_kalmar;Leader of the Kalmar Union;;;;;;;;;;;;;
-leader_of_kalmar_desc;We are the leader of the movement to unite the Scandinavian people under a single flag.;;;;;;;;;;;;;
-customs_union;Customs Union;;;;;;;;;;;;;
-customs_union_desc;We are a member of a customs union, designed to reduce the barriers in trade between the member nations.;;;;;;;;;;;;;
-national_instability;National Instability;;;;;;;;;;;;;
-national_instability_desc;The country is in a state of turmoil, and is in danger of rebellions.;;;;;;;;;;;;;
-home_of_the_mormons;Home of the Mormons;;;;;;;;;;;;;
-home_of_the_mormons_desc;the Mormons believe in polygamy, the taking of many wives, and encourage their followers to have large families.;;;;;;;;;;;;;
-gateway_to_america;Gateway to America;;;;;;;;;;;;;
-gateway_to_america_desc;Many immigrants from Europe will pass through the gates of Ellis Island, and a great number of them will remain in New York City.;;;;;;;;;;;;;
-carlist_sympathies;Carlist Sympathies;;;;;;;;;;;;;
-carlist_sympathies_desc;A Carlist cell is at work in the province, and is quickly gaining sympathy for the rebels that wish to topple the Spanish government.;;;;;;;;;;;;;
-christino_sympathies;Christino Sympathies;;;;;;;;;;;;;
-christino_sympathies_desc;A Christino cell is at work in the province, and is quickly gaining sympathy for the rebels that wish to topple the Spanish government.;;;;;;;;;;;;;
-war_torn;War Torn;;;;;;;;;;;;;
-war_torn_desc;This province has been devastated by the rebellion.;;;;;;;;;;;;;
-boxer_rebellion;Boxer Rebellion;;;;;;;;;;;;;
-boxer_rebellion_desc;The province is currently held by the Boxer rebels, and is in great disarray.;;;;;;;;;;;;;
-new_country;Newly-Established Country;;;;;;;;;;;;;
-new_country_desc;This country has just been established, and its citizens are willing to work harder to keep it running… for the time being.;;;;;;;;;;;;;
-jewish_diaspora;Jewish Diaspora;;;;;;;;;;;;;
-jewish_diaspora_desc;The Jewish community is organizing in reaction to the creation of Israel.;;;;;;;;;;;;;
-declaration_of_the_rights_of_man;Declaration of the Rights of Man;;;;;;;;;;;;;
-declaration_of_the_rights_of_man_desc;The Declaration of the Rights of Man and of the Citizen, a fundamental document of the French Revolution, defined the individual and collective rights of all the estates of the realm as universal.;;;;;;;;;;;;;
-caste_privileges;Caste Privilege;;;;;;;;;;;;;
-caste_privileges_desc;An early goal of British Imperialists in India was to create a class of local elites in their own image. They were successful, forming a new caste of wealthy Indians who rose to prominence within the colony.;;;;;;;;;;;;;
-sati_abolished;Abolishment of Sati;;;;;;;;;;;;;
-sati_abolished_desc;The abolishment of Sati funeral practices, where a recent widow immolated herself on her husband's grave, was incredibly unpopular in some parts of India.;;;;;;;;;;;;;
-pig_fat_cartridges;Pig Fat Cartridges;;;;;;;;;;;;;
-pig_fat_cartridges_desc;The issuing of gunpowder cartridges which were believed to be greased with pig fat was considered an incredible insult by Sepoy soldiers, and further evidence of the growing cultural rift between Indians and colonial powers.;;;;;;;;;;;;;
-carlism;Carlism;;;;;;;;;;;;;
-carlism_desc;Carlism is a traditionalist and legitimist political movement in Spain seeking the establishment of a separate line of the Bourbon family on the Spanish throne. This line descended from Infante Carlos, Count of Molina, and was founded due to dispute over the succession laws and widespread dissatisfaction with the Alfonsine line of the House of Bourbon.;;;;;;;;;;;;;
-spirit_of_freedom;The Spirit of Freedom;;;;;;;;;;;;;
-spirit_of_freedom_desc;For some cultures, the notion of democracy and individual freedom is rooted in their very psyche.;;;;;;;;;;;;;
-national_identity;National Identity;;;;;;;;;;;;;
-national_identity_desc;The concept of nationhood began taking hold in the late 19th century, as people began to identify more with the country they lived in rather than a particular region. Nationalism quickly gave rise to rebels who sought independence from foreign rule, or to rejoin their homeland.;;;;;;;;;;;;;
-anti_jacobin_movement;Anti-Jacobin;;;;;;;;;;;;;
-anti_jacobin_movement_desc;A reaction to the Jacobins and the struggle for democracy, reactionary elements in countries became very entrenched against democracy as a concept-- calling it 'inherently flawed' and misguided, as well as a source of chaos, rather than holding the possibility of anything useful or good.;;;;;;;;;;;;;
-sharia_law;Sharia Law;;;;;;;;;;;;;
-sharia_law_desc;Sharia is the strict moral code and religious law of Islam, considered the infallible law of God-- interpreted by Islamic judges who have responsibilities to religious leaders.;;;;;;;;;;;;;
-ottoman_oppression;Christian Oppression;;;;;;;;;;;;;
-ottoman_oppression_desc;A number of Ottoman policies regarding Christians within the Empire, such as the Jizya tax and restrictions on work and movement, set the stage for issues in the Balkans for years to come. These policies were not revoked until the Tanzimat Reforms which began in 1839.;;;;;;;;;;;;;
-ottomanism_reform;Imperial Reform Edict;;;;;;;;;;;;;
-ottomanism_reform_desc;The Hatt-i Hümayun has established religious equality among the Empire's minorities, and gone a long way towards assuaging some of the concerns of nationalists within our borders.;;;;;;;;;;;;;
-great_statesman;Great Statesman;;;;;;;;;;;;;
-great_statesman_desc;Our leader is an able speaker and a fine statesman, respected by other world leaders.;;;;;;;;;;;;;
-begin_revolution;Revolutionary State;;;;;;;;;;;;;
-begin_revolution_desc;Our country is a fledgling state, founded in the midst of chaos and rebellion. But the people are willing to fight!;;;;;;;;;;;;;
-zemene_mesafint;Zemene Mesafint;;;;;;;;;;;;;
-zemene_mesafint_desc;The 'Age of Princes', where the rulers of Ethiopia must struggle to unite the nation under a single Emperor.;;;;;;;;;;;;;
-irish_integration;Irish Integration;;;;;;;;;;;;;
-irish_oppression;Irish Destitution;;;;;;;;;;;;;
-irish_oppression_desc;The system of absentee landownership has left Ireland a model of inefficiency, and left the Irish continually struggling and rebelling against British rule for centuries.;;;;;;;;;;;;;
-land_of_opportunity;Land of Opportunity;;;;;;;;;;;;;
-land_of_opportunity_desc;By the late 19th century our industry, banking system and the free movement of population established with our neighbors caused a boom of migrant workers that come to work in our industry and in our banks, eventually settling in Switzerland.;;;;;;;;;;;;;
-swiss_banking;Swiss Banking;;;;;;;;;;;;;
-swiss_banking_desc;The Swiss run an efficient and internationally recognized banking system. The rich from all over the world come to Switzerland for their banking needs.;;;;;;;;;;;;;
-anynomous_investor_business;Anonymous Investor Business;;;;;;;;;;;;;
-anynomous_investor_business_desc;This style of business culture meant that the owners treated the business as an investment. Ownership was not about producing and selling things. Instead the only reason for being the owner was to see the business ratios rise. This practice was professional, but lacked commitment and was intensely risk-aversive.;;;;;;;;;;;;;
-boer_republic;Boer Republic;;;;;;;;;;;;;
-integration_refusal;No Integration;;;;;;;;;;;;;
-integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;;;;;;;;;;
-core_integration;Core Integration;;;;;;;;;;;;;
-core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;;;;;;;;;;
-national_assimilation_complete;National Assimilation Complete;;;;;;;;;;;;;
-national_assimilation;National Assimilation;;;;;;;;;;;;;
-national_assimilation_desc;This province is undergoing assimilation to remove the claims that other countries have upon it.;;;;;;;;;;;;;
-national_assimilation_rejection;Assimilation Rejection;;;;;;;;;;;;;
-national_assimilation_rejection_desc;The minorities in this province have rejected the policies of national assimilation.;;;;;;;;;;;;;
-national_assimilation_acceptance;Assimilation Acceptance;;;;;;;;;;;;;
-national_assimilation_acceptance_desc;The minorities in this province have accepted the policies of national assimilation.;;;;;;;;;;;;;
-christian_repression;Christian Repression;;;;;;;;;;;;;
-christian_repression_desc;Taiping missionaries are being actively repressed in this province.;;;;;;;;;;;;;
-anti_manchu_sentiment;Anti-Manchu Sentiment;;;;;;;;;;;;;
-anti_manchu_sentiment_desc;There is a great deal of bitterness against the Qing Dynasty's rulers in this province.;;;;;;;;;;;;;
-louis_napoleon_iii;Louis-Napoléon Bonaparte;;;;;;;;;;;;;
-louis_napoleon_iii_desc;Nephew and heir of Napoleon I, he is a man of the people and carries with him a legacy that makes him seemingly invincible-- even if, at times, his decisions are reckless and of questionable military value.;;;;;;;;;;;;;
-begin_disunited_states;Disunited States;;;;;;;;;;;;;
-begin_disunited_states_desc;With the transition of the United States away from democracy, the Sons of Liberty have arisen in an effort fight what they call tyranny. It will take time for this resistance to calm, and until it does there shall be much talk of secession and even open revolt.;;;;;;;;;;;;;
-election_cooldown;Ongoing Elections;;;;;;;;;;;;;
-desc_election_cooldown;Our voters are currently debating and discussing all important issues.;;;;;;;;;;;;;
-violent_elections;Violent Elections;;;;;;;;;;;;;
-desc_violent_elections;The current elections turned out have a quite violent undertone in the ongoing campaigns.;;;;;;;;;;;;;
-social_reform_movement;Social Reform Movement;;;;;;;;;;;;;
-desc_social_reform_movement;Socialists and communists have initiated a countrywide agenda for better living conditions.;;;;;;;;;;;;;
-wartime_elections;War-time Elections;;;;;;;;;;;;;
-wartime_elections_desc;The elections are taking place in a time of war, an event which has taken center stage in the debates.;;;;;;;;;;;;;
-loss_of_support;Loss of Support;;;;;;;;;;;;;
-loss_of_support_desc;The ruling party has lost support in this area.;;;;;;;;;;;;;
-support_the_government;Government Support;;;;;;;;;;;;;
-support_the_government_desc;The ruling party has extra support in this area.;;;;;;;;;;;;;
-nothing_stops_progress;Nothing Stops Progress;;;;;;;;;;;;;
-nothing_stops_progress_desc;We are arresting the reactionary agitators and proceeding with reforms as planned.;;;;;;;;;;;;;
-slow_down_progress;Reform Restrictions;;;;;;;;;;;;;
-slow_down_progress_desc;Perhaps it is best if we apply brakes to the rate of reforms. We must allow our people to catch up!;;;;;;;;;;;;;
-ruling_party_scandal;National Scandal;;;;;;;;;;;;;
-ruling_party_scandal_desc;A recent scandal has rocked the government and eroded support for the ruling party.;;;;;;;;;;;;;
-party_scandal_evidence;Major National Scandal;;;;;;;;;;;;;
-party_scandal_evidence_desc;Evidence has come to light which has only worsened the national scandal, putting the government at dire risk if it should come to an election.;;;;;;;;;;;;;
-line_of_advantage;Line of Advantage;;;;;;;;;;;;;
-line_of_advantage_desc;The concept of riekisen, or the 'line of advantage', means that we must extend Japanese influence beyond our national borders in order to ensure our security. This means turning all of the Japanese military, and indeed our people, to the notion of foreign conquest and glory.;;;;;;;;;;;;;
-no_line_of_advantage;Path of Progress;;;;;;;;;;;;;
-no_line_of_advantage_desc;Instead of focusing on military might and conquest, Japanese security must be provided by devotion to technological progress and reform. We must match the Western powers, and quickly, or they will surely take advantage and find Japan sorely unprepared.;;;;;;;;;;;;;
-border_incident;Recent Border Incident;;;;;;;;;;;;;
-border_incident_desc;We have recently had a border incident, stirring up trouble with a Great Power.;;;;;;;;;;;;;
-the_british_raj;The Indian Raj;;;;;;;;;;;;;
-the_british_raj_desc;Greatest of the jewels in our nation's crown is the Indian Raj.;;;;;;;;;;;;;
-dutch_east_india;East India Company;;;;;;;;;;;;;
-dutch_east_india_desc;Greatest of the jewels in our nation's crown is the East Indies colony.;;;;;;;;;;;;;
-vassal_nation;Vassal Nation;;;;;;;;;;;;;
-vassal_nation_desc;As a vassal nation to a foreign power, we will always be seen as a lesser country in the eyes of the rest of the world.;;;;;;;;;;;;;
-coup_risk;Coup D'etat Risk;;;;;;;;;;;;;
-coup_risk_desc;There is dissension within the nation's military, one that is leading to a breakdown of order not only within the ranks but within the country itself. Some fear the army will rise up and take over the government.;;;;;;;;;;;;;
-military_strife;Military Strife;;;;;;;;;;;;;
-military_strife_desc;We are battling with our own army to prevent them from taking over the government. Purges are not infrequent, and the chances of soldiers defecting to join rebel causes raises with every passing day.;;;;;;;;;;;;;
-vangaurd_party;Vanguard Party;;;;;;;;;;;;;
-mixed_economy_desc;Mixed economy is an economic system in which both the state and private sector direct the economy, reflecting characteristics of both market economies and planned economies. Most mixed economies can be described as market economies with strong regulatory oversight, and many mixed economies feature a variety of government-run enterprises and governmental provision of public goods.;;;;;;;;;;;;;
-the_dark_continent;The Dark Continent;;;;;;;;;;;;;
-the_dark_continent_desc;A common name for Africa prior to its exploration, 'the Dark Continent' referred to the deep interior where few men had ever seen much less knew anything about. These deep jungles and desolate wastes were a no-man's-land, populated primarily by natives who had little contact with civilization. With the increase of exploration brought on by colonialism, suddenly the ability to colonize the areas previously denied to us has become possible.;;;;;;;;;;;;;
-fight_the_power;Government Resistance;;;;;;;;;;;;;
-fight_the_power_desc;There is rising dissension against the government, both among the people and within the military. We will have difficulty keeping order until this passes.;;;;;;;;;;;;;
-national_confusion;National Confusion;;;;;;;;;;;;;
-national_confusion_desc;There has been a great deal of change in our country. It will take some time to sort things out, before business as usual can resume.;;;;;;;;;;;;;
-neutrality_modifier;Political Neutrality;;;;;;;;;;;;;
-neutrality_modifier_desc;Our country deliberately takes no sides. We do not go to war, even against those the world universally reviles, and thus expect that no one shall go to war against us. This means we will likely never achieve recognition as a 'mover and shaker', but it also protects us. We shall not abandon our principles for the sake of power and influence.;;;;;;;;;;;;;
-apache_raiders;Apache Raiders;;;;;;;;;;;;;
-irish_potato_blight;Potato Blight;Le mildiou de la pomme de terre;Kartoffelfäule;;;;;;;;;;;
-irish_potato_blight_desc;Famine spreads as crops lie, dead and rotting, in our fields.;La famine s'étend tandis que les cultures pourrissent dans nos champs.;Hunger breitet sich aus, weil die Ernte tot und verfaulend auf unseren Feldern liegt.;;;;;;;;;;;
-irish_republicans;Irish Republicans;;;;;;;;;;;;;
-irish_republicans_desc;Down with the monarchy! An Irish Free State is the only solution!;;;;;;;;;;;;;
-irish_unionists;Irish Unionists;;;;;;;;;;;;;
-irish_unionists_desc;Ireland is a part of the United Kingdom, now and forever more! We will not turn our back on the monarchy!;;;;;;;;;;;;;
-power_vacuum;Power Vacuum;;;;;;;;;;;;;
-power_vacuum_desc;The government is in a state of transition as it struggles to find its new leader… or fall in the process.;;;;;;;;;;;;;
-chinese_substate;Qing Oppression;;;;;;;;;;;;;
-chinese_substate_desc;The oppression by the Qing Emperor has left our nation in disarray.;;;;;;;;;;;;;
-treaties_of_velasco;Treaties of Velasco;;;;;;;;;;;;;
-treaties_of_velasco_desc;The treaties may be worth less than the paper they're printed on, but they supposedly offer us a guarantee of independence from Mexico. We shall see if they last.;;;;;;;;;;;;;
-recent_crisis;Recent Crisis;;;;;;;;;;;;;
-recent_crisis_desc;We have been the instigators in a recent crisis. Until memories fade, the world will likely tend to overlook any further demands we make for our territories.;;;;;;;;;;;;;
-switched_production;Switched Production;;;;;;;;;;;;;
-switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;;;;;;;;;;;;;
-new_production;New Plantation;;;;;;;;;;;;;
-new_production_desc;A new plantation has been started in this province, moving production over to cash crops rather than than the traditional farming which has been done here by the natives.;;;;;;;;;;;;;
-emergency_tax_measures1;Emergency Measures;;;;;;;;;;;;;
-emergency_tax_measures1_desc;Our financial situation has forced us to adopt draconian, and very unpopular, tax measures.;;;;;;;;;;;;;
-emergency_tax_measures2;Extreme Measures;;;;;;;;;;;;;
-emergency_tax_measures2_desc;Our financial situation has forced us to adopt draconian, and very unpopular, tax measures.;;;;;;;;;;;;;
-boxer_presence;Boxer Presence;;;;;;;;;;;;;
-boxer_presence_desc;The Righteous Harmony Society is present in this province, disrupting regular trade as they act against foreign influence.;;;;;;;;;;;;;
-boxer_agitation;Boxer Agitation;;;;;;;;;;;;;
-boxer_agitation_desc;Our efforts to suppress the Boxers in this province has angered them, turning these nationalists against our government.;;;;;;;;;;;;;
-international_pariah;International Pariah;Paria International;Internationales Ausgestossen;;;;;;;;;;;
-international_pariah_desc;We are a pariah in the international community for our aggressive policies.;;;;;;;;;;;;;
-great_war;Total War;Guerre Totale;Größer Krieg;;;;;;;;;;;
-great_war_desc;We are in a state of total war with our enemies. We must rise up as one, or risk the destruction of our entire way of life.;;;;;;;;;;;;;
-great_war2;The Demands of War;Les Demandes de la Guerre;Die Nachfragen des Krieges;;;;;;;;;;;
-great_war2_desc;Massive shortages are causing our people's enthusiasm for war to dim.;;;;;;;;;;;;;
-great_war3;Is It All For Nothing?;Est-il Tout Pour Rien?;Ist Alles Für Nichts?;;;;;;;;;;;
-great_war3_desc;If we do not end the war soon, things will go very badly for us.;;;;;;;;;;;;;
-gateway_to_harbor;Gateway to a New Land;;;;;;;;;;;;;
-gateway_to_harbor_desc;Many immigrants from around the world will pass through our great harbor, and a great number of them will remain in the city.;;;;;;;;;;;;;
-rebel_cell_discovered;Rebel Cell Discovered;;;;;;;;;;;;;
-rebel_cell_discovered_desc;With one rebel cell uncovered, it's only a matter of time before we discover the rest and stamp them out!;;;;;;;;;;;;;
-fukoku_kyohei;Fukoku Kyohei;;;;;;;;;;;;;
-may_day;May Day;;;;;;;;;;;;;
-may_day_desc;Our nation celebrates socialism. Let the greedy capitalists of the land shake in their boots!;;;;;;;;;;;;;
-militant_trade_union;Militant Trade Union;;;;;;;;;;;;;
-dissatisfied_workers;Dissatisfied Workers;;;;;;;;;;;;;
-worker_revolt;Worker Revolt;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+state_of_emergency_modifier;½ô¼±×´Ì¬;;;;;;;;;;;;x
+state_of_emergency_modifier_desc;½ô¼±×´Ì¬»òÀıÍâ×´Ì¬ÒâÎ¶×ÅÕş¸®¿ÉÒÔÔÚ´ËÆÚ¼äÔİÍ£ºÍ/»ò¸ü¸ÄĞĞÕş£¬Á¢·¨ºÍ/»òË¾·¨»ú¹¹µÄÄ³Ğ©Ö°ÄÜ¡£ËüÌáĞÑ¹«Ãñ¸Ä±äËûÃÇµÄÕı³£ĞĞÎª£¬²¢ÃüÁîÕş¸®»ú¹¹ÊµÊ©Ó¦¼±¼Æ»®¡£ÔÚ×ÔÈ»ÔÖº¦»òÈËÎªÔÖÄÑÆÚ¼ä£¬ÔÚÄÚÂÒÆÚ¼ä£¬»òÔÚĞûÕ½»ò¹ú¼Ê/¹úÄÚÎä×°³åÍ»¾ÖÊÆÖ®ºó£¬Õş¸®¿ÉÒÔĞû²¼½øÈë½ô¼±×´Ì¬¡£;;;;;;;;;;;;x
+ANY_ALL;ÈÎºÎÊ¡·İ;;;;;;;;;;;;x
+HAS_NOT_GOODS;Éú²ú;;;;;;;;;;;;x
+IS_IN_REGION;ÔÚ¸ÃµØÇøÄÚ;;;;;;;;;;;;x
+TRIGMOD_HEADER;$MONARCHTITLE$±¨¸æ£¬;;;;;;;;;;;;x
+TRIGMODLOST_HEADER;$MONARCHTITLE$±¨¸æ£¬;;;;;;;;;;;;x
+TRIGGER_CIV_PROGRESS_LESS;¿ª»¯½ø³Ì£º ¡ìY50¡ìW%;;;;;;;;;;;;x
+had_liberal_revolution;×ÔÓÉÖ÷Òå¸ïÃüÒÑ¾­½áÊøÁË;;;;;;;;;;;;x
+oriental_crisis_support_OE;Ö§³Ö°ÂË¹Âü;;;;;;;;;;;;x
+oriental_crisis_support_Egypt;Ö§³Ö°£¼°;;;;;;;;;;;;x
+MAJORITY_IS_NOT;ÈË¿ÚÖĞµÄ´ó²¿·Ö¶¼²»ÊÇ ;;;;;;;;;;;;x
+crimean_surrender;°ÂË¹ÂüÒÑÍ¶½µ;;;;;;;;;;;;x
+colonial_chaos;»ìÂÒµÄÖ³ÃñµØ;;;;;;;;;;;;x
+colonial_chaos_desc;ÎÒÃÇµÄÖ³ÃñµØ´¦ÓÚ»ìÂÒÖĞ£¬Èç¹ûÎÒÃÇ²»¾¡¿ì»Ö¸´ÖÈĞòÄÇÃ´ÎÒÃÇ¾ÍÓĞÍêÈ«Ê§È¥ËüµÄÎ£ÏÕ£¡;;;;;;;;;;;;x
+loss_of_control;Ê§È¥¿ØÖÆÈ¨;;;;;;;;;;;;x
+loss_of_control_desc;ÎÒÃÇÒÑ¾­Ê§È¥ÁË¶ÔÖ³ÃñµØµÄ¿ØÖÆ¡£;;;;;;;;;;;;x
+nationalist_agitation;Ãñ×åÖ÷Òå·ç³±;;;;;;;;;;;;x
+nationalist_agitation_desc;Ãñ×åÖ÷ÒåÕßÔÚ¸ÃÊ¡»îÔ¾£¬Ëæ»ú±©Á¦ĞĞÎªÖú³¤ÁËÂé·³¡£ Èç¹û²»¼ÓÖÆÖ¹£¬ËûÃÇ¿ÉÄÜ»áÆğÀ´·´¿¹ÎÒÃÇ¡£;;;;;;;;;;;;x
+patriot_uprising;°®¹úÖ÷ÒåÕßÆğÒå;;;;;;;;;;;;x
+patriot_uprising_desc;Íâ¹úµÄ°®¹úÖ÷ÒåÕßÒÑ¾­¿ØÖÆÁËÊ¡·İ¡£;;;;;;;;;;;;x
+the_ikhwan;ÒÁºÕÍò£¨Ikhwan£©;;;;;;;;;;;;x
+the_ikhwan_desc;ÎÒÃÇÒÑ¾­Óë±´¶¼ÒòµÄÍß¹ş±ÈÅÉĞÅÍ½½áÃË¡£ÔÚÎÒÃÇµÄ¹ú¼ÒÒÁË¹À¼½«±£³Ö´¿¾»£¬Îª»Ø±¨ÎÒÃÇ£¬ËûÃÇ½«ÏòÎÒÃÇÌá¹©¾üÊÂÖ§³Ö¡£;;;;;;;;;;;;x
+mandate;ÌìÃü;;;;;;;;;;;;x
+holy_city;Ê¥³Ç;;;;;;;;;;;;x
+holy_city_desc;Âó¼ÓÊÇÒÁË¹À¼ÊÀ½çµÄÖĞĞÄ¡£Õ¼ÓĞËı¾ÍÒâÎ¶×ÅÎÒÃÇ³¬¹ıÁËÆäËûËùÓĞÒÁË¹À¼¹ú¼Ò£¬²¢ÄÜÏòËûÃÇÖ¤Ã÷ÒÁË¹À¼ÊÀ½çÎ´À´µÄÃüÔËÕÆÎÕÔÚÎÒÃÇµÄÊÖÖĞ¡£;;;;;;;;;;;;x
+self_strengthening_movement;×ÔÇ¿ÔË¶¯;;;;;;;;;;;;x
+drive_to_reunify;ÍÆ¶¯Í³Ò»;;;;;;;;;;;;x
+drive_to_reunify_desc;ÎÒÃÇ±ØĞëÖØĞÂÍ³Ò»¹ú¼Ò£¬ÎŞÂÛ¸¶³öÊ²Ã´´ú¼Û£¡;;;;;;;;;;;;x
+taiping_draft;½ô¼±Õ÷±ø;;;;;;;;;;;;x
+the_female_shortage;Å®ĞÔ²»×ã;;;;;;;;;;;;x
+the_female_shortage_desc;ÈË¿Ú³à×ÖÒâÎ¶×ÅÖĞ¹úµÄÄĞĞÔ±ÈÅ®ĞÔ¶à£¬ÈË¿ÚÔö³¤·Å»º£¬Ê¹¾ø´ó¶àÊıµ¥ÉíÄĞĞÔÎŞ·¨×é½¨¼ÒÍ¥¡£;;;;;;;;;;;;x
+christian_pamphlets;»ù¶½½ÌĞ¡²á×Ó;;;;;;;;;;;;x
+chinese_floods;ºéÀÔÆÆ»µ;;;;;;;;;;;;x
+small_country_draft;½ô¼±Õ÷±ø;;;;;;;;;;;;x
+small_country_draft_desc;ÎÒÃÇ±ØĞëÕĞÄ¼ËùÓĞÉíÇ¿Á¦×³µÄÄĞÈËÈ¥Õ½¶·£¡;;;;;;;;;;;;x
+daimyo_draft;½ô¼±Õ÷±ø;;;;;;;;;;;;x
+daimyo_draft_desc;ÎÒÃÇ±ØĞëÕĞÄ¼ËùÓĞÉíÇ¿Á¦×³µÄÄĞÈËÈ¥Õ½¶·£¡;;;;;;;;;;;;x
+sons_of_liberty;×ÔÓÉÖ®×Ó;;;;;;;;;;;;x
+sons_of_liberty_desc;Ò»¸öÓÉÖ§³ÖÃñÖ÷µÄ×ÔÓÉÖ÷ÒåÕß×é³ÉµÄÃñ±ø×éÖ¯¾öĞÄÒªÃ´ÈÃºÏÖÚ¹ú»Ø¹éÃñÖ÷´«Í³£¬ÒªÃ´ÈÃËûÃÇµÄÖİÍÑÀëÁª°î¡£;;;;;;;;;;;;x
+peasant_revolt;Å©ÃñÅÑÂÒ;;;;;;;;;;;;x
+peasant_revolt_desc;Õâ¸öÊ¡·İ²»ÊÇºÜÎÈ¶¨£¬¸÷ÖÖÉ§ÂÒÓëºáĞĞµÄ±©Á¦ÈÃµ±µØÕş¸®´ëÊÖ²»¼°¡£;;;;;;;;;;;;x
+shastar_vidya;Îı¿ËÖ®½£;;;;;;;;;;;;x
+shastar_vidya_desc;À´×ÔÎı¿ËÓïµÄ¡°sastravidya¡±£¬ÒâÎª¡°½£µÄÖªÊ¶¡±£¬ÊÇÎı¿ËÈËÔÚÂíÉÏÊ¹ÓÃµÄ½£Êõ¡£ÕâÒ»½£ÊõÊ¹Îı¿ËÆï±ø³ÉÎªÒ»Ö§ÁîÈËÉúÎ·µÄÁ¦Á¿£¬¼´Ê¹¶ÔÓÚ¸üÏÖ´ú»¯µÄÓ¢¹ú¾ü¶ÓÒ²ÊÇÈç´Ë¡£;;;;;;;;;;;;x
+force_publique;¹«¹²Á¦Á¿;;;;;;;;;;;;x
+force_publique_title;½¨Á¢¹«¹²Á¦Á¿;;;;;;;;;;;;x
+force_publique_desc;¹«¹²Á¦Á¿£¨Force Publique£©ÊÇ±ÈÊô¸Õ¹û×ÔÓÉ°îµÄ¹Ù·½Îä×°²¿¶Ó¡£¾¡¹Ü×î³õÊÇÓÃÓÚ´ò»÷°¢À­²®Å«Á¥··×Ó£¬Ö®ºóÊ¿±øÈ´ÍùÍù±»ÓÃÀ´ÊµÊ©²Ğ¿áµÄ³Í·£ÒÔÇ¿ÖÆÖ´ĞĞ¾­¼Ã¶¨¶î¡£;;;;;;;;;;;;x
+rcmp;¼ÓÄÃ´ó»Ê¼ÒÆï¾¯;;;;;;;;;;;;x
+rcmp_desc;¼ÓÄÃ´ó»Ê¼ÒÆï¾¯Ô­ÊÇÎªÔÚĞÂ»ñµÃµÄÎ÷±±²¿ÁìÍÁÑ²Âß¶ø½¨£¬×îÖÕÓë×ÔÖÎÁì¾¯²ìÒ»Æğ³ÉÎªÁËÎ¬»¤ËùÓĞ¼ÓÄÃ´óÊ¡·İÖÎ°²µÄÁ¦Á¿¡£;;;;;;;;;;;;x
+kalmar_union;¿¨¶ûÂíÁªÃË;;;;;;;;;;;;x
+kalmar_union_desc;ÎÒÃÇÔ­ÔòÉÏÍ¬ÒâÓëÆäËûË¹¿°µÄÄÉÎ¬ÑÇ¹ú¼Ò½¨Á¢¸ü½ôÃÜµÄ¹ØÏµ¡£;;;;;;;;;;;;x
+leader_of_kalmar;¿¨¶ûÂíÁªÃËÁìµ¼¹ú;;;;;;;;;;;;x
+leader_of_kalmar_desc;ÎÒ¹úÊÇÍ³Ò»Ë¹¿°µÄÄÉÎ¬ÑÇÔË¶¯µÄÁìµ¼Õß¡£;;;;;;;;;;;;x
+customs_union;¹ØË°Í¬ÃË;;;;;;;;;;;;x
+customs_union_desc;ÎÒ¹úÊÇ¹ØË°Í¬ÃËµÄ³ÉÔ±¹ú£¬¹ØË°Í¬ÃËÖÂÁ¦ÓÚÏû³ı¹ú¼ÒÖ®¼äµÄÃ³Ò×±ÚÀİ¡£;;;;;;;;;;;;x
+national_instability;¹ú¼Ò¶¯µ´;;;;;;;;;;;;x
+national_instability_desc;¹ú¼Ò´¦ÓÚÉ§¶¯×´Ì¬£¬ËæÊ±¶¼ÓĞ±¬·¢ÅÑÂÒµÄÎ£ÏÕ¡£;;;;;;;;;;;;x
+home_of_the_mormons;Ä¦ÃÅ½ÌÖ®¼Ò;;;;;;;;;;;;x
+home_of_the_mormons_desc;Ä¦ÃÅ½ÌÍ½ĞÅ·îÒ»·ò¶àÆŞÖÆ£¬È¢Ğí¶àÆŞ×Ó£¬²¢¹ÄÀøĞÅÍ½ÓµÓĞ´ó¼ÒÍ¥¡£;;;;;;;;;;;;x
+gateway_to_america;Í¨ÍùÃÀ¹úµÄÃÅ»§;;;;;;;;;;;;x
+gateway_to_america_desc;À´×ÔÅ·ÖŞµÄĞí¶àÒÆÃñÕß½«Í¨¹ı°£ÀûË¹µºµÄ¼ì²éÕ¾£¬ËûÃÇÖĞÓÖÓĞÄÑÒÔ¼ÆÊıµÄÈË»áÁôÔÚÅ¦Ô¼³Ç¡£;;;;;;;;;;;;x
+carlist_sympathies;¿¨ÂåË¹µÄÍ¬ÇéÕßÃÇ;;;;;;;;;;;;x
+carlist_sympathies_desc;Ò»¸ö¿¨ÂåË¹ÅÉµÄ×éÖ¯ÕıÔÚÕâ¸öÊ¡·İÔË×÷×Å£¬ËüÑ¸ËÙ»ñÈ¡ÁËµ±µØÈË¶ÔËûÃÇÍÆ·­Î÷°àÑÀÕş¸®µÄĞĞ¶¯µÄÖ§³Ö¡£;;;;;;;;;;;;x
+christino_sympathies;¿ËÀïË¹µÙÄÈµÄÍ¬ÇéÕßÃÇ;;;;;;;;;;;;x
+christino_sympathies_desc;Ò»¸ö¿ËÀïË¹µÙÅµÅÉµÄ×éÖ¯ÕıÔÚÕâ¸öÊ¡·İÔË×÷×Å£¬ËüÑ¸ËÙ»ñÈ¡ÁËµ±µØÈË¶ÔËûÃÇÍÆ·­Î÷°àÑÀÕş¸®µÄĞĞ¶¯µÄÖ§³Ö¡£;;;;;;;;;;;;x
+war_torn;Õ½ÕùÆÆ»µ;;;;;;;;;;;;x
+war_torn_desc;Õâ¸öÊ¡Ôâµ½ÁËÅÑÂÒµÄÆÆ»µ¡£;;;;;;;;;;;;x
+boxer_rebellion;ÒåºÍÍÅÆğÒå;;;;;;;;;;;;x
+boxer_rebellion_desc;Õâ¸öÊ¡·İÄ¿Ç°±»È­Ãñ¿ØÖÆ£¬´¦ÓÚÎŞÖÈĞò×´Ì¬ÖĞ¡£;;;;;;;;;;;;x
+new_country;ĞÂ³ÉÁ¢µÄ¹ú¼Ò;;;;;;;;;;;;x
+new_country_desc;Õâ¸ö¹ú¼Ò¸Õ¸Õ½¨Á¢£¬ËüµÄ¹«ÃñÔ¸Òâ¸ü¼ÓÅ¬Á¦µØ¹¤×÷£¬ÒÔ±£³ÖËüµÄÔË×ª¡­¡­ÔİÊ±¡£;;;;;;;;;;;;x
+jewish_diaspora;ÓÌÌ«ÇÈÃñ;;;;;;;;;;;;x
+jewish_diaspora_desc;ÓÌÌ«ÉçÇøÕıÔÚ×éÖ¯¶ÔÒÔÉ«ÁĞµÄ³ÉÁ¢×÷³ö·´Ó¦¡£;;;;;;;;;;;;x
+declaration_of_the_rights_of_man;ÈËÈ¨ĞûÑÔ;;;;;;;;;;;;x
+declaration_of_the_rights_of_man_desc;¡¶ÈËÈ¨ºÍ¹«ÃñÈ¨ĞûÑÔ ¡·ÊÇ·¨¹ú´ó¸ïÃüµÄÒ»·İ»ù±¾ÎÄ¼ş£¬Ëü½«Ò»¸ö¹ú¼ÒµÄ¸öÈËºÍ¼¯ÌåµÄ²Æ²úÈ¨½ç¶¨ÎªÆÕ±éÈ¨Àû¡£;;;;;;;;;;;;x
+caste_privileges;ÖÖĞÕÌØÈ¨;;;;;;;;;;;;x
+caste_privileges_desc;Ó¢µÛ¹úÖ÷ÒåÕßÔÚÓ¡¶ÈµÄÒ»¸öÔçÆÚÄ¿±êÊÇÒÔËûÃÇ×Ô¼ºµÄĞÎÏó½¨Á¢Ò»¸öµ±µØ¾«Ó¢½×²ã¡£ËûÃÇÈ¡µÃÁË³É¹¦£¬ĞÎ³ÉÁËÒ»¸öĞÂµÄ¸»ÓĞµÄÓ¡¶ÈÖÖĞÕ£¬ËûÃÇÔÚÖ³ÃñµØÖĞÕ¸Â¶Í·½Ç¡£;;;;;;;;;;;;x
+sati_abolished;·Ï³ıæ¶ÌáÏ°Ë×;;;;;;;;;;;;x
+sati_abolished_desc;ÔÚÓ¡¶ÈµÄÒ»Ğ©µØ·½£¬·Ï³ı¡°æ¶Ìá¡±µÄÔáÀñÏ°Ë×µÄ×ö·¨ÊÇ·Ç³£²»ÊÜ»¶Ó­µÄ£¬ÒòÎª×î½üÒ»Î»¹Ñ¸¾ÔÚÕÉ·òµÄ·ØÄ¹ÉÏ×Ô·Ù¡£;;;;;;;;;;;;x
+pig_fat_cartridges;ÖíÓÍµ¯Ò©Í²;;;;;;;;;;;;x
+pig_fat_cartridges_desc;¾İ³ÆÍ¿ÓĞÖíÓÍµÄ»ğÒ©Í²µÄ·¢ĞĞ±»ÈÏÎªÊÇÒ»ÖÖÁîÈËÄÑÒÔÖÃĞÅµÄÎêÈè£¬Õâ½øÒ»²½Ö¤Ã÷ÁËÓ¡¶ÈºÍÖ³Ãñ¹ú¼ÒÖ®¼äÈÕÒæÀ©´óµÄÎÄ»¯ÁÑºÛ¡£;;;;;;;;;;;;x
+carlism;¿¨ÂåË¹Ö÷Òå;;;;;;;;;;;;x
+carlism_desc;¿¨ÂåË¹Ö÷ÒåÊÇÎ÷°àÑÀµÄÒ»ÖÖ´«Í³Ö÷ÒåºÍÕıÍ³Ö÷ÒåÕşÖÎÔË¶¯£¬Ñ°Çó½«²¨ÅÔ¼Ò×åµÄÁíÒ»¸öÖ§Ïµ·öÉÏÍõÎ»¡£Õâ¸öÖ§ÏµÊÇÄªÀûÄÉ²®¾ô¡¢¿¨ÂåË¹Ç×ÍõµÄºóÒá£¬ÊÇÓÉÓÚ¼Ì³Ğ·¨µÄÕùÒéºÍ¶Ô²¨ÅÔÍõ³¯°¢·½Ë÷Ö§ÏµµÄÆÕ±é²»Âú¶øĞÎ³ÉµÄ¡£;;;;;;;;;;;;x
+spirit_of_freedom;×ÔÓÉ¾«Éñ;;;;;;;;;;;;x
+spirit_of_freedom_desc;¶ÔÄ³Ğ©ÎÄ»¯À´Ëµ£¬ÃñÖ÷ºÍ¸öÈË×ÔÓÉµÄ¸ÅÄîÖ²¸ùÓÚËûÃÇµÄĞÄÁéÉî´¦¡£;;;;;;;;;;;;x
+national_identity;Ãñ×åÈÏÍ¬;;;;;;;;;;;;x
+national_identity_desc;Ãñ×å¹ú¼ÒµÄ¸ÅÄîÔÚ19ÊÀ¼ÍÄ©¿ªÊ¼ÉîÈëÈËĞÄ£¬ÒòÎªÈËÃÇ¿ªÊ¼¸ü¶àµØÈÏÍ¬×Ô¼ºÉú»îµÄ¹ú¼Ò£¬¶ø²»ÊÇÄ³¸öÌØ¶¨µÄµØÇø¡£Ãñ×åÖ÷ÒåºÜ¿ì´Ù³ÉÁËÅÑÂÒ·Ö×Ó£¬ËûÃÇÑ°Çó´ÓÍâ¹úÍ³ÖÎÏÂ¶ÀÁ¢³öÀ´£¬»òÕßÖØ·µ×æ¹ú¡£;;;;;;;;;;;;x
+anti_jacobin_movement;·´ÑÅ¸÷±öÅÉ;;;;;;;;;;;;x
+anti_jacobin_movement_desc;×÷Îª¶ÔÑÅ¸÷±öÅÉºÍÕùÈ¡ÃñÖ÷¶·ÕùµÄÒ»ÖÖ·´Ó¦£¬¸÷¹úµÄ·´¶¯·Ö×Ó·Ç³£¼á¾öµØ·´¶ÔÃñÖ÷ÕâÒ»¸ÅÄî¡ª¡ª³ÆÖ®Îª¡°¹ÌÓĞÈ±Ïİ¡±ºÍÎóµ¼£¬ÒÔ¼°»ìÂÒµÄ¸ùÔ´£¬¶ø²»ÊÇ³ÖÓĞÈÎºÎÓĞÓÃ»òÓĞÒæµÄ¶«Î÷µÄ¿ÉÄÜĞÔ¡£;;;;;;;;;;;;x
+sharia_law;É³ÀïÑÇ·¨;;;;;;;;;;;;x
+sharia_law_desc;É³ÀïÑÇÊÇÑÏ¸ñµÄµÀµÂ×¼ÔòºÍÒÁË¹À¼½ÌµÄ×Ú½Ì·¨£¬±»ÈÏÎªÊÇÕæÖ÷ÎŞĞ¸¿É»÷µÄ·¨ÂÉ - ÓÉ¶Ô×Ú½ÌÁìĞä¸ºÔğµÄÒÁË¹À¼·¨¹Ù½âÊÍ¡£;;;;;;;;;;;;x
+ottoman_oppression;¶Ô»ù¶½Í½µÄÑ¹ÆÈ;;;;;;;;;;;;x
+ottoman_oppression_desc;¹ØÓÚµÛ¹úÄÚ»ù¶½Í½µÄÒ»Ğ©°ÂË¹ÂüÕş²ß£¬ÀıÈç¼ÃÆ¶Ë°ºÍ¶Ô¹¤×÷ºÍĞĞ¶¯µÄÏŞÖÆ£¬ÎªÎ´À´¼¸Äê°Í¶û¸ÉµØÇøµÄÎÊÌâµì¶¨ÁË»ù´¡¡£ Ö±µ½1839Äê¿ªÊ¼µÄÌ¹ÆëÂíÌØ¸Ä¸ï²Å·Ï³ıÕâĞ©Õş²ß¡£;;;;;;;;;;;;x
+ottomanism_reform;µÛ¹ú¸Ä¸ïë·Áî;;;;;;;;;;;;x
+ottomanism_reform_desc;µÛ¹ú¸Ä¸ïë·ÁîÔÚµÛ¹úµÄÉÙÊıÃñ×åÖĞ½¨Á¢ÁË×Ú½ÌÆ½µÈ£¬²¢ÔÚºÜ´ó³Ì¶ÈÉÏ»º½âÁËÎÒÃÇ¾³ÄÚÃñ×åÖ÷ÒåÕßµÄÒ»Ğ©µ£ÓÇ¡£;;;;;;;;;;;;x
+great_statesman;Î°´óµÄÕşÖÎ¼Ò;;;;;;;;;;;;x
+great_statesman_desc;ÎÒÃÇµÄÁìµ¼ÕßÊÇÒ»¸öÓÅĞãµÄÑİ½²¼ÒºÍÕşÖÎ¼Ò£¬ËûÊÜµ½ÁËÊÀ½çÉÏÆäËû¹ú¼ÒÁìµ¼ÈËµÄ×ğÖØ¡£;;;;;;;;;;;;x
+begin_revolution;¸ïÃü¹ú¼Ò;;;;;;;;;;;;x
+begin_revolution_desc;ÎÒÃÇµÄ¹ú¼ÒÊÇÒ»¸ö¸Õ¸ÕÆğ²½µÄ¹ú¼Ò£¬³ÉÁ¢ÓÚ»ìÂÒºÍÅÑÂÒÖ®ÖĞ¡£ µ«ÊÇÈËÃÇÔ¸ÒâÕ½¶·£¡;;;;;;;;;;;;x
+zemene_mesafint;Ê¿Ê¦Ê±´ú;;;;;;;;;;;;x
+zemene_mesafint_desc;ÔÚ±»³Æ×÷¡°Ê¿Ê¦Ê±´ú¡±µÄÊ±ÆÚ£¬°£Èû¶í±ÈÑÇµÄÍ³ÖÎÕßÃÇÒªÅ¬Á¦½«¹ú¼ÒÍ³Ò»ÔÚÒ»Î»»ÊµÛµÄÁìµ¼Ö®ÏÂ¡£;;;;;;;;;;;;x
+irish_integration;ÈÚºÏ°®¶ûÀ¼ÈË;;;;;;;;;;;;x
+irish_oppression;Ñ¹ÆÈ°®¶ûÀ¼ÈË;;;;;;;;;;;;x
+irish_oppression_desc;ÔÚÍâÍÁµØËùÓĞÈ¨£¨absentee landownship£©µÄÌåÖÆÊ¹°®¶ûÀ¼³ÉÎªÖÎÀíÔã¸âµÄµäĞÍ£¬ÕâÊ¹°®¶ûÀ¼ÈËÔÚÊıÊÀ¼ÍÄÚ¶ÔÓ¢¹úÍ³ÖÎ²»¶Ï·¢Æğ¶·ÕùÓëÅÑÂÒ¡£;;;;;;;;;;;;x
+land_of_opportunity;»ú»áÖ®µØ;;;;;;;;;;;;x
+land_of_opportunity_desc;µ½ÁË19ÊÀ¼ÍÄ©£¬ÎÒÃÇµÄ¹¤Òµ¡¢ÒøĞĞÌåÏµºÍÓëÁÚ¹ú½¨Á¢µÄÈË¿Ú×ÔÓÉÁ÷¶¯µ¼ÖÂÁËÒÆÃñ¹¤ÈËµÄ·±ÈÙ£¬ËûÃÇÀ´µ½ÎÒÃÇµÄ¹¤ÒµºÍÒøĞĞ¹¤×÷£¬×îÖÕ¶¨¾ÓÈğÊ¿¡£;;;;;;;;;;;;x
+swiss_banking;ÈğÊ¿ÒøĞĞ;;;;;;;;;;;;x
+swiss_banking_desc;ÈğÊ¿¾­Óª×ÅÒ»¸ö¸ßĞ§µÄ¹ú¼ÊÈÏ¿ÉµÄÒøĞĞÌåÏµ¡£ À´×ÔÊÀ½ç¸÷µØµÄ¸»ÈËÀ´µ½ÈğÊ¿£¬Âú×ãËûÃÇµÄÒøĞĞĞèÇó¡£;;;;;;;;;;;;x
+anynomous_investor_business;ÄäÃûÍ¶×ÊÕßÒµÎñ;;;;;;;;;;;;x
+anynomous_investor_business_desc;ÕâÖÖÉÌÒµÎÄ»¯·ç¸ñÒâÎ¶×ÅÒµÖ÷½«ÒµÎñÊÓÎªÒ»ÖÖÍ¶×Ê£¬¶ø²»ÊÇÉú²úºÍÏúÊÛ¶«Î÷¡£Ïà·´£¬³ÉÎªÒµÖ÷µÄÎ¨Ò»Ô­ÒòÊÇ¿´µ½ÒµÎñ±ÈÂÊÉÏÉı¡£ÕâÖÖ×ö·¨ºÜ×¨Òµ£¬µ«È±·¦³ĞÅµ£¬¶øÇÒ¼«¾ß·çÏÕÑá¶ñ¸Ğ¡£;;;;;;;;;;;;x
+boer_republic;²¼¶û¹²ºÍ¹ú;;;;;;;;;;;;x
+integration_refusal;Î´ÕûºÏ;;;;;;;;;;;;x
+integration_refusal_desc;ÕâÒ»Ê¡·İ²¢Î´±»ÕûºÏ½ø¹ú¼Ò£¬±»ÔÊĞí±£ÁôÆäÇø±ğÓÚ±¾ÍÁµÄÌØÊâµØÎ»¡£;;;;;;;;;;;;x
+core_integration;ºËĞÄÕûºÏ;;;;;;;;;;;;x
+core_integration_desc;ÕâÒ»Ê¡·İÒÑ±»ÕûºÏ½ø¹ú¼Ò£¬Ò»Ğ©»ºÂıµÄ¹ı³Ì¿ÉÄÜ»áÔÚÕâÀïµ¼ÖÂÎÊÌâ¡£;;;;;;;;;;;;x
+national_assimilation_complete;Ãñ×åÍ¬»¯Íê³É;;;;;;;;;;;;x
+national_assimilation;Ãñ×åÍ¬»¯;;;;;;;;;;;;x
+national_assimilation_desc;ÕâÒ»Ê¡·İÕıÔÚ¾­ÀúÍ¬»¯¹ı³ÌÒÔÏû³ıÆäËû¹ú¼Ò¶Ô±¾Ê¡µÄĞû³ÆÈ¨¡£;;;;;;;;;;;;x
+national_assimilation_rejection;¾Ü¾øÍ¬»¯;;;;;;;;;;;;x
+national_assimilation_rejection_desc;ÕâÒ»Ê¡·İµÄÉÙÊıÃñ×å¾Ü¾øÃñ×åÍ¬»¯Õş²ß¡£;;;;;;;;;;;;x
+national_assimilation_acceptance;½ÓÊÜÍ¬»¯;;;;;;;;;;;;x
+national_assimilation_acceptance_desc;ÕâÒ»Ê¡·İµÄÉÙÊıÃñ×å½ÓÊÜÁËÃñ×åÍ¬»¯Õş²ß¡£;;;;;;;;;;;;x
+christian_repression;ÕòÑ¹°İÉÏµÛ»á;;;;;;;;;;;;x
+christian_repression_desc;ÔÚÕâ¸öÊ¡·İ£¬°İÉÏµÛ»áµÄ´«½ÌÊ¿ÕıÔâÊÜÍ³ÖÎÕßÃÇµÄÇ¿Ó²ÕòÑ¹¡£;;;;;;;;;;;;x
+anti_manchu_sentiment;·´ÂúÇéĞ÷;;;;;;;;;;;;x
+anti_manchu_sentiment_desc;ÔÚÕâ¸öÊ¡·İ£¬ÇåÍõ³¯µÄÍ³ÖÎÕßÃÇËùÒªÃæ¶ÔµÄ£¬ÊÇÒ»¹É¾Ş´óµÄÔ¹ºŞ¡£;;;;;;;;;;;;x
+louis_napoleon_iii;Â·Ò×-ÄÃÆÆÂØ¡¤²¨ÄÃ°Í;;;;;;;;;;;;x
+louis_napoleon_iii_desc;×÷ÎªÄÃÆÆÂØÒ»ÊÀµÄÖ¶×Ó£¬ËûÊÇÈËÃñÁìĞä£¬Ëû¶ÔËûµÄÊåÊåÒÅ²úµÄÀûÓÃÊ¹ÆäÎŞÍù²»Ê¤¡£¾¡¹ÜÄ¿Ç°ËûµÄ¾ö²ßÈÔ¹ıÓÚ²İÂÊÒÔ¼°È±·¦¾üÊÂ¼ÛÖµ¡£;;;;;;;;;;;;x
+begin_disunited_states;²»ºÏµÄÖÚ¹ú;;;;;;;;;;;;x
+begin_disunited_states_desc;Ëæ×ÅºÏÖÚ¹ú¿ªÊ¼ÍÑÀëÃñÖ÷ÖÆ¶È£¬×ÔÓÉÖ®×Ó£¨Sons of Liberty£©ÆğÀ´·´¿¹ËûÃÇËùÎ½µÄ±©Õş¡£¿ÉÒÔÔ¤¼Æµ½µÄÊÇ£¬ÕâÒ»ÏµÁĞÏû¼«·´Ó¦ÈÔ½«³ÖĞøºÜ³¤Ê±¼ä²ÅÄÜÆ½Ï¢£¬¶øÔÚ´ËÖ®Ç°£¬·ÖÀëÖ÷ÒåÉõÖÁ¹«¿ªÅÑÂÒ¶¼½«´óĞĞÆäµÀ¡£;;;;;;;;;;;;x
+election_cooldown;Ñ¡¾Ù½øĞĞÖĞ;;;;;;;;;;;;x
+desc_election_cooldown;ÎÒÃÇµÄÑ¡¾ÙÈËÕıÔÚÕùÂÛÒ»ÇĞÖØÒªµÄÒéÌâ¡£;;;;;;;;;;;;x
+violent_elections;±©Á¦Ñ¡¾Ù;;;;;;;;;;;;x
+desc_violent_elections;Ëæ×ÅÑ¡¾Ù»î¶¯µÄ½øĞĞ£¬Ñ¡¾Ù³ÊÏÖ³öÁËÒ»¶¨µÄ±©Á¦ÇãÏò¡£;;;;;;;;;;;;x
+social_reform_movement;Éç»á¸Ä¸ïÔË¶¯;;;;;;;;;;;;x
+desc_social_reform_movement;Éç»áÖ÷ÒåÕßÓë¹²²úÖ÷ÒåÕßÒÑ¾­·¢ÆğÁËÒ»³¡Ö¼ÔÚÌá¸ßÉú»îË®Æ½µÄÕşÖÎÔË¶¯¡£;;;;;;;;;;;;x
+wartime_elections;Õ½Ê±Ñ¡¾Ù;;;;;;;;;;;;x
+wartime_elections_desc;Ñ¡¾ÙÔÚÕ½Ê±¾ÙĞĞ£¬ËüÒÑ¾­³ÉÎªÈËÃÇ±çÂÛµÄÖĞĞÄÎèÌ¨¡£;;;;;;;;;;;;x
+loss_of_support;Ê§È¥Ö§³Ö;;;;;;;;;;;;x
+loss_of_support_desc;Ö´Õşµ³ÒÑ¾­ÔÚÕâ¸öÇøÓòÊ§È¥Ö§³Ö¡£;;;;;;;;;;;;x
+support_the_government;Õş¸®Ö§³Ö;;;;;;;;;;;;x
+support_the_government_desc;Ö´Õşµ³¶ÔÕâ¸öÇøÓòÓĞ¶îÍâÖ§³Ö¡£;;;;;;;;;;;;x
+nothing_stops_progress;½ø²½ÊÆ²»¿Éµ²;;;;;;;;;;;;x
+nothing_stops_progress_desc;ÎÒÃÇÕıÔÚ×¥²¶·´¶¯ÅÉµÄÉ¿¶¯Õß£¬Ò»³¡¸Ä¸ïÊÆÔÚ±ØĞĞ¡£;;;;;;;;;;;;x
+slow_down_progress;ÏŞÖÆ¸Ä¸ï;;;;;;;;;;;;x
+slow_down_progress_desc;»òĞíÎÒÃÇ×îºÃ¼õÂı¸Ä¸ïµÄËÙ¶È¡£ÎÒÃÇÒ»¶¨ÒªÈÃÎÒÃÇµÄÈËÃñ¸ÏÉÏÀ´£¡;;;;;;;;;;;;x
+ruling_party_scandal;Õş¸®³óÎÅ;;;;;;;;;;;;x
+ruling_party_scandal_desc;×î½üÓĞÒ»×®³óÎÅÕğ¶¯ÁËÕş¸®£¬ÇÖÊ´ÁË¶ÔÖ´Õşµ³µÄÖ§³Ö¡£;;;;;;;;;;;;x
+party_scandal_evidence;ÖØ´óÕş¸®³óÎÅ;;;;;;;;;;;;x
+party_scandal_evidence_desc;Ö¤¾İÒÑ¾­ÆØ¹â£¬ÕâÖ»ÊÇµ¥´¿µØÈÃÕş¸®³óÎÅ½øÒ»²½¶ñ»¯¡£¼ÙÈç¶ÌÆÚÄÚÓĞ´óÑ¡£¬Õş¸®½«ÏİÈë¿É±¯µÄÎ£ÏÕ¾³µØ¡£;;;;;;;;;;;;x
+line_of_advantage;ÀûÒæÏß;;;;;;;;;;;;x
+line_of_advantage_desc;¡°ÀûÒæÏß¡±ÒâÎ¶×ÅÌÈÈôÎÒÃÇÒªÈ·±£ÎÒÃÇµÄ°²È«¾ÍµÃ°ÑÈÕ±¾µÄÊÆÁ¦À©ÕÅÖÁ¹ú¾³ÒÔÍâ¡£Õâ´ú±íÈÕ±¾¾üÊÂÉõÖÁÊÇÎÒÃÇµÄ¹úÃñ±ØĞëÑ§Ï°Î÷·½Ê½µÄÕ÷·şÓëÈÙÒ«Ö®µÀ¡£;;;;;;;;;;;;x
+no_line_of_advantage;½ø²½Ö®µÀ;;;;;;;;;;;;x
+no_line_of_advantage_desc;ÈÕ±¾µÄ°²È«±ØĞëÒÀ¿¿ÓÚ¿Æ¼¼½ø²½ÒÔ¼°¸Ä¸ïµÄ¹±Ï×£¬¶ø²»ÊÇ¾üÊÂÁ¦Á¿ÓëÕ÷·ş»î¶¯¡£ÎÒÃÇ±ØĞëÓ­Í·¸ÏÉÏÎ÷·½ÁĞÇ¿£¬²»È»ËûÃÇ¾Í»áÑ¸ËÙ»ÙÃğÎÒÃÇ¡£;;;;;;;;;;;;x
+border_incident;½üÆÚµÄ±ß¾³ÊÂ¼ş;;;;;;;;;;;;x
+border_incident_desc;ÎÒÃÇ×î½üÏİÈëÁËÒ»³¡±ß¾³ÊÂ¼ş£¬ÕâÊ¹ÎÒÃÇÓëÄ³Ò»ÁĞÇ¿Éú³öö´ö¹¡£;;;;;;;;;;;;x
+the_british_raj;Ó¡¶ÈÖ³ÃñµØ;;;;;;;;;;;;x
+the_british_raj_desc;Ó¡¶ÈÖ³ÃñµØÊÇÎÒ¹úÍõ¹ÚÉÏ×îÒ«ÑÛµÄÃ÷Öé¡£;;;;;;;;;;;;x
+dutch_east_india;¶«Ó¡¶È¹«Ë¾;;;;;;;;;;;;x
+dutch_east_india_desc;¶«Ó¡¶ÈÖ³ÃñµØÊÇÎÒ¹úÍõ¹ÚÉÏ×îÒ«ÑÛµÄÃ÷Öé¡£;;;;;;;;;;;;x
+vassal_nation;¸½Ó¹¹ú;;;;;;;;;;;;x
+vassal_nation_desc;×÷ÎªÒ»¸öÍâ¹úÊÆÁ¦µÄ¸½Ó¹¹ú£¬ÎÒÃÇÔÚÊÀ½çÆäËû¹ú¼ÒµÄÑÛÖĞÓÀÔ¶ÊÇÒ»¸ö¶şµÈ¹ú¼Ò¡£;;;;;;;;;;;;x
+coup_risk;¾üÊÂÕş±äµÄ·çÏÕ;;;;;;;;;;;;x
+coup_risk_desc;¹ú¼Ò¾ü¶ÓÖĞµÄ²»ÂúÇéĞ÷×ÌÉú³É³¤£¬Õâ²»½ö¿ÉÒÔÊ¹¾ü¶ÓµÄÖÈĞò±À»µ£¬»¹»á½ø¶øÍşĞ²µ½¹ú¼Ò±¾ÉíµÄÎÈ¶¨¡£ÓĞÈËº¦ÅÂ¾üÈË»áÆğ¶ø¶áÈ¡Õş¸®µÄ¿ØÖÆÈ¨¡£;;;;;;;;;;;;x
+military_strife;¾üÈËÅÑ±ä;;;;;;;;;;;;x
+military_strife_desc;ÎÒÃÇÕıÔÚÓëÎÒÃÇ×Ô¼ºµÄ¾ü¶ÓÕ½¶·ÒÔ×èÖ¹ËûÃÇ¶áÈ¨¡£¾¡¹ÜÄÚ²¿ÇåÀíÒÑ³É¼Ò³£±ã·¹£¬ÅÑ±äÊ¿±øµÄÊıÁ¿È´Ã¿ÈÕÓĞÔöÎŞ¼õ¡£;;;;;;;;;;;;x
+vangaurd_party;ÏÈ·æµ³;;;;;;;;;;;;x
+mixed_economy_desc;»ìºÏ¾­¼ÃÊÇ¹ú¼ÒºÍË½Óª²¿ÃÅ¹²Í¬Ö÷µ¼¾­¼ÃµÄ¾­¼ÃÌåÖÆ£¬¼ÈÌåÏÖÁËÊĞ³¡¾­¼ÃµÄÌØµã£¬ÓÖÌåÏÖÁË¼Æ»®¾­¼ÃµÄÌØµã¡£´ó¶àÊı»ìºÏ¾­¼ÃÌå¿ÉÒÔ±»ÃèÊöÎª¾ßÓĞÇ¿´ó¼à¹Ü¼à¶½µÄÊĞ³¡¾­¼ÃÌå£¬Ğí¶à»ìºÏ¾­¼ÃÌåµÄÌØµãÊÇ¸÷ÖÖÕş¸®¾­ÓªµÄÆóÒµºÍÕş¸®Ìá¹©µÄ¹«¹²ÎïÆ·¡£;;;;;;;;;;;;x
+the_dark_continent;ºÚ°µ´óÂ½;;;;;;;;;;;;x
+the_dark_continent_desc;ºÚ°µ´óÂ½;;;;;;;;;;;;x
+fight_the_power;·´¿¹Õş¸®;;;;;;;;;;;;x
+fight_the_power_desc;ÎŞÂÛÊÇÔÚÆÕÍ¨ÃñÖÚ»¹ÊÇÔÚ¾ü¶ÓÖĞ£¬¶ÔÕş¸®µÄ·´¿¹ÇéĞ÷¶¼ÔÚÖğ½¥Ôö³¤¡£ÔÚÕâÒ»Ç÷ÊÆ¹ıÈ¥Ç°£¬ÎÒÃÇ½«ºÜÄÑÎ¬³ÖÖÈĞò¡£;;;;;;;;;;;;x
+national_confusion;¹ú¼ÒÀ§»ó;;;;;;;;;;;;x
+national_confusion_desc;ÎÒÃÇµÄ¹ú¼Ò¾­ÀúÁË·­Ìì¸²µØµÄ±ä»¯¡£ÕûÀíÕâĞ©Ë¼ÏëÊÇĞèÒªÊ±¼äµÄ£¬Ö®ºóÎÒÃÇ²Å¿ÉÒÔÏñÍù³£Ò»ÑùÖØÊ°Ò»Ğ©ÊÂÇé¡£;;;;;;;;;;;;x
+neutrality_modifier;ÕşÖÎÖĞÁ¢;;;;;;;;;;;;x
+neutrality_modifier_desc;ÎÒÃÇ¹ú¼ÒÉ÷ÖØµØÑ¡Ôñ²»Æ«ÏòÓÚÈÎºÎ¹ú¼ÊÁ¢³¡¡£ÎÒÃÇ²»»á²ÎÕ½£¬¼´±ãÊÇÔâµ½¹ú¼Ê³âÔğµÄÁ÷Ã¥¹ú¼Ò£¬ÎÒÃÇÒ²²»»áÓëÆäÕ½¶·£¬ÒÔ´ËÆÚÍûÆäËû¹ú¼Ò²»»áÓëÎÒ¹ú¿ªÕ½¡£¾¡¹ÜÕâ´ú±íÎÒÃÇ»òĞíÓÀÔ¶Ò²²»»á±»ÈÏ¿ÉÎªÒ»¸öÓĞÓ°ÏìÁ¦µÄ´ó¹ú£¬µ«ÕâÖÁÉÙ±£»¤ÁËÎÒÃÇ¡£ÔÚ´ÔÁÖ·¨ÔòÊ¢ĞĞµÄÊ±´úÎÒÃÇÒ»¶¨Òª¼á³ÖÎÒÃÇµÄÔ­Ôò£¡;;;;;;;;;;;;x
+apache_raiders;°¢ÅÁÆæÏ®»÷Õß;;;;;;;;;;;;x
+irish_potato_blight;ÂíÁåÊíÒß²¡;;;;;;;;;;;;x
+irish_potato_blight_desc;¼¢»ÄÔÚÎÒÃÇµÄÌïµØÀïÂûÑÓ£¬×¯¼Ú¿İËÀ¸¯ÀÃ¡£;;;;;;;;;;;;x
+irish_republicans;°®¶ûÀ¼¹²ºÍµ³ÈË;;;;;;;;;;;;x
+irish_republicans_desc;´òµ¹¾ıÖ÷ÖÆ£¡°®¶ûÀ¼×ÔÓÉ°îÊÇÎ¨Ò»µÄ½â¾ö°ì·¨£¡;;;;;;;;;;;;x
+irish_unionists;°®¶ûÀ¼Í³Ò»ÅÉ;;;;;;;;;;;;x
+irish_unionists_desc;°®¶ûÀ¼ÏÖÔÚºÍÎ´À´ÓÀÔ¶¶¼ÊÇÓ¢¹úµÄÒ»²¿·Ö£¡ÎÒÃÇ²»»á±³Æú¾ıÖ÷ÖÆ£¡;;;;;;;;;;;;x
+power_vacuum;È¨Á¦Õæ¿Õ;;;;;;;;;;;;x
+power_vacuum_desc;Õş¸®Õı´¦ÓÚ¹ı¶É×´Ì¬¡£Èç¹ûÃ»ÓĞĞÂÁìĞäµ®Éú£¬Õş¸®¾ÍÖ»ÄÜÔÚÕâÒ»¹ı³ÌÖĞ±ÀÀ£Íß½â¡£;;;;;;;;;;;;x
+chinese_substate;Çå³¯ÕòÑ¹;;;;;;;;;;;;x
+chinese_substate_desc;ÇåµÛ¹úµÄÑ¹ÆÈÊ¹ÎÒÃÇµÄ¹ú¼ÒÏİÈë»ìÂÒ¡£;;;;;;;;;;;;x
+treaties_of_velasco;Î¤À­Ë¹¿ÆÌõÔ¼;;;;;;;;;;;;x
+treaties_of_velasco_desc;Õâ·İÌõÔ¼ÀíÂÛÉÏ±£Ö¤ÁËÎÒÃÇ´ÓÄ«Î÷¸ç»ñµÃ¶ÀÁ¢£¬µ«Êµ¼ÊÉÏËüµÄĞ§Á¦»¹²»ÈçÒ»ÕÅ·ÏÖ½¡£ÎÒÃÇ½«¿´¿´ËüÊÇ·ñÕ¾µÃ×¡½Å¡£;;;;;;;;;;;;x
+recent_crisis;Î£»ú±¬·¢;;;;;;;;;;;;x
+recent_crisis_desc;ÎÒÃÇÒ»Ö±ÊÇ×î½üÎ£»úÖĞµÄÉ¿¶¯Õß¡£ ÔÚ¼ÇÒäÏûÍËÖ®Ç°£¬ÊÀ½ç¿ÉÄÜ»áºöÊÓÎÒÃÇÎªÎÒÃÇµÄÁìÍÁÌá³öµÄÈÎºÎ½øÒ»²½ÒªÇó¡£;;;;;;;;;;;;x
+switched_production;²úÆ·×ªĞÍ;;;;;;;;;;;;x
+switched_production_desc;Õâ¸öÊ¡·İ¸Õ¸Ä±äÁËËüµÄÖ÷Òª²úÆ·£¬µ±µØÈËÈÔÔÚÊÊÓ¦ÕâÖÖ¸Ä±ä¡£;;;;;;;;;;;;x
+new_production;ĞÂÖÖÖ²Ô°;;;;;;;;;;;;x
+new_production_desc;Õâ¸öÊ¡¿ªÊ¼ÁËÒ»¸öĞÂµÄÖÖÖ²Ô°£¬Éú²ú×ªÏò¾­¼Ã×÷Îï£¬¶ø²»ÊÇµ±µØÈËÔÚÕâÀï´ÓÊÂµÄ´«Í³Å©Òµ¡£;;;;;;;;;;;;x
+emergency_tax_measures1;½ô¼±´ëÊ©;;;;;;;;;;;;x
+emergency_tax_measures1_desc;ÎÒÃÇµÄ²ÆÎñ×´¿öÆÈÊ¹ÎÒÃÇ²ÉÈ¡ÑÏÀ÷µÄ£¬·Ç³£²»ÊÜ»¶Ó­µÄË°ÊÕ´ëÊ©¡£;;;;;;;;;;;;x
+emergency_tax_measures2;¼«¶Ë´ëÊ©;;;;;;;;;;;;x
+emergency_tax_measures2_desc;ÎÒÃÇµÄ²ÆÎñ×´¿öÆÈÊ¹ÎÒÃÇ²ÉÈ¡ÑÏÀ÷µÄ£¬·Ç³£²»ÊÜ»¶Ó­µÄË°ÊÕ´ëÊ©¡£;;;;;;;;;;;;x
+boxer_presence;È­Ãñ´æÔÚ;;;;;;;;;;;;x
+boxer_presence_desc;ÒåºÍÍÅÕıÔÚ¸ÃÊ¡»î¶¯£¬ÓÉÓÚËûÃÇÓëÍâ¹úÊÆÁ¦Ïà¶Ô¿¹£¬Õı³£Ã³Ò×±»×è¶ô¡£;;;;;;;;;;;;x
+boxer_agitation;È­Ãñ·ç³±;;;;;;;;;;;;x
+boxer_agitation_desc;ÎÒÃÇ¶Ô¸ÃÊ¡È­ÃñµÄÕòÑ¹¼¤Å­ÁËËûÃÇ£¬ÕâÈºÃñ×åÖ÷ÒåÕß×ª¶øÓëÎÒÃÇµÄÕş¸®¶Ô¿¹¡£;;;;;;;;;;;;x
+international_pariah;¹ú¼ÊÆúÃñ;;;;;;;;;;;;x
+international_pariah_desc;ÎÒ¹ú»ı¼«·îĞĞµÄÇÖÂÔÀ©ÕÅÕş²ß£¬µ¼ÖÂÎÒÃÇ³ÉÎª¹ú¼ÊÉç»áµÄÆúÃñ¡£;;;;;;;;;;;;x
+great_war;È«ÃæÕ½Õù;;;;;;;;;;;;x
+great_war_desc;ÎÒ¹úÒÑ¾­ÓëµĞÈË´¦ÔÚÈ«ÃæÕ½Õù×´Ì¬¡£ÎÒÃÇ±ØĞëÍÅ½áÒ»ÖÂÓ®µÃÕ½Õù£¬·ñÔòÈËÃñµÄÉú»î·½Ê½½«ÓĞ·Ö±ÀÀëÎöµÄÎ£ÏÕ¡£;;;;;;;;;;;;x
+great_war2;Õ½ÕùµÄĞèÇó;;;;;;;;;;;;x
+great_war2_desc;´ó¹æÄ£Îï×Ê¶ÌÈ±£¬µ¼ÖÂÎÒ¹úÃñÖÚµÄÕ½ÕùÈÈÇéÈñ¼õ¡£;;;;;;;;;;;;x
+great_war3;Ò»ÇĞÖÕ½«Í½ÀÍÎŞÒæ?;;;;;;;;;;;;x
+great_war3_desc;Èç¹û²»ÄÜ¾¡¿ì½áÊøÕ½Õù£¬ĞÎÊÆ½«Ñİ±äµÃ¶ÔÎÒÃÇ·Ç³£²»Àû¡£;;;;;;;;;;;;x
+gateway_to_harbor;Í¨ÍùĞÂÌìµØµÄÃÅ»§;;;;;;;;;;;;x
+gateway_to_harbor_desc;À´×ÔÊÀ½ç¸÷µØµÄĞí¶àÒÆÃñÕß½«Í¨¹ıÎÒÃÇÎ°´óµÄ³ÇÊĞ£¬ËûÃÇÖĞÓÖÓĞÄÑÒÔ¼ÆÊıµÄÈË»áÁôÏÂ¡£;;;;;;;;;;;;x
+rebel_cell_discovered;·¢¾õÂÒµ³;;;;;;;;;;;;x
+rebel_cell_discovered_desc;Ã»ÓĞÈÎºÎÈË¿ÉÒÔÊÔÍ¼×ö³ö¶ÔÎÒÃÇ²»ÀûµÄÊÂÇé¡£;;;;;;;;;;;;x
+fukoku_kyohei;¸»¹úÇ¿±ø;;;;;;;;;;;;x
+may_day;ÎåÒ»½Ú;;;;;;;;;;;;x
+may_day_desc;ÎÒ¹úÕıÇì×£Éç»áÖ÷Òå¡£ÈÃÌ°À·µÄ×Ê±¾Ö÷Òå²ü¶¶²»ÒÑ°É£¡;;;;;;;;;;;;x
+militant_trade_union;¼¤½ø¹¤»á;;;;;;;;;;;;x
+dissatisfied_workers;²»ÂúµÄ¹¤ÈË;;;;;;;;;;;;x
+worker_revolt;¹¤ÈËÔì·´;;;;;;;;;;;;x

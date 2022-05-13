@@ -1,215 +1,216 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-EVTNAME10222;The French Revolution of $YEAR$;;;;;;;;;;;;;
-EVTDESC10222;Angry crowds have flooded the streets of Paris, shouting cries of 'Down with the King!' and 'Long live the Reform!'. They have erected barricades in the streets and fighting has broken out with the Parisian municipal guards. With the city having been completely closed off from outside help, these crowds have begun to march on the royal palace. Our king has had no choice but to abdicate and flee the country.;;;;;;;;;;;;;
-EVTNAME10223;Louis-Napoleon's Coup d'Etat;;;;;;;;;;;;;
-EVTDESC10223;Facing the prospect of losing the presidential election, the popular Louis-Napoleon has launched a coup d'etat and overthrown the French government. Loyal members of the army have locked down strategic locations in Paris, and the Assemblée Nationale has been dissolved, leaving Louis-Napoleon as the undisputed ruler of the country. He has been christened Napoléon III, regaining his uncle's throne as the Emperor of France.;;;;;;;;;;;;;
-EVTNAME10224;Emperor Napoleon Deposed;;;;;;;;;;;;;
-EVTDESC10224;Angered by the inability of France to prevent the formation of Germany, as well as the humiliating loss of Alsace-Lorraine, the government has deposed Emperor Napoleon. We must choose what form our new government is to take.;;;;;;;;;;;;;
-EVTNAME11108;Slavic Unification;;;;;;;;;;;;;
-EVTDESC11108;The call has gone out for the Slavic nations of the Balkans to finally unite under a common banner, to resist the encroachment of the Austrians and Turks as well as other European powers. Yugoslavia, it is said, will be a power to rival even its most powerful neighbours. Whether this new nation would succeed in holding together a people divided by centuries of bitter warfare is best left for speculation.;;;;;;;;;;;;;
-EVTOPTA13000;We will allow the westerners into $COUNTRY$, so long as they cause no trouble.;;;;;;;;;;;;;
-EVTOPTB13000;They bring dangerous ideas. $COUNTRY$ will refuse them all access.;;;;;;;;;;;;;
-EVTNAME13010;Shipwrecked Sailors;Les naufragés;Schiffsbrüchige Matrosen;;Marineros naufragados;;;;;;;;;
-EVTDESC13010;An old pond\nA frog jumps in —\nThe sound of water.'\n-- Matsuo Basho\nOne of our coastal provinces is bustling with rumors about the strange people who were found along its shorelines earlier this morning. The more precise origin of these shipwrecked sailors is as of yet uncertain, but, wherever they are from, they are definitely not from $COUNTRY$. The difficulty now lies in deciding what to do with them: if we send them home, we are effectively changing our policy of non-interaction with the westerners. Ignoring them and allowing them to stay, however, means permitting a western presence in $COUNTRY$ despite all our efforts.;;;;;;;;;;;;;
-EVTOPTA13010;Send them home.;Les laisser rentrer chez eux.;Lasst sie heimkehren.;;Dejadles regresar a casa.;;;;;;;;;
-EVTOPTB13010;Allow them to stay.;Les obliger à rester.;Zwingt sie, zu bleiben.;;Obligadles a quedarse.;;;;;;;;;
-EVTNAME13015;Foreign Smugglers;Contrebandiers étrangers;Ausländische Schmuggler;;Contrabandistas extranjeros;;;;;;;;;
-EVTDESC13015;One of our subjects has been discovered wearing foreign clothes, and further interrogation by the authorities has lead to the slow unraveling of a foreign smuggling ring. These foreigners come into $COUNTRY$ without permission, knowing they face execution should they be caught-- yet some of our advisors say there are benefits to their presence, as they can supply needs to the $COUNTRY_ADJ$ people that we cannot.;;;;;;;;;;;;;
-EVTNAME13020;Foreign Missionaries;;;;;;;;;;;;;
-EVTDESC13020;Despite our policy of not permitting foreigners into $COUNTRY$, it has been discovered that a group of foreign missionaries has been traveling among our people and spreading their religion. While we have every right to execute them out of hand, this does raise the possibility of a confrontation with their home country. Do we wish to risk such a war, all for the sake of a few priests?;;;;;;;;;;;;;
-EVTNAME13030;Western Approaches;;;;;;;;;;;;;
-EVTDESC13030;News reaches us that an expatriate community of foreigners, from various European countries and Great Powers, has formed in one of our cities. Doubtlessly, this is a direct effect of our government's policy of open ports and borders. This influx might be positive, as our government seems to believe, however some voices have less kind things to say about the foreigners.;;;;;;;;;;;;;
-EVTDESC13040;Despite the obvious rightness of our country's trade policies, greater amounts of foreign goods could be useful, and elements within our administration have suggested setting up a limited trading post in one of our coastal cities, where foreign ships can moor and trade, without compromising the cultural integrity of $COUNTRY$. It could be an economic boon to the area and the nation, but conservative voices warn that destructive foreign influences might further creep into our society.;;Trotz der offensichtlichen Richtigkeit unserer Isolationspolitik könnte eine gewisse Menge ausländischer Güter uns von Nutzen sein. Einige Elements in unserer Regierung haben vorgeschladen, einen beschränkten Handelsposten in $PROVINCENAME$ zu errichten, wo ausländische Schiffe ankern und handeln können, ohne im Großen und Ganzen unsere Politik der Separation vom Rest der Welt außerhalb $COUNTRYNAME$ zu kompromittieren. Es könnte für das Gebiet wie auch die Nation einen wirtschaftlichen Aufschwung bedeuten, aber konservative Stimmen warnen, dass destruktive ausländische Einflüsse sich in unsere Gesellschaft einschleichen könnten.;;;;;;;;;;;
-EVTDESC13050;A sweet, pungent stench hangs over the backstreets and alleys in one of our cities, emanating and spreading in every direction from an epicenter at the foreign trade station. The European traders have brought with them the habit of opium smoking, and our subjects have taken to it on a scale that threatens to become epidemic. It seems that, for every new ship that lands, more and more of our people get caught in the deadly and pacifying web of addiction. What should we do?;;Ein süßlich-stechender Gestank hängt über den Hintergassen und -gossen in $PROVINCENAME$ und verbreitet sich von einem Epizentrum an der ausländischen Handelsstation in alle Richtungen aus. Die europäischen Händler haben die Gewohnheit des Opiumrauchens mit sich gebracht, und unsere Untertanen haben sie auf eine Stufe erhöht, die zu einer Epidemie zu werden droht. Es scheint, dass mit jedem neuen Schiff, das ankert, mehr und mehr unserer Untertanen sich im tödlichen Netz der Sucht verstricken. Was sollen wir tun?;;;;;;;;;;;
-EVTDESC13056;The great clippers ply our coastlines from north to south, like wolves culling out the weak and the corruptible with the poison they sell. Wherever there is an unexposed harbor, a foreign ship soon docks, and drives another fang into our national body. The use of opium has spread throughout $STATENAME$.;Les grands voiliers de commerce sillonent nos côtes du nord au sud, comme des loups à l'abattage des faibles et des corruptibles avec le poison qu'ils vendent. Partout où il y a un port non encore exposé, un navire étranger accoste bientôt, et plante un autre croc dans notre organisme national. L'usage de l'opium s'est étendue à $PROVINCENAME$. ;Die großen Klipper fahren unsere Küste von Norden nach Süden ab, wie Wölfe, die sich die Schwächsten aus der Herde suchen - in diesem Fall die mit ihrem wohlfeilen Gift Korrumpierbaren. Wo immer sich ein neuer Hafen findet, ankert bald ein ausländisches Schiff und rammt einen weiteren Reißzahn in den Körper unserer Nation. Der Opiumgebrauch hat sich nach $PROVINCENAME$ ausgebreitet.;;Los grandes veleros clíper navegan por nuestras costas, recorriéndolas de norte a sur, como lobos que acechan a los débiles y corruptibles con el veneno que venden. Cuando encuentran un puerto desprotegido, un barco extranjero atraca y clava su colmillo en el cuerpo de nuestra nación. El uso del opio se ha extendido a $PROVINCENAME$.;;;;;;;;;
-EVTDESC13070;Rangaku', literally translated as 'Dutch learning', and by extension 'Western learning', is a Japanese word used to describe a particular body of knowledge and learning imported from the west via a Dutch trading station at Dejima. Something similar has ocurred at the trading station in one of our provinces, where local officials are busy translating western books and treatises on science, advancing $COUNTRY_ADJ$ science and understanding of the world.;;Rangaku', wörtlich übersetzt als 'Lehren der Holländer', und weitergehend als 'Lehren aus dem Westen', ist ein japanisches Wort, das ein bestimmtes Wissen bedeutet, welches aus dem Westen über einen holländische Handelsposten in Dejima nach Japan kam. Etwas Ähnliches ist am Handelsposten in $PROVINCENAME$ geschehen, wo örtliche Beamte damit beschäftigt sind, westliche Bücher und wissenschaftliche Abhandlungen zu übersetzen, um die $COUNTRY_ADJ$ Wissenschaft und die Kenntnis von der Welt weiterzubringen.;;;;;;;;;;;
-EVTDESC13080;He hides his face and speaks with controlled anger. A local aristocrat has been insulted by one of the foreigners living in one of our provinces. Apperantly, the foreigner in question failed to bow in the appropriate manner when passing the aristocrat on the street. Shall we tolerate such blatant ignorance of our customs?;;Er verbirgt sein Gesicht und spricht mit kontrolliertem Ärger. Ein lokaler Aristokrat in $PROVINCENAME$ wurde von einem der dort lebenden Ausländer beleidigt. Offensichtlich versäumte der Ausländer, sich in der korrekten Weise zu verbeugen, als er dem Aristokraten auf der Straße begegnete. Sollen wir solch blatante Ignoranz unserer Sitten tolerieren?;;;;;;;;;;;
-EVTDESC13090;He unveils the device with the excitement of a child. - 'You can see their eyes!', he cries, pointing excitedly at the jar of beetles. He instructs you to look into the object -- the glass and metal is cold against your face -- there, in curves of an optic lense, reality is magnified ten times over. - 'It's a microscope!, he laughs. - 'I bought it from one of the foreigners!';;Er enthüllt den Apparat mit der Begeisterung eines Kindes. - 'Man kann ihre Augen sehen!', ruft er aus und deutet aufgeregt auf das Glas mit den Käfern. Er bedeutet Ihnen, in den Apparat zu schauen -- das Glas und Metall fühlt sich auf Ihrem Gesicht kalt an -- dort, in den Biegungen einer optischen Linse, sieht die Realität zehnmal größer aus. - 'Es ist ein Mikroskop!', lacht er. - 'Ich habe es von den Ausländern in $PROVINCENAME$ gekauft!';;;;;;;;;;;
-EVTDESC13140;Some intelligence concerning our military preparations has spread from the military mission in one of our provinces, severely hurting our war effort. We have expelled the members of the mission, but the damage has already been done.;Des renseignements confidentiels concernant nos préparatifs militaires ont été divulgués par la mission militaire de $PROVINCENAME$, estropiant gravement notre effort de guerre. Nous avons expulsé les membres de la mission, mais le mal est fait.;Einige Informationen über unsere militärischen Vorbereitungen haben sich aus der Militärmission in $PROVINCENAME$ verbreitet und schaden unseren Kriegsbemühungen enorm. Wir haben die Missionsmitglieder des Landes verwiesen, aber der Schaden ist passiert.;;;;;;;;;;;
-EVTDESC13160;Sailors winding up drunk in $COUNTRY_ADJ$ prisons aren't normally affairs of state, but this is an exception. A navyman from one of the Great Powers has been arrested by officials in one of our cities, after having murdered one of our subjects in what appears to have started as a bar fight. The diplomatic attaché insists that the sailor be handed over to the country in question, and tried according to their laws. This presents us with a conundrum. Granting this privilege once is tantamount to allowing extraterritoriality to all foreign subjects, but not doing so might very well cause international uproar. This issue merits careful consideration.;;Betrunkene Matrosen, die in $COUNTRY_ADJ$ Gefängnissen landen, sind üblicherweise keine Staatsaffären, aber dies ist eine Ausnahme. Ein Matrose aus einer der Großmächte wurde in $PROVINCENAME$ verhaftet, nachdem er einen unserer Untertanen im Verlauf einer Kneipenschlägerei umbrachte. Der diplomatische Attaché besteht darauf, dass der Matrose den Gerichten seines Heimatlandes ausgeliefert und dort nach ihren Gesetzen verurteilt wird. Dies bringt uns in eine Zwickmühle. Dieses Privileg ist ein wichtiger Teil der Extraterritorialität, die allen Ausländern zusteht, aber wenn wir es nicht tun, sehen wir einem internationalen Aufschrei entgegen. Dieses Problem muss sorgfältig durchdacht werden.;;;;;;;;;;;
-EVTDESC13230;Wandering alone in the streets of $CAPITAL$ can be a dangerous thing, as a foreign ambassador in the Legation Quarter recently found out. Guards report having found him dead at 4 a.m. in the morning, apperently the vicitm of a robbery, however the foreigners accuse us of having failed in our supposed responsibility to protect their diplomats. We fear that even a formal apology will not be enough to placate them, however, something more tangible might...;;Alleine durch die Straßen von $PROVINCENAME$ zu wandern, kann gefährlich sein, wie ein ausländischer Botschafter im Legationsviertel neulich herausfand. Wachen fanden ihn um vier Uhr morgens tot auf, offensichtlich Opfer eines Raubüberfalls. Die Ausländer aber beschuldigen uns, unserer angeblichen Pflicht, ihre Diplomaten zu schützen, nicht Genüge getan zu haben. Wir fürchten, dass selbst eine formelle Entschuldigung nicht ausreichen wird, um sie zu besänftigen, aber vielleicht etwas mehr Handfestes ...;;;;;;;;;;;
-EVTDESC13280;The reforms sweeping through our country have upset the landed elites in one of our cities.;Les réformes menées dans notre pays déplaisent aux élites foncières de $PROVINCENAME$.;Die unser Land überziehenden Reformen haben die Landbesitzereliten in $PROVINCENAME$ verärgert.;;;;;;;;;;;
-EVTNAME13365;Boxers Occupy Foreign-Held Lands;;;;;;;;;;;;;
-EVTDESC13365;The Righteous Society of Harmonious Fists have invaded lands currently owned by a colonial power, but which rightfully belong to the Chinese. More than that, they have successfully occupied the territory and rebuffed efforts by westerners to take it back. We can attempt to stake our claim over the land once again," though if we do it is all but tantamount to a declaration of war-- and, considering the state the Qing Empire is in", it might be a war in which we stand to lose more than we gained.;;;;;;;;;;;;;
-EVTNAME13370;The Boxers Victorious!;;;;;;;;;;;;;
-EVTDESC13370;$CAPITAL$ has been occupied by the Righteous Society of Harmonious Fists, who have successfully driven foreign influence out of the country and restored it to its traditional policies of isolationism. What repercussions this will cause with the western powers remains to be seen, but for the moment the Empire stands triumphant.;;;;;;;;;;;;;
-EVTNAME18501;The $COUNTRY_ADJ$ Way;;;;;;;;;;;;;
-EVTDESC18501;Ours is a nation of equality, where no man is placed above another in importance. Everyone strives for the betterment of all. A recent report in a $CAPITAL$ newspaper regarding the arrest of a wealthy but criminal industrialist has served not to outrage the $COUNTRY_ADJ$ people, but rather to reinforce their ideals. Today our people walk a little more proudly than before.;;;;;;;;;;;;;
-EVTNAME18505;$COUNTRY_ADJ$ Ingenuity;;;;;;;;;;;;;
-EVTDESC18506;Ours is a nation of liberty, where every man is born with the inherent right to seek his own destiny. The possibility of prosperity lies within every man's reach. A recent report in a $CAPITAL$ newspaper regarding the acquittal of a man popularly believed to be innocent has served to reinforce our peoples' ideals. Today they walk a little more proudly than before.;;;;;;;;;;;;;
-EVTNAME18510;Military Parade;;;;;;;;;;;;;
-EVTDESC18510;In the eyes of our soldiers as they parade through the streets, nothing can be seen but utmost devotion to $COUNTRYNAME$ and the ideals for which our nation stands. These men, and the description fits them, have been fostered since childhood into rigid and firm belief in our nation, and they would die to defend it. Long live $COUNTRY$!;;;;;;;;;;;;;
-EVTDESC18511;Ours is a nation of might, where a man's strength determines his success and everyone knows very well how superior we are to our neighbours. None can hope to compare to $COUNTRY$ on our best day. A recent report in a $CAPITAL$ newspaper regarding the execution of a foreigner believed to have been engaged in criminal activities on $COUNTRY_ADJ$ soil has served to reinforce our peoples' beliefs. Today they walk a little more proudly than before.;;;;;;;;;;;;;
-EVTNAME18515;Send in the Troops;;;;;;;;;;;;;
-EVTDESC18515;Matters in $COUNTRY$ are getting out of hand. Acts of violence are becoming more commonplace, and some claim that revolution is in the air. Many citizens in $CAPITAL$ are calling on the government to take stronger measures. Sending our army to deal with the violence will, however, only bring the attention of the world upon us. Perhaps this is a time to prove that $COUNTRY$ can deal with its affairs in the way we always have-- with civility.;;;;;;;;;;;;;
-EVTDESC18517;Ours is a nation of order, where peace and civility rule the day. Everyone strives for the common good, and for the progress of our nation as a whole. A recent report in a $CAPITAL$ newspaper regarding the arrest of a prominent criminal figure who had previously eluded authorities has not outraged the people, but rather has served to reinforce their beliefs. Today the people of $COUNTRY$ walk a little more proudly than before.;;;;;;;;;;;;;
-EVTNAME18521;Brotherhood of Man;;;;;;;;;;;;;
-EVTDESC18521;A celebration in $CAPITAL$ took place this month, a sombre affair following the death of a prominent politician. This was a celebration of the $COUNTRY_ADJ$ way: peace, brotherhood and fraternity. Such were the virtues this man believed in, and it is a belief shared by all the $COUNTRY_ADJ$ people.;;;;;;;;;;;;;
-EVTNAME18525;Liberty Shines;;;;;;;;;;;;;
-EVTDESC18525;A celebration in $CAPITAL$ took place this month, a sombre affair following the death of a prominent politician. This was a celebration of the $COUNTRY_ADJ$ way: freedom, liberty and the pursuit of happiness. Such were the virtues in which this man believed, and it is a belief shared by all the $COUNTRY_ADJ$ people.;;;;;;;;;;;;;
-EVTNAME18530;The $COUNTRY_ADJ$ Destiny;;;;;;;;;;;;;
-EVTDESC18531;A recent dispute with one of our neighbours has had an electrifying effect upon the people of $COUNTRY$: 'How can they be allowed to treat us this way?', they ask. Some are calling for war, while others are satisfied with the knowledge that our nation has already come out on top.;;;;;;;;;;;;;
-EVTNAME18550;Rejecting Westernization;;;;;;;;;;;;;
-EVTDESC18550;Our people have attempted to embrace the ideals of westernization for a long time, but now there is a growing movement to return to the traditional $COUNTRY_ADJ$ way of life. It falls to the nation's leaders to set the example: should we embrace the ideal of tradition once again, or should westernization remain our goal despite our continuing isolation?;;;;;;;;;;;;;
-EVTNAME18551;Embracing Westernization;;;;;;;;;;;;;
-EVTDESC18551;Our people have held to our traditions for a very long time. After many years of exposure to the western nations, however, a growing movement has begun to change the $COUNTRY_ADJ$ way of life. Intellectuals in $CAPITAL$ say the government should lead the people into an era of progress and not remain mired in our backward ways. Shall we throw these fools into prison, or consider what they have to say?;;;;;;;;;;;;;
-EVTNAME18555;Clash of Ideals;;;;;;;;;;;;;
-EVTDESC18555;$COUNTRY_ADJ$ intellectuals have clashed with members of the aristocracy in $CAPITAL$. The aristocracy has accused the intellectual elite of attempting to cast aside the $COUNTRY_ADJ$ way of life, while the intellectuals say that progress is necessary if $COUNTRY$ is to have any chance against western imperialist powers. The argument of the intellectuals is convincing, but this has not calmed matters in the streets.;;;;;;;;;;;;;
-EVTNAME18556;New Ideas;;;;;;;;;;;;;
-EVTDESC18556;$COUNTRY_ADJ$ intellectuals have brought several new ideas before the court, ideas that could advance our research considerably. They are also quite contentious, however, and a rejection of the intellectuals could do much to soothe the aristocracy.;;;;;;;;;;;;;
-EVTNAME18560;Annals of the Past;;;;;;;;;;;;;
-EVTDESC18560;The peasants are taking to the streets, rising up against their rulers in ways that would have been unthinkable only decades ago. Perhaps it is time to remind them of their duty to their nation, and of the traditions which have served $COUNTRY$ so well in ages past?;;;;;;;;;;;;;
-EVTNAME18562;The Fight Against Progress;;;;;;;;;;;;;
-EVTDESC18562;$COUNTRY_ADJ$ reactionaries have begun heated debates in one of our states, arguing that $COUNTRY$ should not be slavishly seeking to chase after 'civilized' nations-- indeed, that already $COUNTRY$ has gone too far down the path of degradation and that the $COUNTRY_ADJ$ people suffer for it. They are calling on the government to repeal reforms, or at the very least to slow down the rapid pace of change... and they are gaining a wide audience.;;;;;;;;;;;;;
-EVTNAME18565;A Return to Western Influence?;;;;;;;;;;;;;
-EVTDESC18565;$COUNTRY$ is a nation of progress, and our current period of insulation against the western powers runs contrary to that ideal. Shall we call on the borders to be opened once again? It might anger some of our people, but the flow of goods and ideas is invaluable to our prosperity.;;;;;;;;;;;;;
-EVTNAME18571;Rejecting the West?;;;;;;;;;;;;;
-EVTDESC18571;We never wanted this contact with the westerners. They bring too many problems into our country, and their influence spreads like an insidious disease. Many in the $COUNTRY_ADJ$ court are calling for the borders to be closed once again, for us to display to these imperialists that they cannot simply strut about our nation as if they own it. A display of force is necessary!;;;;;;;;;;;;;
-EVTNAME44356;Second Stage of the CNR;;;;;;;;;;;;;
-EVTDESC44356;The second stage of the Canadian National Railway, linking Calgary to the Atlantic Coast, has been completed. Now work must begin on the last stage, which will be the longest and most difficult yet as it requires creating a pass through the Rocky Mountains themselves.;;;;;;;;;;;;;
-EVTDESC44808;Not unexpectedly, Mexico has ignored the terms of the Treaties of Velasco-- claiming that Santa Anna only agreed to them under duress. Indeed, Santa Anna himself has been quick to back up their claim even despite his precarious position. The one bright light in this? It might be the cause the American government has been looking for to intervene in our war.;;;;;;;;;;;;;
-EVTNAME46304;Solano's Ambition;;;;;;;;;;;;;
-EVTDESC46304;The dictator of Paraguay, Solano Lopez, has turned his eye towards Brazilian lands to the southeast. Direct access to the Atlantic Ocean would be of great benefit to the country, rather than relying on Uruguayan permission to use the river-- permission which might not always be forthcoming, thanks to Brazilian interference. Perhaps it is time to flex Paraguay's muscle and establish an empire of our own?;;;;;;;;;;;;;
-EVTNAME60160;Birth of a Nation;;;;;;;;;;;;;
-EVTDESC60160; Today crowds gathered in $CAPITAL$ to celebrate $COUNTRY$'s independence. In the modern world, independence can be a fleeting thing-- so we must enjoy it while we can. Today, $COUNTRY_ADJ$ flags wave from every window and corner, and jubilant citizens sing the $COUNTRY_ADJ$ anthem. It is a heartfelt theme that speaks of better tomorrows.;;;;;;;;;;;;;
-EVTNAME80111;The Dungan Basin;;;;;;;;;;;;;
-EVTDESC80111;Now that the rebellion in distant Xinjiang is finished, there appears to be some question as to who has ownership over the Dungan basin. The western half of the basin, in Qaratal, is occupied by the wicked Russians… but they wish control over the eastern half in Ili, as well. Should we surrender the basin peacefully, or fight for $COUNTRY_ADJ$ honor?;;;;;;;;;;;;;
-EVTNAME90034;Union With Greece;;;;;;;;;;;;;
-EVTDESC90034;The time has come to unite with our Greek brothers.;;;;;;;;;;;;;
-EVTNAME95076;The January Uprising;;;;;;;;;;;;;
-EVTDESC95076;A spontaneous protest by young Poles against conscription into the Russian Army has quickly erupted into a widespread insurrection, supported by high-ranking Polish and Lithuanian officers and politicians. The eyes of all of Europe are upon us, and if we deal with the insurgents too harshly it may hurt our relations with European powers. If we do not, however, the uprising may spread even further.;;;;;;;;;;;;;
-EVTNAME95315;Join the Canadian Confederation?;;;;;;;;;;;;;
-EVTDESC95315;With things in $COUNTRY$ so difficult, some citizens have brought up the possibility of joining the Confederation of Canada. It is a land of freedom, and together we will be more powerful than we are separately. Shall we approach their government?;;;;;;;;;;;;;
-EVTNAME95316;$FROMCOUNTRY$ Asks to Join Canada;;;;;;;;;;;;;
-EVTDESC95316;A delegate from $FROMCOUNTRY$ has quietly approached the Canadian government, asking for the former American state to be admitted to Confederation. While this may seem like a good idea, the Americans may see us as opportunists for accepting.;;;;;;;;;;;;;
-EVTNAME96090;End of the $COUNTRY_ADJ$ Monarchy;;;;;;;;;;;;;
-EVTDESC96090;With the loss of $COUNTRY$ in the recent war, the $COUNTRY_ADJ$ monarchy has received much of the blame-- there have already been several assassination attempts, and calls within the government for the monarchy to step down. Sentiment in the public has turned to the notion of $COUNTRY$ becoming a democracy... though some fear this will plunge the nation into even further chaos.;;;;;;;;;;;;;
-EVTNAME96215;Indian Nationalists Victorious!;;;;;;;;;;;;;
-EVTDESC96215;Nationalists have succeedeed in taking over $COUNTRY_ADJ$ colonies in India. Our governors have been driven out and our territory lost.;;;;;;;;;;;;;
-EVTNAME97571;The Final Straw;;;;;;;;;;;;;
-EVTDESC97571;We have received reports from the Cape Colony that there has been yet another outbreak of violence between the Xhosa natives and the colonials. This time it is evidently caused by natives returning from the diamond mines, attempting to take back control of their lands without any consideration for due process. Many within the Cape Colony believe it is time that the military moved in and took over their lands completely.;;;;;;;;;;;;;
-EVTNAME98000;Border Dispute with the Zulu;;;;;;;;;;;;;
-EVTDESC98000;The Zulus have slaughtered a $COUNTRY_ADJ$ regiment that entered their territory without our authority. While we had not been seeking a war with the Zulus, now our hand is forced. We must either back down and apologize, or see this through to the bitter end.;;;;;;;;;;;;;
-EVTNAME98001;The South African Union ;;;;;;;;;;;;;
-EVTDESC98001;The time has come to consider joining the South African union. ;;;;;;;;;;;;;
-EVTNAME98002;Annexation of the Transvaal;;;;;;;;;;;;;
-EVTDESC98002;Our colonial governor in South Africa declared an annexation of the Transvaal via special warrant several years ago, one that the Boers have stubbornly resisted. Both Transvaal and the Oranje Free State have considerable resources which would be of value to $COUNTRY$, and we must consider the idea that keeping them out of the hands of competitors for African dominance is just as much reason to annex them as using those resources for our ourselves. The Boer resistance has proven embarrasing. If we do not answer this with force, it will make the $COUNTRY_ADJ$ look weak to the world.;;;;;;;;;;;;;
-EVTNAME98003;The Anglo-Boer War;;;;;;;;;;;;;
-EVTDESC98003;The $FROMCOUNTRY_ADJ$ have gone to war with the Transvaal, and many Boers are fearful that $COUNTRY$ will surely be next. They are crying out to our government to ally with the Transvaalis and stop the $FROMCOUNTRY_ADJ$ from taking away their lands and their rights.;;;;;;;;;;;;;
-EVTNAME98004;South Africa is Ours!;;;;;;;;;;;;;
-EVTDESC98004;We control the entire Cape Colony. There is no question now as to who the masters are in South Africa: the Boers. The time has come for us to end the war and unite the Boers under a single flag.;;;;;;;;;;;;;
-EVTNAME98005;Appeal From $FROMCOUNTRY$;;;;;;;;;;;;;
-EVTDESC98005;We have been approached by $FROMCOUNTRY_ADJ$ diplomats desperate for help in their war. Though they are loathe to do so, they are asking for $COUNTRY_ADJ$ protection. If we provide it, it does mean we establish an excellent claim over their territory.;;;;;;;;;;;;;
-EVTNAME98006;The Boer Exodus;;;;;;;;;;;;;
-EVTDESC98006;With 'the Great Trek' underway, many of the Boers are eager to leave the Cape Colony behind and travel to either the Transvaal or the oranje Free State where they feel they will be free to pursue their own interests.;;;;;;;;;;;;;
-EVTNAME98735;Islamic Fervor in $COUNTRY$;;;;;;;;;;;;;
-EVTDESC98735;A sentiment of Islamic nationalism is sweeping $COUNTRY$, as people begin to clamor for unification with the Islamic Caliphate. We have little reason to doubt that they would object to a petition of annexation.;;;;;;;;;;;;;
-claim_mayan_lands_title;Rebuild the Mayan Empire;;;;;;;;;;;;;
-claim_mayan_lands_desc;The time has come for the Mayan people to reclaim what they have lost!;;;;;;;;;;;;;
-release_bukovina_desc;With our holdings in Bukovina cut off from the rest of Austria, it only makes sense that we give the locals more autonomy. Let the Romanians raise their own armies-- so long as they do so in the service of the Austrian crown.;;;;;;;;;;;;;
-total_war_in_taiping_title;Total War in Taiping;;;;;;;;;;;;;
-total_war_in_taiping_desc;The glorious revolution awaits. We must call upon all our citizens to fight, lest our cause die before it has even achieved the first step towards victory.;;;;;;;;;;;;;
-total_war_in_peking_title;Total War in Peking;;;;;;;;;;;;;
-total_war_in_peking_desc;The Taiping Rebellion threatens the dynasty and, indeed, the entire Empire. We must call on all our citizens to rise up and fight against these Christian infidels!;;;;;;;;;;;;;
-total_war_in_kashgaria_title;Total War in Kashgaria;;;;;;;;;;;;;
-total_war_in_kashgaria_desc;The glorious revolution awaits. We must call upon all our citizens to fight, lest our cause die before it has even achieved the first step towards victory.;;;;;;;;;;;;;
-total_war_in_yunnan_title;Total War in Yunnan;;;;;;;;;;;;;
-total_war_in_yunnan_desc;The glorious revolution awaits. We must call upon all our citizens to fight, lest our cause die before it has even achieved the first step towards victory.;;;;;;;;;;;;;
-form_hindustan_title;Form Hindustan;;;;;;;;;;;;;
-form_hindustan_desc;We must unite the people of Hindustan under a single flag, to better resist the Imperialists from incursions into India.;;;;;;;;;;;;;
-form_marathas_title;Form Marathas;;;;;;;;;;;;;
-form_marathas_desc;The Maratha Empire was once the greatest force upon the Indian subcontinent. The time has come for it to rise once more!;;;;;;;;;;;;;
-apply_for_USA_statehood2_title;Apply for Statehood;Demande de rattachement en tant qu'État;Antrag auf Souveränität;;Solicitud de ingreso como estado;;;;;;;;;
-apply_for_USA_statehood2_desc;Our position on the North American continent, and our traditional cultural ties to the USA, make it likely that the USA would accept a petition of statehood from us. Doing this means our country will be annexed by the United States;Notre position géographique sur le continent nord Américain, et les liens qui nous unissent aux Etats-Unis font que ces derniers accepteraient probablement une pétition sur une demande de rattachement en tant qu'Etat. En faisant cela, notre pays serait annexé aux Etats-Unis.;Unsere Position auf dem nordamerikanischen Kontinent und unsere traditionellen kulturellen Verbindungen mit den USA machen es wahrscheinlich, dass die USA einen Antrag auf Souveränität von uns akzeptiert. Dies bedeutet, dass unser Land von den Vereinigten Staaten annektiert wird;;Por nuestra posición en el continente norteamericano y nuestros vínculos culturales tradicionales con los EE.UU. parece probable que nos acepten como estado de la Unión si lo solicitamos. Si lo hacemos, nuestro país será anexionado por los Estados Unidos.;;;;;;;;;
-end_of_NGF_PRU;Become Prussia;;;;;;;;;;;;;
-end_of_NGF_PRU_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Prussia is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_ANH;Become Anhalt;;;;;;;;;;;;;
-end_of_NGF_ANH_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Anhalt is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_SGF_BAD;Become Baden;;;;;;;;;;;;;
-end_of_SGF_BAD_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Baden is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_SGF_BAV;Become Bavaria;;;;;;;;;;;;;
-end_of_SGF_BAV_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Bavaria is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_BRA;Become Brunswick;;;;;;;;;;;;;
-end_of_NGF_BRA_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Brunswick is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_BRE;Become Bremen;;;;;;;;;;;;;
-end_of_NGF_BRE_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Bremen is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_FRM;Become Frankfurt;;;;;;;;;;;;;
-end_of_NGF_FRM_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Frankfurt is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_HAM;Become Hamburg;;;;;;;;;;;;;
-end_of_NGF_HAM_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Hamburg is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_HAN;Become Hannover;;;;;;;;;;;;;
-end_of_NGF_HAN_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Hannover is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_HEK;Become Hesse-Kessel;;;;;;;;;;;;;
-end_of_NGF_HEK_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Hesse-Kessel is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_HES;Become Hesse-Darmstadt;;;;;;;;;;;;;
-end_of_NGF_HES_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Hesse-Darmstadt is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_OLD;Become Oldenburg;;;;;;;;;;;;;
-end_of_NGF_OLD_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Oldenburg is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_SAX;Become Saxony;;;;;;;;;;;;;
-end_of_NGF_SAX_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Saxony is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_WEI;Become Saxe-Weimar;;;;;;;;;;;;;
-end_of_NGF_WEI_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Saxe-Weimar is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_SGF_WUR;Become Württemburg;;;;;;;;;;;;;
-end_of_SGF_WUR_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Württemburg is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_MEI;Become Saxe-Meiningen;;;;;;;;;;;;;
-end_of_NGF_MEI_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Saxe-Meiningen is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_COB;Become Saxe-Coburg-Gotha;;;;;;;;;;;;;
-end_of_NGF_COB_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Saxe-Coburg-Gotha is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_NAS;Become Nassau;;;;;;;;;;;;;
-end_of_NGF_NAS_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Nassau is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_MEC;Become Mecklenberg;;;;;;;;;;;;;
-end_of_NGF_MEC_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Mecklenberg is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_LUB;Become Lübeck;;;;;;;;;;;;;
-end_of_NGF_LUB_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Lübeck is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-end_of_NGF_LIP;Become Lippe;;;;;;;;;;;;;
-end_of_NGF_LIP_desc;With the loss of our lands, we must face a bitter truth and realize that claiming we are more than Lippe is a conceit we cannot afford. Let the truth become reality.;;;;;;;;;;;;;
-create_iberia_title;Become Iberia;;;;;;;;;;;;;
-create_iberia_desc;We have proven our mettle and united the Iberian peninsula under our rule. Now the time has come for a new Iberian federation to be born, one that unites all of the peninsula's cultures under a single rule.;;;;;;;;;;;;;
-create_iberia2_title;Become Iberia;;;;;;;;;;;;;
-create_iberia2_desc;We have proven our mettle and united the Iberian peninsula under our rule. Now the time has come for a new Iberian federation to be born, one that unites all of the peninsula's cultures under a single rule.;;;;;;;;;;;;;
-end_of_iberia_spain_title;Become Spain;;;;;;;;;;;;;
-end_of_iberia_spain_desc;The Iberian union is no longer the truth. We must put aside the fiction and become Spain in truth.;;;;;;;;;;;;;
-end_of_iberia_portugal_title;Become Portugal;;;;;;;;;;;;;
-end_of_iberia_portugal_desc;The Iberian union is no longer the truth. We must put aside the fiction and become Portugal in truth.;;;;;;;;;;;;;
-form_caliphate_title;Form the Islamic Caliphate;;;;;;;;;;;;;
-form_caliphate_desc;The dream of a true muslim nation: unite the peoples of Islam under a single banner, one which could make the nations of the world shake before its might and cast fear into the hearts of men so used to treating our brethren as lesser beings.;;;;;;;;;;;;;
-apply_sharia_law_title;Apply Sharia Law;;;;;;;;;;;;;
-apply_sharia_law_desc;Ours is a nation based on fundamental religious rule. Thus it is incumbent that Sharia law be applied to its fullest extent-- in the interest of keeping peace and order.;;;;;;;;;;;;;
-repeal_sharia_law_title;Repeal Sharia Law;;;;;;;;;;;;;
-repeal_sharia_law_desc;Ours may be an Islamic union, but it is no longer a nation based on fundamental religious rule. We must repeal the strict Sharia laws which have held back our nation for so long.;;;;;;;;;;;;;
-fsa_enact_anaconda_plan_desc;Originally devised by General-in-chief Winfield Scott, the Anaconda plan was a plan for subduing the Free Americans by means of a massive naval blockade, and a military advance along the coast. By initiating blockades of FSA ports, we can increase their war exhaustion by denying them essential goods.;;;;;;;;;;;;;
-form_hindustan2_title;Form Hindustan;;;;;;;;;;;;;
-form_hindustan2_desc;We must unite the people of Hindustan under a single flag, to better resist the Imperialists from incursions into India.;;;;;;;;;;;;;
-form_marathas2_title;Form Marathas;;;;;;;;;;;;;
-form_marathas2_desc;The Maratha Empire was once the greatest force upon the Indian subcontinent. The time has come for it to rise once more!;;;;;;;;;;;;;
-claim_greater_bengal2_title;Claim Greater Bengal;;;;;;;;;;;;;
-claim_greater_bengal2_desc;The Bengal Empire once ruled over much of eastern India, and the time has come to once again restake our claim. We must strike a blow against the forces of imperialism!;;;;;;;;;;;;;
-form_dravidistan2_title;Form Dravidistan;;;;;;;;;;;;;
-form_dravidistan2_desc;We must unite the Dravidian people under a single flag, to better resist the Imperialists from incursions into India.;;;;;;;;;;;;;
-move_capital_to_niamey_title;Move Capital to Niamey;;;;;;;;;;;;;
-move_capital_to_niamey_desc;Niamey provides a better capital for Niger-- we should move the government there at once.;;;;;;;;;;;;;
-move_capital_to_bamako_title;Move Capital to Bamako;;;;;;;;;;;;;
-move_capital_to_bamako_desc;Niamey provides a better capital for Mali-- we should move the government there at once.;;;;;;;;;;;;;
-move_capital_to_dar_es_salaam_title;Move Capital to Dar-es-Salaam;;;;;;;;;;;;;
-move_capital_to_dar_es_salaam_desc;Dar-es-Salaam provides a better capital for Tanganyika-- we should move the government there at once.;;;;;;;;;;;;;
-become_mali_empire_title;Restore the Mali Empire;;;;;;;;;;;;;
-become_mali_empire_desc;The Mali Empire was once one of the greatest kingdoms in all of Africa. Under the ancient flag we can unite the peoples of the western Sahel, and challenge the might even of the Europeans!;;;;;;;;;;;;;
-invite_greece_to_YUG_title;Invite Greece Into Yugoslavia;;;;;;;;;;;;;
-invite_greece_to_YUG_desc;While the Greeks are not truly considered part of the Slavic culture and are noticeably reluctant to assent to any kind of greater union of the Balkans, perhaps with enough influence and good relations we can convince them to join us.;;;;;;;;;;;;;
-embrace_greeks_YUG_title;Embrace Greeks;;;;;;;;;;;;;
-embrace_greeks_YUG_desc;The Greeks are not truly a Slavic culture, and notoriously at odds with the rest of the Slavs. With enough effort, however, it should not be impossible to integrate them more fully into the Yugoslav culture and government. Perhaps this might even mean a future of peace between our peoples.;;;;;;;;;;;;;
-embrace_polish_minority_title;Embrace the Polish Minority;;;;;;;;;;;;;
-embrace_polish_minority_desc;We shall embrace our Polish citizens, and elevate them to the status shared by that of the Hungarians.;;;;;;;;;;;;;
-demand_retreat_from_india;Demand Retreat From India;;;;;;;;;;;;;
-demand_retreat_from_india_desc;The majority of India has been wrested from British control. A choice is upon us: either demand their retreat from the sub-continent, freeing all their vassals and annexed lands, or continue our war and hope to achieve our current goals. A British retreat may result in chaos, and we certainly would not attain the war goals we have in play, but it would at least take the British out of the equation for the years to come.;;;;;;;;;;;;;
-move_capital_to_delhi_title;Move Capital to Delhi;;;;;;;;;;;;;
-move_capital_to_delhi_desc;Now that India has unified, we should consider moving the capital to a more central-- and traditional-- city. Delhi: the heart of India.;;;;;;;;;;;;;
-organize_bostwana_desc;We should organize the African colonies to better reflect both a local structure, as well as set up the possibility for autonomous rule -- dominated by our benevolent colonial administrators, of course.;;;;;;;;;;;;;
-organize_mauretania_title;Organize Mauretania;;;;;;;;;;;;;
-organize_mauretania_desc;We should organize the African colonies to better reflect both a local structure, as well as set up the possibility for autonomous rule -- dominated by our benevolent colonial administrators, of course.;;;;;;;;;;;;;
-move_capital_to_accra_title;Move Capital to Accra;;;;;;;;;;;;;
-move_capital_to_accra_desc;Accra provides a better capital for our nation-- we should move the government there at once.;;;;;;;;;;;;;
-move_capital_to_algiers_title;Move Capital to Algiers;;;;;;;;;;;;;
-move_capital_to_algiers_desc;Algiers now belongs to us. It is time to move our government back to its proper place!;;;;;;;;;;;;;
-chuang_guangdong_title;Chuang Guandong;;;;;;;;;;;;;
-chuang_guangdong_desc;Literally 'Crashing into Guandong', this was the a policy brought into place by the Qing government which brought down the barrier to non-Manchu settlement in the northeastern frontier. With the loss of Outer Manchuria, it is vital that the frontier be populated by settlers to prevent further expansion into Chinese territory.;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+EVTNAME10222;$YEAR$Äê·¨¹ú¸ïÃü;;;;;;;;;;;;x
+EVTDESC10222;·ßÅ­µÄÈËÈºÓ¿Èë°ÍÀè½ÖÍ·£¬¸ßº°¡°´òµ¹¹úÍõ£¡¡±¡°¸Ä¸ïÍòËê£¡¡±¡£ËûÃÇÔÚ½ÖÉÏÉèÖÃÁËÂ·ÕÏ£¬²¢Óë°ÍÀèÊĞÕş¾¯ÎÀ±¬·¢ÁËÕ½¶·¡£ÓÉÓÚÕâ×ù³ÇÊĞÒÑ¾­ÍêÈ«±»Íâ½ç·âËø£¬ÕâĞ©ÈËÈº¿ªÊ¼Ïò»Ê¹¬ÓÎĞĞ¡£ÎÒÃÇµÄ¹úÍõ±ğÎŞÑ¡Ôñ£¬Ö»ºÃÍËÎ»ÌÓ³öÕâ¸ö¹ú¼Ò¡£;;;;;;;;;;;;x
+EVTNAME10223;Â·Ò×-ÄÃÆÆÂØµÄÕş±ä;;;;;;;;;;;;x
+EVTDESC10223;Ãæ¶ÔÊäµô×ÜÍ³´óÑ¡µÄÇ°¾°£¬ÈËÆøºÜ¸ßµÄÂ·Ò×-ÄÃÆÆÂØ·¢¶¯Õş±ä£¬ÍÆ·­ÁË·¨¹úÕş¸®¡£ÖÒ³ÏµÄ¾ü¶Ó³ÉÔ±ÒÑ¾­Ëø¶¨ÁË°ÍÀèµÄÕ½ÂÔÒªµØÃ©¹ú¼ÒÍ¼Êé¹İÒÑ¾­½âÉ¢£¬Â·Ò×¡¤ÄÃÆÆÂØÊÇÕâ¸ö¹ú¼ÒÎŞ¿ÉÕùÒéµÄÍ³ÖÎÕß¡£Ëû¼ÓÃáÎªÄÃÆÆÂØÈıÊÀµÄµÚÈıÌì£¬Ëû¸´±ÙÁËÊåÊåµÄÍõÎ»£¬³ÉÎª·¨¹ú»ÊµÛ¡£;;;;;;;;;;;;x
+EVTNAME10224;ÄÃÆÆÂØÈıÊÀ±»·Ï÷í;;;;;;;;;;;;x
+EVTDESC10224;ÓÉÓÚ·¨¹úÎŞÁ¦×èÖ¹µÂ¹úµÄ³ÉÁ¢£¬ÒÔ¼°°¢¶ûÈøË¹-ÂåÁÖµÄ³ÜÈèĞÔËğÊ§£¬Õş¸®·ßÅ­µØ°ÕÃâÁËÄÃÆÆÂØ»ÊµÛ¡£ÎÒÃÇ±ØĞëÑ¡ÔñĞÂÕş¸®µÄĞÎÊ½¡£;;;;;;;;;;;;x
+EVTNAME11108;Ë¹À­·òÍ³Ò»;;;;;;;;;;;;x
+EVTDESC11108;ÎªÁËµÖ¿¹°ÂµØÀûÈË¡¢ÍÁ¶úÆäÈËÒÔ¼°ÆäËûÅ·ÖŞÇ¿È¨µÄÇÖÂÔ£¬°Í¶û¸ÉµÄË¹À­·ò¹ú¼Ò×îÖÕ±»ºÅÕÙÍ³Ò»ÔÚÒ»Ãæ¹²Í¬µÄÆìÖÄÏÂ¡£ÄÏË¹À­·ò¾İËµ»á³ÉÎªÒ»¸ö¼¬ÊÖµÄ¾ºÕù¶ÔÊÖ£¬Õâ¸öĞÂ¹ú¼ÒÊÇ·ñÄÜ¹»³É¹¦µØÍÅ½áËü±»Õ½»ğËù·ÖÁÑµÄÈËÃñ»¹ÓĞ´ı¹Û²ì¡£;;;;;;;;;;;;x
+EVTOPTA13000;Ö»ÒªÎ÷·½ÈË²»ÈÇÂé·³£¬ÎÒÃÇ¾ÍÔÊĞíËûÃÇ½øÈë$COUNTRY$¡£;;;;;;;;;;;;x
+EVTOPTB13000;ËûÃÇ´øÀ´ÁËÎ£ÏÕµÄÏë·¨¡£$COUNTRY$½«¾Ü¾øËùÓĞÈË½øÈë¡£;;;;;;;;;;;;x
+EVTNAME13010;ÓöÏÕµÄË®ÊÖ;;;;;;;;;;;;x
+EVTDESC13010;¼Å¾²¹Å³ØÌÁ£¬\nÍÜÔ¾±ÌË®Çá²¨Ñú£¬\nÕ§ÎÅÓÄÔÏÏì¡£\n¡ª¡ªËÉÎ²°Å½¶\nÎÒÃÇµÄÒ»¸öÑØº£Ê¡·İ³ä³â×Å¹ØÓÚ½ñÔçÔÚº£°¶Ïß·¢ÏÖµÄÄ°ÉúÈËµÄÒ¥ÑÔ¡£Ä¿Ç°»¹²»È·¶¨ÕâĞ©ÓöÄÑ´¬Ô±µÄÈ·ÇĞÀ´Ô´£¬µ«ÎŞÂÛËûÃÇÀ´×ÔÄÄÀï£¬ËûÃÇ¿Ï¶¨²»ÊÇÀ´×Ô$COUNTRY$¡£ÏÖÔÚµÄÀ§ÄÑÔÚÓÚ¾ö¶¨ÈçºÎ´¦ÀíËûÃÇ£ºÈç¹ûÎÒÃÇ°ÑËûÃÇËÍ»Ø¼Ò£¬ÎÒÃÇÊµ¼ÊÉÏÊÇÔÚ¸Ä±äÎÒÃÇ²»ÓëÎ÷·½ÈË½»ÍùµÄÕş²ß¡£²»¹ÜÎÒÃÇÔõÃ´Å¬Á¦£¬ÎŞÊÓËûÃÇ²¢ÔÊĞíËûÃÇÁôÏÂÀ´£¬ÒâÎ¶×ÅÔÊĞíÎ÷·½ÔÚ$COUNTRY$×¤Ôú¡£;;;;;;;;;;;;x
+EVTOPTA13010;ËÍËûÃÇ»Ø¼Ò;;;;;;;;;;;;x
+EVTOPTB13010;ÈÃËûÃÇÁôÏÂÀ´¡£;;;;;;;;;;;;x
+EVTNAME13015;Íâ¹ú×ßË½Õß;;;;;;;;;;;;x
+EVTDESC13015;ÎÒÃÇµÄÒ»¸ö³¼Ãñ±»·¢ÏÖ´©×ÅÍâ¹úÒÂ·ş£¬µ±¾ÖµÄ½øÒ»²½ÉóÑ¶µ¼ÖÂÁËÒ»¸öÍâ¹ú×ßË½ÍÅ»ïµÄ»ºÂıÍß½â¡£ÕâĞ©Íâ¹úÈËÎ´¾­ÔÊĞí½øÈë$COUNTRY$£¬ËûÃÇÖªµÀÈç¹û±»×¥×¡ËûÃÇ½«ÃæÁÙËÀĞÌ¡ª¡ªÈ»¶øÎÒÃÇµÄÒ»Ğ©¹ËÎÊËµ£¬ËûÃÇµÄ´æÔÚÓĞºÃ´¦£¬ÒòÎªËûÃÇ¿ÉÒÔÂú×ã$COUNTRY_ADJ$ÈËµÄĞèÒª£¬¶øÎÒÃÇ²»ÄÜ¡£;;;;;;;;;;;;x
+EVTNAME13020;Íâ¹ú´«½ÌÊ¿;;;;;;;;;;;;x
+EVTDESC13020;¾¡¹ÜÎÒÃÇµÄÕş²ßÊÇ²»ÔÊĞíÍâ¹úÈË½øÈë$COUNTRY$£¬µ«ÈËÃÇ·¢ÏÖ£¬Ò»ÅúÍâ¹ú´«½ÌÊ¿Ò»Ö±ÔÚÎÒ¹úÈËÃñÖĞÂÃĞĞ£¬´«²¥ËûÃÇµÄ×Ú½Ì¡£ËäÈ»ÎÒÃÇÍêÈ«ÓĞÈ¨Á¢¼´´¦¾öËûÃÇ£¬µ«ÕâÈ·ÊµÔö¼ÓÁËÓëËûÃÇµÄ×æ¹ú·¢Éú¶Ô¿¹µÄ¿ÉÄÜĞÔ¡£ÎÒÃÇÔ¸ÒâÃ°ÕâÑùÒ»³¡Õ½ÕùµÄ·çÏÕÂğ£¬½ö½öÎªÁË¼¸¸öÄÁÊ¦£¿;;;;;;;;;;;;x
+EVTNAME13030;Î÷·½ÈËµÖ´ï;;;;;;;;;;;;x
+EVTDESC13030;ÎÒÃÇ×îĞÂ»ñÏ¤£¬À´×ÔÅ·ÖŞ¸÷¹úÓëÆäËûÁĞÇ¿µÄÍâ¹úÈËÒÑÔÚÎÒ¹úÄ³ÊĞĞÎ³É×Ô¼ºµÄÍâ¼®ÉçÇø¡£ºÁÎŞÒÉÎÊ£¬´Ë¾ÙÊÇÎÒ¹ú¡°¿ª¸Û¿ª½û¡±Õş²ßµÄÖ±½Ó²úÎï£¬Õş¸®ÏàĞÅÕâÖÖÁ÷ÈëÇ÷ÊÆ¿ÉÄÜÊÇÓ°Ïì»ı¼«µÄ£¬µ«Ò²ÓĞÆäËûÉùÒô¶ÔÍâ¹úÈËµÄµ½À´È±·¦ºÃ¸Ğ¡£;;;;;;;;;;;;x
+EVTDESC13040;¾¡¹ÜÎÒ¹úµÄÃ³Ò×Õş²ßÏÔÈ»ÊÇÕıÈ·µÄ£¬µ«¸ü¶àµÄÍâ¹ú»õÎï¿ÉÄÜÊÇÓĞÓÃµÄ£¬ÎÒ¹úÕş¸®ÄÚ²¿µÄÒ»Ğ©ÈË½¨ÒéÔÚÎÒ¹úÑØº£³ÇÊĞÖ®Ò»ÉèÁ¢Ò»¸öÓĞÏŞµÄÃ³Ò×Õ¾£¬Íâ¹ú´¬Ö»¿ÉÒÔÔÚÄÇÀïÍ£²´ºÍÃ³Ò×£¬¶ø²»Ëğ¼°$COUNTRY$µÄÎÄ»¯ÍêÕûĞÔ¡£Õâ¿ÉÄÜÊÇ¶Ô¸ÃµØÇøºÍ¹ú¼ÒµÄ¾­¼ÃÀûºÃ£¬µ«±£ÊØÅÉµÄÉùÒô¾¯¸æËµ£¬ÆÆ»µĞÔµÄÍâ¹úÓ°Ïì¿ÉÄÜ»á½øÒ»²½ÂûÑÓµ½ÎÒÃÇµÄÉç»á¡£;;;;;;;;;;;;x
+EVTDESC13050;ÎÒ¹úÄ³³ÇÊĞµÄºó½ÖĞ¡Ïïµ½´¦ÃÖÂş×ÅÏãÌğ´Ì±ÇµÄÑÌÑ¬Æø£¬ËüµÄ·¢Ô´µØÓë´«²¥ÖĞĞÄÕıÊÇÍâ¹úÃ³Ò×Õ¾¡£Å·ÖŞÃ³Ò×ÕßÔÚ¾­ÓªÉúÒâµÄÍ¬Ê±Ò²´øÀ´ÁËËûÃÇÎüÊ³Ñ»Æ¬µÄÏ°¹ß£¬ÏñÊÇ´«È¾²¡ÄÇÑù£¬ÎÒ¹úĞí¶à³¼ÃñÒ²²»ĞÒÕ´È¾ÁËÕâÖÖ¶ñÏ°¡£ÑÛÏÂµÄÇ÷ÊÆÊÇ£¬Ã¿ËÒĞÂ¿¿°¶µÄÍâ¹úÉÌ´¬¶¼¿ÉÄÜÊ¹¹úÄÚÔ½À´Ô½¶àµÄÃñÖÚÍ¶ÈëÖÂÃüµÄ¶¾Íø£¬¶Ô´ËÎÒÃÇ¸ÃÈçºÎÊÇºÃÄØ£¿;;;;;;;;;;;;x
+EVTDESC13056;¾Ş´óµÄ¿ì´¬´Ó±±µ½ÄÏÔÚÎÒÃÇµÄº£°¶ÏßÉÏ´©Ëó£¬¾ÍÏñÀÇÓÃËûÃÇ³öÊÛµÄ¶¾Ò©ÆËÃğÈõÕßºÍ¸¯°ÜÕßÒ»Ñù¡£Ö»ÒªÓĞÒ»¸öÎ´±©Â¶µÄ¸Û¿Ú£¬Ò»ËÒÍâ¹ú´¬Ö»ºÜ¿ì¾Í»á¿¿°¶£¬²¢°ÑÁíÒ»Ö»¶¾ÑÀ´òÈëÎÒÃÇµÄ¹úÃñÉíÌå¡£Ñ»Æ¬µÄÊ¹ÓÃÒÑ±é¼°$STATENAME$¡£;;;;;;;;;;;;x
+EVTDESC13070;À¼Ñ§£¬×ÖÃæ·­ÒëÎª¡°ºÉÀ¼µÄÑ§ÎÊ¡±£¬ÒıÉêÎª¡°Î÷Ñ§¡±£¬ÊÇÒ»¸öÈÕÓïµ¥´Ê£¬ÓÃÓÚÃèÊöÍ¨¹ı³öµºµÄºÉÀ¼Ã³Ò×Õ¾´ÓÎ÷·½½ø¿ÚµÄÌØ¶¨ÖªÊ¶ºÍÑ§Ï°¡£ÀàËÆµÄÊÂÇéÒ²·¢ÉúÔÚÎÒ¹úÒ»¸öÊ¡·İµÄÃ³Ò×Õ¾£¬µ±µØ¹ÙÔ±ÕıÃ¦ÓÚ·­ÒëÎ÷·½ÓĞ¹Ø¿ÆÑ§µÄÊé¼®ºÍÂÛÎÄ£¬ÍÆ½ø$COUNTRY_ADJ$¿ÆÑ§ºÍ¶ÔÊÀ½çµÄÁË½â¡£;;;;;;;;;;;;x
+EVTDESC13080;ËûÑÚ×¡×Ô¼ºµÄÁ³£¬ÆøµÃËµ²»³ö»°À´¡£Ò»¸öµ±µØ¹ó×å±»Ò»¸ö×¡ÔÚÎÒÃÇÒ»¸öÊ¡µÄÍâ¹úÈËÎêÈèÁË¡£ºÜÃ÷ÏÔ£¬Õâ¸öÍâ¹úÈËÔÚ½ÖÉÏ¾­¹ı¹ó×åÊ±Ã»ÓĞÒÔÊÊµ±µÄ·½Ê½¾Ï¹ª¡£ÎÒÃÇÄÜÈİÈÌÕâÖÖ¶ÔÎÒÃÇ·çË×µÄ¹«È»ÎŞÖªÂğ£¿;;;;;;;;;;;;x
+EVTDESC13090;ËûÏñº¢×ÓÒ»ÑùĞË·ÜµØ½Ò¿ªÁË×°ÖÃµÄÃæÉ´¡£-¡°ÄãÄÜ¿´¼ûËûÃÇµÄÑÛ¾¦£¡¡±¡±Ëû¼¤¶¯µØÖ¸×ÅÄÇ¹Ş¼×³æ½ĞµÀ¡£ËûÖ¸Ê¾Äã¹Û²ìÎïÌå¡ª¡ª²£Á§ºÍ½ğÊôÔÚÄãÁ³ÉÏÊÇÀäµÄ¡ª¡ªÔÚÄÇÀï£¬ÔÚ¹âÑ§Í¸¾µµÄÇúÏßÖĞ£¬ÏÖÊµ±»·Å´óÁËÊ®±¶¡£-¡°ÕâÊÇ¸öÏÔÎ¢¾µ£¡£¬ËûĞ¦ÁË¡£-¡°ÎÒ´ÓÒ»¸öÍâ¹úÈËÄÇÀïÂòµÄ£¡¡±;;;;;;;;;;;;x
+EVTDESC13140;Ò»Ğ©¹ØÓÚÎÒÃÇ¾üÊÂ×¼±¸µÄÇé±¨´ÓÎÒÃÇÒ»¸öÊ¡µÄ¾üÊÂÈÎÎñÖĞ´«²¥³öÈ¥£¬ÑÏÖØËğº¦ÁËÎÒÃÇµÄÕ½ÕùÅ¬Á¦¡£ÎÒÃÇÒÑ¾­ÇıÖğÁËÌØÅÉÍÅ³ÉÔ±£¬µ«ÒÑ¾­Ôì³ÉÁËÆÆ»µ¡£;;;;;;;;;;;;x
+EVTDESC13160;$COUNTRY_ADJ$Ë®ÊÖÃÇÒòÎª×í¾Æ·¸ÊÂ¶øÈëÓü£¬ÕâÍ¨³£²»ÊÇ¹úÊÂ£¬µ«ÕâÊÇ¸öÀıÍâ¡£Ò»ÃûÀ´×ÔÄ³¸öÁĞÇ¿µÄº£Ô±ÔÚÎÒÃÇµÄÒ»¸ö³ÇÊĞ±»¹ÙÔ±´ş²¶£¬´ËÇ°ËûÄ±É±ÁËÎÒÃÇµÄÒ»Ãû³¼Ãñ£¬ÕâÒ»ÊÂ¼şËÆºõÊ¼ÓÚÒ»³¡¾Æ°É¶·Å¹¡£Íâ½»Ê¹½Ú¼á³ÖÒª°ÑÕâÃûº£Ô±ÒÆ½»¸øÓĞ¹Ø¹ú¼Ò£¬²¢¸ù¾İËûÃÇµÄ·¨ÂÉ½øĞĞÉóÅĞ¡£Õâ¸øÎÒÃÇ´øÀ´ÁËÒ»¸öÄÑÌâ¡£Ò»µ©¸øÓèÕâÒ»ÌØÈ¨£¬¾ÍµÈÓÚÔÊĞíËùÓĞÍâ¹ú³¼ÃñÏíÓĞÖÎÍâ·¨È¨£¬µ«Èç¹û²»ÕâÑù×ö£¬ºÜ¿ÉÄÜ»áÒıÆğ¹ú¼ÊÉç»áµÄĞùÈ»´ó²¨¡£Õâ¸öÎÊÌâÖµµÃ×ĞÏ¸¿¼ÂÇ¡£;;;;;;;;;;;;x
+EVTDESC13230;Ò»Î»×¤Íâ´óÊ¹×î½ü·¢ÏÖ£¬¶À×ÔÒ»ÈËÔÚ$CAPITAL$µÄ½ÖµÀÉÏÓÎµ´¿ÉÄÜÊÇÒ»¼şÎ£ÏÕµÄÊÂÇé¡£¾¯ÎÀ±¨¸æËµ£¬ËûÃÇ·¢ÏÖËûÔÚÁè³¿4µãËÀÁË£¬ºÜÃ÷ÏÔÊÇÒòÎªÇÀ½Ù£¬µ«ÊÇÍâ¹úÈËÖ¸ÔğÎÒÃÇÃ»ÓĞ¾¡µ½±£»¤ËûÃÇÍâ½»¹ÙµÄÔğÈÎ¡£ÎÒÃÇµ£ĞÄ£¬¼´Ê¹ÊÇÒ»¸öÕıÊ½µÄµÀÇ¸Ò²²»×ãÒÔ°²¸§ËûÃÇ£¬È»¶ø£¬Ò»Ğ©¸ü¾ßÌåµÄ¶«Î÷¿ÉÄÜ......;;;;;;;;;;;;x
+EVTDESC13280;Ï¯¾íÈ«¹úµÄ¸Ä¸ïÊ¹ÎÒÃÇÆäÖĞÒ»¸ö³ÇÊĞµÄ¾«Ó¢½×²ã¸Ğµ½²»°²¡£;;;;;;;;;;;;x
+EVTNAME13365;ÒåºÍÍÅ¹¥Õ¼Íâ¹ú×â½èµØ;;;;;;;;;;;;x
+EVTDESC13365;Ôø¾­ÊôÓÚÖĞ¹úÁìÍÁµÄÍâ¹úÖ³ÃñµØÔâµ½ÒåºÍÍÅÔË¶¯µÄÈëÇÖ¡£¸üÁîÈËÄÑ¿°µÄÊÇ£¬ËûÃÇ³É¹¦¶á»ØÊ§µØ²¢¿¹¾ÜÁËÎ÷·½ÈËÊÕ»ØËüÃÇµÄÅ¬Á¦¡£ÎÒÃÇ¿ÉÒÔÔÙ¶ÈĞû³Æ×Ô¼º¶ÔÕâĞ©ÍÁµØµÄËùÓĞÈ¨£¬µ«Èç´Ë¶øÎªµÄ½á¹û±ØÈ»ÒâÎ¶×ÅÕ½Õù¡ª¡ª¿¼ÂÇµ½´óÇåµÛ¹úÄ¿Ç°Ëù´¦µÄ¾³Óö£¬ÎÒÃÇÔÚÕâ³¡Õ½ÕùÖĞÓĞÍûÓ®»ØµÄ¶«Î÷»òĞíÔ¶Ñ·ÓÚÎª´ËÊ§È¥µÄ¡£;;;;;;;;;;;;x
+EVTNAME13370;ÒåºÍÍÅÊ¤Àû£¡;;;;;;;;;;;;x
+EVTDESC13370;ÒåºÍÍÅÔË¶¯ÒÑ³É¹¦¶áÈ¡$CAPITAL$£¬½«Íâ¹úÊÆÁ¦³¹µ×Öğ³ö¹úÃÅ£¬»Ø¹éµ½ÒÔÍù´«Í³µÄ¹ÂÁ¢Ö÷ÒåÂ·ÏßÉÏ¡£ÕâÆğÊÂ¼ş½«¶ÔÎ÷·½ÁĞÇ¿Ôì³ÉºÎÖÖÓ°ÏìÄ¿Ç°»¹ÓĞ´ı¹Û²ì£¬µ«¾ÍÏÖÔÚÀ´¿´£¬¹ÅÀÏµÄµÛ¹úÊÇÕâ³¡¶·ÕùµÄ¡°Ê¤ÀûÕß¡±¡£;;;;;;;;;;;;x
+EVTNAME18501;$COUNTRY_ADJ$µÀÂ·;;;;;;;;;;;;x
+EVTDESC18501;ÎÒÃÇ¹ú¼Ò·îĞĞÆ½µÈÔ­Ôò£¬Ã»ÓĞÈÎºÎÈËµÄµØÎ»£¬ÄÜÁè¼İÓÚËûÈËÖ®ÉÏ¡£Ã¿Î»¹«Ãñ¶¼ÖÂÁ¦ÓÚÎªÉç»áµÄ¸£ìí¾¡Ö°¾¡Ôğ¡£×î½ü£¬Ò»¼Ò$CAPITAL$±¨ÉçÕıÔÚ´«²¥Ä³Î»¸»ÓĞ¶ø·¸ÏÂ×ïĞĞµÄÊµÒµ¼Ò£¬Ôâµ½¾¯·½´ş²¶µÄÏûÏ¢£¬Õâµ±È»²»»áÒıÆğ$COUNTRY_ADJ$ÈËÃñµÄÕğÅ­£¬·´¶øÎª×Ô¼ºµÄÀíÏëÖÕµÃÊµ¼ù£¬¼¤¶¯²»ÒÑ¡£½ñÌì£¬ÎÒÃÇµÄ¹úÃñ´óÌ¤²½µØ×ßÔÚÂ·ÉÏ£¬½¾°Á¶øÂú»³×ÔºÀ¡£;;;;;;;;;;;;x
+EVTNAME18505;$COUNTRY_ADJ$¶À´´ĞÔ;;;;;;;;;;;;x
+EVTDESC18506;ÎÒ¹ú·îĞĞ×ÔÓÉÔ­Ôò£¬ËùÓĞÈËÉúÀ´ÓĞÈ¨×·Ñ°×Ô¼ºµÄÃüÔË£¬Ã¿¸öÈËÒ²ÓĞÄÜÁ¦ÊµÏÖ³É¹¦µÄ×ÔÎÒ¡£×î½ü£¬Ò»¼Ò$CAPITAL$±¨ÉçÕıÔÚ´«²¥Ä³Î»ÆÕ±éÈÏÎªÎŞ¹¼µÄÏÓÒÉÈË£¬±»ÅãÉóÍÅĞû²¼ÎŞ×ïÊÍ·ÅµÄĞÂÎÅ£¬ÕâÆğÊÂ¼şÊ¹ÃñÖÚ¼ÓÉîÁË¶ÔÕâ·İÀíÄîµÄÈÏÍ¬¡£½ñÌì£¬ÎÒÃÇµÄ¹úÃñ´óÌ¤²½µØ×ßÔÚ½ÖÍ·£¬½¾°Á¶øÂú»³×ÔºÀ¡£;;;;;;;;;;;;x
+EVTNAME18510;ÔÄ±øÊ½;;;;;;;;;;;;x
+EVTDESC18510;ËûÃÇµÄ¶ÓÎéĞĞ½ø¶ø¹ı£¬´ÓËûÃÇµÄË«ÑÛÖĞ£¬ÎÒÃÇÄÜ¿´µ½µÄ£¬Ö»ÓĞÎª$COUNTRYNAME$Ï×ÉíµÄ¾Ï¹ª¾«´â£¬ÓëÊµÏÖ¹ú¼ÒÔ¶´óÀíÏëµÄ·Ü¶·Ä¿±ê¡£ÕâĞ©ÈËÎŞÀ¢ÓÚ¾üÈËÖ®Ãû£¬ËûÃÇ´ÓĞ¡±ãÅàÑøÆğ¼áÇ¿µÄĞÔ¸ñ£¬Óë¶Ô×æ¹úµÄ¼á¶¨ĞÅÄî£¬ÊÄÔ¸Æ´ËÀº´ÎÀËı¡£$COUNTRY$ÍòËê£¡;;;;;;;;;;;;x
+EVTDESC18511;ÎÒ¹ú·îĞĞÁ¦Á¿Ô­Ôò£¬Ã¿¸öÈËµÄ³É¹¦È¡¾öÓÚËûµÄÄÜÁ¦£¬ËùÓĞÈËÉúÀ´¾Í±»½Ìµ¼£¬±ÈÆğÁÚ¹ú¶øÑÔ£¬ÎÒÃÇµÄÃñ×åÊÇ¶àÃ´ÓÅÔ½¡£×î»Ô»ÍµÄÊ±´úÀï£¬Ë­Ò²±ğÏëÌôÕ½$COUNTRY$µÄÈ¨Íş¡£×î½ü£¬Ò»¼Ò$CAPITAL$±¨ÉçÕıÔÚ´«²¥Ä³Î»Íâ¹úÈËÒòÔÚ$COUNTRY_ADJ$¹úÍÁÉÏÊµÊ©·¸×ï¶ø±»´¦¾öµÄÏûÏ¢£¬ÕâÆğÊÂ¼şÊ¹ÎÒ¹úÃñÖÚ¼ÓÉîÁË¶ÔÕâ·İÀíÄîµÄÈÏÍ¬¡£½ñÌì£¬ÎÒÃÇµÄ¹úÃñ´óÌ¤²½µØ×ßÔÚ½ÖÍ·£¬½¾°Á¶øÂú»³×ÔºÀ¡£;;;;;;;;;;;;x
+EVTNAME18515;¾ü¶ÓÇå³¡;;;;;;;;;;;;x
+EVTDESC18515;$COUNTRY$¾ÖÊÆ£¬ÕıÔÚÍÑÀëÎÒÃÇµÄÕÆ¿Ø£¬±©Á¦ĞĞÎª±äµÃÓú·¢ÆÕ±é£¬¸ïÃü·ÕÎ§ÔÚ¿ÕÆøÖĞ³ÖĞø·¢½Í¡£Ğí¶à$CAPITAL$ÃñÖÚÕıÔÚºôÓõÕş¸®£¬²ÉÈ¡Ç¿Ó²´ëÊ©Î¬»¤ÖÈĞò£¬È»¶ø£¬ÅÉÇ²¾ü¶ÓÕòÑ¹±©ÂÒ£¬¿ÉÄÜ»áÒıÆğ¹ú¼ÊÉç»áµÄ¹Ø×¢£¬Ò²Ğí¸ÃÈÃ$COUNTRY$ÓÃĞ©¸üÎª¹ß³£µÄÊÖ·¨À´¿ØÖÆ¾ÖÊÆÁË¡ª¡ª¶Ô¹«ÃñĞÔµÄÀûÓÃ¡£;;;;;;;;;;;;x
+EVTDESC18517;ÎÒ¹ú·îĞĞÖÈĞòÔ­Ôò£¬ÎÈ¶¨Óë¹«ÃñĞÔ£¬Í³ÖÎ×ÅÉç»áÈÕ³£¡£Ã¿Î»¹«Ãñ¶¼ÖÂÁ¦ÓÚÎª¹²Í¬µÄÀûÒæ·şÎñ£¬Îª¹ú¼ÒµÄ·¢Õ¹Ï×Éí¡£×î½ü£¬Ò»¼Ò$CAPITAL$±¨ÉçÕıÔÚ´«²¥Ä³Î»Éí·İÏÔÒªµÄ·¸×ï·Ö×ÓÔâµ½¾¯·½´ş²¶µÄĞÂÎÅ£¬ÕâÆğÊÂ¼ş·Çµ«Ã»ÓĞÒıÆğÈËÃñµÄÕğÅ­£¬·´¶øÎª×Ô¼ºµÄÀíÏëÖÕµÃÊµ¼ùĞË·Ü²»ÒÑ¡£½ñÌì£¬ÎÒÃÇµÄ¹úÃñ´óÌ¤²½µØ×ßÔÚ$COUNTRY$£¬½¾°Á¶øÂú»³×ÔºÀ¡£;;;;;;;;;;;;x
+EVTNAME18521;ËÄº£½ÔĞÖµÜ;;;;;;;;;;;;x
+EVTDESC18521;$CAPITAL$±¾ÔÂ¾ÙĞĞµÄ¼ÀµìÒÇÊ½ÉÏ£¬Ä³Î»ÖøÃûÕşÖÎ¼ÒµÄÈ¥ÊÀ£¬ÒıÆğÃñÖÚµÄ¹²Í¬°§µ¿¡£Õâ³¡ÌØÊâµÄ¼ÀµìÎŞÒÉÊÇ¶Ô$COUNTRY_ADJ$¾«ÉñµÄ³ç¸ß¼ÍÄî£ººÍÆ½¡¢¹Ø»³Óë²©°®¡£ÕâÊÇËûÉúÇ°Ëù³çÉĞµÄÖÁ¸ßÃÀµÂ£¬Ò²ÊÇÈ«Ìå$COUNTRY_ADJ$ÈËÃñÈÏ¿ÉµÄĞÅÄî¡£;;;;;;;;;;;;x
+EVTNAME18525;×ÔÓÉÖ®¹â;;;;;;;;;;;;x
+EVTDESC18525;$CAPITAL$±¾ÔÂ¾ÙĞĞµÄ¼ÀµìÒÇÊ½ÉÏ£¬Ä³Î»ÖøÃûÕşÖÎ¼ÒµÄÈ¥ÊÀÒıÆğÃñÖÚµÄ¹²Í¬°§µ¿¡£Õâ³¡ÌØÊâµÄ¼ÀµìÎŞÒÉÊÇ¶Ô$COUNTRY_ADJ$¾«ÉñµÄ³ç¸ß¼ÍÄî£º×ÔÓÉ¡¢½â·ÅºÍ¶ÔĞÒ¸£µÄ²»Ğ¸×·Çó¡£ÕâÊÇËûÉúÇ°Ëù³çÉĞµÄÖÁ¸ßÃÀµÂ£¬Ò²ÊÇÈ«Ìå$COUNTRY_ADJ$ÈËÃñÈÏ¿ÉµÄĞÅÄî¡£;;;;;;;;;;;;x
+EVTNAME18530;$COUNTRY_ADJ$ÌìÃü;;;;;;;;;;;;x
+EVTDESC18531;×î½ü£¬ÓëÄ³ÁÚ¹úµÄÕùÒé£¬ÒıÆğ$COUNTRY$ÃñÖÚµÄ¹ã·º·ß¿®£º¡°ËûÃÇÔõ¸ÒÈç´Ë¶Ô´ıÎÒÃÇ£¿¡±¡ª¡ªÈËÃñÅ­ºÅ×Å£¬ÓĞÈË¿ªÊ¼ºôÓõÕ½Õù£¬µ«Ò²ÓĞÈË¶ÔÎÒ¹úÄ¿Ç°µÄµØÎ»¸Ğµ½²»Âú£¬²»Ìá³«¾üÊÂÃ°ÏÕ¡£;;;;;;;;;;;;x
+EVTNAME18550;¾Ü¾øÎ÷·½»¯;;;;;;;;;;;;x
+EVTDESC18550;¶àÄêÀ´£¬ÎÒ¹úÈËÃñÅ¬Á¦³¢ÊÔÎ÷·½»¯µÄÉú»î·½Ê½£»Èç½ñ£¬ÈÕÒæÔö³¤µÄÄæÁ÷È´Ö÷ÕÅÎÒÃÇ»Ø¹é$COUNTRY_ADJ$´«Í³¡£Ê÷Á¢µä·¶µÄÈ¨Á¦ÔÚÓÚ¹ú¼ÒÁìµ¼ÈË£ºÔÙ¶ÈÓµ±§±¾¹úµÄ´«Í³ÎÄ»¯£¬»¹ÊÇÃ°×Å±»¹ÂÁ¢µÄ·çÏÕ£¬¼á³ÖÒÔÊµÏÖÎ÷·½»¯ÎªÀíÏë£¿;;;;;;;;;;;;x
+EVTNAME18551;Óµ±§Î÷·½»¯;;;;;;;;;;;;x
+EVTDESC18551;³¤ÆÚÒÔÀ´£¬ÎÒ¹úÃñÖÚ¼áÊØ×Å±¾¹ú´«Í³£¬È»¶ø£¬½üÄêÓëÎ÷·½¹ú¼ÒµÄ½»Á÷£¬ÕıÔÚÃñ¼äĞËÆğÒ»¹É¸Ä±ä$COUNTRY_ADJ$Éú»î·½Ê½µÄÈÈ³±¡£$CAPITAL$µÄÖªÊ¶·Ö×Ó£¬Ò²±íÊ¾Õş¸®Ó¦µ±ÒıÁìÃñÖÚ×ßÏò½ø²½ĞÂÊ±´ú£¬²»Ó¦¼ÌĞøÔÚ·â½¨±£ÊØµÄµÀÂ·ÉÏ£¬¹Ì²½×Ô·â¡£ÎÒÃÇÊÇ¸Ã°ÑÕâÈºÉµ¹Ï¶ª½ø¼àÓü£¬»¹ÊÇÈÏÕæ¿¼ÂÇÏÂËûÃÇµÄËµ´ÇÄØ?;;;;;;;;;;;;x
+EVTNAME18555;ÀíÏëµÄÅö×²;;;;;;;;;;;;x
+EVTDESC18555;$COUNTRY_ADJ$ÖªÊ¶·Ö×Ó£¬ÕıÔÚÓë$CAPITAL$¹ó×å±¬·¢³åÍ»¡£¹ó×åÇ´ÔğÖªÊ¶·Ö×ÓÆóÍ¼ÅÑÄæ$COUNTRY_ADJ$´«Í³Éú»î·½Ê½£¬ÖªÊ¶·Ö×ÓÔòÖ¸³ö£¬Èç¹û$COUNTRY$Ï£ÍûµÖÓùÎ÷·½µÛ¹úÖ÷ÒåµÄÍşĞ²£¬¾Í±ØĞëÊµÏÖ×ÔÎÒ½ø²½¡£»òĞí£¬ÖªÊ¶·Ö×ÓµÄ·¢ÑÔÁîÈËĞÅ·ş£¬µ«²»×ãÒÔÈÃĞúÄÖµÄ½ÖµÀÆ½¾²ÏÂÀ´¡£;;;;;;;;;;;;x
+EVTNAME18556;ĞÂË¼Ïë;;;;;;;;;;;;x
+EVTDESC18556;$COUNTRY_ADJ$µÄÖªÊ¶·Ö×Ó£¬Îª³¯Í¢Òı½ø²»ÉÙĞÂË¼Ïë£¬ÓĞĞ§ÍÆ¶¯ÎÒ¹úµÄ¿ÆÑĞ½ø¶È£¬È»¶ø£¬ĞÂÉúÊÂÎï×ÜÊÇ±¥º¬ÕùÒé¡£¾Ü¾ø²ÉÄÉËûÃÇµÄÒâ¼û£¬¿ÉÒÔ°²¸§¹ó×åÎ¢ÃîµÄĞÄÌ¬¡£;;;;;;;;;;;;x
+EVTNAME18560;¹ıÈ¥µÄËêÔÂ;;;;;;;;;;;;x
+EVTDESC18560;Å©Ãñ¾¹¸Ò×ßÉÏ½ÖÍ··´¿¹Í³ÖÎÕß£¬ÕâÔÚÊıÊ®ÄêÇ°£¬¸ù±¾ÊÇÄÑÒÔÏëÏóµÄÊÂÇé¡£Ò²Ğí£¬ÊÇÊ±ºòÌáĞÑËûÃÇ¶Ô¹ú¼ÒËù¼ç¸ºµÄÔğÈÎ£¬ÒÔ¼°Îª$COUNTRY$µÄ·±ÈÙ²ıÊ¢·şÎñµÄÓÅÁ¼´«Í³ÁË¡£;;;;;;;;;;;;x
+EVTNAME18562;·´¶Ô½ø²½µÄ¶·Õù;;;;;;;;;;;;x
+EVTDESC18562;$COUNTRY_ADJ$·´¶¯Ö÷ÒåÕß£¬ÕıÔÚÄ³Ê¡Õ¹¿ª¼¤ÁÒ±çÂÛ£¬Ç´Ôğ$COUNTRY$Õş¸®²»¸ÃÈç´ËÃ¤Ä¿µØ×·ÇóÎ÷·½»¯¡ª¡ªÊÂÊµÉÏ£¬Õâ½«µ¼ÖÂ$COUNTRY$ÎÄÃ÷µÄË¥Âä£¬$COUNTRY_ADJ$ÈËÃñ£¬Ò²Îª´Ë¸¶³öÌ«¶à´ú¼Û¡£ËùÒÔ£¬ËûÃÇºôÓõÕş¸®£¬Á¢¼´·ÏÖ¹Î÷·½»¯¸Ä¸ï£¬ÖÁÉÙ·Å»º±ä¸ïµÄ½Ú×à¡­¡­·´¶¯Ö÷ÒåÕßµÄ¼¤½øÑÔÂÛ£¬ÎªËûÃÇ¾ÛÂ£Æğ´óÅúÌıÖÚ¡£;;;;;;;;;;;;x
+EVTNAME18565;»Ø¹éÎ÷·½Ó°Ïì£¿;;;;;;;;;;;;x
+EVTDESC18565;$COUNTRY$ÊÇ³çÉĞ½ø²½µÄ¹ú¶È£¬È»¶ø£¬ÏÖĞĞµÄ±Õ¹ØËø¹úÕş²ß£¬ÓëÕâÒ»ÀíÄî±³µÀ¶ø³Û¡£ÎÒÃÇÓ¦¸ÃÔÙ´Î¿ª·Å±ß¾³Âğ£¿ËäÈ»»áÈÇÅ­²»ÉÙ¹úÃñ£¬È»¶ø£¬º£ÍâÁ÷ÈëµÄÉÌÆ·ÓëĞÂË¼Ïë£¬½«³ÉÎª¹ú¼ÒÓÀİá·±ÈÙµÄÎŞ¼ÛÖ®±¦¡£;;;;;;;;;;;;x
+EVTNAME18571;¾Ü¾øÎ÷·½£¿;;;;;;;;;;;;x
+EVTDESC18571;ÎÒÃÇ´ÓÎ´¿¼ÂÇ¹ıÓëÎ÷·½ÈË£¬ÓĞÕâÖÖĞÎÊ½µÄ½Ó´¥£¬ËûÃÇ×ÜÎª¹ú¼Ò´øÀ´Ì«¶àÀ§ÈÅ¡£ËæÖ®¶øÀ´µÄÎ÷·½Ó°Ïì£¬Ò²ÍğÈçÒ»ÖÖÒş·üµÄÍç¼²£¬ËÄ´¦À©É¢¡£ÓĞ¼øÓÚ´Ë£¬$COUNTRY_ADJ$³¯Í¢ÄÚµÄĞí¶àÈË£¬ºôÓõÔÙ¶È·âËø±ß¹Ø£¬ÏòÕâÈºµÛ¹úÖ÷ÒåÕß±íÃ÷£¬ËûÃÇÔÙÒ²±ğÏëÈç´ËÖº¸ßÆøÑïµØ£¬ÓÌÈçÎÒÃÇµÄ×ÚÖ÷Ò»°ã£¬Õ¹¿ª»î¶¯ÁË¡£±ØÒªµÄÊµÁ¦Õ¹ÏÖ£¬ÓĞÊ±Ò²ÊÇÓ¦¸ÃµÄ£¡;;;;;;;;;;;;x
+EVTNAME44356;¼ÓÄÃ´ó¹ú¼ÒÌúÂ·¶şÆÚ¹¤³Ì;;;;;;;;;;;;x
+EVTDESC44356;Á¬½Ó¿¨¶û¼ÓÀïÓë´óÎ÷Ñóº£°¶µÄ¼ÓÄÃ´ó¹ú¼ÒÌúÂ·µÄµÚ¶ş½×¶ÎÒÑ¾­Íê³É¡£ÏÖÔÚµÄ¹¤×÷µ½ÁË×îºóÒ»¸ö½×¶Î£¬Õâ½«ÊÇ×î³¤Ò²ÊÇ×îÀ§ÄÑµÄ½×¶Î£¬ĞèÒª´´ÔìÒ»ÌõÍ¨¹ıÂä»ùÉ½ÂöµÄÍ¨µÀ¡£;;;;;;;;;;;;x
+EVTDESC44808;ÕıÈçÎÒÃÇËùÁÏ£¬Ä«Î÷¸çÎŞÊÓÁË¡¶Î¤À­Ë¹¿ÆÌõÔ¼¡·µÄËùÓĞÌõ¿î£¬ËûÃÇÉù³ÆÉ£Ëş¡¤°²ÄÉÔÚÓüÖĞ±»ÆÈ½ÓÊÜµÄÌõÔ¼ºÁÎŞ·¨ÂÉĞ§Á¦¡£²»³öÒâÍâ£¬¾¡¹ÜÉ£Ëş¡¤°²ÄÉ±£×¡È¨Á¦µÄÏ£ÍûÃìÃ££¬Ëû±¾ÈË»¹ÊÇºÜ¿ìĞû²¼Ö§³ÖËûÃÇ¡£Õâ»òĞíÎªÎÒÃÇ´òÆÆ¾ÖÃæÌá¹©ÁËÒ»ÏßÉú»ú£¿Õâ¼şÊÂÕıºÃÎªÃÀ¹úÕş¸®½éÈëÎÒÃÇµÄÕ½ÕùÌá¹©ÁËÒ»¸ö¾ø¼ÑµÄ½è¿Ú¡£;;;;;;;;;;;;x
+EVTNAME46304;Ë÷À­ÅµµÄÒ°ĞÄ;;;;;;;;;;;;x
+EVTDESC46304;°ÍÀ­¹ç¶À²ÃÕßË÷À­Åµ¡¤ÂåÅåË¹¶¢ÉÏÁËÀ­ÆÕÀ­ËşºÓ³öº£¿ÚµØÇø¡£°ÍÀ­¹çĞèÒª¶áÈ¡´óÎ÷Ñó³öº£¿Ú£¬¶ø²»ÊÇµÃµ½ÎÚÀ­¹çÈËĞí¿ÉÕ·×ª¶à´ÎµÄÄÚºÓº½ÔË²ÅÄÜ³öº£¡£·²ÊÂ²»¿ÉÄÜÒ»·«·çË³£¬¾¡¹Ü°ÍÎ÷ºÜ¿ÉÄÜ»á¸ÉÉæ£¬µ«ÏÖÔÚÊÇÕ¹Ê¾ÎÒ´ó°ÍÀ­¹çµÄ¼¡Èâ£¬½¨Á¢´ó°ÍÀ­¹çµÛ¹úµÄÊ±ºòÁË !;;;;;;;;;;;;x
+EVTNAME60160;¹ú¼Òµ®Éú;;;;;;;;;;;;x
+EVTDESC60160;½ñÈÕ£¬ÈºÖÚ¾Û¼¯ÔÚ$CAPITAL$»¶Çì$COUNTRY$µÄ¶ÀÁ¢¡£ÔÚÏÖ´úÊÀ½çÖĞ£¬¶ÀÁ¢¿ÉÒÔê¼»¨Ò»ÏÖ£¬Òò´ËÎÒÃÇ±ØĞëºÃºÃÏíÊÜÕâÒ»Õä¹óµÄÊ±ÆÚ¡£½ñÌì£¬$COUNTRY_ADJ$¹úÆì·ÉÑïÔÚÃ¿Ò»¿é´°»§Óë½ÇÂäÖ®¼ä£¬»¶ĞÀ¹ÄÎèµÄ¹úÃñÃÇ¸ß³ª$COUNTRY_ADJ$¹ú¸è¡£ºÃÒ»Æ¬¹²Í¬ÆíÔ¸ÃÀºÃÃ÷ÌìµÄÊ¢¾°¡£;;;;;;;;;;;;x
+EVTNAME80111;¶«¸ÉÅèµØ;;;;;;;;;;;;x
+EVTDESC80111;¼ÈÈ»Æ«Ô¶ĞÂ½®µÄÅÑÂÒÒÑ¾­Æ½Ï¢£¬ÏÖÔÚ¶«¸ÉÅèµØµÄ¹éÊôÎÊÌâÓÖ¸¡³öË®Ãæ¡£Ì°À·µÄ¶í¹ú²»½öÒÑÕ¼¾İÅèµØµÄÎ÷°ë²¿¡ª¡ª¹şÀ­Ëş£¬»¹êéêì×Å¶«²¿µÄÒÁÀç¡£ÎÒÃÇÊÇÓ¦¸ÃÖ±½Ó½«ÅèµØºÍÆ½µØÈÃ¸ø¶í¹ú£¬»¹ÊÇÎª$COUNTRY_ADJ$ÈÙÓş¶øÕ½ÄØ£¿;;;;;;;;;;;;x
+EVTNAME90034;²¢ÈëÏ£À°;;;;;;;;;;;;x
+EVTDESC90034;ÊÇÊ±ºòÓëÎÒÃÇµÄÏ£À°Í¬°ûÒ»ÆğĞ¯ÊÖ²¢½øÁË£¡.;;;;;;;;;;;;x
+EVTNAME95076;Ò»ÔÂÆğÒå;;;;;;;;;;;;x
+EVTDESC95076;²¨À¼ÄêÇáÈË·´¿¹±»Õ÷Èë¶í¹ú¾ü¶ÓµÄÒ»³¡×Ô·¢µÄ¿¹ÒéÁ¢¼´Ñİ±ä³ÉÁËÒ»³¡´óÃæ»ıµÄÅÑÂÒ£¬Õâ³¡ÅÑÂÒÕıÊÜµ½²¨À¼ÓëÁ¢ÌÕÍğ¼®µÄÕşÖÎ¼ÒÓë¸ß½×¾ü¹ÙµÄÖ§³Ö¡£È«Å·ÖŞ¶¼ÔÚ¿´×ÅÎÒÃÇ£¬Èç¹ûÎÒÃÇ¹ıÓÚÑÏÀ÷µØÕòÑ¹Õâ³¡ÅÑÂÒ£¬ºÜÓĞ¿ÉÄÜ»áËğº¦ÎÒÃÇÓëÆäËûÅ·ÖŞÁĞÇ¿µÄ¹ØÏµ¡£È»¶øÈç¹ûÎÒÃÇ²»ÕâÑù×öµÄ»°£¬ÎŞÒìÓÚÊÇÔÚÖú³¤ÆğÒåµÄÏùÕÅÆøÑæ¡£;;;;;;;;;;;;x
+EVTNAME95315;¼ÓÈë¼ÓÄÃ´ó°îÁª£¿;;;;;;;;;;;;x
+EVTDESC95315;ÓÉÓÚ$COUNTRY$²½ÂÄÎ¬¼è£¬ÓĞĞ©¹úÃñ¿ªÊ¼ÌÖÂÛÆğ¼ÓÈë¼ÓÄÃ´óÁª°îµÄ¿ÉÄÜĞÔ¡£¼ÓÄÃ´óÁª°îÊÇÒ»Æ¬×ÔÓÉÖ®ÍÁ£¬Èç¹ûÎÒÃÇÔÚÒ»ÆğµÄ»°½«±È¸÷×ÔÎªÕş¸üÇ¿´ó¡£ÎÒÃÇÒªÓëËûÃÇµÄÕş¸®½ÓÇ¢Âğ£¿;;;;;;;;;;;;x
+EVTNAME95316;$FROMCOUNTRY$ÒªÇó¼ÓÈë¼ÓÄÃ´ó;;;;;;;;;;;;x
+EVTDESC95316;À´×Ô$FROMCOUNTRY$µÄÒ»Ãû´ú±íÒÑ¾­ÃØÃÜµØÓë¼ÓÄÃ´óÕş¸®½ÓÇ¢£¬ÒªÇóÔÊĞíÒ»¸öÇ°ÃÀ¹úÖİ¼ÓÈëÁª°î¡£¾¡¹ÜÕâ¿´ÆğÀ´Ïñ¸öºÃÖ÷Òâ£¬µ«ÊÇÈç¹ûÍ¬ÒâµÄ»°ÃÀ¹úÕş¸®¿ÉÄÜ»á°ÑÎÒÃÇ¿´³ÉÊÇ¸ã´ÓÖĞÓæÀûµÄ»ú»áÖ÷Òå¡£;;;;;;;;;;;;x
+EVTNAME96090;$COUNTRY_ADJ$¾ıÖ÷ÖÆÖÕ½á;;;;;;;;;;;;x
+EVTDESC96090;Ëæ×Å$COUNTRY$ÔÚ×î½üµÄÕ½ÕùÖĞÕ½°Ü£¬$COUNTRY_ADJ$¾ıÖ÷ÖÆ±¸ÊÜÔğÄÑ-- ÒÑ¾­ÓĞ¶à´Î°µÉ±ÆóÍ¼£¬²¢ÇÒÕş¸®ÄÚ²¿ºôÓõ¾ıÖ÷ÖÆÏÂÌ¨¡£¹«ÖÚµÄÒâ¼û×ªÏò½«$COUNTRY$±äÎªÃñÖ÷ÖÆÕâÒ»ÂÛµ÷¡­¾¡¹ÜÓĞĞ©ÈËµ£ĞÄÕâ»áÊ¹¹ú¼ÒÏİÈë½øÒ»²½µÄ»ìÂÒ¡£;;;;;;;;;;;;x
+EVTNAME96215;Ó¡¶ÈÃñ×åÖ÷ÒåÕßÊ¤Àû£¡;;;;;;;;;;;;x
+EVTDESC96215;Ãñ×åÖ÷ÒåÕß³É¹¦ÕÆ¿Ø$COUNTRY_ADJ$Ó¡¶ÈÖ³ÃñµØ£¬×Ü¶½±»ÇıÖğ³ö¾³£¬ÎÒÃÇµÄÁìÍÁ³¹µ×ÂÙÏİ¡£;;;;;;;;;;;;x
+EVTNAME97571;×îºóÒ»¸ùµ¾²İ;;;;;;;;;;;;x
+EVTDESC97571;ÎÒÃÇÊÕµ½À´×Ôº£½ÇÖ³ÃñµØµÄ±¨¸æ±íÃ÷Ô­×¡Ãñ¿ÆÈøÈËºÍÖ³ÃñµØ¾ÓÃñÖ®¼äµÄ³åÍ»ÓÖÒ»´Î±¬·¢ÁË¡£ºÜÃ÷ÏÔÕâ´Î³åÍ»ÊÇÓÉ´Ó×êÊ¯¿óÄÇÀï·µ»ØµÄÔ­×¡ÃñÌôÆğµÄ¡£ËûÃÇºÜÂ³Ã§µÄÊÔÍ¼²»¾­Õı³£³ÌĞò¶á»ØËûÃÇµÄÍÁµØ¡£ºÜ¶à¿ªÆÕÖ³ÃñµØµÄ¾ÓÃñÈÏÎªÊÇÊ±ºò²ÉÓÃ¾üÊÂÊÖ¶Î³¹µ×Õ¼Áì¿ÆÈøÈËµÄÁìµØÁË¡£;;;;;;;;;;;;x
+EVTNAME98000;×æÂ³±ß½çÕù¶Ë;;;;;;;;;;;;x
+EVTDESC98000;×æÂ³ÈË¸ÉµôÁËÒ»Ö§Î´¾­ÎÒÃÇÊÚÈ¨±ã½øÈëËûÃÇÁìÍÁµÄ$COUNTRY_ADJ$Ğ¡·Ö¶Ó¡£±¾À´ÎÒÃÇ²¢²»ÏëºÍËûÃÇ¿ªÕ½£¬ÏÖÔÚÎÒÃÇÊÇÆï»¢ÄÑÏÂÁË¡£ÏÖÔÚÎÒÃÇÒªÃ´×ö³öÈÃ²½²¢µÀÇ¸£¬ÒªÃ´¾ÍµÃºÍ×æÂ³ÈËÆ´µ½µ×¡£;;;;;;;;;;;;x
+EVTNAME98001;ÄÏ·ÇÁªÃË;;;;;;;;;;;;x
+EVTDESC98001;¿¼ÂÇ½á³ÉÄÏ·ÇÁªÃËµÄÊ±»úÒÑ¾­µ½ÁË¡£;;;;;;;;;;;;x
+EVTNAME98002;ÍÌ²¢µÂÀ¼Ê¿Íß;;;;;;;;;;;;x
+EVTDESC98002;¼¸ÄêÇ°ÎÒÃÇÔÚÄÏ·ÇµÄÖ³ÃñµØ¹ÙÔ±Í¨¹ıÒ»¸öÌØ±ğ²¦¿îÁîĞû³ÆÁË¶ÔµÂÀ¼Ê¿ÍßµÄºÏ²¢£¬ÕâÔâµ½ÁË²¼¶ûÈËµÄÇ¿ÁÒ·´¶Ô¡£µÂÀ¼Ê¿ÍßºÍ°ÂÀ¼ÖÎ×ÔÓÉ°î¶¼ÓµÓĞ´óÁ¿¶ÔÓÚ $COUNTRY$¶øÑÔÓĞ¼ÛÖµµÄ×ÊÔ´£¬²»¹ÜÊÇ×èÖ¹ÆäÂäÈëÎÒÃÇµÄµĞÈËÖ®ÊÖ»¹ÊÇ½«ÆäÍÌ²¢ÎªÎÒËùÓÃ£¬ÎªÁË±£³ÖÎÒÃÇµÄÓÅÊÆÎÒÃÇ¶¼ÒªÈıË¼¶øºóĞĞ¡£²¼¶ûÅÑ¾üÒÑ¾­¹»ÈÃÎÒÃÇ¶ªÈËµÄÁË¡£Èç¹ûÎÒÃÇ²»¶ÔÕâ´ÎµÄÊÂ¼ş¸øÒÔÇ¿ÓĞÁ¦µÄ»ØÓ¦£¬»áÁî$COUNTRY$ÔÚÈ«ÊÀ½çÃæÇ°ÏÔµÃÈíÈõ¡£;;;;;;;;;;;;x
+EVTNAME98003;Ó¢²¼Õ½Õù;;;;;;;;;;;;x
+EVTDESC98003;$FROMCOUNTRY$ÒÑ¾­Îª¶áÈ¡µÂÀ¼Ê¿Íß¶ø·¢¶¯ÁËÕ½Õù£¬²¼¶ûÈËµ£ÓÇ$COUNTRY$Ò²»áÍ¶ÈëÕâ³¡Õù¶·¡£ËûÃÇ¿ÒÇóÎÒÃÇµÄÕş¸®ºÍµÂÀ¼Ê¿Íß½áÃËÒÔ×èÖ¹$FROMCOUNTRY$½«ÆäÔÚÕâÆ¬ÍÁµØÉÏµÄÈ¨Àû¶á×ß¡£;;;;;;;;;;;;x
+EVTNAME98004;ÄÏ·ÇÊÇÎÒÃÇµÄ£¡;;;;;;;;;;;;x
+EVTDESC98004;ÎÒÃÇ¿ØÖÆÁËÕû¸ö¿ªÆÕÖ³ÃñµØ¡£ÏÖÔÚË­ÊÇÄÏ·ÇµÄÖ÷ÈËÒÑ¾­Ã»ÓĞÎÊÌâÁË£º²¼¶ûÈË¡£ÏÖÔÚÊÇÎÒÃÇ½áÊøÕ½Õù£¬°Ñ²¼¶ûÈËÍÅ½áÔÚÒ»ÃæÆìÖÄÏÂµÄÊ±ºòÁË¡£;;;;;;;;;;;;x
+EVTNAME98005;$FROMCOUNTRY$µÄÇëÇó;;;;;;;;;;;;x
+EVTDESC98005;$FROMCOUNTRY_ADJ$Íâ½»¹ÙÇ°À´°İ·ÃÎÒÃÇ£¬ËûÃÇ¼±ÇĞµÄÏ£ÍûµÃµ½¾üÊÂÔ®Öú¡£ËäÈ»ËûÃÇÆäÊµ²¢²»ÇéÔ¸£¬µ«»¹ÊÇ²»µÃ²»ÇëÇó$COUNTRY_ADJ$±£»¤¡£Èç¹ûÎÒÃÇÔ®ÖúËûÃÇ£¬Õâ¾ÍÎªÎÒÃÇÈ¾Ö¸ËûÃÇµÄÁìÍÁÕÒµ½ÁËÒ»¸ö¾ø¼ÑµÄ½è¿Ú¡£;;;;;;;;;;;;x
+EVTNAME98006;²¼¶ûÈËµÄÌÓÍö;;;;;;;;;;;;x
+EVTDESC98006;Ëæ×Å¡°´óÇ¨áã¡±µÄ½øĞĞ£¬Ğí¶à²¼¶ûÈË¿ÊÍûÀë¿ª¿ªÆÕÖ³ÃñµØ£¬Ç°ÍùµÂÀ¼Ê¿Íß»ò°ÂÀ¼ÖÎ×ÔÓÉ°î£¬ÔÚÄÇÀïËûÃÇ¿ÉÒÔ×ÔÓÉµØ×·Çó×Ô¼ºµÄÀûÒæ¡£;;;;;;;;;;;;x
+EVTNAME98735;$COUNTRY$µÄÒÁË¹À¼ÈÈ³±;;;;;;;;;;;;x
+EVTDESC98735;Ëæ×ÅÈËÃÇ¿ªÊ¼´óÉù¼²ºôÒªÓëÒÁË¹À¼¹şÀï·¢¹úÍ³Ò»£¬Ò»¹ÉÒÁË¹À¼Ãñ×åÖ÷ÒåÇéĞ÷ÕıÔÚÏ¯¾í$COUNTRY$¡£ÎÒÃÇ¼¸ºõÃ»ÓĞÀíÓÉ»³ÒÉËûÃÇ»á·´¶Ô¼æ²¢µÄÇëÇó¡£;;;;;;;;;;;;x
+claim_mayan_lands_title;ÖØ½¨ÂêÑÅµÛ¹ú;;;;;;;;;;;;x
+claim_mayan_lands_desc;ÂêÑÅÈËÖØÉê×Ô¼º±»¶áÈ¥µÄÒ»ÇĞµÄÊ±ºòµ½ÁË£¡;;;;;;;;;;;;x
+release_bukovina_desc;Ëæ×Å×î½üÔÚ²¼¿ÆÎ¬ÄÉµÄÍÁµØ³ÉÎª·ÉµØ£¬ÎÒÃÇ±ğÎŞÑ¡Ôñ£¬Ö»ÄÜÊÚÓèËûÃÇ¸ü´óµÄ×ÔÖÎÈ¨¡£;;;;;;;;;;;;x
+total_war_in_taiping_title;Ì«Æ½Ìì¹ú·¢¶¯È«ÃæÕ½Õù£¡;;;;;;;;;;;;x
+total_war_in_taiping_desc;¹âÈÙµÄ¸ïÃüµÈ´ı×ÅÎÒÃÇ¡£ÎÒÃÇ±ØĞëºÅÕÙËùÓĞÈËÆğÀ´Õ½¶·£¬ÒÔÃâÎÒÃÇµÄÌìÃüÔÚÊµÏÖËüµÚÒ»²½µÄÊ¤ÀûÇ°Ø²ÕÛ¡£;;;;;;;;;;;;x
+total_war_in_peking_title;ÇåµÛ¹ú·¢¶¯È«ÃæÕ½Õù£¡;;;;;;;;;;;;x
+total_war_in_peking_desc;Ì«Æ½Ìì¹úÖ®ÂÒÊ¹Íõ³¯ÒÔ¼°ÊÂÊµÉÏÕû¸öµÛ¹úµÄ´æÍöÎ£ÔÚµ©Ï¦¡£ÎÒÃÇ±ØĞëºÅÕÙËùÓĞÈË·ÜÆğ·´¿¹ÕâÈº»ù¶½½ÌÒì½ÌÍ½£¡;;;;;;;;;;;;x
+total_war_in_kashgaria_title;°¢¹Å°Ø·¢¶¯È«ÃæÕ½Õù£¡;;;;;;;;;;;;x
+total_war_in_kashgaria_desc;¹âÈÙµÄ¸ïÃüµÈ´ı×ÅÎÒÃÇ¡£ÎÒÃÇ±ØĞëºÅÕÙËùÓĞÈËÆğÀ´Õ½¶·£¬ÒÔÃâÎÒÃÇµÄÌìÃüÔÚÊµÏÖËüµÚÒ»²½µÄÊ¤ÀûÇ°Ø²ÕÛ¡£;;;;;;;;;;;;x
+total_war_in_yunnan_title;¶ÅÎÄĞã·¢¶¯È«ÃæÕ½Õù£¡;;;;;;;;;;;;x
+total_war_in_yunnan_desc;¹âÈÙµÄ¸ïÃüµÈ´ı×ÅÎÒÃÇ¡£ÎÒÃÇ±ØĞëºÅÕÙËùÓĞÈËÆğÀ´Õ½¶·£¬ÒÔÃâÎÒÃÇµÄÌìÃüÔÚÊµÏÖËüµÚÒ»²½µÄÊ¤ÀûÇ°Ø²ÕÛ¡£;;;;;;;;;;;;x
+form_hindustan_title;³ÉÁ¢Ó¡¶ÈË¹Ì¹;;;;;;;;;;;;x
+form_hindustan_desc;ÎÒÃÇÒ»¶¨Òª½«Ó¡¶ÈÈËÍÅ½áÔÚÒ»Ãæ¹²Í¬µÄÆìÖÄÖ®ÏÂ£¬ÕâÑùÎÒÃÇ²ÅÄÜ¸üºÃµØµÖ¿¹µÛ¹úÖ÷ÒåÕß¶ÔÄÏÑÇµÄÇÖ·¸¡£;;;;;;;;;;;;x
+form_marathas_title;½¨Á¢ÂíÀ­µØ;;;;;;;;;;;;x
+form_marathas_desc;ÂíÀ­µØµÛ¹úÔø¾­ÊÇÓ¡¶È´Î´óÂ½ÉÏÒ»¹É×îÇ¿´óµÄÊÆÁ¦¡£ÏÖÔÚÊÇÊ±ºòÈÃËüÔÙ´ÎáÈÆğÁË£¡;;;;;;;;;;;;x
+apply_for_USA_statehood2_title;ÉêÇë³ÉÎªÒ»¸öÖİ;;;;;;;;;;;;x
+apply_for_USA_statehood2_desc;ÎÒÃÇÔÚ±±ÃÀ´óÂ½µÄµØÎ»£¬ÒÔ¼°ÎÒÃÇÓëÃÀ¹úµÄ´«Í³ÎÄ»¯ÁªÏµ£¬Ê¹ÃÀ¹úÓĞ¿ÉÄÜ½ÓÊÜÎÒÃÇµÄ¼ÓÈëÇëÇó¡£ÕâÑù×öÒâÎ¶×ÅÎÒÃÇµÄ¹ú¼Ò½«±»ÃÀ¹úÍÌ²¢¡£;;;;;;;;;;;;x
+end_of_NGF_PRU;³ÉÎªÆÕÂ³Ê¿;;;;;;;;;;;;x
+end_of_NGF_PRU_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÊ¯ÀÕËÕÒæ¸ñ¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_ANH;³ÉÎª°²¹ş¶ûÌØ;;;;;;;;;;;;x
+end_of_NGF_ANH_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È°²¹ş¶ûÌØ¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_SGF_BAD;³ÉÎª°ÍµÇ;;;;;;;;;;;;x
+end_of_SGF_BAD_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È°ÍµÇ¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_SGF_BAV;³ÉÎª°Í·¥ÀûÑÇ;;;;;;;;;;;;x
+end_of_SGF_BAV_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È°Í·¥ÀûÑÇ¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_BRA;³ÉÎª²¼Â×Èğ¿Ë;;;;;;;;;;;;x
+end_of_NGF_BRA_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È²»Â×Èğ¿Ë¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_BRE;³ÉÎª²»À´Ã·;;;;;;;;;;;;x
+end_of_NGF_BRE_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È²»À´Ã·¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_FRM;³ÉÎª·¨À¼¿Ë¸£;;;;;;;;;;;;x
+end_of_NGF_FRM_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È·¨À¼¿Ë¸£¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_HAM;³ÉÎªºº±¤;;;;;;;;;;;;x
+end_of_NGF_HAM_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±Èºº±¤¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_HAN;³ÉÎªººÅµÍş;;;;;;;;;;;;x
+end_of_NGF_HAN_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈººÅµÍş¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_HEK;³ÉÎªºÚÉ­-¿¨Èû¶û;;;;;;;;;;;;x
+end_of_NGF_HEK_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈºÚÉ­-¿¨Èû¶û¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_HES;³ÉÎªºÚÉ­-´ïÄ·Ê©ËşÌØ;;;;;;;;;;;;x
+end_of_NGF_HES_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈºÚÉ­-´ïÄ·Ê©ËşÌØ¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_OLD;³ÉÎª°Â¶ûµÇ±¤;;;;;;;;;;;;x
+end_of_NGF_OLD_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È°Â¶ûµÇ±¤¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_SAX;³ÉÎªÈø¿ËÉ­;;;;;;;;;;;;x
+end_of_NGF_SAX_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÈø¿ËÉ­¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_WEI;³ÉÎªÈø¿ËÉ­-ÎºÂê;;;;;;;;;;;;x
+end_of_NGF_WEI_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÈø¿ËÉ­-ÎºÂê¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_SGF_WUR;³ÉÎª·ûÌÚ±¤;;;;;;;;;;;;x
+end_of_SGF_WUR_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±È·ûÌÚ±¤¸ü´óµÄµØÅÌ¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_MEI;³ÉÎªÈø¿ËÉ­-ÂõÄş¸ù;;;;;;;;;;;;x
+end_of_NGF_MEI_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÈø¿ËÉ­-ÂõÄş¸ù¸ü´óµÄµØÅÌ¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_COB;³ÉÎªÈø¿ËÉ­-¿Æ±¤-¸ç´ï;;;;;;;;;;;;x
+end_of_NGF_COB_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÈø¿ËÉ­-¿Æ±¤-¸ç´ï¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_NAS;³ÉÎªÄÃÉ§;;;;;;;;;;;;x
+end_of_NGF_NAS_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÄÃÉ§¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_MEC;³ÉÎªÃ·¿ËÂ×±¤;;;;;;;;;;;;x
+end_of_NGF_MEC_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÃ·¿ËÂ×±¤¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_LUB;³ÉÎªÂÀ±´¿Ë;;;;;;;;;;;;x
+end_of_NGF_LUB_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÂÀ±´¿Ë¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+end_of_NGF_LIP;³ÉÎªÀûçê;;;;;;;;;;;;x
+end_of_NGF_LIP_desc;Ê§È¥ÁìÍÁºó£¬ÎÒÃÇÒ»¶¨ÒªÃæ¶Ô¿àÉ¬µÄÊÂÊµ£ºĞû³Æ±ÈÀûçê¸ü´óµÄµØÅÌµÄÖ÷È¨¼òÖ±¾ÍÊÇ³ÕÈËËµÃÎ£¬ÊÇÎÒÃÇËùÎŞ·¨³Ğµ£µÄ¡£ÈÃÊÂÊµ³ÉÎªÏÖÊµ°É¡£;;;;;;;;;;;;x
+create_iberia_title;³ÉÁ¢ÒÁ±ÈÀûÑÇ;;;;;;;;;;;;x
+create_iberia_desc;ÎÒÃÇÖ¤Ã÷ÁËÎÒÃÇµÄÈÈÇé£¬ÎÒÃÇ½«ÒÁ±ÈÀûÑÇ°ëµºÍ³Ò»µ½ÎÒÃÇµÄÍ³ÖÎÖ®ÏÂ¡£ÏÖÔÚ£¬ÊÇÊ±ºòÓ­À´ĞÂµÄÒÁ±ÈÀûÑÇÁª°îµÄµ®ÉúÁË£¬Ëü½«»á°Ñ°ëµºÉÏËùÓĞÎÄ»¯Í³Ò»µ½Î¨Ò»µÄÍ³ÖÎÖ®ÏÂ¡£;;;;;;;;;;;;x
+create_iberia2_title;³ÉÁ¢ÒÁ±ÈÀûÑÇ;;;;;;;;;;;;x
+create_iberia2_desc;ÎÒÃÇÖ¤Ã÷ÁËÎÒÃÇµÄÈÈÇé£¬ÎÒÃÇ½«ÒÁ±ÈÀûÑÇ°ëµºÍ³Ò»µ½ÎÒÃÇµÄÍ³ÖÎÖ®ÏÂ¡£ÏÖÔÚ£¬ÊÇÊ±ºòÓ­À´ĞÂµÄÒÁ±ÈÀûÑÇÁª°îµÄµ®ÉúÁË£¬Ëü½«»á°Ñ°ëµºÉÏËùÓĞÎÄ»¯Í³Ò»µ½Î¨Ò»µÄÍ³ÖÎÖ®ÏÂ¡£;;;;;;;;;;;;x
+end_of_iberia_spain_title;»Ö¸´Î÷°àÑÀ;;;;;;;;;;;;x
+end_of_iberia_spain_desc;ÒÁ±ÈÀûÑÇÁªÃËÒÑ¾­Ãû´æÊµÍöÁË¡£ÊÂÊµÉÏ£¬ÎÒÃÇ±ØĞëÍü¼ÇÁª°î²¢ÖØĞÂ³ÉÁ¢Î÷°àÑÀ¡£;;;;;;;;;;;;x
+end_of_iberia_portugal_title;»Ö¸´ÆÏÌÑÑÀ;;;;;;;;;;;;x
+end_of_iberia_portugal_desc;ÒÁ±ÈÀûÑÇÁªÃËÒÑ¾­Ãû´æÊµÍöÁË¡£ÊÂÊµÉÏ£¬ÎÒÃÇ±ØĞëÍü¼ÇÁª°î²¢ÖØĞÂ³ÉÁ¢ÆÏÌÑÑÀ¡£;;;;;;;;;;;;x
+form_caliphate_title;³ÉÁ¢ÒÁË¹À¼¹şÀï·¢¹ú;;;;;;;;;;;;x
+form_caliphate_desc;Ò»¸öÕæÕıµÄÄÂË¹ÁÖ¹ú¼ÒµÄÃÎÏë£º°ÑÒÁË¹À¼ÈËÃñÍÅ½áÔÚÒ»ÃæÆìÖÄÏÂ£¬ÕâÃæÆìÖÄ¿ÉÒÔÊ¹ÊÀ½ç¸÷¹úÔÚÆäÇ¿´óµÄÁ¦Á¿ÃæÇ°Ò¡Ò¡Óû×¹£¬²¢Ê¹ÄÇĞ©Ï°¹ßÓÚ°ÑÎÒÃÇµÄĞÖµÜÊÓÎªµÍµÈÉúÎïµÄÈËµÄĞÄÖĞ²úÉú¿Ö¾å¡£;;;;;;;;;;;;x
+apply_sharia_law_title;Í¨¹ıÉ³ÀïÑÇ·¨;;;;;;;;;;;;x
+apply_sharia_law_desc;ÎÒÃÇÊÇÒ»¸öÒÔÔ­½ÌÖ¼Ö÷Òå×Ú½ÌÍ³ÖÎÎª»ù´¡µÄ¹ú¼Ò¡£Òò´Ë£¬ÎªÁËÎ¬»¤ºÍÆ½ÓëÖÈĞò£¬ÒÁË¹À¼½Ì·¨±ØĞëµÃµ½×î´ó³Ì¶ÈµÄÊÊÓÃ¡£;;;;;;;;;;;;x
+repeal_sharia_law_title;·Ï³ıÉ³ÀïÑÇ·¨;;;;;;;;;;;;x
+repeal_sharia_law_desc;ÎÒÃÇ¿ÉÄÜÊÇÒ»¸öÒÁË¹À¼ÁªÃË£¬µ«Ëü²»ÔÙÊÇÒ»¸ö»ùÓÚÔ­½ÌÖ¼Ö÷Òå×Ú½ÌÍ³ÖÎµÄ¹ú¼Ò¡£ÎÒÃÇ±ØĞë·Ï³ı³¤ÆÚ×è°­ÎÒÃÇ¹ú¼Ò·¢Õ¹µÄÑÏ¸ñµÄÒÁË¹À¼½Ì·¨¡£;;;;;;;;;;;;x
+fsa_enact_anaconda_plan_desc;òşÉß¼Æ»®×î³õÓÉË¾ÁîÎÂ·Æ¶ûµÂ¡¤Ê·¿¼ÌØÉè¼Æ£¬¸Ã¼Æ»®Í¨¹ı·âËøÖ÷Òª¸Û¿Ú£¬ÒÔ¼°¶Ôº£°¶µØÇøµÄ¾üÊÂĞĞ¶¯À´Ï÷Èõ×ÔÓÉÃÀ¹ú¡£Ö»ÒªÎÒÃÇ¿ªÊ¼·âËø×ÔÓÉÖîÖİµÄ¸Û¿Ú£¬ËûÃÇµÄÃñÖÚ¾Í»áÒòÎªÈ±·¦±ØĞèÆ·¶ø²úÉúÑáÕ½ÇéĞ÷¡£;;;;;;;;;;;;x
+form_hindustan2_title;³ÉÁ¢Ó¡¶ÈË¹Ì¹;;;;;;;;;;;;x
+form_hindustan2_desc;ÎÒÃÇÒ»¶¨Òª½«Ó¡¶ÈÈËÍÅ½áÔÚÒ»Ãæ¹²Í¬µÄÆìÖÄÖ®ÏÂ£¬ÕâÑùÎÒÃÇ²ÅÄÜ¸üºÃµØµÖ¿¹µÛ¹úÖ÷ÒåÕß¶ÔÄÏÑÇµÄÇÖ·¸¡£;;;;;;;;;;;;x
+form_marathas2_title;½¨Á¢ÂíÀ­µØ;;;;;;;;;;;;x
+form_marathas2_desc;ÂíÀ­µØµÛ¹úÔø¾­ÊÇÓ¡¶È´Î´óÂ½ÉÏÒ»¹É×îÇ¿´óµÄÊÆÁ¦¡£ÏÖÔÚÊÇÊ±ºòÈÃËüÔÙ´ÎáÈÆğÁË£¡;;;;;;;;;;;;x
+claim_greater_bengal2_title;Ğû³Æ´óÃÏ¼ÓÀ­;;;;;;;;;;;;x
+claim_greater_bengal2_desc;ÃÏ¼ÓÀ­µÛ¹úÔø¾­ĞÛ°ÔÓ¡¶È¶«²¿£¬ÏÖÔÚÊÇÊ±ºòÈ¡»ØÎÒÃÇµÄĞû³ÆÈ¨ÁË¡£ÎÒÃÇÒ»¶¨Òª¶ÔµÛ¹úÖ÷ÒåÓèÒÔ³ÁÖØ´ò»÷£¡;;;;;;;;;;;;x
+form_dravidistan2_title;½¨Á¢´ïÂŞÅş²èË¹Ì¹;;;;;;;;;;;;x
+form_dravidistan2_desc;ÎÒÃÇÒ»¶¨Òª½«´ïÂŞÅş²èÈËÃñÍ³Ò»ÔÚÒ»ÃæÆìÖÄÖ®ÏÂ£¬ÕâÑùÎÒÃÇ²ÅÄÜ¸üºÃµØµÖ¿¹µÛ¹úÖ÷ÒåÕß¶ÔÓ¡¶ÈµÄÇÖÂÔ¡£;;;;;;;;;;;;x
+move_capital_to_niamey_title;Ç¨¶¼µ½ÄáÑÇÃÀ;;;;;;;;;;;;x
+move_capital_to_niamey_desc;ÄáÑÇÃÀ½«»áÊÇÄáÈÕ¶û¸üºÃµÄÊ×¶¼¡ª¡ªÎÒÃÇÓ¦¸ÃÂíÉÏ°ÑÕş¸®Ç¨¹ıÈ¥¡£;;;;;;;;;;;;x
+move_capital_to_bamako_title;Ç¨¶¼µ½°ÍÂí¿Æ;;;;;;;;;;;;x
+move_capital_to_bamako_desc;°ÍÂí¿Æ½«»áÊÇÂíÀï¸üºÃµÄÊ×¶¼¡ª¡ªÎÒÃÇÓ¦¸ÃÂíÉÏ°ÑÕş¸®Ç¨¹ıÈ¥¡£;;;;;;;;;;;;x
+move_capital_to_dar_es_salaam_title;Ç¨¶¼µ½´ïÀÛË¹ÈøÀ­Ä·;;;;;;;;;;;;x
+move_capital_to_dar_es_salaam_desc;´ïÀÛË¹ÈøÀ­Ä·½«»áÊÇÌ¹¸ÁÄá¿¦¸üºÃµÄÊ×¶¼¡ª¡ªÎÒÃÇÓ¦¸ÃÂíÉÏ°ÑÕş¸®Ç¨¹ıÈ¥¡£;;;;;;;;;;;;x
+become_mali_empire_title;ÖØ½¨ÂíÀïµÛ¹ú;;;;;;;;;;;;x
+become_mali_empire_desc;ÂíÀïµÛ¹úÔøÊÇÈ«·ÇÖŞ×îÎ°´óµÄµÛ¹ú¡£ÔÚ¹ÅÀÏ¹úÆìÖ®ÏÂÎÒÃÇ¿ÉÒÔÍÅ½áÎ÷²¿ÈøºÕÀÕµÄÈËÃñ£¬ÉõÖÁ¿ÉÒÔÌôÕ½Å·ÖŞÈËµÄÇ¿È¨£¡;;;;;;;;;;;;x
+invite_greece_to_YUG_title;ÑûÇëÏ£À°¼ÓÈëÄÏË¹À­·ò;;;;;;;;;;;;x
+invite_greece_to_YUG_desc;¾¡¹ÜÏ£À°ÈË²¢²»±»µ±×öÊÇË¹À­·òÃñ×åµÄÒ»²¿·Ö£¬Í¬Ê±Ï£À°Ò²ºÜ²»ÇéÔ¸¿´µ½µ®ÉúÈÎºÎÁªºÏ°Í¶û¸ÉÖî¹úµÄ¾Ş´óÁª°î£¬Ò²ĞíÎÒÃÇÈÔ¿ÉÒÔÍ¨¹ı×ã¹»µÄÓ°ÏìÁ¦ÓëÁ¼ºÃµÄ¹ØÏµËµ·şÆä¼ÓÈëÎÒÃÇ¡£;;;;;;;;;;;;x
+embrace_greeks_YUG_title;½ÓÊÜÏ£À°ÈË;;;;;;;;;;;;x
+embrace_greeks_YUG_desc;Ï£À°ÈË²¢·ÇÕæÕıÊôÓÚË¹À­·òÃñ×å£¬Ò²Òò´ËÖÚËùÖÜÖªµØÓëÆäËûµÄË¹À­·òÈË¸ñ¸ñ²»Èë¡£È»¶øÍ¨¹ı²»Ğ¸µÄÅ¬Á¦£¬ÈÃ²¨Ë¹ÄáÑÇÈË³¹µ×ÈÚÈëÄÏË¹À­·òµÄÎÄ»¯ÓëÕş¸®Ò²²»ÊÇ²»¿ÉÄÜµÄ¡£ÕâÉõÖÁ¿ÉÄÜÓĞÖúÓÚÎ´À´ÎÒ¹úÈËÃñÖ®¼äµÄºÍÄÀ¹²´¦¡£;;;;;;;;;;;;x
+embrace_polish_minority_title;½ÓÊÜ²¨À¼ÉÙÊıÃñ×å;;;;;;;;;;;;x
+embrace_polish_minority_desc;ÎÒÃÇÓ¦¸Ã½ÓÊÜÎÒÃÇµÄ²¨À¼¹«Ãñ£¬½«ËûÃÇµÄµØÎ»ÌáÉıÖÁÓëĞÙÑÀÀûÈËÏàµ±¡£;;;;;;;;;;;;x
+demand_retreat_from_india;ÒªÇóÓ¢¹úÈËÍË³öÓ¡¶È;;;;;;;;;;;;x
+demand_retreat_from_india_desc;Ó¡¶ÈµÄ´ó²¿·ÖÒÑ¾­±»´ÓÓ¢¹ú¿ØÖÆÖĞ¶áÈ¡¡£ÎÒÃÇÃæ¶Ô×ÅÒ»¸ö¾ñÔñ£ºÒªÃ´ÒªÇóËûÃÇ´Ó´Î´óÂ½³·ÀëÒÔ½â·ÅËûÃÇ¿ØÖÆÏÂµÄËùÓĞ¸½Êô¹úÓëÍÁµØ£¬ÒªÃ´¼ÌĞøÎÒÃÇµÄÕ½Õù²¢¼ÄÏ£ÍûÓÚ´ï³ÉÎÒÃÇµ±Ç°µÄÄ¿±ê¡£Ó¢¹úÈËµÄ³·ÀëÒ²Ğí»áµ¼ÖÂ»ìÂÒ£¬ÎÒÃÇÒ²µ±È»²»»áÊµÏÖÎÒÃÇÒÑ¾­¶¨ÏÂµÄÄ¿±ê¡£µ«ÕâÖÁÉÙ¿ÉÒÔÈÃÎÒÃÇÔÚÎ´À´ÊıÄêÅÅ³ı¶ÔÓ¢¹úÈËµÄ¹ËÂÇ¡£;;;;;;;;;;;;x
+move_capital_to_delhi_title;Ç¨¶¼µÂÀï;;;;;;;;;;;;x
+move_capital_to_delhi_desc;¼ÈÈ»Ó¡¶ÈÒÑÍ³Ò»£¬ÎÒÃÇÓ¦¸Ã¿¼ÂÇ½«Ê×¶¼Ç¨ÖÁ¸üÖĞĞÄºÍ´«Í³µÄ³ÇÊĞ¡ª¡ªµÂÀï£¬Ó¡¶ÈµÄĞÄÔà¡£;;;;;;;;;;;;x
+organize_bostwana_desc;ÎÒÃÇÓ¦¸Ã×éÖ¯·ÇÖŞÖ³ÃñµØ£¬ÒÔ¸üºÃµØ·´Ó³µ±µØµÄ½á¹¹£¬ÒÔ¼°½¨Á¢×ÔÖÎÍ³ÖÎµÄ¿ÉÄÜĞÔ¡ª¡ªµ±È»£¬ÓÉÎÒÃÇÈÊ´ÈµÄÖ³Ãñ¹ÜÀíÕßÖ÷µ¼¡£;;;;;;;;;;;;x
+organize_mauretania_title;×é½¨Ã«ÀïËşÄáÑÇ;;;;;;;;;;;;x
+organize_mauretania_desc;ÎÒÃÇÓ¦¸Ã×éÖ¯·ÇÖŞÖ³ÃñµØ£¬ÒÔ¸üºÃµØ·´Ó³µ±µØµÄ½á¹¹£¬ÒÔ¼°½¨Á¢×ÔÖÎÍ³ÖÎµÄ¿ÉÄÜĞÔ¡ª¡ªµ±È»£¬ÓÉÎÒÃÇÈÊ´ÈµÄÖ³Ãñ¹ÜÀíÕßÖ÷µ¼¡£;;;;;;;;;;;;x
+move_capital_to_accra_title;Ç¨¶¼ÖÁ°¢¿ËÀ­;;;;;;;;;;;;x
+move_capital_to_accra_desc;°¢¿ËÀ­ÎªÎÒ¹úÌá¹©ÁËÒ»¸ö¸üºÃµÄÊ×¶¼Î»ÖÃ¡ª¡ªÎÒÃÇÓ¦¸ÃÂíÉÏ½«Õş¸®Ç¨ÖÁÄÇ¶ù¡£;;;;;;;;;;;;x
+move_capital_to_algiers_title;Ç¨¶¼ÖÁ°¢¶û¼°¶û;;;;;;;;;;;;x
+move_capital_to_algiers_desc;°¢¶û¼°¶ûÏÖÔÚÊôÓÚÎÒÃÇ¡£ÊÇÊ±ºò½«ÎÒÃÇµÄÕş¸®Ç¨»ØºÏÊÊµÄÎ»ÖÃÁË£¡;;;;;;;;;;;;x
+chuang_guangdong_title;´³¹Ø¶«;;;;;;;;;;;;x
+chuang_guangdong_desc;´Ó×ÖÃæÉÏ¿´£¬¡°´³¹Ø¶«¡±ÕâÊÇÇåÕş¸®ÊµÊ©µÄÒ»ÏîÕş²ß£¬´òÆÆÁË¶«±±±ß½®·ÇÂú×å¶¨¾ÓµÄÕÏ°­¡£Ëæ×ÅÍâÂúÖŞµÄ¶ªÊ§£¬±ß½®±ØĞëÓĞ¶¨¾ÓÕß¾Ó×¡£¬ÒÔ·ÀÖ¹ÍâµĞ½øÒ»²½À©ÕÅµ½ÖĞ¹úÁìÍÁ¡£;;;;;;;;;;;;x

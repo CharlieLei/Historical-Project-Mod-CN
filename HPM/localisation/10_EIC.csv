@@ -1,15 +1,16 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-EIC_ADJ;Company;;;;;;;;;;;;;
-UTI;Territory Exchange;;;;;;;;;;;;;
-EVTDESC9990001;Our recently conquered territory has been fully integrated into our administration.;;;;;;;;;;;;;
-EVTDESC9990002;The unfortunate rebellion has left our administration in the gutter in Parliament's mind and a bill has recently passed liquidating the company, they now seek to seize all of our holdings for the Crown.;;;;;;;;;;;;;
-EVTDESC9990004; The East India Company, in a rare show of good sense has agreed to step away from India, what's theirs is now ours and a glorious day for the Empire has dawned.;;;;;;;;;;;;;
-EVTDESC9990005; The British armies have been sent packing and we are now free to do with India as we see fit, our shareholders have moved to Calcutta and all of our affairs our strictly our own. Long live the East India Company!;;;;;;;;;;;;;
-EVTDESC9990007;Recent events in Calcutta have undermined the East India Company's loyalty to the Crown in matters of trade and the British monopoly on Indian goods is in danger, swift action must be taken to mend this.;;;;;;;;;;;;;
-EVTDESC9990008;Parliament is understandably displeased with our recent change in policy and they now seek to undermine our rights and liquidate the company, clearly it is time for us to reevaluate our loyalties.;;;;;;;;;;;;;
-EVTDESC9990009;A Ship has arrived in Calcutta today carrying some delightful fruits of British ingenuity, we must put it to use straight away.;;;;;;;;;;;;;
-government_of_india_act;Government of India Act;;;;;;;;;;;;;
-government_of_india_act_title;Government of India Act;;;;;;;;;;;;;
-government_of_india_act_desc;The recent rebellion in India has exposed structural weaknesses and inefficiencies in Company rule, for the good of the Indians and Empire we must liquidate the East India Company and bring their holdings under Crown rule.;;;;;;;;;;;;;
-mughal_declaration_eic_title;Declare a Jihad Against the British;;;;;;;;;;;;;
-mughal_declaration_eic_desc;Unrest dominates the territory of the former Mughal Empire, now controlled by the British. There are calls for jihad by Muslim leaders like Maulana Fazl-e-Haq Khairabadi and the millenarian Ahmedullah Shah, which were taken up by Muslims, particularly artisans, which caused the British to think that the Muslims were the main force behind this unrest. The Mughal emperor, Bahadur Shah, resisted these calls for jihad because, it has been suggested, he feared outbreaks of communal violence. By abiding to these calls, expelling the British from Delhi and declaring a Jihad, by shaking off the British influence and dominance, the Shah can be acclaimed Emperor of India, his rightful title.;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+EIC_ADJ;公司的;;;;;;;;;;;;x
+UTI;领土交换;;;;;;;;;;;;x
+EVTDESC9990001;我们最近征服的领土已完全融入我们的行政当局。;;;;;;;;;;;;x
+EVTDESC9990002;不幸的叛乱使我们的政府在议会的脑海中留下了阴霾，最近通过一项法案清算公司，他们现在寻求将我们所有的财产收归皇室。;;;;;;;;;;;;x
+EVTDESC9990004;东印度公司以一种罕见的明智之举同意离开印度，他们的现在是我们的，帝国的光辉日子已经到来。;;;;;;;;;;;;x
+EVTDESC9990005;英国军队已经被派去收拾行李，我们现在可以自由地处理我们认为合适的印度问题，我们的股东已经搬到加尔各答，我们的所有事务都完全属于我们自己。东印度公司万岁！;;;;;;;;;;;;x
+EVTDESC9990007;最近在加尔各答发生的事件破坏了东印度公司在贸易问题上对王室的忠诚，英国对印度货物的垄断处于危险之中，必须采取迅速行动来修补这一点。;;;;;;;;;;;;x
+EVTDESC9990008;议会对我们最近的政策变化感到不满，他们现在试图破坏我们的权利并清算公司，显然现在是时候重新评估我们的忠诚度了。;;;;;;;;;;;;x
+EVTDESC9990009;一艘船今天抵达加尔各答，带着一些英国人的聪明才智，我们必须立即投入使用。;;;;;;;;;;;;x
+government_of_india_act;印度政府法案;;;;;;;;;;;;x
+government_of_india_act_title;印度政府法案;;;;;;;;;;;;x
+government_of_india_act_desc;最近印度的叛乱暴露了公司治理的结构性弱点和低效性，为了印度和帝国的利益，我们必须清算东印度公司，并将其持有的股份置于官方统治之下。;;;;;;;;;;;;x
+mughal_declaration_eic_title;对英国佬发动圣战;;;;;;;;;;;;x
+mughal_declaration_eic_desc;目前英属印度危机四伏，动乱不断冲击着前莫卧儿帝国的领土。有一些穆斯林的领袖高呼“圣战”，因为在这些地区绝大多数人民信奉伊斯兰教，这让英国人认为穆斯林是这场动乱的主要幕后力量。莫卧儿帝国的皇帝巴哈杜尔·沙却抵制了这次圣战，因为皇帝陛下害怕圣战会引起公共暴力。然而只有通过圣战将英国人驱逐出德里，才能摆脱英国人的影响和统治，这样才能让我们的陛下得到他应有的头衔——印度的皇帝。;;;;;;;;;;;;x

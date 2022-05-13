@@ -1,48 +1,49 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-BPM_TOOL_BORDER_1;Slim Dashed Border;;;;;;;;;;;;;
-BPM_TOOL_BORDER_2;Medium Dashed Border;;;;;;;;;;;;;
-BPM_TOOL_BORDER_3;Thick Dashed Border;;;;;;;;;;;;;
-BPM_TOOL_BORDER_4;Medium Border;;;;;;;;;;;;;
-BPM_TOOL_BORDER_5;Thick Border;;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_SAR;Blue (Sardinia);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_ASY;Blue (Assyria);;;;;;;;;;;;;
-BP_TOOL_COLOR_WHITE_AUS;White (Austria);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREY_CSA;Grey (CSA);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLACK_GER;Black (Germany);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREY_BUL;Grey (Bulgaria);;;;;;;;;;;;;
-BP_TOOL_COLOR_PURPLE_KUR;Purple (Sicily);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_USA;Blue (USA);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_LPL;Blue (United Provinces);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_BRZ;Green (Brazil);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_MEX;Green (Mexico);;;;;;;;;;;;;
-BP_TOOL_COLOR_RED_JAP;Red (Japan);;;;;;;;;;;;;
-BP_TOOL_COLOR_BROWN_KUK;Brown (Austria-Hungary);;;;;;;;;;;;;
-BP_TOOL_COLOR_ORANGE_HOL;Orange (Netherlands);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_TEX;Blue (Texas);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_PRU;Blue (Prussia);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_RUS;Green (Russia);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_ITA;Green (Italy);;;;;;;;;;;;;
-BP_TOOL_COLOR_RED_DNB;Red (Danube Federation);;;;;;;;;;;;;
-BP_TOOL_COLOR_BROWN_HUN;Brown (Hungary);;;;;;;;;;;;;
-BP_TOOL_COLOR_YELLOW_ROM;Yellow (Romania);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_VEN;Blue (Venice);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_SCA;Blue (Scandinavia);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_SYR;Green (Syria);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_ARU;Green (Arabia);;;;;;;;;;;;;
-BP_TOOL_COLOR_PINK_POL;Pink (Poland);;;;;;;;;;;;;
-BP_TOOL_COLOR_BROWN_PBC;Brown (PBC);;;;;;;;;;;;;
-BP_TOOL_COLOR_YELLOW_TKG;Yellow (Shogunate);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_ISR;Blue (Israel);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_GRE;Blue (Greece);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_POR;Green (Portugal);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_TUR;Green (Turkey);;;;;;;;;;;;;
-BP_TOOL_COLOR_RED_ENG;Red (UK);;;;;;;;;;;;;
-BP_TOOL_COLOR_BROWN_SAF;Brown (SAF);;;;;;;;;;;;;
-BP_TOOL_COLOR_YELLOW_PER;Yellow (Persia);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_FRA;Blue (France);;;;;;;;;;;;;
-BP_TOOL_COLOR_BLUE_YUG;Blue (Yugoslavia);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_CAN;Green (Canada);;;;;;;;;;;;;
-BP_TOOL_COLOR_GREEN_IRE;Green (Ireland);;;;;;;;;;;;;
-BP_TOOL_COLOR_RED_RUS;Red (USSR);;;;;;;;;;;;;
-BP_TOOL_COLOR_BROWN_GER;Brown (Germany);;;;;;;;;;;;;
-BP_TOOL_COLOR_YELLOW_SPA;Yellow (Spain);;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+BPM_TOOL_BORDER_1;细长虚线边框;;;;;;;;;;;;x
+BPM_TOOL_BORDER_2;中虚线边框;;;;;;;;;;;;x
+BPM_TOOL_BORDER_3;粗虚线边框;;;;;;;;;;;;x
+BPM_TOOL_BORDER_4;中边框;;;;;;;;;;;;x
+BPM_TOOL_BORDER_5;粗边框;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_SAR;蓝色（撒丁尼亚）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_ASY;蓝色（亚述）;;;;;;;;;;;;x
+BP_TOOL_COLOR_WHITE_AUS;白色（奥地利）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREY_CSA;灰色（美利坚联盟国）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLACK_GER;黑色（德意志）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREY_BUL;灰色（保加利亚）;;;;;;;;;;;;x
+BP_TOOL_COLOR_PURPLE_KUR;紫色（西西里）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_USA;蓝色（美利坚合众国）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_LPL;蓝色（联合省）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_BRZ;绿色（巴西）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_MEX;绿色（墨西哥）;;;;;;;;;;;;x
+BP_TOOL_COLOR_RED_JAP;红色（日本）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BROWN_KUK;棕色（奥匈）;;;;;;;;;;;;x
+BP_TOOL_COLOR_ORANGE_HOL;橙色（尼德兰）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_TEX;蓝色（得克萨斯）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_PRU;蓝色（普鲁士）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_RUS;绿色（俄罗斯）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_ITA;绿色（意大利）;;;;;;;;;;;;x
+BP_TOOL_COLOR_RED_DNB;红色（多瑙联邦）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BROWN_HUN;棕色（匈牙利）;;;;;;;;;;;;x
+BP_TOOL_COLOR_YELLOW_ROM;黄色（罗马尼亚）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_VEN;蓝色（威尼斯）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_SCA;蓝色（斯堪的纳维亚）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_SYR;绿色（叙利亚）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_ARU;绿色（阿拉伯）;;;;;;;;;;;;x
+BP_TOOL_COLOR_PINK_POL;粉色（波兰）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BROWN_PBC;棕色（秘鲁-玻利维亚）;;;;;;;;;;;;x
+BP_TOOL_COLOR_YELLOW_TKG;黄色（日本幕府）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_ISR;蓝色（以色列）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_GRE;蓝色（希腊）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_POR;绿色（葡萄牙）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_TUR;绿色（土耳其）;;;;;;;;;;;;x
+BP_TOOL_COLOR_RED_ENG;红色（联合王国）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BROWN_SAF;棕色（南非）;;;;;;;;;;;;x
+BP_TOOL_COLOR_YELLOW_PER;黄色（波斯）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_FRA;蓝色（法国）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BLUE_YUG;蓝色（南斯拉夫）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_CAN;绿色（加拿大）;;;;;;;;;;;;x
+BP_TOOL_COLOR_GREEN_IRE;绿色（爱尔兰）;;;;;;;;;;;;x
+BP_TOOL_COLOR_RED_RUS;红色（苏联）;;;;;;;;;;;;x
+BP_TOOL_COLOR_BROWN_GER;棕色（德国）;;;;;;;;;;;;x
+BP_TOOL_COLOR_YELLOW_SPA;黄色（西班牙）;;;;;;;;;;;;x

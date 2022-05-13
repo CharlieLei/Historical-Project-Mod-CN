@@ -1,201 +1,202 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-EVTDESC90005;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;;;;;;;;;;
-EVTNAME4661019;The Status Quo;;;;;;;;;;;;;
-EVTDESC4661019;The latest war ended in status quo and Entre-Rios is free. Nothing stands in the way of Buenos Aires to dominate the Argentine Confederation.;;;;;;;;;;;;;
-EVTOPT4661019A;Porteno supremacy begins.;;;;;;;;;;;;;
-EVTNAME600074;Uruguay Is Defeated;;;;;;;;;;;;;
-EVTDESC600074;President Rivera lost the war he started and we are now in a position to install Oribe, the true President, in the government of Uruguay.;;;;;;;;;;;;;
-EVTOPT600074A;Install Oribe as President but interfere no more.;;;;;;;;;;;;;
-EVTOPT600074B;Install Oribe as President and make sure he stays there.;;;;;;;;;;;;;
-EVTOPT600074C;Install Oribe as President and take steps to control Uruguay.;;;;;;;;;;;;;
-EVTOPT600074D;Don't interfere in Uruguay.;;;;;;;;;;;;;
-EVTNAME600075;Rosas Is Defeated;;;;;;;;;;;;;
-EVTDESC600075;Rosas is defeated and fled Argentina to the United Kingdom. Oribe lost all claims on the presidency and also fled the country, but that will not stop trouble with the Blanco party.;;;;;;;;;;;;;
-EVTOPT600075A;Help the unitarians organize Argentina.;;;;;;;;;;;;;
-EVTOPT600075B;Don't interfere anymore.;;;;;;;;;;;;;
-EVTNAME600076;The Armistice of $YEAR$;;;;;;;;;;;;;
-EVTDESC600076;Uruguay and Argentina agreed to an armistice and peace talks led to the maintenance of the status quo. Our war to oust Rosas wasn't successful.;;;;;;;;;;;;;
-EVTOPT600076A;Damn.;;;;;;;;;;;;;
-EVTNAME45103;The Dominican Independence;;;;;;;;;;;;;
-EVTDESC45103;La Trinitaria Society was victorious and our independence is now complete. We remained independent long enough for the world to recognize us as a sovereign state!;;;;;;;;;;;;;
-EVT45103OPTA;Viva la República Dominicana!;;;;;;;;;;;;;
-EVTNAME203770;Slave population grows;;;;;;;;;;;;;
-EVTDESC203770;Despite slave trade being banned for some time now, a direct result of the United Kingdom pressure, the slave population in our country grows, not by trade but by population growth.;;;;;;;;;;;;;
-EVTOPTA203770;Good, Good.;;;;;;;;;;;;;
-EVTNAME600050;Polish Insurrection;;;;;;;;;;;;;
-EVTDESC600050;When a Polish insurrection broke out in Galicia (Austrian Poland) and Krakow early in 1846 many Austrians held that Krakow's independent status provided the stimulus as well as a forum for the planning of Polish revolts. However, we are still bound by the Treaty of Vienna and our administration of Krakow with Prussia and Russia.;;;;;;;;;;;;;
-EVT600050OPTA;Dispatch diplomats to begin the talks.;;;;;;;;;;;;;
-EVT600050OPTB;We don't care about Prussia and Russia consent on this matter, we must act now.;;;;;;;;;;;;;
-EVT600050OPTC;Ignore the rebellion. They are harmless.;;;;;;;;;;;;;
-EVTNAME600051;The Krakow Uprising;;;;;;;;;;;;;
-EVTDESC600051;Polish nobles and scholars in our great city are starting a great revolution to restore Poland and end serfdom in our lands. This democratic movement is gathering momentum and might erupt at any time through Polish occupied lands. We can support it, incurring the anger of our neighbors and possibly invasion, or we can suppress it.;;;;;;;;;;;;;
-EVT600051OPTA;Let the revolutionaries take the city. Unite Poland!;;;;;;;;;;;;;
-EVT600051OPTB;Suppress the revolutionaries or the Austrians might retaliate.;;;;;;;;;;;;;
-EVTNAME600052;The Polish Question;;;;;;;;;;;;;
-EVTDESC600052;A revolution has begun in Krakow and it threatens to spread like wildfire in our great nation. Austria is asking our consent to suppress Krakow, arguing the free city is the focus of the Polish nationality and insurgency and that suppressing the city can end future Polish rebellions. Our diplomats are worried that this rebellion may grow if we don't support the Austrians. What do we tell the Austrian envoy?;;;;;;;;;;;;;
-EVT600052OPTA;Let the Austrians know that they have our support on this matter.;;;;;;;;;;;;;
-EVT600052OPTB;The Treaty of Vienna needs to be upheld. We do not support the Austrians.;;;;;;;;;;;;;
-EVTNAME600054;The Fate of Krakow;;;;;;;;;;;;;
-EVTDESC600054;Russia and Prussia agreed to our proposed solution. With the consent of the three nations, our troops are ready for deployment and to put down the polish rebellion.;;;;;;;;;;;;;
-EVT600054OPTA;To Krakow! For the Kaiser!;;;;;;;;;;;;;
-EVT600054OPTB;On second thought, we can't afford a war right now.;;;;;;;;;;;;;
-EVTNAME600055;The Fate of Krakow;;;;;;;;;;;;;
-EVTDESC600055;One or more powers disagrees with our solution for the Polish rebels. Acting now might anger them, but not acting might make the Poles even bolder.;;;;;;;;;;;;;
-EVT600055OPTA;We don't need their approval! We will march on Krakow.;;;;;;;;;;;;;
-EVT600055OPTB;Maybe it's wiser to let this matter go.;;;;;;;;;;;;;
-EVTNAME600056;Polish Nationality;;;;;;;;;;;;;
-EVTDESC600056;With the success of the Krakow Revolution, the city is being used as a base of operations to disrupt our activities in what they consider Polish territory and to incite Polish citizens to rebel. Our diplomats say this will only end when the city falls.;;;;;;;;;;;;;
-EVT600056OPTA;Curses!;;;;;;;;;;;;;
-EVTNAME600057;Colorado Victory;;;;;;;;;;;;;
-EVTDESC600057;Colorado Rebels took the government and forced president Oribe to step down. Fructuoso Rivera, once exiled in Brazil, returned and now assumes the country as interim president until the next election. Manuel Oribe, the former Blanco President, was forced to flee the country in exile to Buenos Aires. Rivera dissolved the parliament, called for an election and installed pro-Colorado politicians in the upper house while the Colorado Caudillos are laying down their arms and donating what they can to help the Colorado government. France and the United Kingdom, seeking the downfall of Rosas, are also sending help.;;;;;;;;;;;;;
-EVTOPT600057A;Long Live Fructuoso Rivera!;;;;;;;;;;;;;
-EVTNAME600058;Oribe's Exile;;;;;;;;;;;;;
-EVTDESC600058;President Manuel Oribe from Uruguay was deposed by the Colorado Party and fled the country to Buenos Aires. Governor of Buenos Aires and president of the Argentine Confederation, Juan Manuel de Rosas, received him as the constitutional president and soon offered him the command of the armies of the Argentine Confederation. Rivera, the interim president of Uruguay and leader of the Colorados, is extremely hostile to Rosas and to the Confederation thanks to the fact that Rosas and other Federalist Argentines backed Oribe in the past as well due to ideological differences. Rivera now harbour Argentine exiles that might cause problems in the future.;;;;;;;;;;;;;
-EVTOPT600058A;Argentina will never recognize Rivera as President.;;;;;;;;;;;;;
-EVTOPT600058B;It's better to not risk a conflict.;;;;;;;;;;;;;
-EVTNAME600059;The Rise of the Colorados;;;;;;;;;;;;;
-EVTDESC600059;The political scene in Uruguay during the 1830s became split between two parties, the conservative Blancos ("Whites") and the liberal Colorados (literally "coloureds", more usually "Reds"). The Colorados were led by Fructuoso Rivera and represented the business interests of Montevideo. The Blancos were headed by Manuel Oribe, who looked after the agricultural interests of the countryside and promoted protectionism. The two groups took their names from the color of the armbands that they wore. Initially, the Colorados wore blue, but when it faded in the sun, they replaced it with red. \n\nThe Uruguayan Constitution of 1830 didn't anticipate the sharing of political power between parties, which forced the minorities to resort to revolution.;;;;;;;;;;;;;
-EVTOPT600059A;Troublemakers, the lot of them.;;;;;;;;;;;;;
-EVTNAME600060;Oribe's Army;;;;;;;;;;;;;
-EVTDESC600060;With the destruction of our army, Oribe took the opportunity to seize the countryside. Now, they are moving in to take the capital.;;;;;;;;;;;;;
-EVTOPT600060A;That can't end well for us.;;;;;;;;;;;;;
-EVTNAME6000061;The Argentine Unitarianists;;;;;;;;;;;;;
-EVTDESC6000061;For a long time, two projects of country divided Argentina. Unitarianists or Unitarians were the proponents of the concept of a Unitary state (centralized government) in Buenos Aires and they were led by  Juan Lavalle. They were opposed to the Argentine Federalists, who wanted a federation of independent provinces, led by Juan Manuel de Rosas. The Unitarians, sympathetic to our government, fled Argentina in exile after being defeated in 1831. Rosas, the so called Restorer of the Laws, controlled the Argentina Confederation for too long under his despotic rule. They harbour Oribe, who claims is still president, and their government is hostile to ours. Our most trusted Caudillos argue that it is time to prepare for war and for that end we can weaken the Confederation by using our Unitarianist friends.;;;;;;;;;;;;;
-EVTOPT6000061A;Contact Genaro Berón de Astrada, Governor of Corrientes.;;;;;;;;;;;;;
-EVTOPT600061B;Let it go, Rosas surely will not interfere in Uruguay anymore.;;;;;;;;;;;;;
-EVTNAME600062;The Argentine Federalists;;;;;;;;;;;;;
-EVTDESC600062;For a long time, two projects of country divided Argentina. Unitarianists or Unitarians were the proponents of the concept of a Unitary state (centralized government) in Buenos Aires and they were led by  Juan Lavalle. They were opposed to the Argentine Federalists, who wanted a federation of independent provinces, led by Juan Manuel de Rosas. The Unitarians, sympathetic to our government, fled Argentina in exile after being defeated in 1831. Rosas, the so called Restorer of the Laws, controlled the Argentine Confederation for too long under his despotic rule. Now, our friends in Uruguay defeated the Blancos and promise to support us if we were to fight the Federalists to end Rosas despotic ruler.;;;;;;;;;;;;;
-EVTOPT600062A;Tell them we are ready for war when they are.;;;;;;;;;;;;;
-EVTNAME600063;The Big War;;;;;;;;;;;;;
-EVTDESC600063;Genaro Berón de Astrada, governor of Corrientes, pledged to support us in our struggle against Rosas. The moment has arrived to rid the world of the tyrant. If we back down now, our government might look weak. France and the United Kingdom, that long had an attrition with Rosas, will surely help us in our struggle.;;;;;;;;;;;;;
-EVTOPT600063A;Call the Caudillos. Mobilize the troops. Rosas will fall.;;;;;;;;;;;;;
-EVTOPT600063B;This is a dangerous move. Let the Blancos and Rosas in peace.;;;;;;;;;;;;;
-EVTOPT600063C;Bide our time.;;;;;;;;;;;;;
-EVTNAME600064;Rivera backs down;;;;;;;;;;;;;
-EVTDESC600064;The Uruguayan President backed down from the war with Rosas, but Rosas knows of the plan. This, combined with previous attrition with him, will surely lead to war.;;;;;;;;;;;;;
-EVTOPT600064A;Fight to the last man!;;;;;;;;;;;;;
-EVTOPT600064B;It's time to step down.;;;;;;;;;;;;;
-EVTNAME600065;The Uruguayan Aggression;;;;;;;;;;;;;
-EVTDESC600065;Rivera, the Uruguayan president, convinced governor Genaro Berón de Astrada to support him and Corrientes in a rebellion against Buenos Aires. Uruguay is preparing for war against us and they seek to depose Rosas.;;;;;;;;;;;;;
-EVTOPT600065A;The fools!;;;;;;;;;;;;;
-EVTNAME600066;The Italian Legion;;;;;;;;;;;;;
-EVTDESC600066;Giuseppe Garibaldi moved in with his wife and has been living in Montevideo for a time already. A sworn fighter against tyranny, he now has offered his help in setting up the defences of Montevideo against Oribe and Rosas and has offered to lead an Italian Legion made of foreign soldiers that will help us in the struggle against the tyranny of Rosas. Furthermore, it has been recommended that we do as the Blancos are planning to do and abolish slavery in Uruguay so we can have more soldiers for the war.;;;;;;;;;;;;;
-EVTOPT600066A;We welcome him and his soldiers.;;;;;;;;;;;;;
-EVTOPT600066B;We don't need any help.;;;;;;;;;;;;;
-EVTNAME600067;The Defences of Montevideo;;;;;;;;;;;;;
-EVTDESC600067;The Italian Legion of Garibaldi has finished the construction of a fort and barricades throughout the city. This will, without a doubt, help us in the war.;;;;;;;;;;;;;
-EVTOPT600067A;Wonderful!;;;;;;;;;;;;;
-EVTNAME600068;Garibaldi seizes a province;;;;;;;;;;;;;
-EVTDESC600068;The Italian Legion has defeated the enemy in a province and seized it back, returning it for us.;;;;;;;;;;;;;
-EVTOPT600068A;Splendid!;;;;;;;;;;;;;
-EVTNAME600069;The Fall of the Blancos;;;;;;;;;;;;;
-EVTDESC600069;After years of struggle, the Blancos are losing their strength. Our country, once torn by civil war, is beginning to unite and the flames of revolutions are dying.;;;;;;;;;;;;;
-EVTOPT600069A;Finally.;;;;;;;;;;;;;
-EVTNAME600070;Brazilian Intervention;;;;;;;;;;;;;
-EVTDESC600070;The war with Argentina and the Blancos costed too much already and our people want peace, internally and externally. The Brazilians are showing some interest in the conflict, and our country, and they would help us much in the struggle against Rosas and Oribe. Our diplomats began the talks and the conditions the Brazilians are asking are the free navigation of the Uruguay river, taxes and trade benefits, renouncement of our claims on the border with Rio Grande do Sul and the recognition of Brazil's right to interfere with our internal affairs. \n\nGetting Brazilian help would undoubtedly tip the war in our favour and it is better than to risk another Blanco government.;;;;;;;;;;;;;
-EVTOPT600070A;I'm sure there will be no problems. Ask for their help.;;;;;;;;;;;;;
-EVTOPT600070B;We can take care of this war by ourselves.;;;;;;;;;;;;;
-EVTNAME600071;Uruguay asks for our help;;;;;;;;;;;;;
-EVTDESC600071;For a long time, Uruguay has been plunged into turmoil. It fights the Blancos, which aren't too fond of us, and the Argentine, which aren't too fond of us either. But the war isn't going very well for them, and they are asking for our help. In exchange for our help, they  are proposing several benefits for our country, such as treaties for the free navigation of the Uruguay river, taxes and trade benefits, renouncement of their claims on the border with Rio Grande do Sul and the recognition of Brazil's right to interfere with Uruguay internal affairs. This would undoubtedly bring our countries close together and can serve as a the start of Brazilian hegemony in the south of the continent;;;;;;;;;;;;;
-EVTOPT600071A;Agree to these terms.;;;;;;;;;;;;;
-EVTOPT600071B;We can't afford to help them right now.;;;;;;;;;;;;;
-EVTNAME600072;Spheres of Influence;;;;;;;;;;;;;
-EVTDESC600072;After years of struggle for power, both the Colorados and the Blancos were weary of the chaos. In $YEAR$, they came to an agreement to define spheres of influence: the Colorados would control Montevideo and the coastal region, the Blancos would rule the hinterland with its agricultural estates. In addition, the Blancos were paid a lump sum of money to compensate them for the loss of their stake in Montevideo.;;;;;;;;;;;;;
-EVTOPT600072A;Finally we can have some peace.;;;;;;;;;;;;;
-EVTOPT600072B;Unnecessary. Our current government will always have power.;;;;;;;;;;;;;
-EVTNAME600073;Spheres of Influence;;;;;;;;;;;;;
-EVTDESC600073;Blancos and Colorados finally learned to share political power. This will severely reduce rebellion and aggressions between the parties.;;;;;;;;;;;;;
-EVTOPT600073A;Uruguay can rest;;;;;;;;;;;;;
-EVTNAME700000;Death of Francia;;;;;;;;;;;;;
-EVTDESC700000;Paraguayan supreme dictator, José Gaspar Rodríguez de Francia, took several precautions against assassination. He would lock the Palace doors himself, unroll the cigars his sister made to ensure there was no poison, prepare his own yerba mate, and sleep with a pistol under his pillow. No one could come within six paces of him, or even bear a cane near him. Whenever he would go out riding, he had all bushes and trees along the route uprooted so that assassins could not hide. All shutters had to be closed, and pedestrians had to prostrate before him as he passed. Sensing his mortality, he destroyed all his papers and refused medical aid, even lashing out at a physician with his sabre. In this day, Francia breathed his last and passed away. Francia left the state treasury with at least twice as much money in it as when he took office, including 36,500 pesos of his unspent salary, the equivalent of several years' pay. His daughter later burnt all his furniture after his death.;;;;;;;;;;;;;
-EVTOPT700000A;The end of an era.;;;;;;;;;;;;;
-EVTNAME700001;The Rise of Carlos Lopéz;;;;;;;;;;;;;
-EVTDESC700001;Carlos Antonio López Ynsfrán, nephew of Francia, attracted the hostility of the dictator and uncle and he was forced to keep in hiding for several years. He was briefly secretary of the military junta that ruled the country after Francia's death and today, after years of confusion and chaos since Francia's death, he was chosen as the country's first consul--a post equivalent to that of president -- ruling alongside Mariano Roque Alonso.;;;;;;;;;;;;;
-EVTOPT700001A;What the future holds for Paraguay?;;;;;;;;;;;;;
-EVTNAME700002;Carlos López Takes Power;;;;;;;;;;;;;
-EVTDESC700002;Paraguay's Consul, Carlos López, exiled Roque and assumed dictatorial powers. The Congress approved the first Paraguayan Constitution — probably the work of Lopez himself. A few months later, Congress changed his post from consul to president, and elected him to the new post for a 10-year term. The constitution not only legally sanctioned López' dictatorial powers, but included no guarantees of civil rights. Indeed, the word "liberty" was not even mentioned in the text.\nHis government now is directing energy towards developing the material resources and strengthening the military power of the country. One of his first actions was to strengthen Paraguay's grip on the Chaco region by building forts and founding villages.;;;;;;;;;;;;;
-EVTOPT700002A;For the glory of Paraguay!;;;;;;;;;;;;;
-EVTOPT700002B;Try to fight for democracy!;;;;;;;;;;;;;
-EVTNAME700003;Foreign Policy;;;;;;;;;;;;;
-EVTDESC700003;López lead an extremely aggressive foreign policy which frequently caused attrition with other governments. In 1853, he refused to ratify a commercial and navigational treaty with the United States and began confiscating the property of American citizens residing in Paraguay. Because of a dispute with Britain, López closed Paraguayan waters to foreign warships. Today, Paraguayan soldiers fired upon an American ship engaged in a scientific survey of the Parana River, killing one American crew member.;;;;;;;;;;;;;
-EVTOPT700003A;Who gives a hoot about yankees anyway?;;;;;;;;;;;;;
-EVTOPT700003B;Issue an official apology.;;;;;;;;;;;;;
-EVTNAME700004;The Paraguay Expedition;;;;;;;;;;;;;
-EVTDESC700004;Some years ago, the American ship USS Water Witch was doing a scientific expedition on the Paraná River when Paraguayan troops fired against it. This act of aggression wasn't met by an official apology by Paraguayan dictator Carlos López. This insult went unanswered for too long. Now, the US Congress authorized for a Naval Squadron to be sent to Paraguay to seek redress from Paraguay for the shelling of the Water Witch, which had resulted in the death of the an American citizen, the ship's helmsman.;;;;;;;;;;;;;
-EVTOPT700004A;Time to show American gunboat diplomacy.;;;;;;;;;;;;;
-EVTOPT700004B;Drop the matter, it's not worth it.;;;;;;;;;;;;;
-EVTNAME700005;The USA asks for military access;;;;;;;;;;;;;
-EVTDESC700005;Tensions between the United States of America and Paraguay reached a critical point this year as the USA plans to seek an apology for the shelling of one of its ships on the Parana river. The United States of America asked our government military access so they can enter Paraguayan territory in seek of their redress.;;;;;;;;;;;;;
-EVTOPT700005A;The yankees can pass through our territory.;;;;;;;;;;;;;
-EVTOPT700005B;We don't want any involvement on this matter.;;;;;;;;;;;;;
-EVTNAME700006;Uruguay gave us military access;;;;;;;;;;;;;
-EVTDESC700006;The Uruguayan government gave us military access for our expedition against Paraguay.;;;;;;;;;;;;;
-EVTOPT700006A;Contact Flag Officer William B. Shubrick. Let the expedition begin.;;;;;;;;;;;;;
-EVTOPT700006B;Better to leave this issue behind us.;;;;;;;;;;;;;
-EVTNAME700007;Uruguay refuse to give military access;;;;;;;;;;;;;
-EVTDESC700007;The Uruguayan government refuse to give us military access for our expedition against Paraguay.;;;;;;;;;;;;;
-EVTOPT700007A;The expedition will happen one way or another.;;;;;;;;;;;;;
-EVTOPT700007B;Better to leave issue this behind us.;;;;;;;;;;;;;
-EVTNAME700008;The USA Expedition;;;;;;;;;;;;;
-EVTDESC700008;The United States of America sent an expedition to get an official apology for our attack against one of its ships. There are rumours of yankee ships in the coast and that the Uruguayans will let the yankees through their territory and if they do, we might face a defeat that will shake off our government.;;;;;;;;;;;;;
-EVTOPT700008A;Send them an official apology and pay indemnifications.;;;;;;;;;;;;;
-EVTOPT700008B;The Paraguayans will never submit!;;;;;;;;;;;;;
-EVTOPT700008C;Let us bide our time.;;;;;;;;;;;;;
-EVTNAME700009;The Expedition Ends;;;;;;;;;;;;;
-EVTDESC700009;Our military sent a few gunboats up the Paraná River for target practice in Paraguay and military exercises. A few months of gunboat diplomacy and a few demonstrations of our military might and Paraguay agreed to issue an official apology and already paid indemnifications for the death of our sailor.;;;;;;;;;;;;;
-EVTOPT700009A;Justice is served.;;;;;;;;;;;;;
-EVTOPT700009B;We already got the reparations? Great! Now continue the war.;;;;;;;;;;;;;
-EVTNAME700010;Paraguay Occupies Misiones;;;;;;;;;;;;;
-EVTDESC700010;The Paraguayan dictator built a fort overnight and occupied the province of Misiones, claiming the ethnic majority is Guarani and therefore should be ruled by him.;;;;;;;;;;;;;
-EVTOPT700010A;Irrelevant, Paraguay is a province of Argentina.;;;;;;;;;;;;;
-EVTNAME700011;Francia's Utopia;;;;;;;;;;;;;
-EVTDESC700011;Dr. José Gaspar Rodríguez de Francia y Velasco is a Paraguayan lawyer and the Dictator of Paraguay. Originally a professor of philosophy, he entered the cabildo of Asunción while working as a lawyer and rose to become the head of the cabildo. After the proclamation of the Paraguayan Republic he became an important political leader in South America, and was eventually installed as supreme leader before being declared dictator for life. \n Inspired by French revolutionary ideals, Francia sought to create a utopian state based on Rosseau's Social Contract. Although he strived for equality of the people, Francia ruthlessly destroyed any opposition and created a Police state, imprisoning all those he deemed seditious. \n Francia lived a spartan lifestyle, and apart from some books and furniture, his only possessions were a tobacco case and a pewter confectionery box.;;;;;;;;;;;;;
-EVTOPT700011A;Long may he live!;;;;;;;;;;;;;
-EVTNAME700012;A Stab in the Back;;;;;;;;;;;;;
-EVTDESC700012;After receiving our indemnification and apologies, what was asked for, the USA decided to declared war against us. As a consequence, their reputation in the eyes of the world fell, but what will be the consequences for our country?;;;;;;;;;;;;;
-EVTOPT700012A;Traitorous bastards!;;;;;;;;;;;;;
-EVTNAME500000;The Organic Statute of Poland;;;;;;;;;;;;;
-EVTDESC500000;The Organic Statute of the Kingdom of Poland was a Statute which replaced the Constitution of 1815 in the aftermath of the failed November Uprising in the Russian Partition. The Statute was pronounced in occupied Warsaw on March 1832 by Marshal Ivan Fyodorovich Paskevich, who named himself a namestnik. The Statute, signed by Emperor Nicholas I of Russia, replaced the personal union between the Kingdom of Poland and the Russian Empire with the "eternal incorporation" of Poland into Russia. The Parliament of the Kingdom was abolished, and its army merged with the Russian Army. \n §RNOTE: Congress Poland is an extremely hard to play substate. You won't get any soldiers and when the Polish Uprising begins you will probably lose the game.§W;;;;;;;;;;;;;
-EVTOPT500000A;When will the Poles be free?;;;;;;;;;;;;;
-EVTNAME500001;The Polish Uprising of $YEAR$;;;;;;;;;;;;;
-EVTDESC500001;After the latest war our subjects in Poland and other parts of our empire began to grow restless. The uprising began as a spontaneous protest by young Poles against conscription into the $COUNTRY_ADJ$ Army. It was soon joined by high-ranking Polish-Lithuanian officers and various politicians. In Warsaw alone 116 demonstrations were held in $YEAR$. Much of these manifestations in ended in clashes with the $COUNTRY_ADJ$ Army. In spite of $COUNTRY_ADJ$ police interference, a symbolic meeting of hymn-singing Poles and Lithuanians took place on the bridge across an important River. The crowds sang "God protect Poland" in Lithuanian and Belarusian. Earlier in $YEAR$ the $COUNTRY_ADJ$ government introduced a state of emergency in Kovno and Grodno as well as several other Polish-majority provinces. Public gatherings were banned and some public leaders were declared outlaws. The situation threatens to break down in anarchy.;;;;;;;;;;;;;
-EVTOPT500001A;Suppress them immediately.;;;;;;;;;;;;;
-EVTOPT500001C;Let them be free.;;;;;;;;;;;;;
-EVTOPT500001D;Onwards to Poland!;;;;;;;;;;;;;
-EVTNAME500002;The Polish Uprising;;;;;;;;;;;;;
-EVTDESC500002;Poles in $FROMCOUNTRY$, together with some other nationalities in the territory of the former Polish-Lithuanian Commonwealth, started a general uprising against the $FROMCOUNTRY_ADJ$ government. There is an outcry from some sectors of our population to support Polish freedom, but there wouldn't be any problems if we stayed neutral on this matter either.;;;;;;;;;;;;;
-EVTOPT500002A;Help the Poles in any way we can. §R(Pay or owe 20,000¤)§W;;;;;;;;;;;;;
-EVTOPT500002B;Condemn $FROMCOUNTRY$'s action.;;;;;;;;;;;;;
-EVTOPT500002C;Stay neutral on the matter.;;;;;;;;;;;;;
-EVTOPT500002D;Pronounce our support to $FROMCOUNTRY$.;;;;;;;;;;;;;
-EVTNAME500003;The Polish Rebellion is Crushed;;;;;;;;;;;;;
-EVTDESC500003;Traugutt, the insurrection general, and four other members of the Polish Government were apprehended by $COUNTRY_ADJ$ troops and executed at the Warsaw citadel. In the course of the war several battles and skirmishes were fought and some twenty-five thousand Poles were killed. The $COUNTRY_ADJ$ $MONARCHTITLE$ passed laws and edicts to make the land an integral part of $COUNTRY$'s territory and all that remains now is to decide the fate of the rebels.;;;;;;;;;;;;;
-EVTOPT500003A;There will be harsh reprisals.;;;;;;;;;;;;;
-EVTOPT500003B;Be lenient with them.;;;;;;;;;;;;;
-EVTNAME132002;Government Overthrown in $FROMCOUNTRY$;;;;;;;;;;;;;
-EVTDESC132002;Our puppet government in $FROMCOUNTRY$ was overthrown and the new government has declared it will not take any orders from us!;;;;;;;;;;;;;
-EVTNAME4661006;Bolivian-Argentine Border Treaty;;;;;;;;;;;;;
-EVTDESC4661006;The border between Bolivia and Argentina has long been under influence of Caudillos from both countries, the provinces being raided and conquered numerous times. The Bolivians conquered Cochinoca, an Argentine province, using the attempt to stop Argentinian Caudillos from raiding Bolivia's countryside as the justification. After the recent war the Argentine took Cochinoca and Tarija, the latter being claimed by some Argentine northern Caudillos as being part of Argentina but that province long has been under the rule of Bolivia and has mainly a Bolivian population. Now with the post-war peace talks, our diplomats proposed that we raise the question of the settlement of the borders between Bolivia and Argentina. The best deal we can get by our diplomats calculations is to offer to renounce all our claims in Cochinoca, Uquia, Jujuy and Salta in exchange for the return of Tarija and their renouncement of their claims in that province.;;;;;;;;;;;;;
-EVTOPT4661006A;Make the proposal.;;;;;;;;;;;;;
-EVTOPT4661006B;We will not renounce our claims.;;;;;;;;;;;;;
-EVTDESC4661007;The border between Bolivia and Argentina has long been under influence of Caudillos from both countries, the provinces being raided and conquered numerous times. The Bolivians conquered Cochinoca, an Argentine province, using the attempt to stop Argentinian Caudillos from raiding Bolivia's countryside as the justification. After the recent war we took Cochinoca and Tarija, the latter being claimed by some northern Caudillos as being part of Argentina but that province long has been under the rule of Bolivia and has mainly a Bolivian population. Now with the post-war peace talks, the question of the settlement of the borders between Bolivia and Argentina was raised by the Bolivian government. They offer to renounce all their claims in Cochinoca, Uquia, Jujuy and Salta in exchange for the return of Tarija and our renouncement of our claims in that province.;;;;;;;;;;;;;
-EVTOPT4661007A;We agree to their proposal.;;;;;;;;;;;;;
-EVTOPT4661007B;We will not renounce our spoils of war.;;;;;;;;;;;;;
-EVTNAME4661008;Argentina Agrees;;;;;;;;;;;;;
-EVTDESC4661008;The Argentines agreed to our proposal and Tarija is being returned to us.;;;;;;;;;;;;;
-EVTOPT4661008A;Great news!;;;;;;;;;;;;;
-EVTNAME97051;The New Capital!;;;;;;;;;;;;;
-EVTDESC97051;The new President of Bolivia, after the fall of the federation, proclaimed a law naming the city of the Chuquisaca as the capital of Bolivia and renaming it in honor of the revolutionary leader Antonio José de Sucre.;;;;;;;;;;;;;
-EVT970501PTA;For the glory of Bolivia!!;;;;;;;;;;;;;
-EVTPDII50000;The Republican Coup;;;;;;;;;;;;;
-EVTDESC50000;The end of slavery had resulted in an explicit shift of support to republicanism by rich and powerful coffee farmers who held great political, economic and social power in the country. To avert a republican backlash, the government adopted a series of credit and military policies and reforms to appease the land owners. The measures made by the government alarmed the civilian republicans and the Positivists in the military corps. They saw that it would undercut support for their own aims, and were emboldened to further action. For them, it had become a case of "now or never". Although there was no desire in Brazil among the majority of the population to change the form of government, the civilian republicans began pressuring the Positivist officers to overthrow the monarchy. The Positivists launched a coup d'etat and tried to institute a republic on $YEAR$. During the whole ordeal Pedro II showed no emotion, as if unconcerned about the outcome. He only commented:;;;;;;;;;;;;;
-EVTOPTA50000;If this is how it is, I will retire. I worked too much and I'm tired. Now I'll rest.;;;;;;;;;;;;;
-EVTOPTB50000;Crush the rebellion!;;;;;;;;;;;;;
-vargastitle;The Rise of Getulio Vargas;;;;;;;;;;;;;
-vargasdesc;Vargas was born in the state of Rio Grande do Sul, into a family prominent in state politics. By 1922 he had risen rapidly in state politics and was elected to the National Congress, in which he served for four years. In 1926 Vargas became minister of finance in the Cabinet of President Washington Luís Pereira de Sousa, a post he retained until his election as governor of Rio Grande do Sul in 1928. From his position as state governor, Vargas campaigned unsuccessfully as reform candidate for the presidency of Brazil in 1930. While appearing to accept defeat, Vargas in October of that year led the revolution, organized by his friends, that overthrew the oligarchical republic. For the next 15 years Vargas assumed largely dictatorial powers, ruling most of that time without a congress. He held sole power as provisional president from Nov. 3, 1930, until July 17, 1934, when he was elected president by the constituent assembly.;;;;;;;;;;;;;
-vargasopt1;Today you are with the government. Tomorrow you will be the government.;;;;;;;;;;;;;
-vargasopt2;The coffee policy will prevail! Suppress this outrageous coup!;;;;;;;;;;;;;
-EVTNAME50009;The Rise of the Andinos;;;;;;;;;;;;;
-EVTDESC50009;The course of Venezuelan history changed markedly at the turn of the 20th century. In 1899 General Cipriano Castro, a caudillo from the Andean state of Táchira, descended on Caracas with his provincial army and seized the presidency. As a result, five successive military strongmen from Táchira, known as Andinos, controlled the nation for the next 59 years, except for an interlude in 1945–48. The longest rule being the one of General Juan Vicente Gómez. Gómez was an effective, if ruthless, dictator. By manipulating elections, abolishing all organized political activity, and monopolizing appointive powers, he established a completely subservient legislative and judicial structure.;;;;;;;;;;;;;
-EVTNAME50009OPTA;We can't resist the powerful caudillos.;;;;;;;;;;;;;
-EVTNAME50009OPTB;The Federation must resist this coup!;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+EVTDESC90005;ËäÈ»ÎÒÃÇÖ»ÏëÍ¨¹ı½«ËüÃÇÌí¼Óµ½ÎÒÃÇµÄÓ°Ïì·¶Î§À´°ïÖú$CB_TARGET_NAME$£¬µ«ËûÃÇÒÑ¾­·Ç³£ÁË½âËü¡£ËäÈ»¶ÔËùÓĞ²ÎÓëÕß²»ºÏÊ±ÒË£¬µ«ËûÃÇµÄĞĞÎªÈ´·´¶øÇ¿ÁÒÒªÇó¹ú¼ÊÓßÂÛÇ¿ÁÒÒªÇóËûÃÇ¼ÓÈëÎÒÃÇµÄ·±ÈÙÖ®ÖĞ¡£;;;;;;;;;;;;x
+EVTNAME4661019;Î¬³ÖÏÖ×´;;;;;;;;;;;;x
+EVTDESC4661019;×îĞÂµÄÕ½ÕùÒÔÏÖ×´½áÊø£¬¶÷ÌØÀ×Àï°ÂË¹ÊÇ×ÔÓÉµÄ¡£ ²¼ÒËÅµË¹°¬ÀûË¹ÔÚÖ§Åä°¢¸ùÍ¢°îÁª·½ÃæÃ»ÓĞÈÎºÎÕÏ°­¡£;;;;;;;;;;;;x
+EVTOPT4661019A;²¼ÒËÅµË¹°¬ÀûË¹µÄ°ÔÈ¨¿ªÊ¼ÁË¡£;;;;;;;;;;;;x
+EVTNAME600074;ÎÚÀ­¹ç±»»÷°Ü;;;;;;;;;;;;x
+EVTDESC600074;ÀïÎ¬À­×ÜÍ³ÊäµôÁËÁËËû·¢¶¯µÄÕ½Õù£¬ÎÒÃÇÏÖÔÚÄÜ¹»ÔÚÎÚÀ­¹çÕş¸®ÖĞ·öÖ²ÕæÕıµÄ×ÜÍ³°ÂÀïÎ¤¡£;;;;;;;;;;;;x
+EVTOPT600074A;·öÖ²°ÂÀïÎ¤Îª×ÜÍ³£¬µ«²»ÔÙ¸ÉÉæ¡£;;;;;;;;;;;;x
+EVTOPT600074B;·öÖ²°ÂÀïÎ¤Îª×ÜÍ³£¬²¢È·±£ËûÄÜ×øÎÈÎ»×Ó;;;;;;;;;;;;x
+EVTOPT600074C;·öÖ²°ÂÀïÎ¤Îª×ÜÍ³£¬²¢¿ØÖÆÎÚÀ­¹ç¡£;;;;;;;;;;;;x
+EVTOPT600074D;²»¸ÉÉæÎÚÀ­¹ç¡£;;;;;;;;;;;;x
+EVTNAME600075;ÂŞÈøË¹±»»÷°Ü;;;;;;;;;;;;x
+EVTDESC600075;ÂŞÈøË¹±»»÷°Ü²¢´Ó°¢¸ùÍ¢ÌÓµ½Ó¢¹ú¡£°ÂÀïÎ¤Ê§È¥ÁË¶Ô×ÜÍ³Ö°Î»µÄËùÓĞÒªÇó£¬Ò²ÌÓÀëÁËÕâ¸ö¹ú¼Ò£¬µ«Õâ²¢²»ÄÜ×èÖ¹°×µ³µÄÂé·³¡£;;;;;;;;;;;;x
+EVTOPT600075A;°ïÖúÖĞÑë¼¯È¨ÅÉ×é½¨°¢¸ùÍ¢;;;;;;;;;;;;x
+EVTOPT600075B;²»¹ı¶à¸ÉÉæ¡£;;;;;;;;;;;;x
+EVTNAME600076;$YEAR$ÄêÍ£Õ½;;;;;;;;;;;;x
+EVTDESC600076;ÎÚÀ­¹çºÍ°¢¸ùÍ¢Í¬ÒâÍ£Õ½ºÍºÍÆ½Ì¸ÅĞ£¬ÒÔÎ¬³ÖÏÖ×´¡£ ÎÒÃÇÍÆ·­ÂŞÈøË¹µÄÕ½ÕùÃ»ÓĞ³É¹¦¡£;;;;;;;;;;;;x
+EVTOPT600076A;¸ÃËÀ¡£;;;;;;;;;;;;x
+EVTNAME45103;¶àÃ×Äá¼Ó¶ÀÁ¢;;;;;;;;;;;;x
+EVTDESC45103;ÌØÁ¢Äá´ïÄáÑÇĞ­»áÈ¡µÃÁËÊ¤Àû£¬ÎÒÃÇµÄ¶ÀÁ¢Ä¿±êÏÖÔÚÒÑ¾­Íê³É¡£ÎÒÃÇ¶ÀÁ¢µÄÊ±¼äÒÑ¾­×ã¹»ÁË¾ÃÁË£¬×ãÒÔÈÃÊÀ½ç³ĞÈÏÎÒÃÇÊÇÒ»¸öÖ÷È¨¹ú¼Ò£¡;;;;;;;;;;;;x
+EVT45103OPTA;¶àÃ×Äá¼Ó¹²ºÍ¹úÍòËê£¡;;;;;;;;;;;;x
+EVTNAME203770;Å«Á¥ÈË¿ÚÔö³¤;;;;;;;;;;;;x
+EVTDESC203770;¾¡¹ÜÅ«Á¥Ã³Ò×ÏÖÔÚ±»½ûÖ¹ÁËÒ»¶ÎÊ±¼ä£¬ÕâÊÇÓ¢¹úÑ¹Á¦µÄÖ±½Ó½á¹û£¬µ«ÎÒ¹úµÄÅ«Á¥ÈË¿ÚÔö³¤ÁË£¬²»ÊÇÍ¨¹ıÃ³Ò×¶øÊÇÍ¨¹ıÈË¿ÚÔö³¤¡£;;;;;;;;;;;;x
+EVTOPTA203770;ºÜºÃ£¬ºÜºÃ¡£;;;;;;;;;;;;x
+EVTNAME600050;²¨À¼ÆğÒå;;;;;;;;;;;;x
+EVTDESC600050;µ±²¨À¼ÆğÒåÓÚ1846Äê³õÔÚ¼ÓÀûÎ÷ÑÇ£¨°ÂÊô²¨À¼£©ºÍ¿ËÀ­¿Æ·ò±¬·¢Ê±£¬Ğí¶à°ÂµØÀûÈËÈÏÎª¿ËÀ­¿Æ·òµÄ¶ÀÁ¢µØÎ»Ìá¹©ÁË´Ì¼¤´ëÊ©£¬²¢Îª²¨À¼ÆğÒåµÄ¹æ»®Ìá¹©ÁËÒ»¸öÂÛÌ³¡£È»¶ø£¬ÎÒÃÇÈÔÈ»ÊÜ¡¶Î¬Ò²ÄÉÌõÔ¼¡·ºÍ¿ËÀ­¿Æ·ò¹ÜÀíµ±¾ÖÒÔ¼°ÆÕÂ³Ê¿ºÍ¶íÂŞË¹µÄÔ¼Êø¡£;;;;;;;;;;;;x
+EVT600050OPTA;×éÖ¯Íâ½»Ê¹ÍÅ¿ªÊ¼¶Ô»°¡£;;;;;;;;;;;;x
+EVT600050OPTB;ÎÒÃÇ²»¹ØĞÄÆÕÂ³Ê¿ºÍ¶íÂŞË¹¶Ô´ËÊÂµÄÌ¬¶È£¬ÎÒÃÇÏÖÔÚ±ØĞë²ÉÈ¡ĞĞ¶¯¡£;;;;;;;;;;;;x
+EVT600050OPTC;ÎŞÊÓÅÑ¾ü£¬ËûÃÇÊÇÎŞº¦µÄ¡£;;;;;;;;;;;;x
+EVTNAME600051;¿ËÀ­¿Æ·òÆğÒå;;;;;;;;;;;;x
+EVTDESC600051;ÎÒÃÇÎ°´ó³ÇÊĞµÄ²¨À¼¹ó×åºÍÑ§ÕßÕıÔÚ¿ªÊ¼Ò»³¡Î°´óµÄ¸ïÃü£¬ÒÔ»Ö¸´²¨À¼²¢ÔÚÎÒÃÇµÄÍÁµØÉÏ½áÊøÅ©Å«ÖÆ¡£ ÕâÖÖÃñÖ÷ÔË¶¯ÕıÔÚ»ı¾Û¶¯Á¦£¬²¢¿ÉÄÜËæÊ±ÔÚ²¨À¼Õ¼ÁìµÄÍÁµØÉÏ±¬·¢¡£;;;;;;;;;;;;x
+EVT600051OPTA;ÈÃ¸ïÃüÕßÕ¼ÁìÕâ×ù³ÇÊĞ¡£Í³Ò»²¨À¼£¡;;;;;;;;;;;;x
+EVT600051OPTB;ÒÖÖÆ¸ïÃüÕßÒÔ·À°ÂµØÀûÈË±¨¸´¡£;;;;;;;;;;;;x
+EVTNAME600052;²¨À¼ÎÊÌâ;;;;;;;;;;;;x
+EVTDESC600052;Ò»³¡²¨À¼¸ïÃü¿ªÊ¼ÓÚ¿ËÀ­¿Æ·ò£¬ËüÓĞ¿ÉÄÜÔÚÎÒÃÇÕâ¸öÎ°´ó¹ú¼ÒÏñÒ°»ğÒ»ÑùÂûÑÓ¡£°ÂµØÀûÒªÇóÎÒÃÇÍ¬ÒâÕòÑ¹¿ËÀ­¿Æ·òÆğÒå£¬ÈÏÎª×ÔÓÉÊĞÊÇ²¨À¼Ãñ×åÖ÷ÒåºÍÅÑÂÒµÄ½¹µã£¬ÕòÑ¹¿ËÀ­¿Æ·òÆğÒå¿ÉÒÔ½áÊøÎ´À´µÄ²¨À¼ÅÑÂÒ¡£ÎÒÃÇµÄÍâ½»¹ÙÃÇµ£ĞÄ£¬Èç¹ûÎÒÃÇ²»Ö§³Ö°ÂµØÀûÈË£¬ÕâÖÖ·´ÅÑ¿ÉÄÜ»áÔö¼Ó¡£ÎÒÃÇÓ¦¸ÃÔõÃ´¸æËß°ÂµØÀûÌØÊ¹£¿;;;;;;;;;;;;x
+EVT600052OPTA;ÈÃ°ÂµØÀûÈËÖªµÀËûÃÇÔÚÕâ¼şÊÂÉÏµÃµ½ÁËÎÒÃÇµÄÖ§³Ö¡£;;;;;;;;;;;;x
+EVT600052OPTB;ĞèÒªÎ¬»¤Î¬Ò²ÄÉÌõÔ¼¡£ ÎÒÃÇ²»Ö§³Ö°ÂµØÀûÈË¡£;;;;;;;;;;;;x
+EVTNAME600054;¿ËÀ­¿Æ·òµÄÃüÔË;;;;;;;;;;;;x
+EVTDESC600054;¶íÂŞË¹ºÍÆÕÂ³Ê¿Í¬ÒâÎÒÃÇÌá³öµÄ½â¾ö·½°¸¡£¾­Èı¹úÍ¬Òâ£¬ÎÒÃÇµÄ²¿¶ÓÒÑ×¼±¸ºÃ²¿Êğ²¢ÕòÑ¹²¨À¼ÅÑÂÒ¡£;;;;;;;;;;;;x
+EVT600054OPTA;Ïò¿ËÀ­¿Æ·ò½ø¾ü£¡ÎªÁË»ÊµÛ£¡;;;;;;;;;;;;x
+EVT600054OPTB;×ĞÏ¸ÏëÏë£¬ÎÒÃÇÏÖÔÚÃ»·¨´òÕÌ¡£;;;;;;;;;;;;x
+EVTNAME600055;¿ËÀ­¿Æ·òµÄÃüÔË;;;;;;;;;;;;x
+EVTDESC600055;Ò»¸ö»ò¶à¸ö¹ú¼Ò²»Í¬ÒâÎÒÃÇ¶Ô²¨À¼ÅÑÂÒ·Ö×ÓµÄ½â¾ö·½°¸¡£ÏÖÔÚĞĞ¶¯¿ÉÄÜ»á¼¤Å­ËûÃÇ£¬µ«²»²ÉÈ¡ĞĞ¶¯¿ÉÄÜ»áÊ¹²¨À¼ÈË¸ü¼Ó´óµ¨¡£;;;;;;;;;;;;x
+EVT600055OPTA;ÎÒÃÇ²»ĞèÒªËûÃÇµÄÅú×¼£¡ ÎÒÃÇ½«±øÁÙ¿ËÀ­¿Æ·ò¡£;;;;;;;;;;;;x
+EVT600055OPTB;»òĞíÈÃÕâÊÂ¹ıÈ¥ÊÇ¸ü¼ÓÃ÷ÖÇµÄÑ¡Ôñ¡£;;;;;;;;;;;;x
+EVTNAME600056;²¨À¼Ãñ×åĞÔ;;;;;;;;;;;;x
+EVTDESC600056;Ëæ×Å¿ËÀ­¿Æ·ò¸ïÃüµÄ³É¹¦£¬¸ÃÊĞ±»ÓÃ×÷ÆÆ»µÎÒÃÇÔÚÆäÈÏÎª²¨À¼ÁìÍÁÉÏµÄ»î¶¯ºÍÉ¿¶¯²¨À¼¹«Ãñ·´ÅÑµÄĞĞ¶¯»ùµØ¡£ÎÒÃÇµÄÍâ½»¹ÙËµ£¬Ö»ÓĞµ±³ÇÊĞÏİÂäÊ±£¬ÕâÒ»µã²Å»á½áÊø¡£;;;;;;;;;;;;x
+EVT600056OPTA;¸ÃËÀ£¡;;;;;;;;;;;;x
+EVTNAME600057;ºìµ³Ê¤Àû;;;;;;;;;;;;x
+EVTDESC600057;ºìµ³·´ÅÑ·Ö×ÓÕ¼ÁìÁËÕş¸®²¢ÆÈÊ¹×ÜÍ³°ÂÀïÎ¤ÏÂÌ¨¡£ÔøÔÚ°ÍÎ÷Á÷ÍöµÄ¸¥Â³¿ËÍ¼°ÂË÷¡¤ÀïÎ¬À­»ØÀ´ºóÏÖÔÚµ£ÈÎ¸Ã¹úÁÙÊ±×ÜÍ³£¬Ö±µ½ÏÂ´ÎÑ¡¾Ù¡£Ç°°×µ³×ÜÍ³ÂüÅ¬°£¶û¡¤°ÂÀïÎ¤±»ÆÈÌÓÀë¸Ã¹úÁ÷Íö²¼ÒËÅµË¹°¬ÀûË¹¡£ÀïÎ¬À­½âÉ¢ÁËÒé»á£¬ÒªÇó¾ÙĞĞ´óÑ¡²¢ÔÚÉÏÒéÔºÖ¸ÅÉÇ×ºìµ³Õş¿Í£¬¶øºìµ³ÁìĞäÕıÔÚ·ÅÏÂÎäÆ÷²¢¾èÔùÒÔ°ïÖúºìµ³Õş¸®¡£Ñ°ÇóÂŞÈøË¹¿åÌ¨µÄ·¨¹úºÍÓ¢¹úÒ²ÔÚÑ°Çó°ïÖú¡£;;;;;;;;;;;;x
+EVTOPT600057A;¸¥Â³¿ËÍ¼°ÂË÷¡¤ÀïÎ¬À­ÍòËê£¡;;;;;;;;;;;;x
+EVTNAME600058;°ÂÀïÎ¤Á÷Íö;;;;;;;;;;;;x
+EVTDESC600058;À´×ÔÎÚÀ­¹çµÄÂüÅ¬°£¶û¡¤°ÂÀïÎ¤×ÜÍ³±»ºìµ³°ÕÃâ£¬²¢ÌÓÍù²¼ÒËÅµË¹°¬ÀûË¹¡£²¼ÒËÅµË¹°¬ÀûË¹Ê¡³¤ºÍ°¢¸ùÍ¢°îÁª×ÜÍ³ºú°²¡¤ÂüÅ¬°£¶û¡¤µÂ¡¤ÂŞÈøË¹½ÓÊÜÁËËûÎªºÏÏÜ×ÜÍ³£¬²¢ºÜ¿ìÏòËûÌá¹©ÁË°¢¸ùÍ¢°îÁª¾ü¶ÓµÄÖ¸»ÓÈ¨¡£ÎÚÀ­¹çÁÙÊ±×ÜÍ³£¬ºìµ³Áìµ¼ÈËÀïÎ¬À­¶ÔÂŞÈøË¹ºÍ°îÁª¼«ÎªµĞÊÓ£¬ÕâÒª¹é¹¦ÓÚÂŞÈøË¹ºÍÆäËû°¢¸ùÍ¢Áª°îµ³ÈË¹ıÈ¥Ö§³Ö°ÂÀïÎ¤£¬ÒòÎªÒâÊ¶ĞÎÌ¬µÄ²îÒì¡£ÀïÎ¬À­ÏÖÔÚ½ÓÄÉ°¢¸ùÍ¢Á÷ÍöÕß£¬Õâ¿ÉÄÜ»áÔÚ½«À´Ôì³ÉÎÊÌâ¡£;;;;;;;;;;;;x
+EVTOPT600058A;°¢¸ùÍ¢ÓÀÔ¶²»»á³ĞÈÏÀïÎ¬À­Îª×ÜÍ³¡£;;;;;;;;;;;;x
+EVTOPT600058B;×îºÃ²»ÒªÒıÆğ³åÍ»µÄ·çÏÕ¡£;;;;;;;;;;;;x
+EVTNAME600059;ºìµ³µÄáÈÆğ;;;;;;;;;;;;x
+EVTDESC600059;19ÊÀ¼Í30Äê´úÎÚÀ­¹çµÄÕşÖÎÎèÌ¨ÔÚÁ½ÅÉÖ®¼ä·ÖÁÑ£¬±£ÊØµÄ°×µ³ºÍ×ÔÓÉÅÉµÄºìµ³£¨×ÖÃæÒâË¼ÊÇ¡°ÓĞÑÕÉ«µÄ¡±£¬¸ü³£¼ûµÄ³ÆºôÊÇ¡°ºìµ³¡±£©¡£ºìµ³ÓÉ¸¥Â³¿ËÍ¼°ÂË÷¡¤ÀïÎ¬À­Áìµ¼£¬´ú±íÃÉµÃÎ¬µÄÑÇµÄÉÌÒµÀûÒæ¡£°×µ³ÓÉÂüÅ¬°£¶û¡¤°ÂÀïÎ¤Áìµ¼£¬Ëû¸ºÔğÅ©´åµÄÅ©ÒµÀûÒæ²¢´Ù½ø±£»¤Ö÷Òå¡£ÕâÁ½¸öÍÅÌåµÄÃû×ÖÀ´×ÔËûÃÇ´©×ÅµÄ±ÛÕÂµÄÑÕÉ«¡£ ×î³õ£¬ºìµ³´©×ÅÀ¶É«£¬µ«µ±ËüÔÚÑô¹âÏÂÍÊÉ«Ê±£¬ËûÃÇÓÃºìÉ«´úÌæËü¡£\n\n1830ÄêµÄÎÚÀ­¹çÏÜ·¨Ã»ÓĞÔ¤ÁÏµ½Õşµ³Ö®¼äµÄÕşÖÎÈ¨Á¦·Ö¸î£¬ÆÈÊ¹ÉÙÊıÅÉËßÖî¸ïÃü¡£;;;;;;;;;;;;x
+EVTOPT600059A;Âé·³ÖÆÔìÕß£¬ËûÃÇÖĞµÄºÜ¶à¶¼ÊÇ¡£;;;;;;;;;;;;x
+EVTNAME600060;°ÂÀïÎ¤µÄ¾ü¶Ó;;;;;;;;;;;;x
+EVTDESC600060;Ëæ×ÅÎÒÃÇ¾ü¶ÓµÄÆÆ»µ£¬°ÂÀïÎ¤×¥×¡»ú»á¶áÈ¡ÁËÅ©´å¡£ÏÖÔÚ£¬ËûÃÇÕıÔÚ½øÈëÊ×¶¼¡£;;;;;;;;;;;;x
+EVTOPT600060A;Õâ¶ÔÎÒÃÇÀ´Ëµ²»ÊÇºÜºÃ¡£;;;;;;;;;;;;x
+EVTNAME6000061;°¢¸ùÍ¢ÖĞÑë¼¯È¨ÅÉ;;;;;;;;;;;;x
+EVTDESC6000061;ºÜ³¤Ò»¶ÎÊ±¼äÒÔÀ´£¬°¢¸ùÍ¢Í¬Ê±´æÔÚÁ½ÖÖ½ØÈ»²»Í¬µÄ¹ú¼Ò×éÖ¯ÀíÄî¡£¼¯È¨Ö÷ÒåÕß»òÖĞÑë¼¯È¨ÅÉÊÇ²¼ÒËÅµË¹°¬ÀûË¹µ¥Ò»ÖÆ¹ú¼Ò£¨ÖĞÑë¼¯È¨Õş¸®£©¸ÅÄîµÄÖ§³ÖÕß£¬ËûÃÇÓÉºú°²¡¤À­ÍßÀ³Áìµ¼¡£ËûÃÇ·´¶Ô°¢¸ùÍ¢Áª°îÖ÷ÒåÕß£¬ËûÃÇÏ£Íû½¨Á¢Ò»¸öÓÉºú°²¡¤ÂüÅ¬°£¶û¡¤µÂ¡¤ÂŞÈøË¹Áìµ¼µÄ¶ÀÁ¢Ê¡Áª°î¡£ÖĞÑë¼¯È¨ÅÉÍ¬ÇéÎÒ¹úÕş¸®£¬ÔÚ1831Äê±»»÷°ÜºóÁ÷Íö°¢¸ùÍ¢¡£ÂŞÈøË¹£¬ËùÎ½µÄ·¨ÂÉ»Ö¸´Õß£¬ÔÚËûµÄ×¨ÖÆÍ³ÖÎÏÂ¿ØÖÆ°¢¸ùÍ¢°îÁªÌ«¾ÃÁË¡£ËûÃÇÎÑ²Ø×ÅÉù³ÆÈÔÈ»ÊÇ×ÜÍ³µÄ°ÂÀïÎ¤£¬ËûÃÇµÄÕş¸®¶ÔÎÒÃÇ»³ÓĞµĞÒâ¡£ÎÒÃÇ×îĞÅÈÎµÄ¿¼µÏÂŞÈÏÎª£¬ÏÖÔÚÊÇ×¼±¸Õ½ÕùµÄÊ±ºòÁË£¬Îª´Ë£¬ÎÒÃÇ¿ÉÒÔÀûÓÃÎÒÃÇµÄÖĞÑë¼¯È¨ÅÉÅóÓÑÀ´Ï÷Èõ°îÁª¡£;;;;;;;;;;;;x
+EVTOPT6000061A;ÁªÏµ¿ÆÁ¬ÌØË¹Öİ³¤ºÕÄÉÂŞ¡¤±´Â¡¡¤µÂ¡¤°¢Ë¹ÌØÀ­´ï¡£;;;;;;;;;;;;x
+EVTOPT600061B;·ÅÊÖ°É£¬ÂŞÈøË¹¿Ï¶¨²»»áÔÙ¸ÉÉæÎÚÀ­¹çÁË¡£;;;;;;;;;;;;x
+EVTNAME600062;°¢¸ùÍ¢Áª°îÅÉ;;;;;;;;;;;;x
+EVTDESC600062;ºÜ³¤Ò»¶ÎÊ±¼äÒÔÀ´£¬°¢¸ùÍ¢Í¬Ê±´æÔÚÁ½ÖÖ½ØÈ»²»Í¬µÄ¹ú¼Ò×éÖ¯ÀíÄî¡£¼¯È¨Ö÷ÒåÕß»òÖĞÑë¼¯È¨ÅÉÊÇ²¼ÒËÅµË¹°¬ÀûË¹µ¥Ò»ÖÆ¹ú¼Ò£¨ÖĞÑë¼¯È¨Õş¸®£©¸ÅÄîµÄÖ§³ÖÕß£¬ËûÃÇÓÉºú°²¡¤À­ÍßÀ³Áìµ¼¡£ËûÃÇ·´¶Ô°¢¸ùÍ¢Áª°îÖ÷ÒåÕß£¬ËûÃÇÏ£Íû½¨Á¢Ò»¸öÓÉºú°²¡¤ÂüÅ¬°£¶û¡¤µÂ¡¤ÂŞÈøË¹Áìµ¼µÄ¶ÀÁ¢Ê¡Áª°î¡£ÖĞÑë¼¯È¨ÅÉÍ¬ÇéÎÒ¹úÕş¸®£¬ÔÚ1831Äê±»»÷°ÜºóÁ÷Íö°¢¸ùÍ¢¡£ÂŞÈøË¹£¬ËùÎ½µÄ·¨ÂÉ»Ö¸´Õß£¬ÔÚËûµÄ×¨ÖÆÍ³ÖÎÏÂ¿ØÖÆ°¢¸ùÍ¢°îÁªÌ«¾ÃÁË¡£ÏÖÔÚ£¬ÎÒÃÇÔÚÎÚÀ­¹çµÄÅóÓÑÃÇ»÷°ÜÁË°×µ³£¬²¢³ĞÅµÈç¹ûÎÒÃÇÒªÓëÁª°îÅÉ×÷Õ½ÒÔ½áÊøÂŞÈøË¹µÄ×¨ÖÆÍ³ÖÎ£¬¾Í»áÖ§³ÖÎÒÃÇ¡£;;;;;;;;;;;;x
+EVTOPT600062A;¸æËßËûÃÇÎÒÃÇ×¼±¸ºÃÕ½ÕùÁË¡£;;;;;;;;;;;;x
+EVTNAME600063;´óÕ½Õù;;;;;;;;;;;;x
+EVTDESC600063;¿ÆÁ¬ÌØË¹Öİ³¤ºÕÄÉÂŞ¡¤±´Â¡¡¤µÂ¡¤°¢Ë¹ÌØÀ­´ï³ĞÅµÖ§³ÖÎÒÃÇÓëÂŞÈøË¹µÄ¶·Õù¡£ÏÖÔÚÒÑ¾­µ½ÁËÈÃÊÀ½ç°ÚÍÑ±©¾ıµÄÊ±¿Ì¡£Èç¹ûÎÒÃÇÏÖÔÚÍËËõ£¬ÎÒÃÇµÄÕş¸®¿ÉÄÜ¿´ÆğÀ´ÈõĞ¡¡£·¨¹úºÍÓ¢¹ú³¤ÆÚÒÔÀ´¶ÔÂŞÈøË¹µÄÏûºÄ£¬¿Ï¶¨»á°ïÖúÎÒÃÇ½øĞĞ¶·Õù¡£;;;;;;;;;;;;x
+EVTOPT600063A;Í¨Öª¿¼µÏÂŞÃÇ¡£¶¯Ô±¾ü¶Ó¡£ÂŞÈøË¹»áµ¹ÏÂµÄ¡£;;;;;;;;;;;;x
+EVTOPT600063B;ÕâÊÇÒ»¸öÎ£ÏÕµÄ¾Ù¶¯¡£ÈÃ°×µ³ºÍÂŞÈøË¹ºÍÆ½Ïà´¦°É¡£;;;;;;;;;;;;x
+EVTOPT600063C;ËÅ»ú¶ø¶¯¡£;;;;;;;;;;;;x
+EVTNAME600064;ÀïÎ¬À­ÍËËõ;;;;;;;;;;;;x
+EVTDESC600064;ÎÚÀ­¹ç×ÜÍ³ÍË³öÁËÓëÂŞÈøË¹µÄÕ½Õù£¬µ«ÂŞÈøË¹ÖªµÀÕâ¸ö¼Æ»®¡£ ÕâÓëÖ®Ç°µÄÏûºÄÏà½áºÏ£¬¿Ï¶¨»áµ¼ÖÂ¶ÔËûµÄÕ½Õù¡£;;;;;;;;;;;;x
+EVTOPT600064A;Õ½ÖÁ×îºóÒ»ÈË£¡;;;;;;;;;;;;x
+EVTOPT600064B;ÊÇÊ±ºòÍËÒ»²½ÁË¡£;;;;;;;;;;;;x
+EVTNAME600065;ÎÚÀ­¹çµÄÒ°Íû;;;;;;;;;;;;x
+EVTDESC600065;ÎÚÀ­¹ç×ÜÍ³ÀïÎ¬À­Ëµ·şÖİ³¤ºÕÄÉÂŞ¡¤±´Â¡¡¤µÂ¡¤°¢Ë¹ÌØÀ­´ïÖ§³ÖËûºÍ¿ÆÁ¬ÌØË¹·´¿¹²¼ÒËÅµË¹°¬ÀûË¹¡£ÎÚÀ­¹çÕıÔÚ×¼±¸¶ÔÎÒÃÇ½øĞĞÕ½Õù£¬ËûÃÇÊÔÍ¼·ÏµôÂŞÈøË¹¡£;;;;;;;;;;;;x
+EVTOPT600065A;ÄÇ°ï´À»õ£¡;;;;;;;;;;;;x
+EVTNAME600066;Òâ´óÀû¾üÍÅ;;;;;;;;;;;;x
+EVTDESC600066;ÖìÈûÅå¡¤¼ÓÀï²¨µÚºÍËûµÄÆŞ×ÓÒ»Æğ°á½øÁËÃÉµÃÎ¬µÄÑÇÒÑ¾­ÓĞÒ»¶ÎÊ±¼äÁË¡£ ×÷ÎªÒ»ÃûĞûÊÄ·´¶Ô±©ÕşµÄÕ½Ê¿£¬ËûÏÖÔÚÌá¹©°ïÖú£¬½¨Á¢ÃÉµÃÎ¬µÄÑÇ¶Ô¿¹°ÂÀïÎ¤ºÍÂŞÈøË¹µÄ·ÀÓù£¬²¢Ìá³öÁìµ¼Ò»Ö§ÓÉÍâ¹úÊ¿±ø×é³ÉµÄÒâ´óÀû¾üÍÅ£¬°ïÖúÎÒÃÇ¶Ô¿¹ÂŞÈøË¹µÄ±©Õş¡£ ´ËÍâ£¬ÎÒÃÇµÃµ½½¨Òé£¬Ïñ°×µ³¼Æ»®µÄÄÇÑù×ö£¬ÔÚÎÚÀ­¹ç·Ï³ıÅ«Á¥ÖÆ£¬ÕâÑùÎÒÃÇ¾Í¿ÉÒÔÓĞ¸ü¶àµÄÊ¿±ø²Î¼ÓÕ½Õù¡£;;;;;;;;;;;;x
+EVTOPT600066A;ÎÒÃÇ»¶Ó­ËûºÍËûµÄÊ¿±ø¡£;;;;;;;;;;;;x
+EVTOPT600066B;ÎÒÃÇ²»ĞèÒªÈÎºÎ°ïÖú¡£;;;;;;;;;;;;x
+EVTNAME600067;ÃÉµÃÎ¬µÄÑÇµÄ·ÀÓù;;;;;;;;;;;;x
+EVTDESC600067;Òâ´óÀû¼ÓÀï²¨µÚ¾üÍÅÒÑ¾­Íê³ÉÁËÕû¸ö³ÇÊĞµÄ±¤ÀİºÍÂ·ÕÏµÄ½¨Éè¡£ ºÁÎŞÒÉÎÊ£¬Õâ½«°ïÖúÎÒÃÇÕ½Õù¡£;;;;;;;;;;;;x
+EVTOPT600067A;Ì«°ôÁË£¡;;;;;;;;;;;;x
+EVTNAME600068;¼ÓÀï²¨µÚÕ¼ÁìÁËÒ»¸öÊ¡;;;;;;;;;;;;x
+EVTDESC600068;Òâ´óÀû¾üÍÅ»÷°ÜÁËÒ»¸öÊ¡µÄµĞÈË²¢½«Æä¶á»Ø£¬²¢½«Ëü¹é»¹¸øÎÒÃÇ¡£;;;;;;;;;;;;x
+EVTOPT600068A;Ì«°ôÁË£¡;;;;;;;;;;;;x
+EVTNAME600069;°×µ³µÄÔÉÂä;;;;;;;;;;;;x
+EVTDESC600069;¾­¹ı¶àÄêµÄ¶·Õù£¬°×µ³ÕıÔÚÊ§È¥Á¦Á¿¡£ÎÒÃÇÕâ¸öÔø¾­±¥ÊÜÄÚÕ½õåõïµÄ¹ú¼Ò£¬ÕıÔÚ¿ªÊ¼ÍÅ½áÆğÀ´£¬¸ïÃüµÄ»ğÑæÕıÔÚÏ¨Ãğ¡£;;;;;;;;;;;;x
+EVTOPT600069A;ÖÕÓÚ¡£;;;;;;;;;;;;x
+EVTNAME600070;°ÍÎ÷µÄ¸ÉÉæ;;;;;;;;;;;;x
+EVTDESC600070;Óë°¢¸ùÍ¢ºÍ°×µ³µÄÕ½ÕùÒÑ¾­ÈÃÎÒÃÇ¸¶³öÁËÌ«¶à´ú¼Û£¬ÎÒÃÇµÄÈËÃñÏ£Íû¹úÄÚÍâºÍÆ½¡£°ÍÎ÷ÈË¶ÔÕâ³¡³åÍ»ºÍÎÒÃÇµÄ¹ú¼Ò±íÏÖ³öÁËÒ»Ğ©ĞËÈ¤£¬ËûÃÇ½«ÔÚ´ò»÷ÂŞÈøË¹ºÍ°ÂÀïÎ¤µÄ¶·ÕùÖĞ°ïÖúÎÒÃÇ¡£ÎÒÃÇµÄÍâ½»¹Ù¿ªÊ¼ÁË»áÌ¸£¬°ÍÎ÷ÈËÒªÇóµÄÌõ¼şÊÇÎÚÀ­¹çºÓµÄ×ÔÓÉº½ĞĞ¡¢Ë°ÊÕºÍÃ³Ò×ÓÅ»İ¡¢·ÅÆúÎÒÃÇ¶ÔÄÏÀï°Â¸ñÀ¼µÂ±ß½çµÄÒªÇóÒÔ¼°³ĞÈÏ°ÍÎ÷¸ÉÉæÎÒÃÇÄÚÕşµÄÈ¨Àû¡£\n\nµÃµ½°ÍÎ÷µÄ°ïÖúÎŞÒÉ»áÊ¹Õ½Õù³¯×ÅÓĞÀûÓÚÎÒÃÇµÄ·½Ïò·¢Õ¹£¬Õâ±ÈÃ°×ÅÁíÒ»¸ö°×µ³Õş¸®µÄ·çÏÕÒªºÃ¡£;;;;;;;;;;;;x
+EVTOPT600070A;ÎÒ¿Ï¶¨²»»áÓĞÊ²Ã´ÎÊÌâ¡£ÇëÇóËûÃÇ°ïÖú¡£;;;;;;;;;;;;x
+EVTOPT600070B;ÎÒÃÇ×Ô¼º¿ÉÒÔ´¦ÀíÕâ³¡Õ½Õù¡£;;;;;;;;;;;;x
+EVTNAME600071;ÎÚÀ­¹çÏòÎÒÃÇÇóÔ®;;;;;;;;;;;;x
+EVTDESC600071;³¤ÆÚÒÔÀ´£¬ÎÚÀ­¹çÏİÈë¶¯µ´¡£ËıÓë²»Ì«Ï²»¶ÎÒÃÇµÄ°×µ³ºÍÒ²²»Ì«Ï²»¶ÎÒÃÇµÄ°¢¸ùÍ¢ÈË×÷Õ½¡£µ«ÊÇÕ½Õù¶ÔËûÃÇÀ´Ëµ²¢²»Ë³Àû£¬ËûÃÇÇëÇóÎÒÃÇµÄ°ïÖú¡£×÷Îª¶ÔÎÒÃÇ°ïÖúµÄ½»»»£¬ËûÃÇÌá³öÁËÒ»Ğ©¶ÔÎÒ¹úÓĞÀûµÄ½¨Òé£¬ÀıÈçÎÚÀ­¹çºÓ×ÔÓÉº½ĞĞÌõÔ¼¡¢Ë°ÊÕºÍÃ³Ò×ÓÅ»İ¡¢·ÅÆú¶ÔÄÏÀï°Â¸ñÀ¼µÂ±ß½çµÄÒªÇóÒÔ¼°³ĞÈÏ°ÍÎ÷¸ÉÉæÎÚÀ­¹çÄÚÕşµÄÈ¨Àû¡£ÕâÎŞÒÉ½«Ê¹ÎÒÃÇ¸÷¹ú½ôÃÜÍÅ½áÔÚÒ»Æğ£¬²¢¿ÉÒÔ³ÉÎª°ÍÎ÷ÔÚ¸Ã´óÂ½ÄÏ²¿°ÔÈ¨µÄ¿ª¶Ë;;;;;;;;;;;;x
+EVTOPT600071A;Í¬ÒâÕâĞ©Ìõ¼ş¡£;;;;;;;;;;;;x
+EVTOPT600071B;ÎÒÃÇÏÖÔÚÃ»·¨°ïÖúËûÃÇ¡£;;;;;;;;;;;;x
+EVTNAME600072;ÊÆÁ¦Ó°Ïì;;;;;;;;;;;;x
+EVTDESC600072;¾­¹ı¶àÄêµÄÈ¨Á¦¶·Õù£¬ºìµ³ºÍ°×µ³¶¼¶Ô»ìÂÒ¸Ğµ½Ñá¾ë¡£$YEAR$Äê£¬ËûÃÇ´ï³ÉÁËÒ»¸ö½ç¶¨Ó°Ïì·¶Î§µÄĞ­Òé£ººìµ³½«¿ØÖÆÃÉµÃÎ¬µÄÑÇºÍÑØº£µØÇø£¬°×µ³½«ÒÔÆäÅ©Òµ×¯Ô°Í³ÖÎ¸¹µØ¡£´ËÍâ£¬°×µ³»¹»ñµÃÁËÒ»´ó±Ê²¹³¥£¬ÒÔÃÖ²¹ËûÃÇÔÚÃÉµÃÎ¬µÄÑÇµÄ×Ê²úËğÊ§¡£;;;;;;;;;;;;x
+EVTOPT600072A;ÎÒÃÇÖÕÓÚ¿ÉÒÔÏíÊÜÆ¬¿ÌºÍÆ½ÁË¡£;;;;;;;;;;;;x
+EVTOPT600072B;Ã»±ØÒª¡£ÎÒÃÇÏÖÈÎÕş¸®½«Ê¼ÖÕÓµÓĞÈ¨Á¦¡£;;;;;;;;;;;;x
+EVTNAME600073;ÊÆÁ¦Ó°Ïì;;;;;;;;;;;;x
+EVTDESC600073;°×µ³ºÍºìµ³ÖÕÓÚÑ§»áÁË·ÖÏíÕşÖÎÈ¨Á¦¡£Õâ½«´ó´ó¼õÉÙË«·½Ö®¼äµÄÕë·æÏà¶Ô¡£;;;;;;;;;;;;x
+EVTOPT600073A;ÎÚÀ­¹ç¿ÉÒÔ°²¶¨ÏÂÀ´ÁË¡£;;;;;;;;;;;;x
+EVTNAME700000;¸¥ÀÊÎ÷ÑÇÖ®ËÀ;;;;;;;;;;;;x
+EVTDESC700000;°ÍÀ­¹ç×î¸ß¶À²ÃÕßºÎÈû¡¤¼ÓË¹ÅÁ¶û¡¤ÂŞµÂÀï¸ñË¹¡¤µÂ¡¤¸¥ÀÊÎ÷ÑÇ²ÉÈ¡ÁË¼¸ÏîÔ¤·À°µÉ±µÄ´ëÊ©¡£Ëû»á×Ô¼ºËøÉÏ¹¬µîÃÅ£¬Õ¹¿ªËûÃÃÃÃÖÆ×÷µÄÑ©ÇÑ£¬ÒÔÈ·±£Ã»ÓĞ¶¾Ò©£¬×¼±¸×Ô¼ºµÄ°ÍÀ­¹·°éÂÂ£¬²¢Õí×ÅÊÖÇ¹Ë¯¾õ¡£Ã»ÓĞÈË¿ÉÒÔÔÚËûµÄÁù²½Ö®ÄÚ£¬ÉõÖÁÔÚËû¸½½üÖô×Å¹ÕÕÈ¡£Ã¿µ±Ëû³öÈ¥ÆïÂíÊ±£¬Ëû¶¼»áÑØ×ÅÂ·ÏßÁ¬¸ù°ÎÆğËùÓĞ¹àÄ¾ºÍÊ÷Ä¾£¬ÕâÑù´Ì¿Í¾ÍÎŞ·¨ÑÚÊÎ¡£ËùÓĞ°ÙÒ¶´°¶¼±ØĞë¹Ø±Õ£¬ĞĞÈËÔÚ¾­¹ıÊ±²»µÃ²»ÔÚËûÃæÇ°ÙéÙëÇ°½ø¡£ÒâÊ¶µ½×Ô¼º½«ËÀ£¬ËûÏú»ÙÁËËùÓĞµÄÎÄ¼ş£¬¾Ü¾øÒ½ÁÆÔ®Öú£¬ÉõÖÁÓÃËûµÄµ¶×ÓÃÍ¿³Ò½Éú¡£¾ÍÔÚÕâÒ»Ìì£¬¸¥ÀÊÎ÷ÑÇÆÁ×¡ÁËºôÎü£¬Àë¿ªÁËÈËÊÀ¡£¸¥ÀÊÎ÷ÑÇÀë¿ªÊ±£¬¹ú¿âÀïµÄÇ®ÖÁÉÙÊÇËûÉÏÈÎÊ±µÄÁ½±¶£¬°üÀ¨ËûÎ´ÓÃ¹¤×ÊÖĞµÄ36500±ÈË÷£¬Ïàµ±ÓÚ¼¸ÄêµÄ¹¤×Ê¡£ËûËÀºó£¬ËûµÄÅ®¶ùÉÕ»ÙÁËËûËùÓĞµÄ¼Ò¾ß¡£;;;;;;;;;;;;x
+EVTOPT700000A;Ò»¸öÊ±´úµÄ½áÊø¡£;;;;;;;;;;;;x
+EVTNAME700001;¿¨ÂåË¹¡¤ÂåÅåË¹µÄáÈÆğ;;;;;;;;;;;;x
+EVTDESC700001;¸¥ÀÊÎ÷ÑÇµÄÖ¶×Ó¿¨ÂåË¹¡¤°²¶«Äá°Â¡¤ÂåÅåË¹¡¤ÒòË¹¸¥À¼ÒıÆğÁË¶À²ÃÕßºÍÊåÊåµÄµĞÒâ£¬Ëû±»ÆÈ¶ã²ØÁË¼¸Äê¡£ÔÚ¸¥ÀÊÎ÷æ«ËÀºó£¬ËûÔø¶ÌÔİµ£ÈÎÍ³ÖÎ¹ú¼ÒµÄ¾üÕş¸®ÃØÊé£¬½ñÌì£¬ÔÚ¸¥ÀÊÎ÷æ«ËÀºó¶àÄêµÄ»ìÂÒºÍ»ìÂÒÖ®ºó£¬Ëû±»Ñ¡Îª¸Ã¹úµÚÒ»Ö´Õş£¬Ïàµ±ÓÚ×ÜÍ³µÄÖ°Î»£¬ÓëÂíÀïÑÇÅµ¡¤ÂŞ¿Ë¡¤°¢Â¡Ë÷²¢¼çÖ´Õş¡£;;;;;;;;;;;;x
+EVTOPT700001A;°ÍÀ­¹çµÄÎ´À´½«»áÈçºÎ£¿;;;;;;;;;;;;x
+EVTNAME700002;¿¨ÂåË¹¡¤ÂåÅåË¹ÕÆÈ¨;;;;;;;;;;;;x
+EVTDESC700002;°ÍÀ­¹çµÄÖ´Õş¿¨ÂåË¹¡¤ÂåÅåË¹£¬·ÅÖğÁËÂŞ¿Ë²¢Ğû²¼´óÈ¨¶ÀÀ¿¡£¹ú»áÅú×¼ÁËµÚÒ»²¿°ÍÀ­¹çÏÜ·¨¡ª¡ª¿ÉÄÜÊÇÂåÅå×È±¾ÈËµÄ×÷Æ·¡£¼¸¸öÔÂºó£¬¹ú»á½«ËûµÄÖ°Î»´ÓÖ´Õş¸ÄÎª×ÜÍ³£¬²¢Ñ¡¾ÙËûµ£ÈÎĞÂÖ°Î»£¬ÎªÆÚ10Äê¡£ÏÜ·¨²»½öÔÚ·¨ÂÉÉÏÅú×¼ÁËÂåÅåË¹µÄ¶À²ÃÈ¨Á¦£¬¶øÇÒ»¹Ã»ÓĞ±£ÕÏ¹«ÃñÈ¨Àû¡£Êµ¼ÊÉÏ£¬ÎÄ±¾ÖĞÉõÖÁÃ»ÓĞÌáµ½¡°×ÔÓÉ¡±Õâ¸ö´Ê¡£\nËûµÄÕş¸®ÏÖÔÚÕıÔÚ½«ÄÜÔ´ÓÃÓÚ·¢Õ¹ÎïÖÊ×ÊÔ´ºÍ¼ÓÇ¿¹ú¼ÒµÄ¾üÊÂÁ¦Á¿¡£ËûµÄµÚÒ»¸öĞĞ¶¯Ö®Ò»ÊÇÍ¨¹ı½¨Ôì±¤ÀİºÍ½¨Á¢´å×¯À´¼ÓÇ¿°ÍÀ­¹ç¶Ô²é¿ÆµØÇøµÄ¿ØÖÆ¡£;;;;;;;;;;;;x
+EVTOPT700002A;ÎªÁË°ÍÀ­¹çµÄÈÙÒ«£¡;;;;;;;;;;;;x
+EVTOPT700002B;ÊÔ×ÅÎªÃñÖ÷¶øÕ½£¡;;;;;;;;;;;;x
+EVTNAME700003;Íâ½»Õş²ß;;;;;;;;;;;;x
+EVTDESC700003;ÂåÅåË¹Áìµ¼¼«Æä¼¤½øµÄÍâ½»Õş²ß£¬¾­³£µ¼ÖÂÓëÆäËûÕş¸®µÄÄ¦²Á¡£ 1853Äê£¬Ëû¾Ü¾øÅú×¼ÓëÃÀ¹úµÄÉÌÒµºÍº½º£ÌõÔ¼£¬²¢¿ªÊ¼Ã»ÊÕ¾Ó×¡ÔÚ°ÍÀ­¹çµÄÃÀ¹ú¹«ÃñµÄ²Æ²ú¡£ ÓÉÓÚÓëÓ¢¹úµÄÕùÖ´£¬ÂåÅåË¹¶ÔÍâ¹úÕ½½¢¹Ø±ÕÁË°ÍÀ­¹çº£Óò¡£ ½ñÌì£¬°ÍÀ­¹çÊ¿±øÏòÒ»ËÒ²ÎÓë¶Ô°ÍÀ­ÄÇºÓ½øĞĞ¿ÆÑ§µ÷²éµÄÃÀ¹ú´¬Ö»¿ª»ğ£¬Ôì³ÉÒ»ÃûÃÀ¹ú´¬Ô±ËÀÍö¡£;;;;;;;;;;;;x
+EVTOPT700003A;²»¹ÜÔõÑù£¬Ë­»á¶ÔÑï»ùÀĞ´ó¾ªĞ¡¹ÖÄØ£¿;;;;;;;;;;;;x
+EVTOPT700003B;½øĞĞÕıÊ½µÀÇ¸¡£;;;;;;;;;;;;x
+EVTNAME700004;Ô¶Õ÷°ÍÀ­¹ç;;;;;;;;;;;;x
+EVTDESC700004;¼¸ÄêÇ°£¬µ±°ÍÀ­¹ç¾ü¶Ó¿ª»ğÊ±£¬ÃÀ¹ú´¬Ö»Ë®ÉÏÅ®Î×ºÅÕıÔÚ¶Ô°ÍÀ­ÄÇºÓ½øĞĞ¿ÆÑ§¿¼²ì¡£ °ÍÀ­¹ç¶À²ÃÕß¿¨ÂåË¹¡¤ÂåÅåË¹Î´ÄÜ¶ÔÕâÖÖÇÖÂÔĞĞÎª½øĞĞÕıÊ½µÀÇ¸¡£ÕâÖÖÎêÈè³ÖĞøÁËºÜ³¤Ê±¼ä¡£ ÏÖÔÚ£¬ÃÀ¹ú¹ú»áÊÚÈ¨ÅÉÇ²Ò»¸öº£¾üÖĞ¶ÓÇ°Íù°ÍÀ­¹çÒÔ±¨¸´°ÍÀ­¹çµÄÅÚ»ğ£¬µ±³õËûÃÇÅÚ»÷Ë®ÉÏÅ®Î×ºÅ£¬µ¼ÖÂÒ»ÃûÃÀ¹ú¹«Ãñ¼´¸Ã´¬µÄ¶æÊÖËÀÍö¡£;;;;;;;;;;;;x
+EVTOPT700004A;ÊÇÊ±ºòÕ¹ÏÖÃÀ¹úµÄÅÚ½¢Íâ½»ÁË¡£;;;;;;;;;;;;x
+EVTOPT700004B;·ÅÏÂÕâ¼şÊÂ£¬Õâ²»ÖµµÃ¡£;;;;;;;;;;;;x
+EVTNAME700005;ÃÀÀû¼áºÏÖÚ¹úÒªÇó¾üÊÂÍ¨ĞĞÈ¨;;;;;;;;;;;;x
+EVTDESC700005;ÃÀ¹úºÍ°ÍÀ­¹çÖ®¼äµÄ½ôÕÅ¹ØÏµÔÚ½ñÄê´ïµ½ÁËÁÙ½çµã£¬ÒòÎªÃÀ¹ú¼Æ»®¾Í°ÍÀ­ÄÇºÓÉÏµÄÒ»ËÒ´¬µÄÅÚ»÷ÊÂ¼şÑ°ÇóµÀÇ¸¡£ ÃÀÀû¼áºÏÖÚ¹úÒªÇóÎÒÃÇµÄÕş¸®Ìá¹©¾üÊÂÍ¨ĞĞ£¬ÒÔ±ãËûÃÇ¿ÉÒÔ½øÈë°ÍÀ­¹çÁìÍÁ½øĞĞ±¨¸´¡£;;;;;;;;;;;;x
+EVTOPT700005A;Ñï»ùÀĞ¿ÉÒÔ´ÓÎÒÃÇµÄÁìÍÁÉÏ¹ıÈ¥¡£;;;;;;;;;;;;x
+EVTOPT700005B;ÎÒÃÇ²»Ïë¾íÈëÕâ¼şÊÂ¡£;;;;;;;;;;;;x
+EVTNAME700006;ÎÚÀ­¹ç¸øÓèÎÒÃÇ¾üÊÂÍ¨ĞĞÈ¨;;;;;;;;;;;;x
+EVTDESC700006;ÎÚÀ­¹çÕş¸®ÎªÎÒÃÇ¶Ô°ÍÀ­¹çµÄÔ¶Õ÷Ìá¹©ÁË¾üÊÂÍ¨ĞĞ¡£;;;;;;;;;;;;x
+EVTOPT700006A;ÁªÂç½¢¶ÓË¾ÁîÍşÁ®¡¤B.¡¤Êæ²¼Àï¿Ë£¬¿ªÊ¼Ô¶Õ÷¡£;;;;;;;;;;;;x
+EVTOPT700006B;×îºÃ°ÑÕâ¸öÎÊÌâÅ×ÔÚÄÔºó¡£;;;;;;;;;;;;x
+EVTNAME700007;ÎÚÀ­¹ç¾Ü¾ø¸øÓè¾üÊÂÍ¨ĞĞÈ¨;;;;;;;;;;;;x
+EVTDESC700007;ÎÚÀ­¹çÕş¸®¾Ü¾øÎªÎÒÃÇ¶Ô°ÍÀ­¹çµÄÔ¶Õ÷Ìá¹©¾üÊÂÍ¨ĞĞ¡£;;;;;;;;;;;;x
+EVTOPT700007A;Ô¶Õ÷½«ÒÔÁíÒ»ÖÖ·½Ê½½øĞĞ¡£;;;;;;;;;;;;x
+EVTOPT700007B;×îºÃ°ÑÕâ¼şÊÂÅ×ÔÚÄÔºó¡£;;;;;;;;;;;;x
+EVTNAME700008;ÃÀÀû¼áºÏÖÚ¹úµÄÔ¶Õ÷;;;;;;;;;;;;x
+EVTDESC700008;ÃÀÀû¼áºÏÖÚ¹úÅÉÇ²Ò»Ö§Ô¶Õ÷¾üÒÔÈÃÎÒÃÇ¶ÔÆäÖĞÒ»ËÒ½¢Í§µÄÏ®»÷ÊÂ¼ş½øĞĞÕıÊ½µÀÇ¸¡£ÓĞ´«ÑÔËµº£°¶ÓĞÃÀ¹ú´¬£¬ÎÚÀ­¹çÈËÈÃÃÀ¾üÍ¨¹ıËûÃÇµÄÁìÍÁ£¬Èç¹ûËûÃÇÕâÑù×ö£¬ÎÒÃÇ¿ÉÄÜ»áÃæÁÙÊ§°Ü£¬Õâ½«µ¼ÖÂÎÒÃÇµÄÕş¸®¶¯Ò¡¡£;;;;;;;;;;;;x
+EVTOPT700008A;ÏòËûÃÇ·¢ËÍÕıÊ½µÀÇ¸²¢Ö§¸¶Åâ³¥½ğ¡£;;;;;;;;;;;;x
+EVTOPT700008B;°ÍÀ­¹çÈËÓÀÔ¶²»»áÇü·ş£¡;;;;;;;;;;;;x
+EVTOPT700008C;ÈÃÊ±¼ä½â¾ö°É¡£;;;;;;;;;;;;x
+EVTNAME700009;Ô¶Õ÷½áÊø;;;;;;;;;;;;x
+EVTDESC700009;ÎÒÃÇµÄ¾ü¶ÓÏò°ÍÀ­ÄÇºÓÅÉÇ²ÁË¼¸ËÒÅÚÍ§£¬ÓÃÓÚ°ÍÀ­¹çµÄÄ¿±êÁ·Ï°ºÍ¾üÊÂÑİÏ°¡£ ÔÚ¼¸¸öÔÂµÄÅÚ½¢Íâ½»ºÍÒ»Ğ©ÎÒÃÇµÄ¾üÊÂÊ¾Íşºó°ÍÀ­¹çÍ¬Òâ·¢³öÕıÊ½µÀÇ¸£¬²¢ÒÑ¾­ÎªÎÒÃÇµÄË®ÊÖËÀÍöÖ§¸¶ÁËÅâ³¥½ğ¡£;;;;;;;;;;;;x
+EVTOPT700009A;ÕıÒåµÃµ½ÁËÉìÕÅ¡£;;;;;;;;;;;;x
+EVTOPT700009B;ÎÒÃÇÒÑ¾­µÃµ½ÁËÅâ³¥£¿ ºÃ£¡ ÏÖÔÚ¼ÌĞøÕ½Õù¡£;;;;;;;;;;;;x
+EVTNAME700010;°ÍÀ­¹çÕ¼ÁìÃ×Î÷°ÂÄÚË¹;;;;;;;;;;;;x
+EVTDESC700010;°ÍÀ­¹ç¶À²ÃÕßÔÚÒ»Ò¹Ö®¼ä½¨ÔìÁËÒ»×ù±¤Àİ²¢Õ¼ÁìÁËÃ×Î÷°ÂÄÚË¹Ê¡£¬Éù³Æ¸ÃµØÖÖ×å¶àÊıÊÇ¹ÏÀ­ÄáÈË£¬Òò´ËÓ¦ÓÉËûÍ³ÖÎ¡£;;;;;;;;;;;;x
+EVTOPT700010A;ÎŞ¹Ø½ôÒª£¬°ÍÀ­¹çÊÇ°¢¸ùÍ¢µÄÒ»¸öÊ¡¡£;;;;;;;;;;;;x
+EVTNAME700011;¸¥ÀÊÎ÷ÑÇµÄÎÚÍĞ°î;;;;;;;;;;;;x
+EVTDESC700011;ºÎÈû¡¤¼ÓË¹ÅÁ¶û¡¤ÂŞµÂÀï¸ñË¹¡¤µÂ¡¤¸¥ÀÊÎ÷ÑÇ-Î¤À­Ë¹¿Æ²©Ê¿ÊÇ°ÍÀ­¹çµÄÂÉÊ¦£¬Ò²ÊÇ°ÍÀ­¹çµÄ¶À²ÃÕßËû×î³õÊÇÒ»ÃûÕÜÑ§½ÌÊÚ£¬ÔÚµ£ÈÎÂÉÊ¦ÆÚ¼ä½øÈëÑÇËÉÉ­µÄ²ÎÊÂ»á£¬²¢³ÉÎªÁË²ÎÊÂ»áµÄ¸ºÔğÈË¡£ÔÚĞû²¼½¨Á¢°ÍÀ­¹ç¹²ºÍ¹úÖ®ºó£¬Ëû³ÉÎªÄÏÃÀÖŞÖØÒªµÄÕşÖÎÁìµ¼ÈË£¬²¢×îÖÕ³ÉÎª×î¸ßÁìµ¼ÈË£¬È»ºó±»Ğû²¼ÎªÖÕÉí¶À²ÃÕß¡£\nÊÜ·¨¹ú¸ïÃüÀíÏëµÄÆô·¢£¬¸¥ÀÊÎ÷ÑÇÊÔÍ¼½¨Á¢Ò»¸ö»ùÓÚÂ¬ËóÉç»áÆõÔ¼µÄÎÚÍĞ°î¡£ËäÈ»ËûÅ¬Á¦ÕùÈ¡ÈËÃñµÄÆ½µÈ£¬µ«¸¥ÀÊÎ÷ÑÇÎŞÇéµØ´İ»ÙÁËÈÎºÎ·´¶ÔÅÉ£¬²¢½¨Á¢ÁËÒ»¸ö¾¯²ì¹ú¼Ò£¬¼à½ûËùÓĞËûÈÏÎªÉ¿¶¯ÅÑÂÒµÄÈË¡£\n¸¥ÀÊÎ÷ÑÇ¹ı×Å¼òÆÓµÄÉú»î·½Ê½£¬³ıÁËÒ»Ğ©Êé¼®ºÍ¼Ò¾ßÍâ£¬ËûÎ¨Ò»µÄ²Æ²ú¾ÍÊÇÒ»¸öÑÌºĞºÍÒ»¸öÎıÖÆÌÇ¹ûºĞ¡£;;;;;;;;;;;;x
+EVTOPT700011A;Ô¸ËûÍ³ÖÎ³¤¾Ã£¡;;;;;;;;;;;;x
+EVTNAME700012;°µ¼ıÉËÈË;;;;;;;;;;;;x
+EVTDESC700012;ÔÚÊÕµ½ÎÒÃÇµÄÅâ³¥ºÍµÀÇ¸ºó£¬ÃÀ¹ú¾ö¶¨ÏòÎÒÃÇĞûÕ½¡£ ½á¹û£¬ËûÃÇÔÚÊÀ½çÑÛÖĞµÄÉùÓşÏÂ½µÁË£¬µ«¶ÔÎÒÃÇ¹ú¼ÒµÄºó¹û»áÊÇÊ²Ã´ÄØ£¿;;;;;;;;;;;;x
+EVTOPT700012A;±³ĞÅÆúÒåµÄÔÓÖÖ£¡;;;;;;;;;;;;x
+EVTNAME500000;²¨À¼×éÖ¯·¨;;;;;;;;;;;;x
+EVTDESC500000;²¨À¼Íõ¹úµÄ¡°×éÖ¯·¨¡±ÊÇÒ»Ïî¹æÔ¼£¬ÔÚ¶íÊô²¨À¼11ÔÂÆğÒåÊ§°ÜºóÈ¡´úÁË1815ÄêµÄÏÜ·¨¡£¸Ã·¨¹æÓÚ1832Äê3ÔÂÔÚ±»Õ¼ÁìµÄ»ªÉ³ÓÉÒÁ·²¡¤·Ñ°Â¶àÂŞÎ¬Ææ¡¤ÅÁË¹¿ËÎ¬ÆæÔªË§Ğû²¼£¬Ëû×Ô³ÆÎª×Ü¶½¡£ÓÉ¶íÂŞË¹»ÊµÛÄá¹ÅÀ­Ò»ÊÀÇ©ÊğµÄ¡°¹æÔ¼¡±È¡´úÁË²¨À¼Íõ¹úÓë¶íÂŞË¹µÛ¹úÖ®¼äµÄÁªºÏÍ³ÖÎ£¬½«²¨À¼¡°ÓÀ¾ÃµØÈÚÈë¡±¶íÂŞË¹¡£·Ï³ıÁËÍõ¹úÒé»á£¬Æä¾ü¶ÓÓë¶íÂŞË¹¾ü¶ÓºÏ²¢¡£ \n¡ìR×¢Òâ£º»áÒé²¨À¼ÊÇÒ»¸ö¼«ÄÑÍæµÄ´Î¹ú¼Ò¡£Äã²»»áµÃµ½ÈÎºÎÊ¿±ø£¬µ±²¨À¼ÆğÒå¿ªÊ¼Ê±Äã¿ÉÄÜ»áÊäµôÓÎÏ·¡£¡ìW;;;;;;;;;;;;x
+EVTOPT500000A;²¨À¼ÈËºÎÊ±²ÅÄÜµÃµ½×ÔÓÉ£¿;;;;;;;;;;;;x
+EVTNAME500001;$YEAR$Äê²¨À¼ÆğÒå;;;;;;;;;;;;x
+EVTDESC500001;ÔÚÎÒÃÇµÄ¹ú¼Ò´Ó×î½üµÄÒ»³¡Õ½ÕùÖĞ×ß³öÀ´Ö®ºó£¬ÎÒÃÇÔÚ»áÒé²¨À¼ºÍµÛ¹úµÄÆäËûµØ·½µÄ³¼Ãñ¶¼±äµÃ½¹Ôê²»°²ÆğÀ´¡£ÆğÒå¿ªÊ¼ÓÚÄêÇáµÄ²¨À¼ÈË×Ô·¢µÄ¿¹Òé£¬·´¶ÔÕ÷±ø¼ÓÈë$COUNTRY_ADJ$¾ü¶Ó¡£ºÜ¿ì£¬²¨À¼-Á¢ÌÕÍğÒá¸ß¼¶¾ü¹ÙºÍÕş½çÈËÊ¿Ò²¼ÓÈëÁËÕâÒ»ĞĞÁĞ¡£½öÔÚÎ¬¶ûÅ¦Ë¹£¬$YEAR$Äê¾Í±¬·¢ÁË116³¡Ê¾ÍşÓÎĞĞ¡£Î¬¶ûÅ¦Ë¹µÄÕâĞ©»î¶¯´ó¶àÒÔÓë$COUNTRY_ADJ$¾ü¶ÓµÄ³åÍ»¶ø¸æÖÕ¡£¾¡¹Ü$COUNTRY_ADJ$¾¯²ìºÍ¸çÈø¿ËµÄ¸ÉÉæ£¬³ªÔŞ¸èµÄ²¨À¼ÈËºÍÁ¢ÌÕÍğÈËµÄÏóÕ÷ĞÔ»áÒé»¹ÊÇÔÚÄùÂüºÓÉÏ¾ÙĞĞÁË¡£ÈËÈºÓÃÁ¢ÌÕÍğÓïºÍ°×¶íÂŞË¹Óï³ª×Å¡°ÉÏµÛ±£ÓÓ²¨À¼¡±¡£$YEAR$Äê³õ£¬$COUNTRY_ADJ$Õş¸®ÔÚÎ¬¶ûÄÉÊ¡¡¢¿Æ·òÅµÊ¡ºÍ¸ñÂŞµÂÅµÊ¡ÊµĞĞ½ô¼±×´Ì¬¡£¹«¹²¼¯»á±»½ûÖ¹£¬Ò»Ğ©¹«¹²Áìµ¼ÈË±»Ğû²¼Îª·Ç·¨¡£ÕâÖÖÇé¿öÓĞ¿ÉÄÜÔÚÎŞÕş¸®×´Ì¬ÖĞÍß½â¡£;;;;;;;;;;;;x
+EVTOPT500001A;Á¢¼´ÕòÑ¹ËûÃÇ¡£;;;;;;;;;;;;x
+EVTOPT500001C;ÈÃËûÃÇ×ÔÓÉ°É¡£;;;;;;;;;;;;x
+EVTOPT500001D;Ïò²¨À¼½ø¾ü£¡;;;;;;;;;;;;x
+EVTNAME500002;²¨À¼ÆğÒå;;;;;;;;;;;;x
+EVTDESC500002;$FROMCOUNTRY$µÄ²¨À¼³¼Ãñ£¬Á¬Í¬Ç°²¨À¼Á¢ÌÕÍğÁª°îÁìÍÁÉÏµÄÆäËûÒ»Ğ©Ãñ×å£¬¿ªÊ¼ÁËÒ»³¡·´¶Ô$FROMCOUNTRY_ADJ$´óÆğÒå¡£ÎÒ¹úÒ»Ğ©ÃñÖÚÇ¿ÁÒÒªÇóÖ§³Ö²¨À¼µÄ×ÔÓÉ£¬µ«Èç¹ûÎÒÃÇÔÚÕâ¸öÎÊÌâÉÏ±£³ÖÖĞÁ¢£¬Ò²²»»áÓĞÈÎºÎÎÊÌâ¡£;;;;;;;;;;;;x
+EVTOPT500002A;¾¡ÎÒÃÇËùÄÜ°ïÖú²¨À¼ÈË¡£¡ìR£¨Ö§¸¶»òÉŞÇ·2Íò¡è£©¡ìW;;;;;;;;;;;;x
+EVTOPT500002B;Ç´Ôğ$FROMCOUNTRY$µÄĞĞ¶¯¡£;;;;;;;;;;;;x
+EVTOPT500002C;ÔÚ´ËÊÂÉÏ±£³ÖÖĞÁ¢¡£;;;;;;;;;;;;x
+EVTOPT500002D;Ğû²¼ÎÒÃÇ¶Ô$FROMCOUNTRY$µÄÖ§³Ö¡£;;;;;;;;;;;;x
+EVTNAME500003;²¨À¼ÆğÒå±»·ÛËéÁË¡£;;;;;;;;;;;;x
+EVTDESC500003;±©¶¯½«ÁìÌØÀÍ¸ñÌØºÍ²¨À¼Õş¸®µÄÆäËûËÄÃû³ÉÔ±±»$COUNTRY_ADJ$¾ü¶Ó´ş²¶£¬²¢ÔÚ»ªÉ³³Ç±¤±»´¦ËÀ¡£Õâ³¡Õ½Õù¹²½øĞĞÁË650´ÎÕ½¶·ºÍĞ¡¹æÄ£³åÍ»£¬2.5Íò²¨À¼ÈËÉ¥Éú¡£$COUNTRY_ADJ$$MONARCHTITLE$Í¨¹ı·¨ÂÉºÍ·¨Áî£¬Ê¹ÕâÆ¬ÍÁµØ³ÉÎª$COUNTRY$ÁìÍÁ²»¿É·Ö¸îµÄÒ»²¿·Ö£¬²¢¾ö¶¨ÈçºÎ¶Ô¸¶·´ÅÑÕß¡£;;;;;;;;;;;;x
+EVTOPT500003A;µÈ´ıËûÃÇµÄ½«ÊÇÑÏÀ÷µÄ±¨¸´¡£;;;;;;;;;;;;x
+EVTOPT500003B;¶ÔËûÃÇ¿íÒÔ´ıÖ®;;;;;;;;;;;;x
+EVTNAME132002;$FROMCOUNTRY$µÄÕş¸®±»ÍÆ·­;;;;;;;;;;;;x
+EVTDESC132002;ÎÒÃÇÔÚ$FROMCOUNTRY$µÄ¿şÀÜÕş¸®±»ÍÆ·­£¬ĞÂÕş¸®Ğû²¼²»½ÓÊÜÎÒÃÇµÄÈÎºÎÃüÁî£¡;;;;;;;;;;;;x
+EVTNAME4661006;²£ÀûÎ¬ÑÇ-°¢¸ùÍ¢±ß½çÌõÔ¼;;;;;;;;;;;;x
+EVTDESC4661006;²£ÀûÎ¬ÑÇºÍ°¢¸ùÍ¢Ö®¼äµÄ±ß½ç³¤ÆÚÒÔÀ´¶¼ÊÜµ½À´×ÔÁ½¹úµÄ¿¼µÏÂŞµÄÓ°Ïì£¬ÕâÁ½¸öÊ¡·İ¶à´ÎÔâµ½Í»Ï®ºÍÕ÷·ş¡£²£ÀûÎ¬ÑÇÈËÒÔ×èÖ¹°¢¸ùÍ¢ÈË¿¼µÏÂŞÏ®»÷²£ÀûÎ¬ÑÇÏç´åÎªÀíÓÉ£¬Õ÷·şÁË°¢¸ùÍ¢µÄÑÇÎ¬Ê¡¡£ÔÚ×î½üµÄÕ½ÕùÖ®ºó£¬°¢¸ùÍ¢ÈËÕ¼ÁìÁËÑÇÎ¬ºÍËşÀï¹ş£¬ºóÕß±»Ò»Ğ©°¢¸ùÍ¢±±²¿µÄ¿¼µÏÂŞĞû³ÆÎª°¢¸ùÍ¢µÄÒ»²¿·Ö£¬µ«¸ÃÊ¡³¤ÆÚÒÔÀ´Ò»Ö±´¦ÓÚ²£ÀûÎ¬ÑÇµÄÍ³ÖÎÖ®ÏÂ£¬Ö÷ÒªÈË¿ÚÊÇ²£ÀûÎ¬ÑÇÈË¡£ÏÖÔÚËæ×ÅÕ½ºóµÄºÍÆ½Ì¸ÅĞ£¬ÎÒÃÇµÄÍâ½»¹ÙÌáÒéÎÒÃÇÌá³ö½â¾ö²£ÀûÎ¬ÑÇºÍ°¢¸ùÍ¢Ö®¼ä±ß½çµÄÎÊÌâ¡£Í¨¹ıÎÒÃÇµÄÍâ½»ÈËÔ±µÄ¼ÆËã£¬ÎÒÃÇÄÜµÃµ½µÄ×îºÃµÄ½»Ò×ÊÇ·ÅÆúÎÒÃÇÔÚ¿ÆÏ£Åµ¿¨¡¢³àµÀ¡¢ºúºúÒÁºÍÈø¶ûËşºÍÈø¶ûËşµÄËùÓĞÒªÇó£¬ÒÔ»»È¡ÑÇÎ¬ºÍËşÀï¹şµÄ»Ø¹éÒÔ¼°ËûÃÇ·ÅÆúÔÚÕâĞ©Ê¡·İµÄÒªÇó¡£;;;;;;;;;;;;x
+EVTOPT4661006A;Ìá³öÌáÒé;;;;;;;;;;;;x
+EVTOPT4661006B;ÎÒÃÇ²»»á·ÅÆúÎÒÃÇµÄÖ÷È¨ÒªÇó;;;;;;;;;;;;x
+EVTDESC4661007;²£ÀûÎ¬ÑÇºÍ°¢¸ùÍ¢Ö®¼äµÄ±ß½ç³¤ÆÚÒÔÀ´¶¼ÊÜµ½À´×ÔÁ½¹úµÄ¿¼µÏÂŞµÄÓ°Ïì£¬ÕâÁ½¸öÊ¡·İ¶à´ÎÔâµ½Í»Ï®ºÍÕ÷·ş¡£²£ÀûÎ¬ÑÇÈËÒÔ×èÖ¹°¢¸ùÍ¢ÈË¿¼µÏÂŞÏ®»÷²£ÀûÎ¬ÑÇÏç´åÎªÀíÓÉ£¬Õ÷·şÁË°¢¸ùÍ¢µÄÑÇÎ¬Ê¡¡£ÔÚ×î½üµÄÕ½ÕùÖ®ºó£¬°¢¸ùÍ¢ÈËÕ¼ÁìÁËÑÇÎ¬ºÍËşÀï¹ş£¬ºóÕß±»Ò»Ğ©°¢¸ùÍ¢±±²¿µÄ¿¼µÏÂŞĞû³ÆÎª°¢¸ùÍ¢µÄÒ»²¿·Ö£¬µ«¸ÃÊ¡³¤ÆÚÒÔÀ´Ò»Ö±´¦ÓÚ²£ÀûÎ¬ÑÇµÄÍ³ÖÎÖ®ÏÂ£¬Ö÷ÒªÈË¿ÚÊÇ²£ÀûÎ¬ÑÇÈË¡£ÏÖÔÚËæ×ÅÕ½ºóµÄºÍÆ½Ì¸ÅĞ£¬ÎÒÃÇµÄÍâ½»¹ÙÌáÒéÎÒÃÇÌá³ö½â¾ö²£ÀûÎ¬ÑÇºÍ°¢¸ùÍ¢Ö®¼ä±ß½çµÄÎÊÌâ¡£Í¨¹ıÎÒÃÇµÄÍâ½»ÈËÔ±µÄ¼ÆËã£¬ËûÃÇÌá³ö·ÅÆúËûÃÇÔÚ¿ÆÏ£Åµ¿¨¡¢°¬¿ü¶û¡¢ºúºúÒÁºÍÈø¶ûËşµÄËùÓĞÒªÇó,ÒÔ»»È¡ÑÇÎ¬ºÍËşÀï¹şµÄ»Ø¹éÒÔ¼°ËûÃÇ·ÅÆúÔÚÕâĞ©Ê¡·İµÄÒªÇó¡£;;;;;;;;;;;;x
+EVTOPT4661007A;ÎÒÃÇÍ¬ÒâËûÃÇµÄÌõ¼ş¡£;;;;;;;;;;;;x
+EVTOPT4661007B;ÎÒÃÇ²»»á·ÅÆúÎÒÃÇµÄÕ½ÀûÆ·¡£;;;;;;;;;;;;x
+EVTNAME4661008;°¢¸ùÍ¢±íÊ¾Í¬Òâ;;;;;;;;;;;;x
+EVTDESC4661008;°¢¸ùÍ¢ÈËÍ¬ÒâÁËÎÒÃÇµÄÌáÒé£¬²¢ÇÒÒÑ¾­½«ËşÀï¹ş¹é»¹¸øÎÒÃÇ¡£;;;;;;;;;;;;x
+EVTOPT4661008A;¾øºÃÏûÏ¢£¡;;;;;;;;;;;;x
+EVTNAME97051;ĞÂÊ×¶¼£¡;;;;;;;;;;;;x
+EVTDESC97051;ÔÚÁª°î½âÌåºó£¬²£ÀûÎ¬ÑÇĞÂÈÎ×ÜÍ³Ğû²¼ÁËÒ»Ïî·¨ÂÉ£¬½«Çğ»ùÈø¿¨ÊĞ×÷Îª²£ÀûÎ¬ÑÇÊ×¶¼£¬²¢½«Æä¸ÄÃûÎª¸ïÃüÁìĞä°²¶«Äá°Â¡¤ºÎÈû¡¤ËÕ¿ËÀ×µÄÃû×Ö¡£;;;;;;;;;;;;x
+EVT970501PTA;ÎªÁË²£ÀûÎ¬ÑÇµÄÈÙÒ«£¡£¡;;;;;;;;;;;;x
+EVTPDII50000;¹²ºÍÅÉÕş±ä;;;;;;;;;;;;x
+EVTDESC50000;Å«Á¥ÖÆ½áÊøºó£¬ÕÆ¿Ø¹ú¼ÒÕşÖÎ¾­¼ÃÉç»áµÄ¸»ÓĞ¶øÇ¿Ê¢µÄ¿§·ÈÖÖÖ²Ô°Ö÷ÃÇ×ª¶øÖ§³Ö¹²ºÍÖ÷Òå¡£ÎªÁË±ÜÃâ¹²ºÍµ³µÄ·´¶Ô£¬Õş¸®²ÉÈ¡ÁËÒ»ÏµÁĞĞÅ´ûºÍ¾üÊÂÕş²ß£¬²¢½øĞĞÁË¸Ä¸ï£¬ÒÔ°²¸§ÍÁµØËùÓĞÕß¡£Õş¸®ÊµÊ©µÄ´ëÊ©Õğ¾ªÁËÆ½Ãñ¹²ºÍµ³ÈËºÍ¾üÊÂ¼¯ÍÅÖĞµÄÊµÖ¤Ö÷ÒåÕß¡£ËûÃÇ¿´µ½Õâ½«»áÏ÷ÈõËûÃÇ¶Ô×ÔÉíÖ¾ÏòµÄÖúÁ¦£¬²¢¹ÄÀø½øĞĞÏÂÒ»²½ĞĞ¶¯¡£¶ÔËûÃÇÀ´Ëµ£¬ÒÑ¾­µ½ÁË"»ú²»¿ÉÊ§£¬Ê±²»ÔÙÀ´"µÄµØ²½ÁË¡£¾¡¹Ü°ÍÎ÷´ó¶àÊıÈË²¢²»Ï£Íû¸Ä±äÕş¸®µÄĞÎÊ½£¬µ«Æ½Ãñ¹²ºÍµ³ÈËÈÔÏòÊµÖ¤Ö÷Òå¾ü¹ÙÊ©Ñ¹È¥ÍÆ·­¾ıÖ÷ÖÆ¡£ÊµÖ¤Ö÷ÒåÕßÃÇ·¢¶¯ÁËÒ»³¡Õş±ä²¢ÔÚ$YEAR$ÄêÊÔÍ¼½¨Á¢Ò»¸ö¹²ºÍ¹ú¡£ÔÚÕû³¡Ä¥ÄÑÖĞÅåµÂÂŞ¶şÊÀÃæÎŞ±íÇé£¬·Â·ğºÁ²»ÔÚÒâÕâ³¡Õş±äµÄ½á¹û¡£Ëû½ö½öËµÁË:;;;;;;;;;;;;x
+EVTOPTA50000;Èç¹ûÊÇÕâÑùµÄ»°£¬ÎÒ»¹ÊÇÍËĞİ°É¡£ÎÒ¹¤×÷µÄÌ«ÀÛÁË£¬ÏÖÔÚÖ»ÏëÈ¥ĞİÏ¢¡£;;;;;;;;;;;;x
+EVTOPTB50000;·ÛËéÅÑÂÒ£¡;;;;;;;;;;;;x
+vargastitle;ÈÈÍ¼Àû°Â¡¤Íß¼ÓË¹áÈÆğ;;;;;;;;;;;;x
+vargasdesc;Íß¼ÓË¹³öÉúÓÚÄÏÀï°Â¸ñÀ¼µÂÖİ£¬³öÉíÓÚÒ»¸öÔÚÖİÕş½çÏÔºÕµÄ¼ÒÍ¥¡£µ½1922Äê£¬ËûÒÑ¾­ÔÚÖİÕş½çÑ¸ËÙáÈÆğ£¬²¢µ±Ñ¡Îª¹ú»áÒéÔ±£¬ÈÎÖ°ËÄÄê¡£1926Äê£¬Íß¼ÓË¹³ÉÎª»ªÊ¢¶Ù¡¤Â·Ò×Ë¹¡¤ÅåÀ×À­¡¤µÂË÷Èø×ÜÍ³ÄÚ¸óµÄ²ÆÕş²¿³¤£¬ËûÒ»Ö±µ£ÈÎÕâ¸öÖ°Î»£¬Ö±µ½1928ÄêËûµ±Ñ¡ÎªÄÏÀïÔ¼ÈÈÄÚÂ¬´óÖİÖİ³¤¡£1930Äê£¬Íß¼ÓË¹´ÓÖİ³¤µÄÎ»ÖÃÉÏ£¬×÷Îª¸Ä¸ïºòÑ¡ÈË¾ºÑ¡°ÍÎ÷×ÜÍ³£¬µ«Ã»ÓĞ³É¹¦¡£Íß¼ÓË¹¿´ËÆ½ÓÊÜÁËÊ§°Ü£¬È´ÔÚµ±Äê10ÔÂÁìµ¼ÁËÓÉËûµÄÅóÓÑÃÇ×éÖ¯µÄ¸ïÃü£¬ÍÆ·­ÁË¹ÑÍ·¹²ºÍÖÆ¡£ÔÚ½ÓÏÂÀ´µÄ15ÄêÀï£¬Íß¼ÓË¹»ù±¾ÉÏÕÆÎÕÁË¶À²ÃµÄÈ¨Á¦£¬´ó²¿·ÖÊ±¼ä¶¼ÊÇÔÚÃ»ÓĞ¹ú»áµÄÇé¿öÏÂ½øĞĞÍ³ÖÎ¡£´Ó1930Äê11ÔÂ3ÈÕµ½1934Äê7ÔÂ17ÈÕ±»ÖÆÏÜ»áÒéÑ¡¾ÙÎª×ÜÍ³£¬Ëû¶ÀÀ¿ÁÙÊ±×ÜÍ³´óÈ¨¡£;;;;;;;;;;;;x
+vargasopt1;½ñÌì£¬ÄãÓëÕş¸®Õ¾ÔÚÒ»Æğ¡£Ã÷ÌìÄã½«³ÉÎªÕş¸®¡£;;;;;;;;;;;;x
+vargasopt2;¿§·ÈÕş²ß±ØÊ¤£¡ÕòÑ¹Õâ³¡º§ÈËÌıÎÅµÄÕş±ä£¡;;;;;;;;;;;;x
+EVTNAME50009;°²µÚÅµË¹µÄáÈÆğ;;;;;;;;;;;;x
+EVTDESC50009;Î¯ÄÚÈğÀ­ÀúÊ·µÄ½ø³ÌÔÚ20ÊÀ¼ÍÖ®½»·¢ÉúÁËÏÔÖø±ä»¯¡£1899Äê£¬À´×Ô°²µÚË¹É½ÂöËşÆæÀ­µÄÒ»¸ö¾üÊÂÁìĞäÎ÷ÆÕÀïÑÇÅµ¡¤¿¨Ë¹ÌØÂŞ½«¾ü´ø×ÅËûµÄÊ¡¾ü¶ÓÀ´µ½¼ÓÀ­¼ÓË¹²¢¶áÈ¡ÁË×ÜÍ³Ö°Î»¡£½á¹û£¬À´×ÔËşÆæÀ­µÄÁ¬ĞøÎåÃû¾üÊÂÇ¿ÈË£¬±»³ÆÎª°²µÚÅµË¹£¬ÔÚ½ÓÏÂÀ´µÄ59ÄêÖĞ¿ØÖÆ×ÅÕâ¸ö¹ú¼Ò£¬³ıÁË1945ÄêÖÁ1948ÄêµÄ²åÇú¡£×î³¤µÄÍ³ÖÎÊÇºú°²¡¤ÎÄÉ­ÌØ¡¤¸êÂóË¹½«¾ü¡£¸êÂóË¹ÊÇÒ»¸öÓĞĞ§µ«ÎŞÇéµÄ¶À²ÃÕß¡£Í¨¹ı²Ù×İÑ¡¾Ù£¬·Ï³ıËùÓĞÓĞ×éÖ¯µÄÕşÖÎ»î¶¯ºÍÂ¢¶ÏÖ¸¶¨È¨Á¦£¬Ëû½¨Á¢ÁËÒ»¸öÍêÈ«·ş´ÓµÄÁ¢·¨ºÍË¾·¨½á¹¹¡£;;;;;;;;;;;;x
+EVTNAME50009OPTA;ÎÒÃÇÎŞ·¨µÖ¿¹ÕâĞ©Ç¿Á¦¾üÊÂÁìĞä¡£;;;;;;;;;;;;x
+EVTNAME50009OPTB;Áª°î±ØĞë»÷°ÜÕş±ä£¡;;;;;;;;;;;;x

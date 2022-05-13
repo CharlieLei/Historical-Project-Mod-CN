@@ -1,28 +1,29 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-rhodesia_renaming_act_title;The Rhodesia Renaming Act;;;;;;;;;;;;;
-rhodesia_renaming_act_desc;Now that Mashonaland is firmly in our hands, it would only be appropriate we rename the region something more civilized.;;;;;;;;;;;;;
-support_january_uprising_title;Support the January Uprising;;;;;;;;;;;;;
-support_january_uprising_desc;After Martial Law was declared, those designated for conscription secretly fled from Warsaw (Jan. 14–15, 1863), sought refuge in the nearby woodlands, and on January 22 issued a manifesto calling for a national insurrection. Although they were greatly outnumbered, poorly equipped, and successful in only a few engagements, the rebels gained support among the artisan, worker, lower gentry, and official classes in the cities and stimulated peasant revolts against the large landlords in rural areas. We could support this uprising against the Russians.;;;;;;;;;;;;;
-treaty_of_tartu_EST_title;The Tartu Peace Treaty;;;;;;;;;;;;;
-treaty_of_tartu_EST_desc;Treaty of Tartu was a peace treaty between Estonia and Russian SFSR signed on February 2, 1920 ending the Estonian War of Independence. The terms of the treaty stated that "Russia unreservedly recognizes" the independence of Republic of Estonia de jure and renounced in perpetuity all rights to the territory of Estonia. Ratifications of the treaty were exchanged in Moscow on March 30, 1920. It was registered in League of Nations Treaty Series on July 12, 1922.;;;;;;;;;;;;;
-establish_the_sovnarkomSOV_title;Establish The Sovnarkom;;;;;;;;;;;;;
-establish_the_sovnarkomSOV_desc;Soviet Narodnykh Kommissarov', transliterated Russian for 'Council of People's Commissars', was the highest government authority in Soviet Russia, per functions delineated in the 1918 Constitution of the RSFSR. The Sovnarkom was (formally) responsible to the Congress of the Soviets and had, when said Congress was out of session, the power to issue decrees carrying the full force of law.;;;;;;;;;;;;;
-russian_vladivostokSOV_title;The Ruler of the East;;;;;;;;;;;;;
-russian_vladivostokSOV_desc;In July of 1860 the port of Vladivostok, or “Ruler of the East,” was founded near the Korean frontier.  It would become a major Russian trade port and shipbuilding yard. Eventually, it would become the focal point of an intercontinental railroad as well as a major scientific, cultural, and industrial center in its own right. The Czar dreamed that the city would become a hub connecting the west with the east. Perhaps the railroad to Vladivostok will eventually replace the Suez Canal as the bearer of goods and raw materials between the East and the West?;;;;;;;;;;;;;
-treaty_of_tartuSOV_title;Treaty of Tartu;;;;;;;;;;;;;
-treaty_of_tartuSOV_desc;Now that we are free from Russian rule, we should approach the Russian government and discuss the claims to Petsamo and southern Karelia before we end up in a territorial war we cannot hope to win.;;;;;;;;;;;;;
-finnish_diet;The Finnish Diet;;;;;;;;;;;;;
-finnish_diet_title;The Finnish Diet;;;;;;;;;;;;;
-finnish_diet_short;The Finnish Diet;;;;;;;;;;;;;
-finnish_diet_setup;The Finnish Diet;;;;;;;;;;;;;
-finnish_diet_desc;Not until June 1863, after the Crimean War had taken place, did Alexander II call the Finnish Diet again. On September 18 the opening ceremony was held and the Emperor made his declaration where he promised to introduce changes to the constitution. The changes included making the diet a regularly convening body, a promise which was kept by the Emperor when the diet convened again in January 1867. The result was greater Finnish Autonomy within the Russian Empire and a improvement in the relations of the Finnish Parliament and the Tsar.;;;;;;;;;;;;;
-switch_to_early_russian_tech;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;
-switch_to_early_russian_tech_title;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;
-switch_to_early_russian_tech_short;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;
-switch_to_early_russian_tech_setup;Orthodoxy, Autocracy and Nationality!;;;;;;;;;;;;;
-switch_to_early_russian_tech_desc;Orthodoxy, Autocracy and Nationality, also known as Official Nationality was the dominant ideological doctrine of Russian emperor Nicholas I. "The Triad" of Official Nationality was originally proposed by Minister of Education Sergey Uvarov in his April 2, 1833 circular letter to subordinate educators. It was soon embraced by Nicholas and his establishment and gained wide public recognition, vocally supported by intellectuals like Mikhail Pogodin, Fyodor Tyutchev and Nikolay Gogol. Critics of the policy saw this principle as a call for Russification. Yet the very fact of its existence, being Russia's first statewide political ideology since the sixteenth century, indicated the nation's brewing transition to modernity.;;;;;;;;;;;;;
-switch_to_russian_intelligentsia;Russian Intelligentsia;;;;;;;;;;;;;
-switch_to_russian_intelligentsia_title;Russian Intelligentsia;;;;;;;;;;;;;
-switch_to_russian_intelligentsia_short;Russian Intelligentsia;;;;;;;;;;;;;
-switch_to_russian_intelligentsia_setup;Russian Intelligentsia;;;;;;;;;;;;;
-switch_to_russian_intelligentsia_desc;The Crimean War awakened the new Russian emperor Alexander II (who succeeded Nicholas I in March 1855) to the need to overcome Russia's backwardness in order to compete successfully with the other European powers. At the same time, the Russian educated elite was living a cultural, political and technological flourishing. This elite was divided into Slavophiles and Westernizers, according to their views on the path Russia should take in the future, and the social class they represented was called intelligentsia.;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+rhodesia_renaming_act_title;ÂŞµÃÎ÷ÑÇÖØÃüÃû·¨°¸;;;;;;;;;;;;x
+rhodesia_renaming_act_desc;¼ÈÈ»ÂíÉÜÄÉÀ¼ÕÆÎÕÔÚÎÒÃÇÊÖÖĞ£¬ÄÇÃ´ÎÒÃÇ½«¸ÃµØÇøÖØĞÂÃüÃûÎª¸ü¼ÓÎÄÃ÷µÄ·½Ê½ÊÇÇ¡µ±µÄ¡£;;;;;;;;;;;;x
+support_january_uprising_title;Ö§³ÖÒ»ÔÂÆğÒå;;;;;;;;;;;;x
+support_january_uprising_desc;Ğû²¼½äÑÏºó£¬±»Ö¸¶¨Õ÷±øµÄÈËÃØÃÜÌÓÀë»ªÉ³£¨1863Äê1ÔÂ14ÈÕÖÁ25ÈÕ£©£¬ÔÚ¸½½üµÄÁÖµØÑ°Çó±Ó»¤£¬²¢ÓÚ1ÔÂ22ÈÕ·¢²¼ÁËÒ»·İºôÓõÈ«¹úÆğÒåµÄĞûÑÔ¡£ËäÈ»ÅÑÂÒ·Ö×ÓÈËÊıÖÚ¶à£¬Éè±¸¼òÂª£¬Ö»ÓĞÉÙÊı¼¸´Î³É¹¦£¬µ«·´ÅÑ·Ö×ÓµÃµ½ÁË³ÇÊĞ¹¤½³£¬¹¤ÈË£¬Ê¿ÉğºÍ¹Ù·½½×²ãµÄÖ§³Ö£¬²¢´Ì¼¤ÁËÅ©Ãñ¶ÔÅ©´åµØÇø´óµØÖ÷µÄ·´¿¹¡£ÎÒÃÇ¿ÉÒÔÖ§³ÖÕâÆğÕë¶Ô¶íÂŞË¹ÈËµÄÆğÒå¡£;;;;;;;;;;;;x
+treaty_of_tartu_EST_title;Ëş¶ûÍ¼ºÍÔ¼;;;;;;;;;;;;x
+treaty_of_tartu_EST_desc;Ëş¶ûÍ¼ÌõÔ¼ÊÇ°®É³ÄáÑÇÓëËÕ¶íÇ©¶©µÄºÍÆ½ÌõÔ¼£¬ÓÚ1920Äê2ÔÂ2ÈÕÇ©Êğ£¬½áÊøÁË°®É³ÄáÑÇ¶ÀÁ¢Õ½Õù¡£¸ÃÌõÔ¼µÄÌõ¿î¹æ¶¨£¬¡°¶íÂŞË¹ºÁÎŞ±£ÁôµØ³ĞÈÏ¡±·¨¶¨µÄ°®É³ÄáÑÇ¹²ºÍ¹úµÄ¶ÀÁ¢£¬²¢ÓÀ¾Ã·ÅÆú¶Ô°®É³ÄáÑÇÁìÍÁµÄËùÓĞÈ¨Àû¡£¸ÃÌõÔ¼µÄÅú×¼ÓÚ1920Äê3ÔÂ30ÈÕÔÚÄªË¹¿Æ½»»»¡£ËüÓÚ1922Äê7ÔÂ12ÈÕÔÚ¹ú¼ÊÁªÃËÌõÔ¼ÏµÁĞÖĞµÇ¼Ç¡£;;;;;;;;;;;;x
+establish_the_sovnarkomSOV_title;½¨Á¢ÈËÃñÎ¯Ô±»á;;;;;;;;;;;;x
+establish_the_sovnarkomSOV_desc;¡°Soviet Narodnykh Kommissarov¡±£¬¶íÓïÒâÎª¡°ÈËÃñ´ú±íÎ¯Ô±»á¡±£¬ÔøÊÇËÕ¶í×î¸ßÕş¸®È¨Íş£¬´Ó1918ÄêµÄ¶íÂŞË¹Éç»áÖ÷Òå¼ÓÃË¹²ºÍ¹úÖÆÏÜ»áÒéÆğ°´¹ßÀı·¢»ÓÖ°ÄÜ¡£ÈËÃñ´ú±íËÕÎ¬°££¨ÕıÊ½µØ£©¶ÔËÕÎ¬°£Òé»á¸ºÔğ£¬ÔÚÒé»áĞİ»áÆÚ¼ä£¬ÓµÓĞ·¢²¼·¨ÂÉ¡¢ÕşÁîµÄÈ¨Á¦¡£;;;;;;;;;;;;x
+russian_vladivostokSOV_title;¶«·½Í³ÖÎÕß;;;;;;;;;;;;x
+russian_vladivostokSOV_desc;1860Äê7ÔÂ£¬·ûÀ­µÏÎÖË¹ÍĞ¿Ë¸Û£¬¼´ "¶«·½µÄÍ³ÖÎÕß"¸Û£¬ÔÚ³¯ÏÊ±ß¾³¸½½ü½¨³É¡£ ËüºóÀ´³ÉÎª¶íÂŞË¹µÄÖ÷ÒªÃ³Ò×¸Û¿ÚºÍÔì´¬³§¡£×îÖÕËü½«³ÉÎªÖŞ¼ÊÌúÂ·µÄ½¹µã£¬Í¬Ê±ÈÃ¸Ã³ÇÊĞ³ÉÎªÒ»¸öÖØÒªµÄ¿ÆÑ§¡¢ÎÄ»¯ºÍ¹¤ÒµÖĞĞÄ¡£É³»ÊÏ£ÍûÕâ¸ö³ÇÊĞ½«³ÉÎªÁ¬½ÓÎ÷²¿ºÍ¶«²¿µÄÊàÅ¦¡£Ò²ĞíÍ¨Íù·ûÀ­µÏÎÖË¹ÍĞ¿Ë£¨º£²ÎáË£©µÄÌúÂ·×îÖÕ»áÈ¡´úËÕÒÁÊ¿ÔËºÓ£¬³ÉÎª¶«Î÷·½Ö®¼ä»õÎïºÍÔ­ÁÏÔËÊäµÄÖĞĞÄÊàÅ¦£¿;;;;;;;;;;;;x
+treaty_of_tartuSOV_title;Ëş¶ûÍ¼ÌõÔ¼;;;;;;;;;;;;x
+treaty_of_tartuSOV_desc;¼ÈÈ»ÏÖÔÚÎÒÃÇÒÑ¾­°ÚÍÑÁË¶íÂŞË¹µÄÍ³ÖÎ£¬ÎÒÃÇÓ¦¸ÃÓë¶í¹úÕş¸®½ÓÇ¢ÒÔÌÖÂÛÅåÇÙ¼ÓÓëÄÏ¿¨ÀÛÀû°¢µÄ¹éÊôÈ¨ÎÊÌâ£¬²»È»ÎÒÃÇ¿ÉÄÜ×îÖÕÏİÈëÒ»³¡Ê¤Àû»ú»áÃìÃ£µÄÁìÍÁÕ½Õù¡£;;;;;;;;;;;;x
+finnish_diet;·ÒÀ¼Òé»á;;;;;;;;;;;;x
+finnish_diet_title;·ÒÀ¼Òé»á;;;;;;;;;;;;x
+finnish_diet_short;·ÒÀ¼Òé»á;;;;;;;;;;;;x
+finnish_diet_setup;·ÒÀ¼Òé»á;;;;;;;;;;;;x
+finnish_diet_desc;Ö±µ½1863Äê6ÔÂ£¬ÔÚ¿ËÀïÃ×ÑÇÕ½Õù·¢ÉúÖ®ºó£¬ÑÇÀúÉ½´ó¶şÊÀÔÙ´ÎÖÂµç·ÒÀ¼Òé»á¡£ 9ÔÂ18ÈÕ£¬¿ªÄ»Ê½¾ÙĞĞ£¬»ÊµÛĞû²¼Ëû³ĞÅµ½«¸Ä±äÏÜ·¨¡£ ÕâĞ©±ä»¯°üÀ¨Ê¹Òé»á³ÉÎªÒ»¸ö¶¨ÆÚÕÙ¼¯µÄ»ú¹¹£¬ÕâÊÇ1867Äê1ÔÂÒé»áÔÙ´ÎÕÙ¿ªÊ±ÓÉ»ÊµÛ±£ÁôµÄ³ĞÅµ¡£½á¹ûÊÇ¶íÂŞË¹µÛ¹úÄÚµÄ·ÒÀ¼×ÔÖÎ¸ü¼Ó³äÊµ£¬·ÒÀ¼Òé»áºÍÉ³»ÊµÄ¹ØÏµµÃµ½¸ÄÉÆ ¡£;;;;;;;;;;;;x
+switch_to_early_russian_tech;Õı½Ì£¬×¨ÖÆºÍÃñ×åĞÔ£¡;;;;;;;;;;;;x
+switch_to_early_russian_tech_title;Õı½Ì£¬×¨ÖÆºÍÃñ×åĞÔ£¡;;;;;;;;;;;;x
+switch_to_early_russian_tech_short;Õı½Ì£¬×¨ÖÆºÍÃñ×åĞÔ£¡;;;;;;;;;;;;x
+switch_to_early_russian_tech_setup;Õı½Ì£¬×¨ÖÆºÍÃñ×åĞÔ£¡;;;;;;;;;;;;x
+switch_to_early_russian_tech_desc;¡°Õı½Ì¡¢×¨ÖÆºÍÃñ×åĞÔ¡±£¬Ò²±»³ÆÎª¹Ù·½Ãñ×åĞÔ£¬ÊÇ¶íÂŞË¹»ÊµÛÄá¹ÅÀ­Ò»ÊÀµÄÖ÷µ¼ÒâÊ¶ĞÎÌ¬Ñ§Ëµ¡£¹Ù·½Ãñ×åĞÔµÄ¡°ÈıÎ»Ò»Ìå¡±×î³õÓÉ½ÌÓı²¿³¤Ğ»¶û¸Ç¡¤ÎÚÍßÂŞ·òÔÚ1833Äê4ÔÂ2ÈÕ¸øÏÂÊô½ÌÓı¹¤×÷ÕßµÄÍ¨º¯ÖĞÌá³ö¡£ËüºÜ¿ì±»Äá¹ÅÀ­ºÍËûµÄÕş¸®Ëù½ÓÊÜ£¬²¢»ñµÃÁË¹ã·ºµÄ¹«ÖÚÈÏ¿É£¬µÃµ½ÁËÃ×¹şÒÁ¶û¡¤²¨¸ê¶¡£¬·Ñ°Â¶à¶û¡¤Í¼ÇĞÇĞ·òºÍÄá¹ÅÀ­¡¤¹û¸êÀíµÈÖªÊ¶·Ö×ÓµÄÖ§³Ö¡£ ¸ÃÕş²ßµÄÅúÆÀÕßÈÏÎªÕâÒ»Ô­ÔòÊÇ¶Ô¶íÂŞË¹»¯µÄºôÓõ¡£È»¶ø£¬Ëü´æÔÚµÄÊÂÊµ£¬¼´¶íÂŞË¹×Ô16ÊÀ¼ÍÒÔÀ´µÄµÚÒ»¸öÈ«¹úÕşÖÎÒâÊ¶ĞÎÌ¬£¬±íÃ÷ÁË¸Ã¹úÕıÔÚÔÍÄğÏòÏÖ´ú»¯¹ı¶É¡£;;;;;;;;;;;;x
+switch_to_russian_intelligentsia;¶í¹úÖªÊ¶½×²ã;;;;;;;;;;;;x
+switch_to_russian_intelligentsia_title;¶í¹úÖªÊ¶½×²ã;;;;;;;;;;;;x
+switch_to_russian_intelligentsia_short;¶í¹úÖªÊ¶½×²ã;;;;;;;;;;;;x
+switch_to_russian_intelligentsia_setup;¶í¹úÖªÊ¶½×²ã;;;;;;;;;;;;x
+switch_to_russian_intelligentsia_desc;¿ËÀïÃ×ÑÇÕ½Õù»½ĞÑÁËĞÂµÄ¶íÂŞË¹»ÊµÛÑÇÀúÉ½´ó¶şÊÀ£¨1855Äê3ÔÂ½ÓÌæÄá¹ÅÀ­Ò»ÊÀ£©£¬ĞèÒª¿Ë·ş¶íÂŞË¹µÄÂäºó£¬ÒÔ±ãÓëÆäËûÅ·ÖŞ´ó¹ú³É¹¦¾ºÕù¡£Óë´ËÍ¬Ê±£¬ÊÜ¹ı¶íÂŞË¹½ÌÓıµÄ¾«Ó¢ÃÇÕıÔÚÅî²ª·¢Õ¹ÎÄ»¯£¬ÕşÖÎºÍ¼¼Êõ¡£¸ù¾İËûÃÇ¶Ô¶íÂŞË¹Î´À´Ó¦¸Ã²ÉÈ¡µÄÂ·¾¶µÄ¹Ûµã£¬Õâ¸ö¾«Ó¢½×²ã·ÖÎªË¹À­·òÅÉºÍÎ÷»¯ÅÉ£¬ËûÃÇËù´ú±íµÄÉç»á½×²ã±»³ÆÎªÖªÊ¶·Ö×Ó¡£;;;;;;;;;;;;x

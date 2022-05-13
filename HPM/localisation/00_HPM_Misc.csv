@@ -1,766 +1,766 @@
-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-AND_TRIGGER_STARTS;§RAll of the below§W;;;;;;;;;;;;;
-OR;§Ror§W;;;;;;;;;;;;;
-partisan_rebels;Partisans;;;;;;;;;;;;;
-partisan_rebels_title;Partisans;;;;;;;;;;;;;
-partisan_rebels_name;$COUNTRY_ADJ$ Partisans;;;;;;;;;;;;;
-partisan_rebels_desc;Partisans are common men and women that form resistance cells, small armed groups that, in addition to their guerrilla warfare activities, provide first-hand intelligence information and maintain of escape networks to help $COUNTRY_ADJ$ soldiers. When they take over a province, they will return that province to the original owner in 60 days.;;;;;;;;;;;;;
-partisan_rebels_army;$COUNTRY_ADJ$ Partisan Cell;;;;;;;;;;;;;
-IS_NOT_RELIGION;The state religion is NOT;;;;;;;;;;;;;
-IS_RELIGION;The state religion is;;;;;;;;;;;;;
-CULTURE_IS_NOT;Culture is NOT accepted:;;;;;;;;;;;;;
-CULTURE_IS;Culture is accepted:;;;;;;;;;;;;;
-steam_transport;Troopship;;;;;;;;;;;;;
-commerce_raider;Steam Frigate;;;;;;;;;;;;;
-oceanic;Pacific Islander;;;;;;;;;;;;;
-levantine;Greco-Caucasian;;;;;;;;;;;;;
-turko_semitic;Turkic;;;;;;;;;;;;;
-polish_culture_group;Western Slavic;;;;;;;;;;;;;
-BRIGADES_COMPARE_GREATER;Brigades comparison factor of two countries is at least §Y$VAL$§!\n;;;;;;;;;;;;;
-BRIGADES_COMPARE_SMALLER;Brigades comparison factor of two countries is less than §Y$VAL$§!\n;;;;;;;;;;;;;
-jewish_group;Jewish;;;;;;;;;;;;;
-muslim;Muslim;;;;;;;;;;;;;
-christian;Christian;;;;;;;;;;;;;
-eastern;Eastern Religions;;;;;;;;;;;;;
-pagan;Pagans;;;;;;;;;;;;;
-jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, §Ythe Jefferson Method slightly favours large parties and coalitions over scattered small parties§W.;;;;;;;;;;;;;
-precious_goods;Precious Goods;;;;;;;;;;;;;
-precious_goods_RGO_SIZE;Precious Goods Market Size;;;;;;;;;;;;;
-PARTY_LOYALTY_EFFECT_DESC;Loyalty towards §Y$PARTY$§W in §Y$PROV$§W will be changed by §Y$VALUE$§W.\n;;;;;;;;;;;;;
-MODIFY_RELATION_EFFECT;§Y$SOURCE$§!'s relation with §Y$TARGET$§! changed with a value of $VALUE$.\n;;;;;;;;;;;;;
-IS_NOT_ACCEPTED_CULTURE;Is NOT an accepted culture.;;;;;;;;;;;;;
-canned_food_factory;Cannery;;;;;;;;;;;;;
-ALL_CORE_PROVINCE_THAT;For all core provinces \n;;;;;;;;;;;;;
-TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in the last §Y$DAYS$§! days.;;;;;;;;;;;;;
-precious_metal;Precious Metals;;;;;;;;;;;;;
-precious_metal_RGO_SIZE;Precious Metals Mine Size;;;;;;;;;;;;;
-cattle;Livestock;;;;;;;;;;;;;
-cattle_RGO_SIZE;Livestock Ranch Size;;;;;;;;;;;;;
-no_health_care_desc;The government doesn't care about healthcare and no funding for it exists. The few health institutions that exist are inherited from medieval times and are equipped accordingly. The medical career is an informal profession, mainly linked to the church. Hospitals use rudimentary lighting, facilities are overcrowded and infectious diseases round the halls and corners of the buildings. Prayers are commonly recommended to treat ailments.;;;;;;;;;;;;;
-trinket_health_care;Trinket Healthcare;;;;;;;;;;;;;
-trinket_health_care_desc;Doctors and nurses have a rudimentary understanding of wounds and diseases, partially relying on old beliefs when treating patients, but they do have formal training. Hospitals have rules to reduce overcrowding (beds are spaced a meter apart), provisions for ventilation, and the sewers leading from the hospital are flushed several times a day while the latrines/drains are disinfected with peat charcoal. There is meager collection of patient data but there aren't any proper sanitation standards for hospitals nor government agencies to check them. Healthcare facilities are hard to find.\n§YFor the full effects of this reform, your administration spending should be at least 20%.§W;;;;;;;;;;;;;
-low_health_care;Low Healthcare;;;;;;;;;;;;;
-low_health_care_desc;Doctors and nurses are starting to understand wounds and diseases better during their studies and apply the principles of the so-called "germ theory" when treating patients. A Sanitary Commission was founded and its agents can be seen patrolling the hospitals, albeit infrequently, to guarantee a rudimentary sanitation standard. Healthcare facilities are starting to become common.\n§YFor the full effects of this reform, your administration spending should be at least 30%.§W;;;;;;;;;;;;;
-acceptable_health_care;Acceptable Healthcare;;;;;;;;;;;;;
-acceptable_health_care_desc;Medicine is a fully-fledged profession, with doctors and nurses graduating with complete understanding of the human body and a vast knowledge of diseases and how to treat them. Sterilization of the facilities and equipment is common, with Chamberland Filters used to filter water and the Chamberland Autoclave used for heating solutions above their boiling point to destroy dangerous microorganisms. Government agencies exist to enforce sanitation controls and ensure there's no overcrowding. Finding a clinic in an urban center is a relatively easy job and hospitals abandoned oil lamps in favor of gaslights that increase the efficiency of staff.\n§YFor the full effects of this reform, your administration spending should be at least 40%.§W;;;;;;;;;;;;;
-good_health_care;Good Healthcare;;;;;;;;;;;;;
-good_health_care_desc;The discovery of several vaccines revolutionized medicine, with vaccination being mandatory or strongly encouraged by the government. Doctors now use pharmaceuticals to treat patients and full sterilization of all medical equipment and facilities, quarantine procedures for infectious diseases and proper disposal of medical waste are mandatory practices enforced by the sanitation standards of the government agencies. Finding clinics or hospitals in smaller population centers is common, overcrowding is rare and some smaller health centers are starting to appear even in rural areas. Hospitals are equipped with modern electric lights and informational posters for staff.\n§YFor the full effects of this reform, your administration spending should be at least 50%.\nA fully funded administration provides a bonus to this reform.§W;;;;;;;;;;;;;
-school_reforms;School System;;;;;;;;;;;;;
-no_schools_l;No School System;;;;;;;;;;;;;
-no_schools;No School System;;;;;;;;;;;;;
-no_schools_desc;There's no organized school system or budget for education. The scarce literacy gain that is achieved comes from religious schools or it is based on informal community teaching, though these places get some funding, indirectly, from the government. Higher education institutions are either non existent or completely religious and medieval.\n§RIf average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.§W;;;;;;;;;;;;;
-low_schools;Basic School System;;;;;;;;;;;;;
-low_schools_l;Basic School System;;;;;;;;;;;;;
-low_schools_desc;A rudimentary school system exists in the capital and a few important cities but enrollment is completely optional. Schools limits themselves to teaching pupils how to read and write. There's no government agency to inspect schools and they have no common standards for teaching, with the few courses that exist being overcrowded. Private schools are commonly in the same conditions. Teachers don't have professional formation and are often just literate men, while pupils often leave school without being properly schooled.\n§YFor the full effects of this reform, your education spending should be at least 30%.§W\n§RIf average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.§W;;;;;;;;;;;;;
-acceptable_schools;Acceptable School System;;;;;;;;;;;;;
-acceptable_schools_l;Acceptable School System;;;;;;;;;;;;;
-acceptable_schools_desc;Schools can be found in every major and most of the medium cities. A government agency exists to ensure quality standards in education and to inspect that proper facilities are used for it. Enrollment is encouraged and sometimes it's outright mandatory, but it's not properly enforced and pupils often don't go to school for a variety of reasons. Children are also taught math and a few other subjects. Education institutions for teenagers are starting to appear, and secular, higher education institutions for adults are common. Teachers are formally trained, but oftentimes poorly.\n§YFor the full effects of this reform, your education spending should be at least 40%.§W\n§RIf average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.§W;;;;;;;;;;;;;
-good_schools;Good School System;;;;;;;;;;;;;
-good_schools_l;Good School System;;;;;;;;;;;;;
-good_schools_desc;Schools can be found in almost every city. Government agencies take education with the utmost seriousness, and enrollment is mandatory and tightly controlled. Children and teenagers are taught a variety of subjects besides reading and writing and teachers are taught pedagogy during their formation. Literacy campaigns for adults and the elderly are a part of the government's effort to eradicate illiteracy. Higher education institutions are considered good, with opportunities for the poor classes to enroll.\n§YFor the full effects of this reform, your education spending should be at least 50%.\nA fully funded education provides a bonus to this reform.§W\n§RIf average literacy is more than 25%, education funding needs to be more than 10%. If it is 50%, funding needs to be at least 20%. If it is 75%, funding needs to be at least 30%. Otherwise literacy will start to fall.§W;;;;;;;;;;;;;
-RULE_RICH_ONLY;\nRich Only;;;;;;;;;;;;;
-RULE_SAME_AS_RULING_PARTY;\nSame As Ruling Party;;;;;;;;;;;;;
-RULE_STATE_VOTE;\nState Vote;;;;;;;;;;;;;
-RULE_POPULATION_VOTE;\nPopulation Vote;;;;;;;;;;;;;
-ISSUE_MOVE_EFFECT;§Y$PERCENTAGE$%§W of pops move from §YFROM§W to §YTO§W\n;;;;;;;;;;;;;
-social_policy;Welfare Policy;;;;;;;;;;;;;
-colonial_spending_policy;Colonial;;;;;;;;;;;;;
-colonial_spending_policy_l;Colonial;;;;;;;;;;;;;
-colonial_spending_policy_desc;The government has a colonial policy towards its subjects and has no intention of spending any money on their welfare.;;;;;;;;;;;;;
-no_state_interference;Opposed to Welfare;;;;;;;;;;;;;
-no_state_interference_l;Opposed to Welfare;;;;;;;;;;;;;
-no_state_interference_desc;The government feels that welfare expenditures are unnecessary and that individuals should look after themselves.;;;;;;;;;;;;;
-no_position_set;No Official Policy;;;;;;;;;;;;;
-no_position_set_l;No Official Welfare Policy;;;;;;;;;;;;;
-no_position_set_desc;There's no official position on welfare policy and how much should the government spend on it, the amount being largely left for the ruler to decide.;;;;;;;;;;;;;
-populist_welfare;Paternalistic;;;;;;;;;;;;;
-populist_welfare_l;Paternalistic Welfare;;;;;;;;;;;;;
-populist_welfare_desc;The welfare system in this government has a paternalistic characteristic, with a minimum amount set to be spent in support of this oftentimes populist policy.;;;;;;;;;;;;;
-welfare_state;Full Welfare State;;;;;;;;;;;;;
-welfare_state_l;Full Welfare State;;;;;;;;;;;;;
-welfare_state_desc;This government feels that the welfare of the less fortunate is of the utmost importance and dedicates a piece of the budget to pursue this objective.;;;;;;;;;;;;;
-rail_focus;Colonial Policy;;;;;;;;;;;;;
-colonial_immigration;Encourage Colonial Migration;;;;;;;;;;;;;
-encourage_agriculture;Encourage Agriculture;;;;;;;;;;;;;
-encourage_mining;Encourage Mining;;;;;;;;;;;;;
-encourage_business;Encourage Business;;;;;;;;;;;;;
-militancy_appeasement;Colonial Appeasement;;;;;;;;;;;;;
-consciousness_appeasement;Colonial Propaganda;;;;;;;;;;;;;
-native_enslavement;Native Enslavement;;;;;;;;;;;;;
-NO_RAIL_YET;We can not encourage railroad building when we do not know how to build them yet.;;;;;;;;;;;;;
-CAN_NOT_BUILD_FACTORY;Can not build factory.\n;;;;;;;;;;;;;
-CAN_BUILD_FACTORY;Can build factory.\n;;;;;;;;;;;;;
-no_safety;No Safety Regulations;;;;;;;;;;;;;
-no_safety_desc;Death or grievous injuries in the workplace isn't a rare occurrence as employers don't need to think about safety, only profit. The government has no governing legislation covering safety in the workplace and workers rarely manage to sue their employers over accidents.;;;;;;;;;;;;;
-trinket_safety;Minimal Safety Regulations;;;;;;;;;;;;;
-trinket_safety_desc;Factories are required to provide proper ventilation and a regularly cleaned workspace. Workers can sue their employers in case of an accident but they rarely win any compensation. When they do the amount is usually negligible. Safety regulations only applies to factories.;;;;;;;;;;;;;
-low_safety;Limited Safety Regulations;;;;;;;;;;;;;
-low_safety_desc;Safety regulations extend to the agricultural, civil construction and mining sectors. In mines, the use of safety lamps is mandatory. Employees suing their employers still have a hard time winning any significant compensation, but the government offers help to the affected families, albeit the amount given is barely enough to scrap an existence.;;;;;;;;;;;;;
-acceptable_safety;Regular Safety Regulations;;;;;;;;;;;;;
-acceptable_safety_desc;Safety regulations extend to all workplaces in our country. Government agencies label agricultural chemicals for toxicity and potential health impacts, mining and construction workers are required to use protection gear and hand brakes operated by workers riding on top of train cars were abolished. Employees have their rights guaranteed and getting compensation for accidents that happen due to employer negligence is a common occurrence. Government help to the victims is reasonable.;;;;;;;;;;;;;
-good_safety;Good Safety Regulations;;;;;;;;;;;;;
-good_safety_desc;Safety regulations extend to all workplaces in our country and cover potential psychological problems due to extended isolation and even minor injuries. Employers are obliged to supply workers with protection equipment and safety training. Warnings and reminders are spread through the workplace to guarantee workers remember their safety instructions. Getting compensation for employer negligence in the workplace is easy and the government supports victims with a good amount of money.;;;;;;;;;;;;;
-no_work_hour_limit_desc;No limit on working hours per day. Workers have virtually no rights and employers do as they please with their workers. Conditions in some workplaces are analogue to slavery.;;;;;;;;;;;;;
-fourteen_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At fourteen hours per day, most workers have barely any time for their families.;;;;;;;;;;;;;
-twelve_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At twelve hours per day, workers are starting to have time to spend with their families and are quickly becoming common visitors of taverns and cabarets after work.;;;;;;;;;;;;;
-ten_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. Weekends without work are a common occurrence and white-collar workers have a system of annual vacations.;;;;;;;;;;;;;
-eight_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At eight hours per day, almost all workers have the right to weekends off and annual vacations. Free time for leisure is at an all time high and the entertainment industry is in the middle of a boom. All over our country resorts emerge thanks to cheap hotels and inexpensive railway fares, widespread banking holidays and we watch the fading of many religious prohibitions against secular activities on Sundays.;;;;;;;;;;;;;
-work_hours;Max. Work Hours;;;;;;;;;;;;;
-movement_fourteen_hours;Maximum Work Hours Movement;;;;;;;;;;;;;
-movement_twelve_hours;Maximum Work Hours Movement;;;;;;;;;;;;;
-movement_ten_hours;Maximum Work Hours Movement;;;;;;;;;;;;;
-movement_eight_hours;Maximum Work Hours Movement;;;;;;;;;;;;;
-POLITICS_SUPPORT_REFORM;$IDEOLOGY$: $POSITIVE$% votes yes, $NEGATIVE$% votes no.($PERCENT$% of Upper House)\n;;;;;;;;;;;;;
-POLITICS_IN_FAVOR_TOOLTIP;($PERCENT$% of the Upper House in favor of reforms);;;;;;;;;;;;;
-POLITICS_UPPERHOUSE_CHART_TOOLTIP;$PERCENT$% of the Upper House are $IDEOLOGY$\n;;;;;;;;;;;;;
-POLITICS_UPPERHOUSE;Upper House;;;;;;;;;;;;;
-HAVE_INDUSTRIAL_SCORE_LESS_THAN;Have less Industrial Score than: ;;;;;;;;;;;;;
-CHANGE_GOODS;Change trade goods in §Y$PROV$§W to §Y$GOOD$§W.\n;;;;;;;;;;;;;
-HAVE_LESS_TOTAL_PORTS_THAN;Have equal or less ports than: ;;;;;;;;;;;;;
-HAVE_MORE_TOTAL_PORTS_THAN;Have equal or more ports than: ;;;;;;;;;;;;;
-TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: §Y$COUNT$§W \n;;;;;;;;;;;;;
-LESS_AMOUNT_OF_SHIPS;Less amount of ships than: §Y$COUNT$§W \n;;;;;;;;;;;;;
-ibadi;Ibadi;;;;;;;;;;;;;
-HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years.;;;;;;;;;;;;;
-NOT_IN_ELECTION_CAMPAIGN;is NOT in an election campaign.;;;;;;;;;;;;;
-PEACE_WE_DECLINE_2;We have declined the peace offer from;;;;;;;;;;;;;
-PEACE_WE_ACCEPT_2;We have accepted a peace offer from;;;;;;;;;;;;;
-CALCULATED_WARSCORE;Peace offer value: $VAL$;;;;;;;;;;;;;
-CRISIS_BACK_DOWN_WE_DECLINE_2;We have declined the peace offer from;;;;;;;;;;;;;
-HAVE_LESS_VASSALS_THAN;Have less vassals than ;;;;;;;;;;;;;
-BUDGET_ADMIN_EFFICIENCY_DESC2;Our §Ycountry administrative efficiency§W determines the effectiveness of social reforms and tariffs. Our total spending also increases the ability to fight organized crime.;;;;;;;;;;;;;
-ADM_DESC;Spending on administration allows your bureaucrats to run and maintain a healthy bureaucracy, increasing our tariff efficiency and the rate of pop promotion.;;;;;;;;;;;;;
-NO_POPS_OF_TYPE;There are no pops of this type in our country.;;;;;;;;;;;;;
-NAT_STOCK_DESC;Costs of trade to fill our national stockpile. Includes spending with construction, naval supplies, land units supplies and overseas maintenance.;;;;;;;;;;;;;
-IND_SUP_DESC;Costs of government subsidizing of factories. National cash reserves will be used to help factories buy goods needed and pay worker salaries.;;;;;;;;;;;;;
-DIST_DEFENCE;Military Spending;;;;;;;;;;;;;
-DEFENCE_DESC;The military spending goes towards paying your soldiers and officers.;;;;;;;;;;;;;
-SOCIAL_DESC2;The social spending budget goes towards funding your enacted social reforms. The amount of money to distribute depends on your §Ycountry administrative efficiency§W.;;;;;;;;;;;;;
-TAX_MIDDLE_DESC;This controls how much of the middle strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs or businesses.;;;;;;;;;;;;;
-TARIFFS_DESC;Tariffs impose an extra cost on imported goods, with the proceeds going to the national treasury. Negative tariffs can be used to help subsidize imports for anyone in your nation.;;;;;;;;;;;;;
-precious_metal_desc;Gold, silver, diamonds, pearls and other precious goods are not sold as normal goods but are directly converted to money.;;;;;;;;;;;;;
-GOLD;Precious Goods;;;;;;;;;;;;;
-BUDGET_GOLD_INCOME_DESC;Income from precious goods.;;;;;;;;;;;;;
-BUDGET_GOLD;Precious Goods: §Y$VAL$§W;;;;;;;;;;;;;
-EDU_DESC;The education budget is used to pay the intellectuals and influence literacy.;;;;;;;;;;;;;
-MIL_COST_DESC;Supply costs for your military, Army and Navy, not including construction costs, salaries or overseas maintenance of provinces.;;;;;;;;;;;;;
-STOCKPILE_COST_ESTIMATED;The National Stockpile consists of the expenses with the Army, Navy, construction budget and the maintenance of overseas provinces.\nWe §Yestimate§! tomorrow's stockpile purchases will cost:;;;;;;;;;;;;;
-BUDGET_OVERSEAS;Overseas Maintenance;;;;;;;;;;;;;
-BUDGET_CONSUMED_OVERSEAS;Overseas Maintenance expenses are calculated with the National Stockpile and can't be lowered.\nEstimated cost of last day's overseas goods consumption:;;;;;;;;;;;;;
-BUDGET_CONSUMED_MILITARY;Estimated cost of last day's military goods consumption:;;;;;;;;;;;;;
-BUDGET_DIPL_DESC;Costs or profits incurred through diplomacy or peace deals as a result of paid or received reparations.;;;;;;;;;;;;;
-congo_master;Congo Overlord;;;;;;;;;;;;;
-DOMINION_OF_NOCOLOR;Dominion of;;;;;;;;;;;;;
-SATELLITE_OF_NOCOLOR;Satellite of;;;;;;;;;;;;;
-SUBSTATE_OF_NOCOLOR;Substate of;;;;;;;;;;;;;
-HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is greater than: ;;;;;;;;;;;;;
-HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is less than: ;;;;;;;;;;;;;
-yes_to_congo;Voted Yes in the Congo Question;;;;;;;;;;;;;
-NEED_POSITIVE_WARSCORE;The war is not going well enough. §RIn wars were you are not the war leader, contribution is calculated individually. Even though the total warscore might be positive, what allows you to add or not war goals is your individual warscore - your individual contribution - in this war.§W;;;;;;;;;;;;;
-WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our country, but have only $VALUE$. Jingoism represents the Ruler or the Upper House will to extend the war. The higher the jingoism, the more the chances that the necessary actors have the will and/or support to extend the war.;;;;;;;;;;;;;
-berlin_conference;Berlin Conference;;;;;;;;;;;;;
-enforce_conference_decision;Enforce Deliberation;;;;;;;;;;;;;
-enforce_conference_decision_desc;Force a §Ycountry§W to abide to the §YGreat Powers§W deliberation.;;;;;;;;;;;;;
-enforce_conference_decision_short;Abide to the §YGreat Powers§W deliberation.;;;;;;;;;;;;;
-enforce_conference_decision_setup;Force a §Ycountry§W to abide to the §YGreat Powers§W deliberation.;;;;;;;;;;;;;
-no_to_congo;Votes No for the Congo Free State.;;;;;;;;;;;;;
-abstained_to_congo;Abstain from Voting.;;;;;;;;;;;;;
-admin_spen;AI Administration Spending;;;;;;;;;;;;;
-educational_spen;AI Educational Spending;;;;;;;;;;;;;
-has_siege;Has Siege;;;;;;;;;;;;;
-debt_default_to;Debt Default To;;;;;;;;;;;;;
-democracy;Republic;;;;;;;;;;;;;
-MAPMODE_3;Revolt Risk Mapmode;;;;;;;;;;;;;
-MAPMODE_11;RGO Output Mapmode;;;;;;;;;;;;;
-MAPMODE_12;Population Density Mapmode;;;;;;;;;;;;;
-MAPMODE_13;Culture Mapmode;;;;;;;;;;;;;
-MAPMODE_14;Sphere of Influence Mapmode;;;;;;;;;;;;;
-MAPMODE_15;Supply Limit Mapmode;;;;;;;;;;;;;
-MAPMODE_16;Party Loyalty Mapmode;;;;;;;;;;;;;
-MAPMODE_17;Ranking Mapmode;;;;;;;;;;;;;
-MAPMODE_18;Migrations Mapmode;;;;;;;;;;;;;
-MAPMODE_20;Relations Mapmode;;;;;;;;;;;;;
-MAPMODE_21;Crises Mapmode;;;;;;;;;;;;;
-MAPMODE_22;Naval Mapmode;;;;;;;;;;;;;
-PV_POP_NATIONALITY;Culture;;;;;;;;;;;;;
-POPV_SORT_BY_RR;Rebel Faction;;;;;;;;;;;;;
-NATIONALITY_DISTTITLE;Culture;;;;;;;;;;;;;
-TERM_FOR_LIFE;No Elections in this form of government.;;;;;;;;;;;;;
-HAVE_LESS_BADBOY_THAN;Have less infamy than ;;;;;;;;;;;;;
-HAVE_AT_LEAST_ONE_OWNED_NEIGHBORING_PROVINCE;Have at least one owned neighboring province such that:;;;;;;;;;;;;;
-DONT_HAVE_THE_PROVINCE_MODIFIER;Do NOT have the province modifier ;;;;;;;;;;;;;
-HAS_NO_NATIONAL_MINORITY;Has Minorities;;;;;;;;;;;;;
-HAS_NOT_NATIONAL_MINORITY;Has Minorities;;;;;;;;;;;;;
-HAS_NATIONAL_MINORITY;Has Minorities;;;;;;;;;;;;;
-beifaren;North Han;;;;;;;;;;;;;
-nanfaren;South Han;;;;;;;;;;;;;
-control_1;Obsolete Piston Steam Engine;;;;;;;;;;;;;
-control_1_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that Piston Steam Engines have become rather obsolete and lost some of their advantages.;;;;;;;;;;;;;
-control_2;Obsolete High-Pressure Steam Engine;;;;;;;;;;;;;
-control_2_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that High-Pressure Steam Engines have become rather obsolete and lost some of their advantages.;;;;;;;;;;;;;
-control_3;Obsolete Compound Steam Engine;;;;;;;;;;;;;
-control_3_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that Compound Steam Engines have become rather obsolete and lost some of their advantages.;;;;;;;;;;;;;
-control_4;Obsolete Steam Turbines;;;;;;;;;;;;;
-control_4_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that Steam Turbines have become rather obsolete and lost some of their advantages.;;;;;;;;;;;;;
-acceptable_subsidies_l;Extended Subsidies;;;;;;;;;;;;;
-MONEY_IS_ATLEAST_TRIGGER;Money is at least §Y$VALUE$§W¤.\n;;;;;;;;;;;;;
-EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$§! construction will take place in: §Y$PROVS$§!\n;;;;;;;;;;;;;
-ADD_WARGOAL_PRESTIGE;If we achieve this war goal, we will gain $COST$ §Yprestige§W;;;;;;;;;;;;;
-ADD_WARGOAL_MILITANCY;If we fail to achieve this war goal, our entire population will gain $MILITANCY$ §YMilitancy§W;;;;;;;;;;;;;
-ADD_WARGOAL_EFFECT;When we add this war goal, we will gain:;;;;;;;;;;;;;
-ADD_WARGOAL_SUCCESS;If we achieve this war goal, we will gain:;;;;;;;;;;;;;
-ADD_WARGOAL_FAILURE;If we fail to achieve this war goal, we will gain:;;;;;;;;;;;;;
-BUY_FROM_STOCKPILE_DESC;Allow pops/factories to buy from country stockpile.\n\n§YNOTE: §RNEVER§W use this button while you are still buying or selling manually. §RONLY§W use it with automatic trade §GON§W for §RALL§W goods.§W §RFailing to do so will cause economy crashes both locally and globally. Use it at your own risk.§W;;;;;;;;;;;;;
-military_political_decision_making;Military-Political Decision-Making;;;;;;;;;;;;;
-army_military_political_decision_making;Military-Political Decision-Making;;;;;;;;;;;;;
-army_military_political_decision_making_desc;In wartime an influential Army that had lobbied for their cause for a long time could get full control not only over the execution of the war, but also over the resource management of the country. This could basically be called a Military Dictatorship governed by the General Staff.;;;;;;;;;;;;;
-COALITION_WIN;A coalition of §Y$IDE$§W got $VAL$% of the seats and will form the basis of the government.;;;;;;;;;;;;;
-RULE_PRIMARY_CULTURE_VOTING;\nPrimary culture can vote;;;;;;;;;;;;;
-RULE_CULTURE_VOTING;\nAccepted cultures can vote;;;;;;;;;;;;;
-RULE_ALL_VOTING;\nAll cultures can vote;;;;;;;;;;;;;
-lacking_writing_system;Lacks Writing System;;;;;;;;;;;;;
-clay_and_douglas_draft_enacted;Clay and Douglas Draft Signed;;;;;;;;;;;;;
-wilmot_proviso_providing;Wilmot Proviso Signed;;;;;;;;;;;;;
-timber;Wood;;;;;;;;;;;;;
-timber_RGO_SIZE;Wood lodge size;;;;;;;;;;;;;
-aeroplane_factory_desc;Most aircraft in the era are constructed from wood, using metal sockets to joint members and making use of piano wire or stranded steel cable for bracing. Wooden construction typically involved several different types of timber, with careful use of different woods according to their mechanical properties and they were typically covered in a variety of fabrics including rubberized cotton and varnished silk. The first engine design to be widely used for powering aircraft was the Antoinette water-cooled V8 engine, believed to be the very first V-form eight-cylinder internal combustion engine ever placed in production.;;;;;;;;;;;;;
-barrel_factory_desc;The tank is the 20th century realization of an ancient concept: that of providing troops with mobile protection and firepower and it was born of the need to break the domination of trenches, barbed wire and machine guns over the battlefields. The internal combustion engine, armor plate, and the continuous track were key innovations leading to the invention of the modern tank. One of the earliest used designs was a rhomboid vehicle with a low center of gravity and long track length, able to negotiate broken ground and cross trenches while the main armament was carried in sponsons on the hull sides.;;;;;;;;;;;;;
-automobile_factory_desc;Early automobiles, known as "Horseless Carriages", were simple vehicles with two or four stroke combustion engines capable of 2/3 horsepower (0.50 kW) at 250 rpm. Featuring an open crankcase and the use of a pushrod-operated poppet valve for exhaust, a large horizontal flywheel that stabilized the single-cylinder engine's power output and an evaporative carburettor controlled by a sleeve valve to regulate power and engine speed. They were produced in small workshops but evolved fast, with the simple open metal frame soon giving way to chassis with glass windows.;;;;;;;;;;;;;
-telephone_factory_desc;The earliest telephones had only one wire for both transmitting and receiving of audio, but the design was quickly replaced by the candlestick telephone. It featured a base with a vertical cylindrical neck extending upright for up to 10 inches in length. At the top of the stand was mounted a carbon microphone (transmitter) to speak into, and a switchhook extending sideways upon which an ear piece (receiver) was hung. In order to make or answer a telephone call, the user lifted the receiver off the switchhook, thereby activating an internal switch connecting the telephone to the telephone line.;;;;;;;;;;;;;
-electric_gear_factory_desc;The age of electricity began in 1882 when Thomas A. Edison introduced a system of electric lighting in New York City. Electric lighting quickly spread across the United States and was soon adopted in Europe. The electrical components industry was born, producing a variety of electric components for cars, telephones, gramophones and industrial machinery in general as the electrification in the industry advanced. Electric gear is needed for a variety of things, among them automobiles, telephones, radios and aeroplanes.;;;;;;;;;;;;;
-machine_parts_factory_desc;The Industrial Revolution received a further boost with the popularization of railways. For the machinery industry this brought all sorts of new work with new machinery for metallurgy, machine tools for metalworking and production of steam engines for trains. In addition, the emerging machine factories started making machines for production machines as textile machinery, compressors, agricultural machinery, and engines for ships. In time the market for the machine industry became wider, specialized products were manufactured for a greater national and often international market.;;;;;;;;;;;;;
-fuel_refinery;Oil Refinery;;;;;;;;;;;;;
-fuel_refinery_desc;An oil refinery is an industrial process plant where crude oil is processed and refined into more useful products such as petroleum naphtha, gasoline, diesel fuel, asphalt base, heating oil, kerosene and liquefied petroleum gas. In the Refinery, crude oil is separated into fractions by fractional distillation. The fractions at the top of the fractionating column have lower boiling points than the fractions at the bottom. The heavy bottom fractions are often cracked into lighter, more useful products. All of the fractions are processed further in other refining units.;;;;;;;;;;;;;
-radio_factory_desc;AM radio uses amplitude modulation, in which the amplitude of the transmitted signal is made proportional to the sound amplitude captured (transduced) by the microphone, while the transmitted frequency remains unchanged. It can be a TRF receiver or a superheterodyne receiver, the latter typically using 6 triodes: a mixer, local oscillator, two IF and two audio amplifier stages, with an IF of 45 kHz. The radio case could be made of Bakelite or wood and the insides typically were made out of a variety of metals and vacuum tubes, with the occasional rubber to isolate.;;;;;;;;;;;;;
-synthetic_oil_factory;Coal Liquefaction Plant;;;;;;;;;;;;;
-synthetic_oil_factory_desc;The main methods of direct conversion of coal to liquids by hydrogenation process is the Bergius process. In this process, the coal is finely ground and dried in a stream of hot gas. The dry product is mixed with heavy oil recycled from the process and a catalyst is typically added to the mixture. Usually, iron sulphides present in the coal may have sufficient catalytic activity for the process. The mixture is then pumped into a reactor and the reaction occurs between 400 to 500 °C and 20 to 70 MPa hydrogen pressure. The reaction produces heavy oils, middle oils, gasoline, and gases.;;;;;;;;;;;;;
-steamer_shipyard_desc;The key innovation that made steamers viable is the change from the paddle-wheel to the screw-propeller for propulsion. Steam engines are designed with the power delivered at the bottom of the machinery, to give direct drive to the propeller shaft, where it passes to the stern tube through the hull. Since the motive power of screw propulsion is delivered along the shaft, a thrust bearing is needed to transfer that load without excessive friction.;;;;;;;;;;;;;
-clipper_shipyard_desc;Clippers are fast vessels with three masts and a square rig. They are generally narrow for their length, can carry limited bulk freight and have a large total sail area. Optimized for speed, they are too fine-lined to carry much cargo. Clippers typically carry extra sails such as skysails and moonrakers on the masts and studdingsails on booms extending out from the hull or yards, which required extra hands to handle them.;;;;;;;;;;;;;
-luxury_clothes_factory_desc;Garment made of a single piece of the finest silk, its unique color acquired by repeated immersions in dyes whose shades were suggestive of moonlight or of the watery reflections of the Venetian lagoons, clothing embroiled with gold threads, handmade printed silk square scarves. The curvaceous S-Bend silhouette dominated fashion for women, the corset tightly laced at the waist which forced the hips back. Men wore tight-fitting, calf length frock coats and a waistcoat or vest. The vests were single - or double-breasted, with shawl or notched collars and accompanied by a crane or a hat.;;;;;;;;;;;;;
-luxury_furniture_factory_desc;Dark or gilded carved wood and richly patterned fabrics, intricate gold ornaments, cushions and fabric made out of silk, the finest or most exotic wood in the world used in furniture. Luxury furniture designers use and modify many styles taken from various time periods in history like Gothic, Tudor, Elizabethan, English Rococo, Neoclassical and others. The Gothic and Rococo revival style are the most common styles to be seen in furniture during this time in history. Styles are mixed with the introduction of middle east and Asian influences in furniture, fittings, and interior decoration.;;;;;;;;;;;;;
-steel_factory;Steel Mill;;;;;;;;;;;;;
-steel_factory_desc;Steel is an alloy of iron and other elements, primarily carbon, used in construction and other applications. When iron is smelted from its ore it contains more carbon than is desirable. To become steel, it must be reprocessed to reduce the carbon to the correct amount, at which point other elements can be added. Steel mills cast the raw iron into ingots which are stored until further refinement processes. The steel ingots are then heated in a soaking pit and hot rolled into slabs, blooms, or billets. Those are rolled into sheet metal, plates, bars, rods, wires and structural steel, such as I-beams and rails.;;;;;;;;;;;;;
-artillery_factory_desc;The first stage of artillery production is to create an exact model of the gun, mortar, or howitzer. This is built up upon a tapered wooden spindle, from eight to 12 feet in length and about two inches less than the model in diameter. The spindle is then set upon a wooden turning frame and covered with grease or soap to aid in its eventual removal from the mould. A coat of a lye mixture is spread over the interior surface to prevent the molten metal of the casting adhering to the walls of the mould. The mould is then taken to the casting pit to be annealed.;;;;;;;;;;;;;
-small_arms_factory_desc;The basic equipment of the military, encompassing small arms such as muskets, rifled muskets, pistols, revolvers and rifles. Rifled muskets, the most common firearm in the mid 19th century was wrought in iron, forged as one piece, annealed, and machined to the configuration of a threaded plug extending from one leg of an L-shaped tang. It was carburized for wear resistance, and finished in wood in the stock and barrel bands. Some of them were rifled while old musket models weren't, and they typically came with a bayonet and a ramrod.;;;;;;;;;;;;;
-furniture_factory_desc;Well off pops live in very comfortable houses, although their servants lived in cramped quarters, often in the attic. During the 19th century, for the first time in history furniture was mass-produced. That meant it was cheaper but unfortunately standards of design fell. In the early 19th century skilled workers usually lived in 'through houses' i.e. ones that were not joined to the backs of other houses while the general populace often lived in 'back-to-backs'. These were houses of three (or sometimes only two) rooms, one of top of the other.;;;;;;;;;;;;;
-paper_mill_desc;The paper mill uses a Fourdrinier machine to make paper from vegetable fibers such as wood pulp. The machine is composed of a conveyor belt woven from bronze in the forming section, where a slurry of fiber (usually wood or other vegetable fibers) is drained to create a continuous paper web. After the forming section the wet web passes through a horizontal drainage area, referred to as the drainage table, thus creating a continuous production of Paper. Paper is used for books, newspapers and other means of information.;;;;;;;;;;;;;
-regular_clothes_factory;Clothes Factory;;;;;;;;;;;;;
-regular_clothes_factory_desc;During the industrial revolution, fabric production was mechanized with machines powered by waterwheels and steam-engines. Production shifted from small cottage based production to mass production based on assembly line organization, with the sewing machine revolutionized clothes productions. The original machine was made of wood and uses a barbed needle which passes downward through the cloth to grab the thread and pull it up to form a loop to be locked by the next loop.;;;;;;;;;;;;;
-explosives_factory_desc;The explosives factory manufacture a variety of components for industrial and military use like nitroglycerin, dynamite and black powder. In the early 19th century black power was the main fabricated component, used to mine for minerals, break rocks, clear fields and make roads. With the invention of dynamite, mines could be dug deeper and more quickly, and uneconomical deposits thus became profitable. Still, the main use of explosives was in the military industry: bombs, gunpowder, ordnances. For infantry, artillery or sappers, the use of explosives and gunpowder was central in the army.;;;;;;;;;;;;;
-ammunition_factory_desc;Swaging, rather than casting, was the preferred manufacturing technique during the 19th century for ammunition. Swaged bullets are bullets manufactured by swaging room temperature metals into a die to form it into the shape of a bullet. The other common manufacturing method is casting, which uses molten metals poured into a mold. Disadvantages became evident as loadings shifted to smokeless powder in the late 19th century and manufacturers of high-velocity military ammunition modified their bullet swaging process to apply a thin sheet of stronger metal over the soft lead bullet.;;;;;;;;;;;;;
-canned_food_factory_desc;The canning concept is based on experimental food preservation work in glass containers by the French inventor Nicholas Appert. The fabrication of most cans results in at least one "rim", a narrow ring whose outside diameter is slightly larger than that of the rest of the can. The flat surfaces of rimmed cans are recessed from the edge of any rim (toward the middle of the can) by about the width of the rim: the inside diameter of a rim, adjacent to this recessed surface, is slightly smaller than the inside diameter of the rest of the can. Canned food is mainly used for military rations.;;;;;;;;;;;;;
-dye_factory;Synthetic Dyeworks;;;;;;;;;;;;;
-dye_factory_desc;Natural dye is only present in small amounts and its extraction is often inefficient, so they are usually expensive. In an experiment with a compound called aniline, one of the simplest chemical components of coal tar, one inventor discovered that an alcohol extracted purple color, which readily dyed silk, and was much more stable in sunlight than any other purple dye in use. In the Synthetic Dyeworks dyes are mixed, synthesized in a reactor, filtered for impurities, dried out and then blended. Along the way many other additives, solvents and chemical compounds are used to instigate reactions.;;;;;;;;;;;;;
-liquor;Beverages;;;;;;;;;;;;;
-liquor_distillery;Bottling Works;;;;;;;;;;;;;
-liquor_distillery_desc;The earliest reference to carbonated ginger beer is in a Practical Treatise on Brewing. published in 1809. The drinking of either natural or artificial mineral water was considered at the time to be a healthy practice, and was promoted by advocates of temperance. Pharmacists selling mineral waters began to add herbs and chemicals to unflavored mineral water. They used birch bark, dandelion, sarsaparilla, fruit extracts, and other substances. Flavorings were also added to improve the taste.;;;;;;;;;;;;;
-winery_desc;The wine-making process involves the fermentation of fruit, with natural yeast or not, as well as blending. The malo-lactic conversion happens after, which is a bacterial process which converts "crisp, green apple" malic acid to "soft, creamy" lactic acid softening the taste of the wine. The wine is sometimes transferred to oak barrels to mature for a period of weeks or months. The wine must be settled or clarified and adjustments made prior to bottling. The process produces wastewater, pomace, and lees that require collection, treatment, and disposal or beneficial use.;;;;;;;;;;;;;
-lumber_mill;Sawmill;;;;;;;;;;;;;
-lumber_mill_desc;At the sawmill, the logs are cut into boards using equipment such as circular saws and bandsaws. This is called conversion. The first stage of conversion is a process called breaking down, which means rough sawing. The second stage is called resawing and refers to more accurate / precise cutting and finishing, such as planing and further machining. The introduction of steam power in the 19th century created many new possibilities for mills, with steam powered sawmills being far more mechanized and scrap lumber from the mill providing a ready fuel source for firing the boiler.;;;;;;;;;;;;;
-fabric_factory;Textile Mill;;;;;;;;;;;;;
-fabric_factory_desc;Fabric is a tightly woven textile made in a Textile Mill which is, among other things, used to produce sails for ships as well as clothing. With the Cartwright Loom, the Spinning Mule and the Boulton & Watt steam engine, the pieces were in place to build a mechanized textile industry. From this point there were no new inventions, but a continuous improvement in technology as the mill-owner strove to reduce cost and improve quality. Developments in the transport infrastructure facilitated the import of raw materials and export of finished cloth, diminishing costs and increasing profits.;;;;;;;;;;;;;
-cement_factory_desc;In 1824 Joseph Aspdin, a British bricklayer turned builder, patented a chemical process for making portland cement which was an important advance in the building trades. This process involves sintering a mixture of clay and limestone to about 1,400°C (2,552°F), then grinding it into a fine powder which is then mixed with water, sand and gravel to produce concrete. Concrete is used to build factories, forts, shipyards, buildings, sewage systems and tunnels. Its use quickly became widespread in civil and military construction.;;;;;;;;;;;;;
-glass_factory_desc;A new method of producing glass, known as the cylinder process, was developed in Europe during the early 19th century. In 1832, this process was used by the Chance Brothers to create sheet glass. This advancement allowed for larger panes of glass to be created without interruption, thus freeing up the space planning in interiors as well as the fenestration of buildings. The other glass-making method is glassblowing which produces bottles and other containers. Glass is used for a variety of appliances like bottles, windows, bowls, vases, lamps, jars, vacuum tubes and light bulbs.;;;;;;;;;;;;;
-fertilizer_factory_desc;In this factory fertilizer is created out of guano, sulphur or bone meal. The most common way to create fertilizer is the Birkeland–Eyde process. This process was used to fix atmospheric nitrogen (N2) into nitric acid (HNO3), one of several chemical processes generally referred to as nitrogen fixation. The resultant nitric acid was then used as a source of nitrate (NO3-) for the fertilizers. These fertilizers are used to increase the productivity of farms or the chemical components are further refined to make explosives.;;;;;;;;;;;;;
-MODIFIER_CB_GENERATION_SPEED_MODIFIER;Casus Belli Acquisition Speed;;;;;;;;;;;;;
-MODIFIER_MOBILIZATION_IMPACT;Mobilization Impact;;;;;;;;;;;;;
-GREAT_WARS_ENABLED_DESC;Great Wars are discovered.\n;;;;;;;;;;;;;
-GREAT_WARS_DISABLED_DESC;Great Wars are undiscovered yet.\n;;;;;;;;;;;;;
-HAVE_NOT_A_PORT_IN;Do NOT have a port in ;;;;;;;;;;;;;
-IN_SOCIAL_MOVEMENT;in social movement\n;;;;;;;;;;;;;
-NOT_IN_SOCIAL_MOVEMENT;not in social movement\n;;;;;;;;;;;;;
-IN_POLITICAL_MOVEMENT;in political movement\n;;;;;;;;;;;;;
-NOT_IN_POLITICAL_MOVEMENT;not in political movement\n;;;;;;;;;;;;;
-NEUTRALITY_EFFECT;The nation becomes neutral, dissolving all alliances and setting all satellites free.;;;;;;;;;;;;;
-INFLUENCE_CHANGE;§Y$ACTIVE$§W influence with §Y$PASSIVE$§W changes by $MUCH$.\n;;;;;;;;;;;;;
-THE_CAPITAL_IS_NOT;The Capital Is Not ;;;;;;;;;;;;;
-ENDGAME_DESC;One hundred momentous years have passed and we have entered the modern age. The world is a radically different place, how did your country do?;;;;;;;;;;;;;
-DIPLOMACY_FILTER_NORTH_AMERICA;North America;;;;;;;;;;;;;
-DIPLOMACY_FILTER_OCEANIA;Near East;;;;;;;;;;;;;
-DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List §YNear Eastern§W countries;;;;;;;;;;;;;
-north_america;North America;;;;;;;;;;;;;
-oceania;Near East;;;;;;;;;;;;;
-siberian;Siberian Minor;;;;;;;;;;;;;
-tanzimat_reforms_enacted;Tanzimat Reforms Enacted;;;;;;;;;;;;;
-indo_iranian;Indo-Iranian;;;;;;;;;;;;;
-yazidi;Yazidi;;;;;;;;;;;;;
-yazidi_group;Yazidi Group;;;;;;;;;;;;;
-islamic_law;Islamic Law;;;;;;;;;;;;;
-EFFECT_CRISIS_INTEREST;$COUNTRY$ declares interest in the current crisis\n;;;;;;;;;;;;;
-NORMAL_WAR_NAME_FASCISM;The $ORDER$$FIRST$-$SECOND$ Blackshirt Revolution;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_FASCISM;The $ORDER$$FIRST$-$SECOND$ Blackshirt Revolution;;;;;;;;;;;;;
-NORMAL_WAR_NAME_COMMUNISM;The $ORDER$$FIRST$-$SECOND$ Revolutionary War;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_COMMUNISM;The $ORDER$$FIRST$-$SECOND$ Revolutionary War;;;;;;;;;;;;;
-NORMAL_WAR_NAME_DEMOCRACY;$ORDER$$FIRST$-$SECOND$ Counterrevolution;;;;;;;;;;;;;
-AGRESSION_WAR_NAME_DEMOCRACY;$ORDER$$FIRST$-$SECOND$ Counterrevolution;;;;;;;;;;;;;
-aristocrats;Landowners;;;;;;;;;;;;;
-appointed_desc;Landowners or capitalists have been assigned seats in the Upper House by the leader of the country.;;;;;;;;;;;;;
-landed_voting_desc;Only Landowners and Capitalists may vote.;;;;;;;;;;;;;
-promote_aristocrats;Encourage Landowners ;;;;;;;;;;;;;
-ELECTIONSTART_1;The Elections of $COUNTRY$ are starting;;;;;;;;;;;;;
-sepoy_rebellion;Sepoy Rebellion;;;;;;;;;;;;;
-IS_SUBSTATE_OF;Is a substate;;;;;;;;;;;;;
-IS_NOT_SUBSTATE_OF;Is NOT a substate;;;;;;;;;;;;;
-public_illumination;Public Illumination;;;;;;;;;;;;;
-IS_NOT_IN_A_SPHERE;Not in a sphere of influence.;;;;;;;;;;;;;
-HOLD_ELECTION_BUTTON;Hold Election;;;;;;;;;;;;;
-HOLD_ELECTION;Hold Election\n;;;;;;;;;;;;;
-NATIONALIZE_INDUSTRY_EFFECT;Perform Nationalization\n;;;;;;;;;;;;;
-2nd_caucasian_war;Second Caucasian War;;;;;;;;;;;;;
-RELEASE;Release §Y$WHO$§W as an independent state.\n;;;;;;;;;;;;;
-administrative_efficiency_modifier;Administrative Efficiency;;;;;;;;;;;;;
-MODIFIER_ADMINISTRATIVE_EFFICIENCY;Administrative Efficiency;;;;;;;;;;;;;
-in_great_war;In Great War;;;;;;;;;;;;;
-fascist_rebels_title;Fascist;;;;;;;;;;;;;
-fascist_rebels_name;$COUNTRY$ Fascists;;;;;;;;;;;;;
-fascist_rebels_desc;The Black Guard paramilitary organizations are revolutionaries driven by the radical new ideology of fascism. Labouring under the dogmas of violence and mass action, these battle trained revolutionaries will stop at nothing to overthrow old monarchies and young democracies alike, and replace them all with the absolutes of the Leviathan fascist state.;;;;;;;;;;;;;
-fascist_rebels_army;$COUNTRY_ADJ$ Paramilitary;;;;;;;;;;;;;
-dagestani;Dagestani;;;;;;;;;;;;;
-circassian;Circassian;;;;;;;;;;;;;
-chechen;Chechen;;;;;;;;;;;;;
-north_caucasian;Caucasian Minor;;;;;;;;;;;;;
-caucasian;North Caucasian;;;;;;;;;;;;;
-botanical_expedition_threatened;Botanical Expedition Threatened;;;;;;;;;;;;;
-participates_in_botanical_expedition;Participates in Botanical Expedition;;;;;;;;;;;;;
-ANY_POP_IN_PROVINCE_STARTS;Any Pop;;;;;;;;;;;;;
-house_of_rashid_exiled;House of Rashid Exiled;;;;;;;;;;;;;
-house_of_saud_returned;House of Saud Returned;;;;;;;;;;;;;
-house_of_saud_exiled;House of Saud Exiled;;;;;;;;;;;;;
-early_electrical_telegraph;Early Electrical Telegraph;;;;;;;;;;;;;
-early_electrical_telegraph_desc;The first commercial electrical telegraph was co-developed by Sir William Fothergill Cooke and Charles Wheatstone. This was a five-needle, six-wire system. The cables were originally installed underground in a steel conduit. However, the cables soon began to fail as a result of deteriorating insulation and were replaced with uninsulated wires on poles. As an interim measure, a two-needle system was used with three of the remaining working underground wires, which despite using only two needles had a greater number of codes.;;;;;;;;;;;;;
-telegraph;Telegraph;;;;;;;;;;;;;
-REMOVE_MONEY_EFFECT;Lose §R$VALUE$¤§W.\n;;;;;;;;;;;;;
-MONEY_EFFECT;Funds §R$VALUE$§W¤§W.\n;;;;;;;;;;;;;
-theocracy_ruler;Your Holiness;;;;;;;;;;;;;
-proletarian_dictatorship_ruler;Chairman;;;;;;;;;;;;;
-presidential_dictatorship_ruler;President;;;;;;;;;;;;;
-bourgeois_dictatorship_ruler;Board Director;;;;;;;;;;;;;
-fascist_dictatorship_ruler;Supreme Leader;;;;;;;;;;;;;
-absolute_monarchy_ruler;King;;;;;;;;;;;;;
-prussian_constitutionalism_ruler;King;;;;;;;;;;;;;
-hms_government_ruler;King;;;;;;;;;;;;;
-democracy_ruler;President;;;;;;;;;;;;;
-islamic_fundamentalists_title;Islamic Fundamentalists;;;;;;;;;;;;;
-islamic_fundamentalists_name;Islamic Fundamentalists;;;;;;;;;;;;;
-islamic_fundamentalists_desc;Islamic fundamentalists believe that Islam is based on the Qur'an, Hadith and Sunnah and "criticize the tradition, the commentaries, popular religious practices (maraboutism, the cult of saints), deviations, and superstitions". They aim to return to the founding texts, shake off the foreign decadence and to overthrow the government and establish a fundamentalist state.;;;;;;;;;;;;;
-islamic_fundamentalists_army;Islamic Fundamentalists;;;;;;;;;;;;;
-theocracy;Theocracy;;;;;;;;;;;;;
-artillery_production_desc;The Industrial Revolution of the 19th century affected practically all areas of human endeavour, and the production of artillery was no exception. What had previously been a lengthy process of cast molding bronze cannons would -- in the hands of luminaries of the industry, such as Alfred Krupp or Hiram Maxim -- become an industrialized and exact science.;;;;;;;;;;;;;
-australian;Australian;;;;;;;;;;;;;
-serfdom_not_abolished;Serfdom not abolished;;;;;;;;;;;;;
-theocratic_government;Theocratic Government;;;;;;;;;;;;;
-communist_gov;Communist Regime;;;;;;;;;;;;;
-absolute_monarchy_gov;Absolute Monarchy;;;;;;;;;;;;;
-semi_constitutional_monarchy_gov;Semi-Constitutional Monarchy;;;;;;;;;;;;;
-constitutional_monarchy_gov;Constitutional Monarchy;;;;;;;;;;;;;
-democracy_gov;Democracy;;;;;;;;;;;;;
-presidential_dictatorship_gov;Presidential Dictatorship;;;;;;;;;;;;;
-fascist_gov;Fascist Regime;;;;;;;;;;;;;
-anarcho_liberal_gov;Anarcho-Liberal Regime;;;;;;;;;;;;;
-serfs;Serfs;;;;;;;;;;;;;
-TRIGGER_STATE;State;;;;;;;;;;;;;
-piston_steam_engine;Piston Steam Engine;;;;;;;;;;;;;
-high_pressure_steam_engine;High-Pressure Steam Engine;;;;;;;;;;;;;
-compound_steam_engines;Compound Steam Engine;;;;;;;;;;;;;
-nv_autocracy;Autocracy;;;;;;;;;;;;;
-nv_tradition;Tradition;;;;;;;;;;;;;
-nv_productivity;Productivity;;;;;;;;;;;;;
-french_claimed_the_rhine;French Claims on the Rhine;;;;;;;;;;;;;
-CANAL_5;Dardanelles Strait;;;;;;;;;;;;;
-CANAL_4;Bosphorus Strait;;;;;;;;;;;;;
-MODIFIER_LAND_ATTACK;Land Unit Attack;;;;;;;;;;;;;
-MODIFIER_NAVAL_ATTACK;Naval Unit Attack;;;;;;;;;;;;;
-MODIFIER_LAND_DEFENSE;Land Unit Defense;;;;;;;;;;;;;
-MODIFIER_NAVAL_DEFENSE;Naval Unit Defense;;;;;;;;;;;;;
-PV_CLERGY_LIT_PROVIDES;Intellectuals provinces: $VAL$;;;;;;;;;;;;;
-PV_CLERGY_LIT_NUM;$NUM$ of your population are Intellectuals (Optimal $OPT$): $VAL$;;;;;;;;;;;;;
-PV_CLERGY_LIT_DESC1;$NUM$ of your population in $LOC$ are Intellectuals.;;;;;;;;;;;;;
-POP_CON_CLERGY;Intellectuals;;;;;;;;;;;;;
-clergymen;Intellectuals;;;;;;;;;;;;;
-promote_clergymen;Encourage Intellectuals;;;;;;;;;;;;;
-land_attack_modifier;Land Unit Attack Modifier;;;;;;;;;;;;;
-BUDGET_TAX_RICH;Taxes (Upper Class);;;;;;;;;;;;;
-BUDGET_TAX_MIDDLE;Taxes (Middle Class);;;;;;;;;;;;;
-BUDGET_TAX_POOR;Taxes (Lower Class);;;;;;;;;;;;;
-NATIONAL_BANK;National Bank;;;;;;;;;;;;;
-immigration_focus_desc;Migrants §Y$VAL$§W% more likely to choose this state. This focus makes immigrants more likely to settle in this state, it doesn't make more likely for them to choose our country.;;;;;;;;;;;;;
-emigration_focus;Encourage Emigration;;;;;;;;;;;;;
-emigration_focus_desc;Pops will be §Y$VAL$§W% more likely to leave this region.;;;;;;;;;;;;;
-not_AI;Not AI;;;;;;;;;;;;;
-harassment_l;Harassed Parties;;;;;;;;;;;;;
-land_reform;Land Reform;;;;;;;;;;;;;
-land_reform_l;Land Reform;;;;;;;;;;;;;
-no_land_reform;No Land Reform;;;;;;;;;;;;;
-yes_land_reform;Land Reform;;;;;;;;;;;;;
-no_land_reform_desc;The land is owned and used by the traditional elites in a hereditary way, the way they want, like the old days.;;;;;;;;;;;;;
-yes_land_reform_desc;Redistribution of land rights resulting in more effective farming and mining.;;;;;;;;;;;;;
-admin_reform;Administrative Reform;;;;;;;;;;;;;
-admin_reform_l;Administrative Reform;;;;;;;;;;;;;
-no_admin_reform;No Administrative Reform;;;;;;;;;;;;;
-yes_admin_reform;Administrative Reform;;;;;;;;;;;;;
-no_admin_reform_desc;No administrative reform. The country bureaucracy works like the old days, if it exists at all.;;;;;;;;;;;;;
-yes_admin_reform_desc;Our administration is now modern and efficient.;;;;;;;;;;;;;
-finance_reform;Financial Reform;;;;;;;;;;;;;
-finance_reform_l;Financial Reform;;;;;;;;;;;;;
-no_finance_reform;No Financial Reform;;;;;;;;;;;;;
-yes_finance_reform;Enact Financial Reform;;;;;;;;;;;;;
-finance_reform_two;International Debt;;;;;;;;;;;;;
-no_finance_reform_desc;Our financial institutions and economy is run like the old days.;;;;;;;;;;;;;
-yes_finance_reform_desc;We started to modernize our financial institutions.;;;;;;;;;;;;;
-finance_reform_two_desc;We modernized a great part of our financial institutions and now we can borrow money from other nations.;;;;;;;;;;;;;
-education_reform;Basic Education;;;;;;;;;;;;;
-education_reform_l;Basic Education;;;;;;;;;;;;;
-no_education_reform;No Education Reform;;;;;;;;;;;;;
-yes_education_reform;Reformed System;;;;;;;;;;;;;
-no_education_reform_desc;Our country doesn't have schools and education is largely disorganized.;;;;;;;;;;;;;
-yes_education_reform_desc;A basic organized education system is now present in our country;;;;;;;;;;;;;
-transport_improv;Transportation System;;;;;;;;;;;;;
-transport_improv_l;Transportation System;;;;;;;;;;;;;
-no_transport_improv;Not Improved;;;;;;;;;;;;;
-yes_transport_improv;Improved;;;;;;;;;;;;;
-no_transport_improv_desc;The transportation system is primitive.;;;;;;;;;;;;;
-yes_transport_improv_desc;The transportation system is being modernized. At least in the capital.;;;;;;;;;;;;;
-pre_indust;Early Industrialisation;;;;;;;;;;;;;
-pre_indust_l;Early Industrialisation;;;;;;;;;;;;;
-no_pre_indust;Stick to the Old Ways;;;;;;;;;;;;;
-yes_pre_indust;Industrial Progress;;;;;;;;;;;;;
-no_pre_indust_desc;We have no need of industry.;;;;;;;;;;;;;
-yes_pre_indust_desc;Construct some basic factories with the help of foreign advisors. Could this be the beginning of an industrial revolution?;;;;;;;;;;;;;
-industrial_construction;Industrial Construction;;;;;;;;;;;;;
-industrial_construction_l;Industrial Construction;;;;;;;;;;;;;
-no_industrial_construction;No Industrial Construction;;;;;;;;;;;;;
-yes_industrial_construction;Industrial Construction;;;;;;;;;;;;;
-no_industrial_construction_desc;No advanced factories.;;;;;;;;;;;;;
-yes_industrial_construction_desc;Foreign advisors assist us in building more advanced factories.;;;;;;;;;;;;;
-foreign_officers;Officer Training;;;;;;;;;;;;;
-foreign_officers_l;Officer Training;;;;;;;;;;;;;
-no_foreign_officers;Local Officer Training;;;;;;;;;;;;;
-yes_foreign_officers;Foreign Officer Training;;;;;;;;;;;;;
-no_foreign_officers_desc;Local officers lead our troops and are trained in our traditional ways.;;;;;;;;;;;;;
-yes_foreign_officers_desc;Our troops are now trained, assisted and sometimes led by foreign officers.;;;;;;;;;;;;;
-army_schools;Army Training;;;;;;;;;;;;;
-army_schools_l;Army Training;;;;;;;;;;;;;
-no_army_schools;Ad Hoc;;;;;;;;;;;;;
-yes_army_schools;Army Schools;;;;;;;;;;;;;
-no_army_schools_desc;We learn on the field of battle.;;;;;;;;;;;;;
-yes_army_schools_desc;Officers are trained in professional army academies before leading men into battle.;;;;;;;;;;;;;
-foreign_naval_officers;Naval Officers;;;;;;;;;;;;;
-foreign_naval_officers_l;Naval Officers;;;;;;;;;;;;;
-no_foreign_naval_officers;Local Naval Officers;;;;;;;;;;;;;
-yes_foreign_naval_officers;Foreign Naval Officers;;;;;;;;;;;;;
-no_foreign_naval_officers_desc;Local officers command our ships.;;;;;;;;;;;;;
-yes_foreign_naval_officers_desc;Foreign officers advise our captains.;;;;;;;;;;;;;
-naval_schools;Naval Training;;;;;;;;;;;;;
-naval_schools_l;Naval Training;;;;;;;;;;;;;
-no_naval_schools;Ad Hoc;;;;;;;;;;;;;
-yes_naval_schools;Navy Schools;;;;;;;;;;;;;
-no_naval_schools_desc;Our naval officers are trained in the field of battler or knowledge is transmitted informally.;;;;;;;;;;;;;
-yes_naval_schools_desc;Our naval officers are trained in special naval academies and are taught by foreigners in the arts of naval warfare.;;;;;;;;;;;;;
-foreign_navies;Foreign Ships;;;;;;;;;;;;;
-foreign_navies_l;Foreign Ships;;;;;;;;;;;;;
-no_foreign_navies;Locally Produced Ships;;;;;;;;;;;;;
-yes_foreign_navies;Imported Ships;;;;;;;;;;;;;
-no_foreign_navies_desc;Locally manufactured ships.;;;;;;;;;;;;;
-yes_foreign_navies_desc;We import strong ships designs from the west.;;;;;;;;;;;;;
-foreign_training;Training Methods;;;;;;;;;;;;;
-foreign_training_l;Training Methods;;;;;;;;;;;;;
-no_foreign_training;Local Training Methods;;;;;;;;;;;;;
-yes_foreign_training;Foreign Training Methods;;;;;;;;;;;;;
-no_foreign_training_desc;Troops are trained in the traditional manner.;;;;;;;;;;;;;
-yes_foreign_training_desc;Troops trained by foreign military advisors or using foreign techniques.;;;;;;;;;;;;;
-foreign_weapons;Foreign Weapons;;;;;;;;;;;;;
-foreign_weapons_l;Foreign Weapons;;;;;;;;;;;;;
-no_foreign_weapons;Local Weapons;;;;;;;;;;;;;
-yes_foreign_weapons;Imported Weapons;;;;;;;;;;;;;
-no_foreign_weapons_desc;Traditional weapons are used in our armies.;;;;;;;;;;;;;
-yes_foreign_weapons_desc;This is my BOOMSTICK!;;;;;;;;;;;;;
-military_constructions;Military Constructions;;;;;;;;;;;;;
-military_constructions_l;Military Constructions;;;;;;;;;;;;;
-no_military_constructions;Simple Constructions;;;;;;;;;;;;;
-yes_military_constructions;Advanced Constructions;;;;;;;;;;;;;
-no_military_constructions_desc;Fortifications are built in our traditional way or not built at all.;;;;;;;;;;;;;
-yes_military_constructions_desc;Forts are built in the western style and their construction is supervised by foreigners.;;;;;;;;;;;;;
-firearms_production;Firearms Production;;;;;;;;;;;;;
-firearms_production_l;Firearms Production;;;;;;;;;;;;;
-no_firearms_production;Imported Firearms;;;;;;;;;;;;;
-no_firearms_production_l;Imported Firearms;;;;;;;;;;;;;
-no_firearms_production_desc;Firearms are imported.;;;;;;;;;;;;;
-yes_firearms_production;Local Production;;;;;;;;;;;;;
-yes_firearms_production_l;Local Production;;;;;;;;;;;;;
-yes_firearms_production_desc;Firearms are produced locally.;;;;;;;;;;;;;
-writing_system;Writing System;;;;;;;;;;;;;
-writing_system_l;Writing System;;;;;;;;;;;;;
-no_writing_language;No Writing System;;;;;;;;;;;;;
-no_writing_language_l;;No Writing System;;;;;;;;;;;;
-no_writing_language_desc;Spoken language is the only way of communication. There are no documents or writing language, no education system and no codified national language.;;;;;;;;;;;;;
-writing_language;Writing System;;;;;;;;;;;;;
-writing_language_l;Writing System;;;;;;;;;;;;;
-writing_language_desc;We have a writing system and an official written language, used all around by the government. Without a written language, we can't have a modernized state.;;;;;;;;;;;;;
-monetary_reform;Currency Reform;;;;;;;;;;;;;
-monetary_reform_l;Currency Reform;;;;;;;;;;;;;
-no_monetary_reform;No Monetary Standards;;;;;;;;;;;;;
-no_monetary_reform_l;No Monetary Standards;;;;;;;;;;;;;
-no_monetary_reform_desc;Each province has its own currencies.;;;;;;;;;;;;;
-yes_monetary_reform;Official Currencies;;;;;;;;;;;;;
-yes_monetary_reform_l;Official Currencies;;;;;;;;;;;;;
-yes_monetary_reform_desc;The government adopted some currencies as official but doesn't issue them through a central bank.;;;;;;;;;;;;;
-monetary_reform_two;Single Currency;;;;;;;;;;;;;
-monetary_reform_two_l;Single Currency;;;;;;;;;;;;;
-monetary_reform_two_desc;The government enforces a single currency issued by a few authorized banks. This is the beginning of currency centralization and standardization;;;;;;;;;;;;;
-research_reform;University Reform;;;;;;;;;;;;;
-research_reform_l;University Reform;;;;;;;;;;;;;
-no_research_reform;No Universities;;;;;;;;;;;;;
-no_research_reform_l;No Universities;;;;;;;;;;;;;
-no_research_reform_desc;There are no western universities in our country.;;;;;;;;;;;;;
-yes_research_reform;Foreign Universities;;;;;;;;;;;;;
-yes_research_reform_l;Foreign Universities;;;;;;;;;;;;;
-yes_research_reform_desc;Universities are built following foreign standards, the professors who teach are usually foreign or graduated in foreign institutions and they teach western philosophy and sciences.;;;;;;;;;;;;;
-foreign_artillery;Foreign Artillery;;;;;;;;;;;;;
-foreign_artillery_l;Foreign Artillery;;;;;;;;;;;;;
-no_foreign_artillery;Local Artillery;;;;;;;;;;;;;
-no_foreign_artillery_l;Local Artillery;;;;;;;;;;;;;
-no_foreign_artillery_desc;Artillery is made up of ineffective siege equipment or it's not present at all.;;;;;;;;;;;;;
-yes_foreign_artillery;Imported Artillery;;;;;;;;;;;;;
-yes_foreign_artillery_l;Imported Artillery;;;;;;;;;;;;;
-yes_foreign_artillery_desc;Our artillery is imported from western powers.;;;;;;;;;;;;;
-public_meetings;Public Meetings;;;;;;;;;;;;;
-public_meetings_l;Public Meetings;;;;;;;;;;;;;
-yes_meeting;Meetings Allowed;;;;;;;;;;;;;
-yes_meeting_desc;Public meetings and rallies are allowed.;;;;;;;;;;;;;
-no_meeting;Meetings Not Allowed;;;;;;;;;;;;;
-no_meeting_desc;Public meetings are prohibited.;;;;;;;;;;;;;
-POLITICS_MATTERS_OF_STATE;Matters of State;;;;;;;;;;;;;
-matters_of_state;Matters of State;;;;;;;;;;;;;
-bureaucracy_ref;Bureaucracy;;;;;;;;;;;;;
-bureaucracy_ref_l;Bureaucracy;;;;;;;;;;;;;
-gentry;Gentry;;;;;;;;;;;;;
-gentry_l;Gentry;;;;;;;;;;;;;
-gentry_desc;The gentry of the country has the most sayings in the state's bureaucracy. Bureaucracy is extremely small or severely limited.;;;;;;;;;;;;;
-hereditary_bureaucracy;Hereditary Bureaucracy;;;;;;;;;;;;;
-hereditary_bureaucracy_l;Hereditary Bureaucracy;;;;;;;;;;;;;
-hereditary_bureaucracy_desc;Bureaucracy positions in the government are, officially or not, hereditary, severely limiting universal access to the state's internal administration. Usually, the upper classes of society are the ones in these spots and the system suffers of high levels of corruption.;;;;;;;;;;;;;
-professional_civil_servants;Professional Civil Service;;;;;;;;;;;;;
-professional_civil_servants_l;Professional Civil Service;;;;;;;;;;;;;
-professional_civil_servants_desc;The bureaucracy is formed by educated citizens formed in the field of public administration. Bureaucracy is non hereditary and bureaucrats are chosen (mostly) based on the principles of meritocracy.;;;;;;;;;;;;;
-residency_desc;This party supports politics to limit citizenship and political rights of minorities and immigrants.;;;;;;;;;;;;;
-limited_citizenship_desc;This party supports politics to limit citizenship and political rights to people of the same cultural group of this nation.;;;;;;;;;;;;;
-full_citizenship_desc;This party supports that every vote is equal.;;;;;;;;;;;;;
-movement_censored_press;Campaign for more Press Freedom;;;;;;;;;;;;;
-revolution_n_counter_researched;Revolution and Counterrevolution Researched;;;;;;;;;;;;;
-crisis_begin_researched;Crisis Event Triggered;;;;;;;;;;;;;
-medicine_invented;Researched Medicine;;;;;;;;;;;;;
-germs_invented;Invented Germ Theory;;;;;;;;;;;;;
-gaslights_invented;Invented Gaslights;;;;;;;;;;;;;
-electricity_invented;Researched Electricity;;;;;;;;;;;;;
-germ_theory;Germ Theory and Experimental Pathology;;;;;;;;;;;;;
-germ_theory_desc;The germ theory of disease states that some diseases are caused by microorganisms. These small organisms, too small to see without magnification, invade humans, animals, and other living hosts. Their growth and reproduction within their hosts can cause a disease. The germ theory was proposed in the mid-16th century and gained widespread credence when substantiated by scientific discoveries of the 17th through the late 19th century. It supplanted earlier explanations for disease, such as Galen's miasma theory.;;;;;;;;;;;;;
-prussian_constitutionalism;Semi-Constitutional Monarchy;;;;;;;;;;;;;
-hms_government;Constitutional Monarchy;;;;;;;;;;;;;
-market_structure;Market Structure;;;;;;;;;;;;;
-former_sphere_leader;Former Sphere Leader;;;;;;;;;;;;;
-former_overlord;Former Overlord;;;;;;;;;;;;;
-cisplatina_is_ours;Cisplatina is Ours;;;;;;;;;;;;;
-pessimist;Pessimist;;;;;;;;;;;;;
-MOR_1696;Western Sahara;;;;;;;;;;;;;
-anti__rationalism;Anti - Rationalism;;;;;;;;;;;;;
-time_saving_measures;Time-Saving Measures;;;;;;;;;;;;;
-time_saving_measures_desc;Time-Saving Measures;;;;;;;;;;;;;
-FOCUS_OWNED_BY;You can not place national focus in someone else's province unless it is a potential flashpoint for your cores. Encouraging flashpoint tension requires Revolution & Counterrevolution to be researched.;;;;;;;;;;;;;
-secularized_desc;Religion is not explicitly part of state policy, but the state tips its hat to traditional religious values.;;;;;;;;;;;;;
-dismantle_declared;Dismantled;;;;;;;;;;;;;
-THE_CAPITAL_IS;The Capital Is;;;;;;;;;;;;;
-post_colonial_country;Post-Colonial Nation;;;;;;;;;;;;;
-mormon;Mormon;;;;;;;;;;;;;
-gypsy;Gypsy;;;;;;;;;;;;;
-eugen_von_bohm_bawerk;Eugen von Böhm-Bawerk;;;;;;;;;;;;;
-eugen_von_bohm_bawerk_desc;Böhm-Bawerk's career as a scholar was an intermittent one. The most significant span of scholarly activity was his years at the University of Innsbruck (1881-1889). It was during the 1880s that he first published two of the three volumes of his magnum opus, Capital and Interest. His later years were dominated by his duties as the Austrian Minister of Finance, a position he held, though not continuously, throughout the 1890s and beyond-and for which he is fittingly honored by having his likeness on Austria's one-hundred schilling note. After serving in this capacity and assuming other governmental duties, he returned to teaching in 1904. With a chair at the University of Vienna, he became a colleague of Wieser, successor to the retired Menger. Students who passed through the university during the last decade of Böhm-Bawerk's career (and life: he died in 1914) included Joseph Schumpeter and Ludwig von Mises.;;;;;;;;;;;;;
-leon_walras;Léon Walras;;;;;;;;;;;;;
-leon_walras_desc;The French economist Léon Walras (pronounced 'Valrasse') has been hailed by Joseph Schumpeter as 'the greatest of all economists'. Walras was one of the three leaders of the Marginalist Revolution, even though his greatest work, Elements of Pure Economics, was published in 1874, three years after those of William Stanley Jevons and Carl Menger. Nonetheless, alone among the three revolutionaries, Léon Walras set forth the new 'marginalist' or 'Neoclassical' theory in a formal general equilibrium setting.   Thus, he endowed it with the multi-market considerations Jevons had largely avoided and the mathematical precision Menger had eschewed. Léon Walras is widely and rightfully regarded as the father of general equilibrium theory.;;;;;;;;;;;;;
-jean_jaures;Jean Jaurès;;;;;;;;;;;;;
-jean_jaures_desc;Jaurès was elected to the Chamber of Deputies in 1885. Defeated in the 1889 elections he returned to the University of Toulouse. He became increasingly radical in his political views and after reading Karl Marx he began advocating socialism. He was not a revolutionary and supported the Independent Socialists. While out of parliament Jaurès completed his mammoth Socialist History of the French Revolution. He also joined with Aristide Briand and Rene Viviani in 1904 to establish the left-wing newspaper, L'Humanité in 1904. A new Socialist Party under Jaurès grew rapidly at the beginning of the century but split over the correct response to German militarism. Jaurès advocated a policy of international arbitration whereas others supported the Triple Entente.;;;;;;;;;;;;;
-johann_heinrich_von_thunen;Johann Heinrich von Thünen;;;;;;;;;;;;;
-johann_heinrich_von_thunen_desc;Johann Heinrich von Thünen was a North German landowner from the Mecklenburg area. Although educated at Götingen, he spent most of his life managing his rural estate, Tellow.  In the first volume of his treatise, The Isolated State (1826), he laid down the first serious treatment of spatial economics, connecting with the theory of rent.  His second volume (1850) developed the essence of the marginal productivity theory of distribution in a mathematically precise way, thereby making one of the most important Proto-Marginalists of the era. Nearing his death, he asked that his famous equation for the marginal product of labor, or natural wage, be carved into his tombstone.;;;;;;;;;;;;;
-colorado_rebels_title;Colorados;;;;;;;;;;;;;
-colorado_rebels_name;Colorado Rebels;;;;;;;;;;;;;
-colorado_rebels_desc;Colorados seek to topple the Blanco government and install their own party in power.;;;;;;;;;;;;;
-colorado_rebels_army;Colorado Rebels;;;;;;;;;;;;;
-blanco_rebels_title;Blancos;;;;;;;;;;;;;
-blanco_rebels_name;Blanco Rebels;;;;;;;;;;;;;
-blanco_rebels_desc;Blancos seek to topple the Colorado government and install their own party in power.;;;;;;;;;;;;;
-blanco_rebels_army;Blanco Rebels;;;;;;;;;;;;;
-separatist_rebels_title;Patriot;;;;;;;;;;;;;
-separatist_rebels_name;$CULTURE$ Patriots;;;;;;;;;;;;;
-separatist_rebels_desc;Patriot rebels dream of unification with their cultural kin under a free banner, and any province they gain control of will eventually defect to a neighbouring country of their culture.;;;;;;;;;;;;;
-separatist_rebels_army;$CULTURE$ Patriots;;;;;;;;;;;;;
-afro_caribeno;Afro Latino;;;;;;;;;;;;;
-NOT_STRONGER_ARMY_THAN;Does not have a stronger military than ;;;;;;;;;;;;;
-STRONGER_ARMY_THAN;Has a stronger military than ;;;;;;;;;;;;;
-beiyang_faction;Beiyang Faction;;;;;;;;;;;;;
-kuomintang_faction;Kuomintang Faction;;;;;;;;;;;;;
-neutral_faction;Part of no Faction;;;;;;;;;;;;;
-communist_faction;Communist Faction;;;;;;;;;;;;;
-mandatory_service;Service by Requirement;;;;;;;;;;;;;
-mandatory_service_l;Service by Requirement;;;;;;;;;;;;;
-mandatory_service_desc;All adult males must serve in the military. The government can draft conscripts for as long as it wants.;All adult males must serve in the military.;;;;;;;;;;;;
-movement_mandatory_service;Mandatory Service Movement.;;;;;;;;;;;;;
-four_year_draft;Four Year Draft;Four Year Draft;Four Year Draft;;Four Year Draft;;;;;;;;;
-four_year_draft_l;Four Year Draft;Four Year Draft;Four Year Draft;;Four Year Draft;;;;;;;;;
-four_year_draft_desc;Conscripts are drafted for four years.;Conscripts are drafted for four years.;Conscripts are drafted for four years.;;Conscripts are drafted for four years.;;;;;;;;;
-movement_four_year_draft;Movement for Four Year Draft Implementation;;;;;;;;;;;;;
-two_year_draft;Two Year Draft;Two Year Draft;Two Year Draft;;Two Year Draft;;;;;;;;;
-two_year_draft_l;Two Year Draft;Two Year Draft;Two Year Draft;;Two Year Draft;;;;;;;;;
-two_year_draft_desc;Conscripts are drafted for two years.;Conscripts are drafted for two years.;Conscripts are drafted for two years.;;Conscripts are drafted for two years.;;;;;;;;;
-movement_two_year_draft;Movement for Two Year Draft Implementation;;;;;;;;;;;;;
-one_year_draft;One Year Draft;One Year Draft;One Year Draft;;One Year Draft;;;;;;;;;
-one_year_draft_l;One Year Draft;One Year Draft;One Year Draft;;One Year Draft;;;;;;;;;
-one_year_draft_desc;Conscripts are drafted for one year.;Conscripts are drafted for one year.;Conscripts are drafted for one year.;;Conscripts are drafted for one year.;;;;;;;;;
-movement_one_year_draft;Movement for One Year Draft Implementation;;;;;;;;;;;;;
-no_draft;No Draft;No Draft;No Draft;;No Draft;;;;;;;;;
-no_draft_l;No Draft;No Draft;No Draft;;No Draft;;;;;;;;;
-no_draft_desc;No conscription.;No conscription.;No conscription.;;No conscription.;;;;;;;;;
-conscription;Conscription;Conscription;Conscription;;Conscription;;;;;;;;;
-movement_no_draft;Movement for the Abolition of the Conscription;;;;;;;;;;;;;
-yes_slavery_desc;Slavery is allowed.\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states.§W\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states.§W\n§GThe slave population will grow.§W;;;;;;;;;;;;;
-freedom_of_womb;Freedom of Womb;;;;;;;;;;;;;
-freedom_of_womb_l;Freedom of Womb Law;;;;;;;;;;;;;
-freedom_of_womb_desc;Slaves children are freed at birth and, in most cases, old slaves are also freed. The slave population stops growing. \n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states.§W\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states.§W\n§RThe slave population will stop growing.§W;;;;;;;;;;;;;
-movement_freedom_of_womb;Freedom of Womb Campaign;;;;;;;;;;;;;
-no_slavery;Outlawed;;;;;;;;;;;;;
-no_slavery_desc;Slavery is forbidden.;;;;;;;;;;;;;
-no_slavery_l;Outlaw Slavery;;;;;;;;;;;;;
-citizens_rights;Political Rights;;;;;;;;;;;;;
-primary_culture_only;Restricted Rights;;;;;;;;;;;;;
-primary_culture_only_l;Primary Culture Only Rights;;;;;;;;;;;;;
-primary_culture_only_desc;Only the first class citizens of the country are allowed to participate in the political life, all the other groups are segregated. Becoming a first class citizen is hard and extremely limited.;;;;;;;;;;;;;
-movement_primary_culture_only;Pro Citizens Movement;;;;;;;;;;;;;
-culture_voting_only;Cultural Rights;;;;;;;;;;;;;
-culture_voting_only_l;Accepted Cultures Rights;;;;;;;;;;;;;
-culture_voting_only_desc;Persons from the country's culture are allowed to participate in the political life of the country and citizenship is greatly facilitated for these people.;;;;;;;;;;;;;
-movement_culture_voting_only;Movement for Cultural Political Rights;;;;;;;;;;;;;
-all_voting_pops;All Allowed Rights;;;;;;;;;;;;;
-all_voting_pops_l;All Allowed Rights;;;;;;;;;;;;;
-all_voting_pops_desc;All legal immigrants, regardless of the culture, are allowed to vote. Acquiring citizenship status is facilitated.;;;;;;;;;;;;;
-movement_all_voting_pops;The League for Universal Political Rights;;;;;;;;;;;;;
-border_policy;Border Policy;;;;;;;;;;;;;
-closed_borders;Closed Borders;;;;;;;;;;;;;
-closed_borders_l;Closed Borders;;;;;;;;;;;;;
-closed_borders_desc;People aren't allowed in or out of our country. The effectiveness of this policy is based on our administration and military spending. Some people might still emigrate illegally, either by crossing the border or hiding in ships. The veil of secrecy that shrouds our country makes other nations mistrust us.;;;;;;;;;;;;;
-movement_closed_borders;Movement for the Protection of the Country;;;;;;;;;;;;;
-quota_immigration;Immigration Quotas;;;;;;;;;;;;;
-quota_immigration_l;Immigration Quotas;;;;;;;;;;;;;
-quota_immigration_desc;Foreign nationals are allowed to immigrate to our country, as long as they have a literacy above 60% and aren't citizens of countries that were recently or are currently at war with our country. There are no restrictions for emigration.;;;;;;;;;;;;;
-movement_quota_immigration;Movement for Immigration Quotas;;;;;;;;;;;;;
-open_borders;Open Borders;;;;;;;;;;;;;
-open_borders_l;Open Borders;;;;;;;;;;;;;
-open_borders_desc;Our country is completly open for immigration and emigration, either by deliberate choice or because of the lack of appropriate border controls.;;;;;;;;;;;;;
-movement_open_borders;Pro Immigration Movement;;;;;;;;;;;;;
-unemployment_subsidies;Unemployment;;;;;;;;;;;;;
-safety_regulations;Safety Regulations;;;;;;;;;;;;;
-child_labor_illegal;Child Labor Illegal;;;;;;;;;;;;;
-child_labor_illegal_l;Child Labor Illegal;;;;;;;;;;;;;
-child_labor_illegal_desc;Child Labor is viewed as immoral and is illegal.;;;;;;;;;;;;;
-movement_child_labor_child_labor_illegal;Campaign for the Legalization of Child Labor;;;;;;;;;;;;;
-child_labor_restricted;Child Labor Restricted;;;;;;;;;;;;;
-child_labor_restricted_l;Child Labor Restricted;;;;;;;;;;;;;
-child_labor_restricted_desc;Children cannot work in certain dangerous professions.;Restricted;Restricted;;Restricted;;;;;;;;;
-movement_child_labor_restricted;Campaign for the Restriction of Child Labor;;;;;;;;;;;;;
-child_labor_legal;Child Labor Legal;;;;;;;;;;;;;
-child_labor_legal_l;Child Labor Legal;;;;;;;;;;;;;
-child_labor_legal_desc;No child labor regulation exists.;;;;;;;;;;;;;
-child_labor;Child Labor;;;;;;;;;;;;;
-movement_child_labor_illegal;Child Labor Abolition League;;;;;;;;;;;;;
-debt_law;Debt Law;;;;;;;;;;;;;
-serfdom;Serfdom;;;;;;;;;;;;;
-serfdom_l;Serfdom;;;;;;;;;;;;;
-serfdom_desc;Serfs are bound to the land and subject to the will of its owner and forced to work the fields under a feudal system.\n§RThis reform affects POP promotion chance - promotion will be slower.§W\n§YThis reform enables Serfs - poor POPs will demote to Serfs and won't come out of Serfdom until it's abolished.§W;;;;;;;;;;;;;
-movement_serfdom;Pro Serfdom League;;;;;;;;;;;;;
-peonage;Peonage;;;;;;;;;;;;;
-peonage_l;Peonage;;;;;;;;;;;;;
-peonage_desc;Peonage is a debt system under which the debtor is forced to work off his debt. This often leads to a perpetual cycle of involuntary labor called peonage.;;;;;;;;;;;;;
-movement_peonage;Campaign for the Abolition of Serfdom;;;;;;;;;;;;;
-debtors_prisons;Debtor's Prisons;;;;;;;;;;;;;
-debtors_prisons_l;Debtor's Prisons;;;;;;;;;;;;;
-debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved.\n§YThis reform is neutral - no effects.§W;;;;;;;;;;;;;
-movement_debtors_prisons;Abolition of Peonage Movement;;;;;;;;;;;;;
-bankruptcy;Bankruptcy;;;;;;;;;;;;;
-bankruptcy_l;Bankruptcy;;;;;;;;;;;;;
-bankruptcy_desc;Debtors are allowed to declare bankruptcy and have their previous debts declared null and void.;;;;;;;;;;;;;
-movement_bankruptcy;Debtor's Prisons Abolition Movement;;;;;;;;;;;;;
-capital_punishment;Capital Punishment;;;;;;;;;;;;;
-capital_punishment_l;Capital Punishment;;;;;;;;;;;;;
-capital_punishment_desc;Convicts are killed for relatively minor crimes.;;;;;;;;;;;;;
-movement_capital_punishment;Pro Capital Punishment League;;;;;;;;;;;;;
-penal_system;Penal System;;;;;;;;;;;;;
-colonial_transportation;Transportation;;;;;;;;;;;;;
-colonial_transportation_l;Transportation;;;;;;;;;;;;;
-colonial_transportation_desc;Prisoners are sent to either far away or inhospitable places in the mother-country or to its colonies. This, however, increases the load on the bureaucracy.\n§YThis reform will increase colonial migration but it will also increase the necessity of bureaucrats.§W;;;;;;;;;;;;;
-movement_colonial_transportation;Campaign for the Abolition of Capital Punishment;;;;;;;;;;;;;
-incarceration;Incarceration;;;;;;;;;;;;;
-incarceration_l;Incarceration;;;;;;;;;;;;;
-incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labor most of the times.\n§YThis reform is neutral - no effects.§W;;;;;;;;;;;;;
-movement_incarceration;Movement for the Abolition of Penal Colonies;;;;;;;;;;;;;
-rehabilitation;Rehabilitation;;;;;;;;;;;;;
-rehabilitation_l;Rehabilitation;;;;;;;;;;;;;
-rehabilitation_desc;Convicts are imprisoned with the intent of reforming them and reintroducing them into society.;;;;;;;;;;;;;
-movement_rehabilitation;Rehabilitation of Prisoners Campaign;;;;;;;;;;;;;
-EVTNAME34608;Child Labour Law Passed;;;;;;;;;;;;;
-EVTDESC34608;Following Britain's lead, in $YEAR$ Prussia, under the influence of some religious and social figures, passed a law strictly regulating the amount of child labour that was possible during the year.  According to the new legislation, the Prussian government will lay down restrictions on child labor, with the following main points: children under the age of nine are banned from factory labor, children needed to have had at least three years of schooling before working, and children under the age of sixteen could work no more than ten hours per day. Other provisions included mandated rest times and a total ban on night work for children.;;;;;;;;;;;;;
-EVTOPTA34608;Those poor children!;;;;;;;;;;;;;
-EVTOPTB34608;This isn't really necessary. Revoke the law.;;;;;;;;;;;;;
-EVTNAME3700;Chimney Sweepers;;;;;;;;;;;;;
-EVTDESC3700;'A young boy arose from the inside of a chimney and gently sat down on the roof. His face and clothes were blackened by the soot from the chimney and showed that this was not the first chimney he had swept this day. Tired, he climbed down the roof and trotted off after receiving a penny from the house matron.' \n\nThe hard work that the city's young chimney sweepers perform has outraged many, and a committee has been formed to tackle the rough working conditions.;;;;;;;;;;;;;
-EVTOPTA3700;We should consider legislation to end this.;;;;;;;;;;;;;
-EVTOPTB3700;Hard work is the foundation of a good moral character.;;;;;;;;;;;;;
-EVTNAME370000002;Long Work Hours;;;;;;;;;;;;;
-EVTDESC370000002;'The factories extend their flanks of fouler brick one after another, bare, with shutterless windows, like economical and colossal prisons... and inside, lit by gas-jets and deafened by the uproar of their own labour, toil thousands of workmen, penned in, regimented, hands active, feet motionless, all day and every day, mechanically serving their machines...' \n The hard work that the city's workers perform has outraged many, and a committee has been formed to tackle the rough working conditions.;;;;;;;;;;;;;
-EVTOPTA370000002;We should consider legislation to change this.;;;;;;;;;;;;;
-EVTOPTB370000002;Hard work is the foundation of a good moral character.;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_NAME_RUS_CIR;$ORDER$ Caucasian War;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_RUS_CIR;$ORDER$ Caucasian War;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_NAME_RUS_DAG;$ORDER$ Caucasian War;;;;;;;;;;;;;
-NORMAL_WAR_TAKE_CORE_NAME_RUS_DAG;$ORDER$ Caucasian War;;;;;;;;;;;;;
-womens_suffrage_movement;Women's Suffrage Movement;;;;;;;;;;;;;
-assyrian;Assyrian;;;;;;;;;;;;;
-xhosa;Xhosa;;;;;;;;;;;;;
-arabic;Arabic;;;;;;;;;;;;;
-breton;Breton;;;;;;;;;;;;;
-pan_albanian;Albanian;;;;;;;;;;;;;
-occitan;Occitan;Occitain;Occitanisch;;;;;;;;;;;
-picard;Picard;;;;;;;;;;;;;
-western_slavic;Wend;;;;;;;;;;;;;
-anglo_african;Anglo African;;;;;;;;;;;;;
-jewish_cultures;Jewish Cultures;;;;;;;;;;;;;
-itsekari;Ijaw;;;;;;;;;;;;;
-kuba;Bakuba;;;;;;;;;;;;;
-indian_nationalists_title;Indian Nationalist;Pan-nationalistes;Pan-Nationalisten;;;;;;;;;;;
-indian_nationalists_name;Indian Nationalists;$UNION_ADJ$ - Pan-nationalistes;$UNION_ADJ$ Pan-Nationalisten;;;;;;;;;;;
-indian_nationalists_desc;Indian nationalists seek to unify the sub-continent into a free and independent nation-state, by any means necessary. This includes breaking free from foreign oppressors and uniting with their cultural kin.;;;;;;;;;;;;;
-indian_nationalists_army;Indian Nationalists;$UNION$ - Jeunes brigades;Junge $UNION$ Brigaden;;;;;;;;;;;
-socialist_rebels_title;Militant Socialist;;;;;;;;;;;;;
-socialist_rebels_name;Militant Socialists;;;;;;;;;;;;;
-socialist_rebels_desc;In a democracy, militant socialists will seek to enforce a socialist government. In any other country, they will seek to establish a democracy with a socialist government.;;;;;;;;;;;;;
-socialist_rebels_army;Militant Socialists;;;;;;;;;;;;;
-christino_rebels_title;Christino;;;;;;;;;;;;;
-christino_rebels_name;Christinos;;;;;;;;;;;;;
-christino_rebels_desc;These rebels support the royal line of Ferdinand VII, and consider the current king to be a pretender. They intend to reinstall the rightful queen, and restore the liberal reforms enacted by the previous royal line.;;;;;;;;;;;;;
-christino_rebels_army;Christinos;;;;;;;;;;;;;
-slave_revolt_title;Slaves;;;;;;;;;;;;;
-slave_revolt_name;Slave Revolt;;;;;;;;;;;;;
-slave_revolt_desc;These slaves are mounting an armed uprising. They will shed blood and free slaves wherever they go, until the country is freed from the institution of slavery.;;;;;;;;;;;;;
-slave_revolt_army;Escaped Slaves;;;;;;;;;;;;;
-independence_rebels_title;Independence;;;;;;;;;;;;;
-independence_rebels_name;Independence Rebels;;;;;;;;;;;;;
-independence_rebels_desc;These rebels seek to free the country from its vassal status.;;;;;;;;;;;;;
-independence_rebels_army;Independence Rebels;;;;;;;;;;;;;
-turkish_nationalist_rebels_title;Turkish Nationalist;;;;;;;;;;;;;
-turkish_nationalist_rebels_name;Turkish Nationalists;;;;;;;;;;;;;
-turkish_nationalist_rebels_desc;Turkish Nationalists seek to topple the Ottoman monarchy, replacing it with a liberal republic.;;;;;;;;;;;;;
-turkish_nationalist_rebels_army;Turkish Nationalists;;;;;;;;;;;;;
-native_rebels_title;Anti-Colonial;;;;;;;;;;;;;
-native_rebels_name;Anti-Colonial Rebels;;;;;;;;;;;;;
-native_rebels_desc;These rebels seek to restore rulership of the country to its proper native culture.;;;;;;;;;;;;;
-native_rebels_army;Anti-Colonial Rebels;;;;;;;;;;;;;
-liberal_rebels_desc;In an absolute monarchy, Jacobins will seek to impose a constitutional monarchy. Otherwise, Jacobins will strive to create a democratic government with a liberal ideology and a focus on political reform.;;;;;;;;;;;;;
-NORMAL_WAR_CONQUEST_ANY_NAME;$ORDER$Conquest of $SECOND_COUNTRY$ War;;;;;;;;;;;;;
-AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;;;;;;;;;;;;;
-RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of employed craftsmen and clerks, divided by 2500, and the value of your foreign investment.;;;;;;;;;;;;;
+#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+AND_TRIGGER_STARTS;¡ìRÏÂÁĞËùÓĞ¡ìW;;;;;;;;;;;;x
+OR;¡ìR»òÕß¡ìW;;;;;;;;;;;;x
+partisan_rebels;ÓÎ»÷¶Ó;;;;;;;;;;;;x
+partisan_rebels_title;ÓÎ»÷¶Ó;;;;;;;;;;;;x
+partisan_rebels_name;$COUNTRY_ADJ$ÓÎ»÷¶Ó;;;;;;;;;;;;x
+partisan_rebels_desc;ÓÎ»÷¶ÓÔ±ÊÇ×é³ÉµÖ¿¹Ğ¡×éµÄÆÕÍ¨ÄĞÅ®£¬ËûÃÇÊÇĞ¡ĞÍµÄÎä×°ÍÅÌå¡£³ıÁËÓÎ»÷Õ½»î¶¯Íâ£¬ËûÃÇ»¹Ìá¹©µÚÒ»ÊÖµÄÇé±¨ĞÅÏ¢£¬²¢Î¬³ÖÌÓÉúÂ·ÏßÒÔ°ïÖú$COUNTRY_ADJ$Ê¿±ø¡£µ±ËûÃÇÕ¼ÁìÒ»¸öÊ¡Ê±£¬ËûÃÇ»áÔÚ60ÌìÄÚ½«¸ÃÊ¡¹é»¹¸øÔ­Ö÷¡£;;;;;;;;;;;;x
+partisan_rebels_army;$COUNTRY_ADJ$ÓÎ»÷¶ÓĞ¡×é;;;;;;;;;;;;x
+IS_NOT_RELIGION;¹ú½Ì²»ÊÇ;;;;;;;;;;;;x
+IS_RELIGION;¹ú½ÌÊÇ;;;;;;;;;;;;x
+CULTURE_IS_NOT;ÒÔÏÂÎÄ»¯ÊÇ²»¿É½ÓÊÜ£º;;;;;;;;;;;;x
+CULTURE_IS;ÒÔÏÂÎÄ»¯ÊÇ¿É½ÓÊÜ£º;;;;;;;;;;;;x
+steam_transport;ÔË±ø´¬;;;;;;;;;;;;x
+commerce_raider;ÕôÆû»¤ÎÀ½¢;;;;;;;;;;;;x
+oceanic;Ì«Æ½ÑóµºÃñ;;;;;;;;;;;;x
+levantine;¸ß¼ÓË÷Ï£À°ÈË;;;;;;;;;;;;x
+turko_semitic;Í»ØÊÈË;;;;;;;;;;;;x
+polish_culture_group;Î÷Ë¹À­·òÈË;;;;;;;;;;;;x
+BRIGADES_COMPARE_GREATER;Á½¹úµÄÂÃ±È½ÏÏµÊıÖÁÉÙÎª¡ìY$VAL$¡ì!\n;;;;;;;;;;;;x
+BRIGADES_COMPARE_SMALLER;Á½¹úµÄÂÃ±È½ÏÏµÊıµÍÓÚ¡ìY$VAL$¡ì!\n;;;;;;;;;;;;x
+jewish_group;ÓÌÌ«½Ì;;;;;;;;;;;;x
+muslim;ÄÂË¹ÁÖ;;;;;;;;;;;;x
+christian;»ù¶½½Ì;;;;;;;;;;;;x
+eastern;¶«·½×Ú½Ì;;;;;;;;;;;;x
+pagan;Ô­Ê¼¶àÉñ½Ì;;;;;;;;;;;;x
+jefferson_method_desc;½Üì³Ñ··½·¨ÊÇ·ÖÅäÏ¯Î»µÄ×î¸ßÆ½¾ùÊı·½·¨£¬Òò´ËÊÇÒ»ÖÖÕşµ³Ãûµ¥±ÈÀı´ú±íÖÆ¡£±ÈÀı´ú±íÖÆµÄÄ¿µÄÊÇ¸ù¾İ»ñµÃµÄÆ±Êı´óÖÂ°´±ÈÀı·ÖÅäÏ¯Î»¸øÕşµ³¡£ÀıÈç£¬Èç¹ûÒ»¸öÕşµ³Ó®µÃÈı·ÖÖ®Ò»µÄÑ¡Æ±£¬ÄÇÃ´ËüÓ¦¸Ã»ñµÃÈı·ÖÖ®Ò»µÄÏ¯Î»¡£×ÜµÄÀ´Ëµ£¬ÓÉÓÚÕâĞ©»®·Ö»á²úÉú·ÖÊıµÄÏ¯Î»£¬Òò´Ë²»¿ÉÄÜÊµÏÖ¾«È·µÄ±ÈÀı¡£Òò´Ë£¬ÖÆ¶¨ÁËÈô¸É·½·¨£¬È·±£¸÷Õşµ³Ï¯Î»·ÖÅä£¨µ±È»ÊÇÕûÊı£©¾¡¿ÉÄÜ³É±ÈÀı¡£¡ìYÓëÊ¥À­¹Å·½·¨Ïà±È£¬½Üì³Ñ··½·¨ÉÔÎ¢ÇãÏòÓÚ´óµ³ÅÉºÍÁªÃË£¬¶ø²»ÊÇ·ÖÉ¢µÄĞ¡µ³ÅÉ¡£¡ìW;;;;;;;;;;;;x
+precious_goods;¹ó½ğÊô;;;;;;;;;;;;x
+precious_goods_RGO_SIZE;¹ó½ğÊôÊĞ³¡¹æÄ£;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_DESC;¡ìY$PROV$¡ìW¶Ô¡ìY$PARTY$¡ìWµÄÖ§³Ö¶È½«¸Ä±ä¡ìY$VALUE$¡ìW.\n;;;;;;;;;;;;x
+MODIFY_RELATION_EFFECT;¡ìY$TARGET$¡ì!¶Ô¡ìY$SOURCE$¡ì!µÄ¹ØÏµ¸Ä±äÁË$VALUE$.\n;;;;;;;;;;;;x
+IS_NOT_ACCEPTED_CULTURE;²»ÊÇÒ»¸ö¿É½ÓÊÜÎÄ»¯¡£;;;;;;;;;;;;x
+canned_food_factory;¹ŞÍ·Ê³Æ·³§;;;;;;;;;;;;x
+ALL_CORE_PROVINCE_THAT;ËùÓĞºËĞÄÊ¡·İ\n;;;;;;;;;;;;x
+TOPBAR_POPULATION;ÎÒÃÇ¹úÄÚµÄ³ÉÄêÄĞĞÔÈË¿ÚÊıÁ¿ÊÇ$CURR$. ÎÒÃÇ¹úÄÚµÄ³ÉÄêÄĞĞÔÈË¿ÚÊıÁ¿ÔÚ¹ıÈ¥¡ìY$DAYS$¡ì!ÌìÖĞ¸Ä±äÁË$CHANGE$.;;;;;;;;;;;;x
+precious_metal;¹ó½ğÊô;;;;;;;;;;;;x
+precious_metal_RGO_SIZE;¹ó½ğÊô¿ó²ú¹æÄ£;;;;;;;;;;;;x
+cattle;ÉüĞó;;;;;;;;;;;;x
+cattle_RGO_SIZE;ÄÁ³¡¹æÄ£;;;;;;;;;;;;x
+no_health_care_desc;Õş¸®²»¹ØĞÄÒ½ÁÆ±£½¡£¬Ò²Ã»ÓĞÕë¶ÔÏà¹ØÊÂÒµµÄ×¨Ïî×Ê½ğ´æÔÚ¡£ ÏÖ´æµÄÉÙÊıÎÀÉú»ú¹¹ÊÇ´ÓÖĞÊÀ¼ÍÊ±´úÒÅÁôÏÂÀ´µÄ£¬ÆäÖĞµÄÉèÊ©Ò²Í¬ÑùÈç´Ë¡£ Ò½ÁÆÎÀÉúÈÔÈ»ÊÇÖÖÓë½Ì»áÊÂÒµÏà¹ØÁªµÄ·ÇÕıÊ½Ö°Òµ¡£ Ò½ÔºµÄÕÕÃ÷Éè±¸¼òÂª¶øÔ­Ê¼£¬ÖÎÁÆÉèÊ©Ïà»¥Óµ¼·ÔÚÒ»Æğ£¬´«È¾²¡µÄÖÂ²¡Òò×Ó±é²¼Ò½ÔºµÄ´óÌüÓë¸÷¸ö½ÇÂä¡£Ò½ÔºÍ¨³£»áÍÆ¼ö»¼Õß¼°Æä¼ÒÊôÍ¨¹ıÆíµ»µÈ°ì·¨À´ÖÎÁÆ×Ô¼ºµÄ¼²²¡¡£;;;;;;;;;;;;x
+trinket_health_care;ÏóÕ÷ĞÔÒ½ÁÆ±£½¡;;;;;;;;;;;;x
+trinket_health_care_desc;Ò½ÉúºÍ»¤Ê¿¶ÔÉË¿ÚºÍ¼²²¡ÓĞ»ù±¾µÄÁË½â£¬ÔÚÖÎÁÆ»¼ÕßÊ±²¿·ÖÈÔÒÀ¿¿¾ÉĞÅÌõ£¬µ«ËûÃÇÈ·Êµ½ÓÊÜ¹ıÕıÊ½ÅàÑµ¡£Ò½ÔºÖÆ¶¨ÁËÏà¹ØÊØÔòÀ´±ÜÃâ¹ı¶ÈÓµ¼·µÄÏÖÏó£¨´²¼ä¸ôÖÁÉÙĞèÎ¬³ÖÒ»Ã×£©£¬¾­Ò½ÔºÍ¨³öµÄ»»ÆøÉè±¸ÓëÅÅÎÛ¹ÜÃ¿ÈÕÓ¦³åÏ´Êı´Î£¬¶ø²ŞËùºÍÏÂË®µÀÔòĞèÓÃÄàÌ¿Ïû¶¾¡£ µ«ÊÇ£¬Ôº·½Ö÷¶¯ÊÕ¼¯µÄ»¼ÕßÊı¾İºÜÉÙ£¬Ò²Ã»ÓĞÏàÓ¦µÄÎÀÉú±ê×¼À´¹©Õş¸®»ú¹¹ÊµÊ©ÀıĞĞ¼ì²é¡£Ò½ÁÆÉè±¸Ï¡È±Ò²ÈÔÈ»ÊÇÖØÒªµÄÇ¯ÖÆÒòËØ¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ğ§¹û£¬ÄúµÄĞĞÕşÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½20£¥¡£¡ìW;;;;;;;;;;;;x
+low_health_care;µÍ¼¶Ò½ÁÆ±£½¡;;;;;;;;;;;;x
+low_health_care_desc;Í¨¹ıÑ§Ï°Óë»ıÀÛ£¬Ò½ÉúºÍ»¤Ê¿ÒÑ¾­ÄÜ¹»¸üºÃµØÀí½âÉË¿ÚºÍ¼²²¡µÄ³ÉÒò£¬²¢ÔÚÖÎÁÆ²¡»¼Ê±Ó¦ÓÃËùÎ½¡°Ï¸¾úÀíÂÛ¡±µÄÖ¸µ¼¡£ ¾¡¹ÜÏà¹Ø¼ì²éÈÔ²»Æµ·±£¬Ò»´¦×¨ÃÅµÄÎÀÉúÎ¯Ô±»áÒÑ¾­µÃµ½³ÉÁ¢£¬Äã¿ÉÒÔ¿´µ½ËûÃÇµÄ´úÀíÈËÔÚÒ½ÔºËÄ´¦Ñ²²é£¬ÒÔÈ·±£»ù±¾µÄÎÀÉú±ê×¼ÔÚ¸÷´¦µÃµ½ÇĞÊµÖ´ĞĞ¡£Ò½ÁÆÉè±¸Ò²ÕıÖğ²½µÃµ½ÆÕ¼°¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ğ§¹û£¬ÄúµÄĞĞÕşÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½30£¥¡£¡ìW;;;;;;;;;;;;x
+acceptable_health_care;ÖĞ¼¶ÎÀÉú±£½¡;;;;;;;;;;;;x
+acceptable_health_care_desc;Ò½Ñ§ÒÑ¾­³ÉÎªÒ»ÃÅÍêÈ«³ÉÊìµÄÑ§¿Æ£¬Ò½ÉúºÍ»¤Ê¿ÔÚ±ÏÒµÊ±±ãÄÜ¶ÔÈËÌåÓë¼²²¡ÓµÓĞ¹ã·ºµÄÁË½â£¬²¢ÖªÏş×Ô¼º¸ÃÈçºÎÈ¥ÖÎÓúËüÃÇ¡£ Ïû¶¾ÉèÊ©±äµÃÏàµ±ÆÕ¼°£¬ÀıÈçÓÃÕÅ²®Â×ÂË¾úÆ÷Óë¸ßÑ¹¸ª¾»»¯Ë®Ô´£¬Í¨¹ı¼ÓÈÈÈÜÒºÖÁ·ĞµãµÄ°ì·¨É±ÃğÎ£ÏÕµÄÎ¢ÉúÎï¡£Õş¸®½¡¿µ»ú¹¹ÒÔÖ´ĞĞÎÀÉú°²È«´ëÊ©Îª¼ºÈÎ£¬È·±£Ò½ÔºÄÚ²»´æÔÚ¹ı¶ÈÓµ¼·µÄÏÖÏó¡£´ËÍâ£¬ÔÚÊĞÖĞĞÄÑ°ÕÒÕïËùÒÑ¾­±äµÃ¸ü¼ÓÈİÒ×ÁË£¬Ò½Ôº»¹·ÅÆúÁË´«Í³µÄÓÍµÆ£¬¸ÄÓÃÄÜ¹»Ìá¸ßÔ±¹¤Ğ§ÂÊµÄÆûµÆ¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ğ§¹û£¬ÄúµÄĞĞÕşÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½40£¥¡£¡ìW;;;;;;;;;;;;x
+good_health_care;¸ß¼¶Ò½ÁÆ±£½¡;;;;;;;;;;;;x
+good_health_care_desc;¼¸ÖÖÒßÃçµÄ·¢ÏÖ³¹µ×¸Ä±äÁËÒ½Ñ§µÄÇ°¾°£¬Õş¸®Ç¿ÖÆ»ò´óÁ¦ÍÆ¹ãÃñ¼äµÄÒßÃç½ÓÖÖ¡£Ò½ÉúÏÖÔÚ²ÉÓÃÕı¹æµÄÒ©ÎïÖÎÁÆ²¡ÈË£¬¶ÔËùÓĞÒ½ÁÆÉè±¸°´ÆÚ½øĞĞÈ«ÃæÃğ¾ú£¬Õş¸®ÎÀÉú»ú¹¹ÏÖÔÚÇ¿ÖÆÖ´ĞĞºÏÀíµÄ´«È¾²¡¼ìÒßÓëÒ½ÁÆ·ÏÎï´¦ÖÃ³ÌĞò¡£ ¼´Ê¹ÊÇ½ÏĞ¡µÄ³ÇÕòÒ²ÄÜ¾­³£¼ûµ½ÕïËù»òÒ½Ôº£¬¹ı¶ÈÓµ¼·µÄÎÊÌâÒÑ¾­ºÜº±¼ûÁË£¬±»³ÆÎªÎÀÉúÔºµÄĞ¡ĞÍ½¡¿µ»ú¹¹Ò²¿ªÊ¼ÔÚÅ©´åµØÇø¿ªÊ¼³öÏÖ¡£Ò½ÔºÈ«ÃæÅä±¸ÁËÏÖ´ú»¯µÄµçµÆ£¬²¢Ïò²¡»¼¹«¿ªÒ½ÉúĞÅÏ¢ÒÔ¹©Ñ¡È¡¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ğ§¹û£¬ÄúµÄĞĞÕşÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½50£¥\n³ä·ÖÂú×ãĞĞÕşÖ§³öµÄĞèÇóÄÜ¹»ÎªÕâÏî¸Ä¸ïÌá¹©¶îÍâµÄĞ§¹û¡£¡ìW;;;;;;;;;;;;x
+school_reforms;½ÌÓıÏµÍ³;;;;;;;;;;;;x
+no_schools_l;ÎŞ½ÌÓıÏµÍ³;;;;;;;;;;;;x
+no_schools;ÎŞ½ÌÓıÏµÍ³;;;;;;;;;;;;x
+no_schools_desc;Ã»ÓĞ¹«Á¢Ñ§Ğ£¡£;;;;;;;;;;;;x
+low_schools;»ù´¡½ÌÓıÏµÍ³;;;;;;;;;;;;x
+low_schools_l;»ù´¡½ÌÓıÏµÍ³;;;;;;;;;;;;x
+low_schools_desc;¹«Á¢Ñ§Ğ£²»³£¼û;;;;;;;;;;;;x
+acceptable_schools;ÖĞµÈ½ÌÓıÏµÍ³;;;;;;;;;;;;x
+acceptable_schools_l;ÖĞµÈ½ÌÓıÏµÍ³;;;;;;;;;;;;x
+acceptable_schools_desc;¹«ÖÚÑ§Ğ£ÆÕ¼°»¯.;;;;;;;;;;;;x
+good_schools;ÓÅÖÊ½ÌÓıÏµÍ³;;;;;;;;;;;;x
+good_schools_l;ÓÅÖÊ½ÌÓıÏµÍ³;;;;;;;;;;;;x
+good_schools_desc;ÄãÕæµÄÄÜ¼ûµ½ºÜ¶àµÄ¹«Á¢Ñ§Ğ£¡£;;;;;;;;;;;;x
+RULE_RICH_ONLY;\n½öÏŞ¸»Ô£½×²ã;;;;;;;;;;;;x
+RULE_SAME_AS_RULING_PARTY;\nµÈÍ¬ÓÚÖ´Õşµ³;;;;;;;;;;;;x
+RULE_STATE_VOTE;\nµØÇøÑ¡¾Ù;;;;;;;;;;;;x
+RULE_POPULATION_VOTE;\nÆÕÑ¡;;;;;;;;;;;;x
+ISSUE_MOVE_EFFECT;¡ìY$PERCENTAGE$%¡ìWµÄÈË¿Ú´Ó¡ìY$FROM$¡ìWÒÆ¶¯µ½¡ìY$TO$¡ìW\n;;;;;;;;;;;;x
+social_policy;¸£ÀûÕş²ß;;;;;;;;;;;;x
+colonial_spending_policy;Ö³Ãñ;;;;;;;;;;;;x
+colonial_spending_policy_l;Ö³Ãñ;;;;;;;;;;;;x
+colonial_spending_policy_desc;Õş¸®ÓĞ¸ö´óÌåµÄÖ³ÃñÕş²ß£¬ÎŞÒâÔÚ¸£ÀûÉÏ»¨Ç®¡£;;;;;;;;;;;;x
+no_state_interference;·´¶Ô;;;;;;;;;;;;x
+no_state_interference_l;·´¶Ô;;;;;;;;;;;;x
+no_state_interference_desc;Õş¸®ÈÏÎª¸£ÀûÖ§³öÊÇ²»±ØÒªµÄ£¬Ã¿¸öÈËÓ¦¸ÃÑ§»áÕÕ¹Ë×Ô¼º¡£;;;;;;;;;;;;x
+no_position_set;ÎŞ¹Ù·½Õş²ß;;;;;;;;;;;;x
+no_position_set_l;ÎŞ¹Ù·½Õş²ß;;;;;;;;;;;;x
+no_position_set_desc;Õş¸®ÔÚ¸£ÀûÕş²ß·½ÃæÃ»ÓĞ¹Ù·½Á¢³¡£¬ÔÚ¾È¼Ã·½ÃæÓ¦¸ÃÍ¶Èë¶àÉÙÇ®»ù±¾ÉÏÓÉÍ³ÖÎÕßËµÁËËã¡£;;;;;;;;;;;;x
+populist_welfare;¼Ò³¤Ê½;;;;;;;;;;;;x
+populist_welfare_l;¼Ò³¤Ê½;;;;;;;;;;;;x
+populist_welfare_desc;¸ÃÕş¸®Áìµ¼ÏÂµÄ¸£ÀûÖÆ¶È¾ßÓĞ¼Ò³¤Ê½µÄÌØÕ÷£¬Í¨¹ıÉèÖÃ×îµÍÔ¤Ëã½ğ¶îµÄ°ì·¨À´Âú×ãÊ±³£ĞèÒªÆô¶¯µÄÇ×ÃñÕş²ßĞèÒª¡£;;;;;;;;;;;;x
+welfare_state;ÍêÈ«¸£Àû¹ú¼Ò;;;;;;;;;;;;x
+welfare_state_l;ÍêÈ«¸£Àû¹ú¼Ò;;;;;;;;;;;;x
+welfare_state_desc;Õâ¸öÕş¸®ÈÏÎª£¬ÎªÉç»áÖĞ²»ĞÒÂäÄÑµÄÈËÌá¹©¾È¼ÃÊÇÖÁ¹ØÖØÒªµÄ£¬ËûÃÇÒ²Òò´Ë¹û¶ÏµØ½«Ô¤ËãÖĞµÄÒ»²¿·ÖÍ¶Èëµ½ÕâÏîÊÂÒµµÄÊµ¼ùÖĞ¡£;;;;;;;;;;;;x
+rail_focus;Ö³ÃñÕş²ß;;;;;;;;;;;;x
+colonial_immigration;¹ÄÀøÖ³ÃñÒÆÃñ;;;;;;;;;;;;x
+encourage_agriculture;¹ÄÀøÅ©Òµ;;;;;;;;;;;;x
+encourage_mining;¹ÄÀø²É¿ó;;;;;;;;;;;;x
+encourage_business;¹ÄÀøÉÌÒµ;;;;;;;;;;;;x
+militancy_appeasement;°²¸§Ö³ÃñµØÇéĞ÷;;;;;;;;;;;;x
+consciousness_appeasement;Ö³ÃñĞû´«;;;;;;;;;;;;x
+native_enslavement;Å«ÒÛÍÁÖø;;;;;;;;;;;;x
+NO_RAIL_YET;ÒòÎª²»ÖªµÀ½¨Éè·½·¨£¬ËùÒÔÎÒÃÇ»¹²»ÄÜ¹ÄÀøÌúÂ·½¨Éè¡£;;;;;;;;;;;;x
+CAN_NOT_BUILD_FACTORY;ÎŞ·¨½¨Ôì¹¤³§¡£\n;;;;;;;;;;;;x
+CAN_BUILD_FACTORY;¿ÉÒÔ½¨Ôì¹¤³§¡£\n;;;;;;;;;;;;x
+no_safety;ÎŞ°²È«ÊØÔò;;;;;;;;;;;;x
+no_safety_desc;¹¤ÉËµ¼ÖÂµÄËÀÍö»òÖØÉË°¸Àı²¢²»º±¼û£¬¹ÍÖ÷²»ĞèÒª¿¼ÂÇÉú²ú³¡ËùµÄ°²È«ÎÊÌâ¶øÖ»¶¢×Å×Ô¼ºµÄÀûÈó¡£Õş¸®Ã»ÓĞÈÎºÎÉæ¼°¹¤×÷»·¾³±£ÕÏµÄÁ¢·¨ÊØÔò£¬¹¤ÈËÃÇÒ²ºÜÉÙÒòÎªÊÂ¹Ê¶øÆğËßËûÃÇµÄ¹ÍÖ÷¡£;;;;;;;;;;;;x
+trinket_safety;×îµÍ°²È«ÊØÔò;;;;;;;;;;;;x
+trinket_safety_desc;¹¤³§±»ÒªÇóÌá¹©ÊÊµ±µÄÍ¨·ç»·¾³£¬¶¨ÆÚÇå½à¹¤×÷³µ¼ä¡£¹¤ÈËÃÇ¿ÉÒÔÔÚ·¢ÉúÊÂ¹ÊÊ±ÆğËßËûÃÇµÄ¹ÍÖ÷£¬µ«ËûÃÇºÜÉÙÓĞ»ú»áÊ¤Ëß£¬¼´±ã³É¹¦£¬ËùµÃµ½µÄÅâ³¥Ò²¿ÉÎ½±­Ë®³µĞ½¡£´ËÍâ£¬Õş¸®°²È«ÊØÔòÒ²Ö»ÊÊÓÃÓÚ´óĞÍ¹¤³§¡£;;;;;;;;;;;;x
+low_safety;ÓĞÏŞ°²È«ÊØÔò;;;;;;;;;;;;x
+low_safety_desc;°²È«·¨¹æ±»À©Õ¹µ½Å©Òµ£¬ÃñÓÃ½¨ÖşÓë²É¿ó²¿ÃÅ¡£¿óÇø±ØĞëÎªËûÃÇµÄ¹¤ÈËÌá¹©°²È«µÆÃ±¡£ ¾¡¹Ü¹ÍÔ±ÃÇÈÔÈ»ºÜÄÑÍ¨¹ıÆğËß¹ÍÖ÷À´»ñÈ¡¾Ş¶îÅâ¸¶£¬µ«Õş¸®½«»áÎªÊÜÓ°ÏìµÄ¼ÒÍ¥Ìá¹©·öÖú£¬ËäÈ»¾È¼Ã¿îÓëËÀÄÑÕßµÄ¼ÛÖµÏà±ÈÎ¢ºõÆäÎ¢£¬µ«Ò²ËãÊÇ¸ö²»Ğ¡µÄ½ø²½¡£;;;;;;;;;;;;x
+acceptable_safety;³£¹æ°²È«ÊØÔò;;;;;;;;;;;;x
+acceptable_safety_desc;°²È«·¨¹æÊÊÓÃÓÚÎÒ¹úÒ»ÇĞÀÍ¶¯²¿ÃÅ¡£Õş¸®»ú¹¹½«Å©ÓÃ»¯Ñ§Æ·£¨Å©Ò©£©±ê¼ÇÎª´æÔÚ¶¾ĞÔºÍ¶Ô½¡¿µ¾ß±¸Ç±ÔÚÍşĞ²£¬²É¿óºÍ½¨Öş¹¤ÈËĞèÒªÅä±¸ÏàÓ¦µÄ±£»¤×°±¸£¬ÆÈÊ¹»ğ³µ»ú×éÈËÔ±ÅÊÉÏ³µ¶¥²ÅÄÜÊ¹ÓÃµÄÊÖÉ²ÖÆ¶¯Æ÷½«±»³¹µ×·ÏÖ¹¡£Ô±¹¤È¨ÀûµÃµ½¸ü¶à±£ÕÏ£¬Òò¹ÍÖ÷Êèºö·¢ÉúµÄÊÂ¹Ê¶øµÃµ½Åâ³¥µÄ°¸ÀıÒÑ¾­Ïàµ±ÆÕ±é¡£Õş¸®ÔÚ°ïÖúÊÜº¦¼ÒÍ¥µÄÊÂÒµÉÏÒ²±äµÃ¸ü¼ÓÈËĞÔ»¯¡£;;;;;;;;;;;;x
+good_safety;ÓÅÁ¼°²È«ÊØÔò;;;;;;;;;;;;x
+good_safety_desc;°²È«·¨¹æÊÊÓÃÓÚÎÒ¹úÒ»ÇĞÀÍ¶¯²¿ÃÅ¡£ÏÖÔÚÇáÉË¡¢ÓÄ±ÕÖ¢ÓëÇ±ÔÚĞÄÀíÎÊÌâÒ²±»ÄÉÈëÀÍ¶¯·¨¹æµÄ±£»¤·¶Î§Ö®ÄÚ¡£¹ÍÖ÷ÓĞÒåÎñÎª¹¤ÈËÌá¹©±£»¤Éè±¸ÓëÏàÓ¦µÄ°²È«ÅàÑµ¡£¾¯¸æ±êÓïÓë¸æÊ¾ÅÆÔÚ¹¤×÷³¡ËùÈçÓêºó´ºËñ°ãÓ¿ÏÖ£¬ÒÔ±£Ö¤¹¤ÈËÃÇÀí½â°²È«µÄ²Ù×÷Ö¸Ê¾¡£Òò¹¤ÉËµÃµ½¹ÍÖ÷µÄ¹ıÊ§Åâ³¥±äµÃ·Ç³£ÈİÒ×£¬Õş¸®Ò²»áÒÔÌá¹©´ó±Ê×Ê½ğÓÃÓÚ¾È¼ÃÊÂ¹ÊÊÜº¦Õß¡£;;;;;;;;;;;;x
+no_work_hour_limit_desc;Ã¿ÈÕ¹¤×÷Ê±¼äÊÇÃ»ÓĞÏŞÖÆµÄ£¬¹¤ÈËÃÇÊµ¼ÊÉÏÃ»ÓĞÈÎºÎÒé¼ÛÈ¨£¬¹ÍÖ÷ÃÇ¿ÉÒÔËæĞÄËùÓûµØ¶Ô´ıËûÃÇµÄ¹¤ÈË¡£Ä³Ğ©¹¤×÷³¡ËùµÄÉú´æÌõ¼şÉõÖÁÀàËÆÓÚÅ«Á¥ÖÆ¡£;;;;;;;;;;;;x
+fourteen_hours_desc;¶Ô¹¤Ê±µÄÁ¢·¨²»½öÖ¼ÔÚ¼õÉÙ¹¤×÷Á¿£¬¶øÇÒ»¹ÏŞÖÆÁËÒ¹¼ä¼Ó°àÏÖÏó£¬¸³Óè¹¤ÈËÃÇË÷È¡×îµÍÄêĞİ¼ÙµÄÈ¨Àû¡£´ËÍâÕâĞ©È¨ÀûµÄ¶ÒÏÖ²»ÔÊĞí¹ÍÓ¶·½ÒÔ½µµÍ¹¤ÈË¹¤×ÊÎªÌõ¼ş¡£Ëæ×Å¹¤×ÊÁ¿µÄÔö³¤Óë¹¤Ê±µÄ¼õÉÙ£¬ÈËÃÇ¿ªÊ¼ÓµÓĞ¸ü¶àÊ±¼äÍ¶ÈëĞİÏĞÓëÏû·ÑÖĞ£¬Õâ½«ÓĞĞ§ÍÆ¶¯ÎÒ¹úµÄĞèÇóÔö³¤¡£È»¶øÃ¿ÌìÊ®ËÄĞ¡Ê±µÄ×î¸ß¹¤Ê±ÈÔÈ»ÒâÎ¶×Å´ó¶àÊı¹¤ÈË¼¸ºõÃ»ÓĞÊ±¼äÅã°éËûÃÇµÄ¼ÒÈË¡£;;;;;;;;;;;;x
+twelve_hours_desc;¶Ô¹¤Ê±µÄÁ¢·¨²»½öÖ¼ÔÚ¼õÉÙ¹¤×÷Á¿£¬¶øÇÒ»¹ÏŞÖÆÁËÒ¹¼ä¼Ó°àÏÖÏó£¬¸³Óè¹¤ÈËÃÇ»ñÈ¡×îµÍÄêĞİ¼ÙµÄÈ¨Àû¡£´ËÍâÕâĞ©È¨ÀûµÄ¶ÒÏÖ²»ÔÊĞí¹ÍÓ¶·½ÒÔ½µµÍ¹¤ÈË¹¤×ÊÎªÌõ¼ş¡£Ëæ×Å¹¤×ÊÁ¿µÄÔö³¤Óë¹¤Ê±µÄ¼õÉÙ£¬ÈËÃÇ¿ªÊ¼ÓµÓĞ¸ü¶àÊ±¼äÍ¶ÈëĞİÏĞÓëÏû·ÑÖĞ£¬Õâ½«ÓĞĞ§ÍÆ¶¯ÎÒ¹úµÄĞèÇóÔö³¤¡£Ã¿Ìì¹¤×÷Ê®¶ş¸öĞ¡Ê±Áî¹¤ÈËÃÇ±äµÃ¸üÓĞÊ±¼äÓë¼ÒÈËÃÇÍÅ¾Û£¬²¢ºÜ¿ì³ÉÎªÏÂ°àºó¾Æ¹İÓëµØÏÂ²ÍÌüµÄ³£¿Í¡£;;;;;;;;;;;;x
+ten_hours_desc;¶Ô¹¤Ê±µÄÁ¢·¨²»½öÖ¼ÔÚ¼õÉÙ¹¤×÷Á¿£¬¶øÇÒ»¹ÏŞÖÆÁËÒ¹¼ä¼Ó°àÏÖÏó£¬¸³Óè¹¤ÈËÃÇ»ñÈ¡×îµÍÄêĞİ¼ÙµÄÈ¨Àû¡£´ËÍâÕâĞ©È¨ÀûµÄ¶ÒÏÖ²»ÔÊĞí¹ÍÓ¶·½ÒÔ½µµÍ¹¤ÈË¹¤×ÊÎªÌõ¼ş¡£Ëæ×Å¹¤×ÊÁ¿µÄÔö³¤Óë¹¤Ê±µÄ¼õÉÙ£¬ÈËÃÇ¿ªÊ¼ÓµÓĞ¸ü¶àÊ±¼äÍ¶ÈëĞİÏĞÓëÏû·ÑÖĞ£¬Õâ½«ÓĞĞ§ÍÆ¶¯ÎÒ¹úµÄĞèÇóÔö³¤¡£ÖÜÄ©Ğİ¼ÙÏÖÔÚÊÇºÜ³£¼ûµÄÊÂÇé£¬°×ÁìÃÇÉõÖÁÕùÈ¡µ½ÁË¸üÎªÖÆ¶È»¯µÄÄêĞİ¼ÙÌåÏµ¡£;;;;;;;;;;;;x
+eight_hours_desc;¶Ô¹¤Ê±µÄÁ¢·¨²»½öÖ¼ÔÚ¼õÉÙ¹¤×÷Á¿£¬¶øÇÒ»¹ÏŞÖÆÁËÒ¹¼ä¼Ó°àÏÖÏó£¬¸³Óè¹¤ÈËÃÇË÷È¡×îµÍÄêĞİ¼ÙµÄÈ¨Àû¡£´ËÍâÕâĞ©È¨ÀûµÄ¶ÒÏÖ²»ÔÊĞí¹ÍÓ¶·½ÒÔ½µµÍ¹¤ÈË¹¤×ÊÎªÌõ¼ş¡£Ëæ×Å¹¤×ÊÁ¿µÄÔö³¤Óë¹¤Ê±µÄ¼õÉÙ£¬ÈËÃÇ¿ªÊ¼ÓµÓĞ¸ü¶àÊ±¼äÍ¶ÈëĞİÏĞÓëÏû·ÑÖĞ£¬Õâ½«ÓĞĞ§ÍÆ¶¯ÎÒ¹úµÄĞèÇóÔö³¤¡£ÔÚÃ¿Ìì¹¤×÷°ËĞ¡Ê±µÄÇé¿öÏÂ£¬¼¸ºõËùÓĞµÄÔ±¹¤¶¼µÃµ½ÁËÖÜÄ©ĞİÏ¢Óë»ñÈ¡ÄêĞİ¼ÙµÄÈ¨Àû¡£Æ½ÃñÃÇÓÃÒÔĞİÏĞµÄ×ÔÓÉÊ±¼ä´ïµ½ÁËÀúÊ·×î¸ßË®Æ½£¬ÓéÀÖÒµÕı´¦ÓÚ·±ÈÙÊ±ÆÚ¡£Ëæ×Å¡°ÒøĞĞ¼ÙÈÕ£¨¹«¹²¼ÙÈÕ£©¡±±äµÃ¸ü¼ÓÆÕ¼°£¬Á®¼ÛÂÃ¹İÓëµÍ¼Û³µÆ±Õı²»¶ÏÓ¿Èë¹«ÖÚµÄÉú»î£¬È«¹ú¸÷µØ¶¼ÔÚ³öÏÖ¸÷Ê½ÂÃÓÎ¶È¼ÙÊ¤µØ£¬¾ÍÁ¬×Ú½Ì½çÒ²¿ªÊ¼¶ÔÀñ°İÈÕµÄÊÀË×»î¶¯´ó¿ªÂÌµÆ¡£;;;;;;;;;;;;x
+work_hours;×î´ó¹¤×÷Ê±¼ä;;;;;;;;;;;;x
+movement_fourteen_hours;×î´ó¹¤Ê±ÔË¶¯;;;;;;;;;;;;x
+movement_twelve_hours;×î´ó¹¤Ê±ÔË¶¯;;;;;;;;;;;;x
+movement_ten_hours;×î´ó¹¤Ê±ÔË¶¯;;;;;;;;;;;;x
+movement_eight_hours;×î´ó¹¤Ê±ÔË¶¯;;;;;;;;;;;;x
+POLITICS_SUPPORT_REFORM;$IDEOLOGY$£º$POSITIVE$%Í¶Æ±ÔŞ³É£¬$NEGATIVE$%Í¶Æ±·´¶Ô£¨ÔÚÉÏÒéÔºÓµÓĞ$PERCENT$%µÄÏ¯Î»£©\n;;;;;;;;;;;;x
+POLITICS_IN_FAVOR_TOOLTIP;£¨$PERCENT$%µÄÉÏÒéÔºÒéÔ±ÔŞÍ¬¸Ä¸ï£©;;;;;;;;;;;;x
+POLITICS_UPPERHOUSE_CHART_TOOLTIP;$PERCENT$%µÄÉÏÒéÔºÏ¯Î»ÊôÓÚ$IDEOLOGY$Õß\n;;;;;;;;;;;;x
+POLITICS_UPPERHOUSE;ÉÏÒéÔº;;;;;;;;;;;;x
+HAVE_INDUSTRIAL_SCORE_LESS_THAN;¹¤Òµ·ÖÊıµÍÓÚ£º;;;;;;;;;;;;x
+CHANGE_GOODS;¡ìY$PROV$¡ìWµÄÌØ²ú±äÎª¡ìY$GOOD$¡ìW\n;;;;;;;;;;;;x
+HAVE_LESS_TOTAL_PORTS_THAN;º£¾ü»ùµØÊıÁ¿²»¶àÓÚ£º;;;;;;;;;;;;x
+HAVE_MORE_TOTAL_PORTS_THAN;º£¾ü»ùµØÊıÁ¿²»ÉÙÓÚ£º;;;;;;;;;;;;x
+TOTAL_AMOUNT_OF_SHIPS;½¢´¬×ÜÊı£º¡ìY$COUNT$¡ìW\n;;;;;;;;;;;;x
+LESS_AMOUNT_OF_SHIPS;½¢´¬×ÜÊıÉÙÓÚÓÚ£º¡ìY$COUNT$¡ìW\n;;;;;;;;;;;;x
+ibadi;ÒÁ°ÍµÂÅÉ;;;;;;;;;;;;x
+HAS_RECENTLY_LOST_WAR;ÔøÔÚ¹ıÈ¥ÎåÄêÄÚ´ò¹ı°ÜÕÌ;;;;;;;;;;;;x
+NOT_IN_ELECTION_CAMPAIGN;²»ÔÚÑ¡¾ÙÖĞ;;;;;;;;;;;;x
+PEACE_WE_DECLINE_2;ÎÒ¹ú¾Ü¾øÁËÏÂÁĞ¹ú¼ÒÌá³öµÄºÍÆ½Ğ­Òé;;;;;;;;;;;;x
+PEACE_WE_ACCEPT_2;ÎÒ¹ú½ÓÊÜÁËÏÂÁĞ¹ú¼ÒÌá³öµÄºÍÆ½Ğ­Òé;;;;;;;;;;;;x
+CALCULATED_WARSCORE;ºÍÆ½ÌáÒé·ÖÖµ£º$VAL$;;;;;;;;;;;;x
+CRISIS_BACK_DOWN_WE_DECLINE_2;ÎÒ¹ú¾Ü¾øÁËÏÂÁĞ¹ú¼ÒÌá³öµÄºÍÆ½Ğ­Òé;;;;;;;;;;;;x
+HAVE_LESS_VASSALS_THAN;¸½Ó¹ÉÙÓÚ;;;;;;;;;;;;x
+BUDGET_ADMIN_EFFICIENCY_DESC2;ÎÒ¹úµÄ¡ìYĞĞÕşĞ§ÂÊ¡ìW¾ö¶¨ÁËÉç»á¸Ä¸ïºÍ¹ØË°µÄĞ§ÂÊ¡£ÕâĞ©Ö§³öÒ²ÓĞÖúÓÚÎÒÃÇµÄÖÎ°²¡£;;;;;;;;;;;;x
+ADM_DESC;ĞĞÕş¿ªÖ§Ê¹ÄãÃÇµÄ¹ÙÁÅÄÜ¹»ÔËĞĞºÍÎ¬³ÖÒ»¸ö½¡¿µµÄ¹ÙÁÅ»ú¹¹£¬Ìá¸ßÎÒÃÇµÄ¹ØË°Ğ§ÂÊºÍÈË¿ÚµÄ×ªÖ°ÂÊ¡£;;;;;;;;;;;;x
+NO_POPS_OF_TYPE;ÎÒ¹úÃ»ÓĞÕâÖÖÈË¿ÚÀàĞÍ¡£;;;;;;;;;;;;x
+NAT_STOCK_DESC;Ã³Ò×¿ªÖ§¿ÉÒÔÌî²¹ÎÒ¹úµÄ¹ú¼Ò´¢±¸£¬°üÀ¨½¨Éè£¬º£¾ü²¹¸ø£¬Â½¾ü²¹¸øÒÔ¼°º£ÍâÎ¬»¤µÄ·ÑÓÃ¡£;;;;;;;;;;;;x
+IND_SUP_DESC;Ìá¹©¸ø¹¤³§µÄÕş¸®²¹ÌùºÍ¹ú¼ÒÏÖ½ğ´¢±¸½«ÓÃÓÚ°ïÖú¹¤³§¹ºÂòÎï×ÊºÍÖ§¸¶¹¤×Ê¡£;;;;;;;;;;;;x
+DIST_DEFENCE;¾üÊÂ¿ªÖ§;;;;;;;;;;;;x
+DEFENCE_DESC;¾üÊÂ¿ªÖ§½«±»Ö§¸¶¸ø¾ü¹ÙºÍÊ¿±ø×÷ÎªĞ½Ë®¡£.;;;;;;;;;;;;x
+SOCIAL_DESC2;Éç»á¿ªÖ§½«ÎªÄãÖÆ¶¨µÄÉç»á¸Ä¸ïÌá¹©×Ê½ğ¡£·ÖÅäµÄ¾ßÌå×Ê½ğÊı¶îÈ¡¾öÓÚÄãµÄ¡ìY¹ú¼ÒĞĞÕşĞ§ÂÊ¡ìW;;;;;;;;;;;;x
+TAX_MIDDLE_DESC;ÕâÀï¿ØÖÆÖĞ²ú½×¼¶µÄË°ÊÕ¡£¹ı¸ßµÄË°ÊÕ»áÈÃËûÃÇÖ»ÓĞºÜÉÙµÄÇ®À´Âú×ã×Ô¼ºµÄÉú»îĞèÇóÓëÊÂÒµÖ§³ö¡£;;;;;;;;;;;;x
+TARIFFS_DESC;¹ØË°¶Ô½ø¿Ú»õÎïÕ÷ÊÕ¶îÍâ·ÑÓÃ£¬ÆäÊÕÒæ½«Á÷Ïò¹ú¿â¡£¸º¹ØË°ÓÃÀ´Ìá¹©½ø¿Ú²¹Ìù£¬ÎªÄãµÄ¹úÃñÓë¹¤³§»º½âÏû·ÑÑ¹Á¦¡£;;;;;;;;;;;;x
+precious_metal_desc;»Æ½ğ¡¢°×Òø¡¢×êÊ¯¡¢ÕäÖéµÈ¹óÖØÎïÆ·²»×÷ÎªÆÕÍ¨ÉÌÆ·³öÊÛ£¬¶øÊÇÖ±½Ó¶Ò»»³É»õ±Ò¡£;;;;;;;;;;;;x
+GOLD;¹ó½ğÊô;;;;;;;;;;;;x
+BUDGET_GOLD_INCOME_DESC;¹ó½ğÊôÊÕÈë;;;;;;;;;;;;x
+BUDGET_GOLD;¹ó½ğÊô£º¡ìY$VAL$¡ìW;;;;;;;;;;;;x
+EDU_DESC;½ÌÓı¿ªÖ§ÓÃÓÚÖ§¸¶¸øÖªÊ¶·Ö×ÓÒÔ²úÉúÑĞ¾¿µãÊı¡£;;;;;;;;;;;;x
+MIL_COST_DESC;Â½¾üºÍº£¾üµÄ²¹¸ø¿ªÖ§£¬²»°üÀ¨½¨Éè·ÑÓÃ£¬Ğ½Ë®ºÍº£ÍâÎ¬»¤·ÑÓÃ¡£;;;;;;;;;;;;x
+STOCKPILE_COST_ESTIMATED;¹ú¼Ò´¢±¸°üÀ¨Â½¾ü£¬º£¾ü£¬½¨ÉèÔ¤ËãÒÔ¼°º£ÍâÎ¬»¤·ÑÓÃ¡£\nÃ÷ÈÕµÄ¿â´æ²É¹º¡ìYÔ¤¼Æ¡ì!½«»¨·Ñ:;;;;;;;;;;;;x
+BUDGET_OVERSEAS;º£ÍâÎ¬»¤;;;;;;;;;;;;x
+BUDGET_CONSUMED_OVERSEAS;º£ÍâÎ¬»¤¿ªÖ§ÓÉ¹ú¼Ò¿â´æ¼ÆËã¶øÀ´¶øÇÒÎŞ·¨½µµÍ¡£\n×òÈÕº£ÍâÎï×ÊÏûºÄ·ÑÓÃÔ¼Îª£º;;;;;;;;;;;;x
+BUDGET_CONSUMED_MILITARY;×òÈÕ¾üÊÂ²úÆ·ÏûºÄ·ÑÓÃÔ¼Îª£º;;;;;;;;;;;;x
+BUDGET_DIPL_DESC;ÓÉÓÚÍâ½»ºÍºÍÆ½Ğ­Òéµ¼ÖÂµÄ·ÑÓÃºÍÀûÈó¡£;;;;;;;;;;;;x
+congo_master;¸Õ¹ûÖ®Íõ;;;;;;;;;;;;x
+DOMINION_OF_NOCOLOR;×ÔÖÎÁìÊôÓÚ;;;;;;;;;;;;x
+SATELLITE_OF_NOCOLOR;³¼·şÓÚ;;;;;;;;;;;;x
+SUBSTATE_OF_NOCOLOR;´Î¹ú¼ÒÊôÓÚ;;;;;;;;;;;;x
+HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;ÒÑÕ¼ÁìµÄÊ¡·İ±ÈÀı´óÓÚ£º;;;;;;;;;;;;x
+HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN;ÒÑÕ¼ÁìµÄÊ¡·İ±ÈÀıĞ¡ÓÚ£º;;;;;;;;;;;;x
+yes_to_congo;Í¶Æ±ÔŞ³É¸Õ¹û×ÔÓÉ°î¡£;;;;;;;;;;;;x
+NEED_POSITIVE_WARSCORE;Õ½Õù½øĞĞµÃ²¢²»Ë³Àû¡£¡ìRÄã²»ÊÇÕ½ÕùµÄÁìµ¼Õß£¬¹±Ï×½«µ¥¶À¼ÆËã¡£¾¡¹ÜÕ½Õù·ÖÊı¿ÉÄÜÎªÕıµÄ, Äã±ØĞëÔö¼ÓÄã×Ô¼ºµÄÕ½Õù·ÖÊı-ÄãÔÚÕ½ÕùÖĞµÄ¹±Ï×-ÒÔÔö¼ÓÕ½ÕùÄ¿±ê¡£¡ìW;;;;;;;;;;;;x
+WARGOAL_LACK_JINGO;ÎÒ¹úµÄÎäÁ¦Õş²ßĞèÒª$REQUIRED$µÄÖ§³Ö£¬µ«ÏÖÔÚ½ö½öÖ»ÓĞ$VALUE$.É³ÎÄÖ÷Òå´ú±í×ÅÍ³ÖÎÕß»òÉÏÒéÔºÏ£ÍûÑÓ³¤Õ½Õù¡£É³ÎÄÖ÷ÒåÔ½¸ß£¬ÓĞÒâÔ¸/Ö§³ÖÕ½ÕùÑÓ³¤µÄ»ú»á¸ü¸ß¡£;;;;;;;;;;;;x
+berlin_conference;°ØÁÖ»áÒé;;;;;;;;;;;;x
+enforce_conference_decision;Ö§³Ö»áÒé;;;;;;;;;;;;x
+enforce_conference_decision_desc;Ç¿ÆÈ¡ìY¹ú¼Ò¡ìW½ÓÊÜ¡ìYÁĞÇ¿¡ìWµÄ¾ö¶¨¡£;;;;;;;;;;;;x
+enforce_conference_decision_short;·ş´Ó¡ìYÁĞÇ¿¡ìWµÄ¾ö¶¨;;;;;;;;;;;;x
+enforce_conference_decision_setup;Ç¿ÆÈ¡ìY¹ú¼Ò¡ìW½ÓÊÜ¡ìYÁĞÇ¿¡ìWµÄ¾ö¶¨¡£;;;;;;;;;;;;x
+no_to_congo;Í¶Æ±ÔŞ³É¸Õ¹û×ÔÓÉ°î¡£;;;;;;;;;;;;x
+abstained_to_congo;ÆúÈ¨¡£;;;;;;;;;;;;x
+admin_spen;AIµÄĞĞÕş¿ªÖ§;;;;;;;;;;;;x
+educational_spen;AIµÄ½ÌÓı¿ªÖ§;;;;;;;;;;;;x
+has_siege;±»Î§¹¥;;;;;;;;;;;;x
+debt_default_to;Õ®ÎñÎ¥Ô¼;;;;;;;;;;;;x
+democracy;ÃñÖ÷¹²ºÍÖÆ;;;;;;;;;;;;x
+MAPMODE_3;ÅÑÂÒµØÍ¼;;;;;;;;;;;;x
+MAPMODE_11;Ô­ÁÏ²úµØµØÍ¼;;;;;;;;;;;;x
+MAPMODE_12;ÈË¿ÚÃÜ¶ÈµØÍ¼;;;;;;;;;;;;x
+MAPMODE_13;ÎÄ»¯µØÍ¼;;;;;;;;;;;;x
+MAPMODE_14;ÊÆÁ¦·¶Î§µØÍ¼;;;;;;;;;;;;x
+MAPMODE_15;²¹¸øÉÏÏŞµØÍ¼;;;;;;;;;;;;x
+MAPMODE_16;Õşµ³ÖÒ³Ï¶ÈµØÍ¼;;;;;;;;;;;;x
+MAPMODE_17;ÅÅÃûµØÍ¼;;;;;;;;;;;;x
+MAPMODE_18;ÒÆÃñµØÍ¼;;;;;;;;;;;;x
+MAPMODE_20;Íâ½»¹ØÏµµØÍ¼;;;;;;;;;;;;x
+MAPMODE_21;Î£»úµØÍ¼;;;;;;;;;;;;x
+MAPMODE_22;º£¾üµØÍ¼;;;;;;;;;;;;x
+PV_POP_NATIONALITY;ÎÄ»¯;;;;;;;;;;;;x
+POPV_SORT_BY_RR;·´ÅÑ¼¯ÍÅ;;;;;;;;;;;;x
+NATIONALITY_DISTTITLE;ÎÄ»¯;;;;;;;;;;;;x
+TERM_FOR_LIFE;¸ÃÕşÌåÏÂ²»»á½øĞĞÑ¡¾Ù;;;;;;;;;;;;x
+HAVE_LESS_BADBOY_THAN;¶ñÃûĞ¡ÓÚ;;;;;;;;;;;;x
+HAVE_AT_LEAST_ONE_OWNED_NEIGHBORING_PROVINCE;ÓµÓĞÖÁÉÙÒ»¸öÏàÁÚÊ¡·İ;;;;;;;;;;;;x
+DONT_HAVE_THE_PROVINCE_MODIFIER;Ã»ÓĞÊ¡·İĞŞÕı;;;;;;;;;;;;x
+HAS_NO_NATIONAL_MINORITY;ÉÙÊıÃñ×å´æÔÚ;;;;;;;;;;;;x
+HAS_NOT_NATIONAL_MINORITY;ÉÙÊıÃñ×å´æÔÚ;;;;;;;;;;;;x
+HAS_NATIONAL_MINORITY;ÉÙÊıÃñ×å´æÔÚ;;;;;;;;;;;;x
+beifaren;±±·½ººÈË;;;;;;;;;;;;x
+nanfaren;ÄÏ·½ººÈË;;;;;;;;;;;;x
+control_1;ÌÔÌ­»îÈûÕôÆû»ú;;;;;;;;;;;;x
+control_1_desc;¹ıÊ±ÊÇµ±Ò»¸ö¶ÔÏó¡¢·şÎñ»òÊµ¼ù²»ÔÙĞèÒªÊ±·¢ÉúµÄ×´Ì¬£¬¼´Ê¹Ëü¿ÉÄÜÈÔÈ»´¦ÓÚÁ¼ºÃµÄ¹¤×÷×´Ì¬¡£»îÈûÊ½ÕôÆû»úÒÑ¾­Ïàµ±¹ıÊ±£¬Ê§È¥ÁËÒ»Ğ©ÓÅÊÆ¡£;;;;;;;;;;;;x
+control_2;ÌÔÌ­¸ßÑ¹ÕôÆû»ú;;;;;;;;;;;;x
+control_2_desc;¹ıÊ±ÊÇµ±Ò»¸ö¶ÔÏó¡¢·şÎñ»òÊµ¼ù²»ÔÙĞèÒªÊ±·¢ÉúµÄ×´Ì¬£¬¼´Ê¹Ëü¿ÉÄÜÈÔÈ»´¦ÓÚÁ¼ºÃµÄ¹¤×÷×´Ì¬¡£¸ßÑ¹ÕôÆû»úÒÑ¾­Ïàµ±¹ıÊ±£¬Ê§È¥ÁËÒ»Ğ©ÓÅÊÆ¡£;;;;;;;;;;;;x
+control_3;ÌÔÌ­¸´ºÏÕôÆû»ú;;;;;;;;;;;;x
+control_3_desc;¹ıÊ±ÊÇµ±Ò»¸ö¶ÔÏó¡¢·şÎñ»òÊµ¼ù²»ÔÙĞèÒªÊ±·¢ÉúµÄ×´Ì¬£¬¼´Ê¹Ëü¿ÉÄÜÈÔÈ»´¦ÓÚÁ¼ºÃµÄ¹¤×÷×´Ì¬¡£¸´ºÏÕôÆû»úÒÑ¾­Ïàµ±¹ıÊ±£¬Ê§È¥ÁËÒ»Ğ©ÓÅÊÆ¡£;;;;;;;;;;;;x
+control_4;ÌÔÌ­ÆûÂÖ»ú;;;;;;;;;;;;x
+control_4_desc;¹ıÊ±ÊÇÖ¸Ä³ÖÖÊÂÎï£¬·şÎñ»ò×ö·¨²»ÔÙ±»ĞèÒª£¬¼´Ê¹ËüÈÔÈ»´¦ÓÚÁ¼ºÃµÄ¹¤×÷×´Ì¬¡£ÊÂÊµÉÏ£¬ÆûÂÖ»úÒÑ¾­±äµÃÏàµ±¹ıÊ±²¢Ê§È¥ÁËÒ»Ğ©ÓÅÊÆ¡£;;;;;;;;;;;;x
+acceptable_subsidies_l;ÖĞÊ§Òµ¾È¼Ã½ğ;;;;;;;;;;;;x
+MONEY_IS_ATLEAST_TRIGGER;½ğÇ®²»ÉÙÓÚ¡ìY$VALUE$¡ìW¡è¡£\n;;;;;;;;;;;;x
+EFFECT_BUILD_IN_CAPITAL_DESC;¡ìY$BLD$¡ì!½¨Éè½«»á·¢ÉúÔÚ£º¡ìY$PROVS$¡ì!\n;;;;;;;;;;;;x
+ADD_WARGOAL_PRESTIGE;Èç¹ûÎÒÃÇ´ï³ÉÁËÕâ¸öÕ½ÕùÄ¿±ê£¬ÎÒÃÇ½«»ñµÃ$COST$µÄ¡ìYÍşÍû¡ìW;;;;;;;;;;;;x
+ADD_WARGOAL_MILITANCY;Èç¹ûÎÒÃÇÃ»ÄÜ´ï³ÉÕâ¸öÕ½ÕùÄ¿±ê£¬ÎÒÃÇµÄËùÓĞÃñÖÚ½«»ñµÃ$MILITANCY$µÄ¡ìY¶·ÕùĞÔ¡ìW;;;;;;;;;;;;x
+ADD_WARGOAL_EFFECT;µ±ÎÒÃÇ¼ÓÈëÕâ¸öÕ½ÕùÄ¿±ê£¬½«»ñµÃ£º;;;;;;;;;;;;x
+ADD_WARGOAL_SUCCESS;µ±ÎÒÃÇ´ï³ÉÕâ¸öÕ½ÕùÄ¿±ê£¬½«»ñµÃ£º;;;;;;;;;;;;x
+ADD_WARGOAL_FAILURE;µ±ÎÒÃÇÎ´´ï³ÉÕâ¸öÕ½ÕùÄ¿±ê£¬½«»ñµÃ£º;;;;;;;;;;;;x
+BUY_FROM_STOCKPILE_DESC;ÔÊĞíÃñÖÚ¼°¹¤³§´Ó¹ú¼Ò¿â´æ¹ºÂòÎï×Ê\n\n¡ìY×¢Òâ£ºµ±ÈÔ´¦ÓÚÔÚÊÖ¶¯¹ºÂò»òÏúÊÛÉÌÆ·Ê±£¬¡ìR²»Òª¡ìWÊ¹ÓÃ´Ë°´Å¥¡£¡ìRÓ¦µ±¡ìWÔÚ¡ìRËùÓĞ¡ìWÉÌÆ·ÔÚ¡ìG×Ô¶¯¡ìW½»Ò×Ê±Ê¹ÓÃ¡ìW£¬¡ìR·ñÔò½«»áµ¼ÖÂ±¾µØºÍÈ«ÇòµÄ¾­¼Ã±ÀÀ££¬·çÏÕ×Ô¸º¡£¡ìW;;;;;;;;;;;;x
+military_political_decision_making;Õ½Ê±ÄÚ¸ó;;;;;;;;;;;;x
+army_military_political_decision_making;Õ½Ê±ÄÚ¸ó;;;;;;;;;;;;x
+army_military_political_decision_making_desc;Õ½ÕùÆÚ¼ä£¬ÆÄ¾ßÓ°ÏìÁ¦µÄ¾ü·½Á¦Á¿Æ¾½è³¤ÆÚÓÎËµ£¬²»½ö¿ÉÒÔÍêÈ«¿ØÖÆÕ½ÕùµÄÖ´ĞĞ£¬»¹ÄÜÍêÈ«¿ØÖÆ¹ú¼ÒµÄ×ÊÔ´µ÷Åä¡£Õâ»ù±¾ÉÏ¿ÉÒÔ³ÆÎª×Ü²ÎÄ±²¿ÖÎÏÂµÄ¾üÊÂ¶À²ÃÁË£¡;;;;;;;;;;;;x
+COALITION_WIN;¡ìY$IDE$¡ìWÁªÃËÔÚÍ¶Æ±ÖĞ»ñµÃ$VAL$%µÄÖ§³Ö¶È£¬½«×é½¨Õş¸®;;;;;;;;;;;;x
+RULE_PRIMARY_CULTURE_VOTING;\nÖ÷Á÷ÎÄ»¯ÓµÓĞÍ¶Æ±È¨;;;;;;;;;;;;x
+RULE_CULTURE_VOTING;\n¿É½ÓÊÜÎÄ»¯ÓµÓĞÍ¶Æ±È¨;;;;;;;;;;;;x
+RULE_ALL_VOTING;\nËùÓĞÎÄ»¯ÓµÓĞÍ¶Æ±È¨;;;;;;;;;;;;x
+lacking_writing_system;È±·¦ÊéĞ´ÏµÍ³;;;;;;;;;;;;x
+clay_and_douglas_draft_enacted;ÒÑÇ©Êğ1850ÄêÍ×Ğ­°¸;;;;;;;;;;;;x
+wilmot_proviso_providing;ÒÑÇ©ÊğÍş¶ûÄªÌØ¸½ÎÄ;;;;;;;;;;;;x
+timber;Ô­Ä¾;;;;;;;;;;;;x
+timber_RGO_SIZE;·¥Ä¾³¡¹æÄ£;;;;;;;;;;;;x
+aeroplane_factory_desc;Õâ¸öÊ±´úµÄ·É»ú´ó¶à²ÉÓÃÄ¾ÖÊ½á¹¹£¬Æ¾½è½ğÊô²ÛÁ¬½Ó¹¹¼ş£¬²¢Ê¹ÓÃ¸ÖÇÙÏß»ò½ÊºÏ¸ÖÀÂ½øĞĞÖ§³Å¡£Ä¾ÖÊ½á¹¹Í¨³£°üº¬¼¸ÖÖ²»Í¬ÀàĞÍµÄÄ¾²Ä£¬¸ù¾İÆä»úĞµĞÔÄÜ½÷É÷µØÑ¡È¡²»Í¬µÄÄ¾ÁÏ¡£Ä¾ÖÊ½á¹¹ÉÏÍ¨³£¸²¸Ç×Å¸÷ÖÖÖ¯Îï£¬°üÀ¨½ºÃŞÓëÍ¿ÆáµÄË¿ÁÏ¡£×îÔç¹ã·ºÓÃÓÚÎª·ÉĞĞÆ÷Ìá¹©¶¯Á¦µÄÄÚÈ¼»úÊÇ¡°Antoinette V8Ë®ÀäÊ½·¢¶¯»ú¡±£¬¾İĞÅËüÒ²ÊÇÊÀ½çÉÏÊ×¿îÍ¶ÈëÊµ¼ÊÉú²úµÄVĞÍ°Ë¸×Ê½ÄÚÈ¼»ú¡£;;;;;;;;;;;;x
+barrel_factory_desc;×÷Îª20ÊÀ¼ÍÈËÀà¶ÔÒ»Ïî¹ÅÀÏ¸ÅÄîµÄ³É¹¦Êµ¼ù£ºÌ¹¿ËÄÜ¹»Îª²¿¶ÓÌá¹©¿ÉÒÆ¶¯µÄÑÚ»¤Óë±ØÒªµÄ»ğÁ¦Ö§Ô®£¬ÈËÃÇ×îÔçÓ¦ÓÃËûÃÇÍ»ÆÆÕ½º¾¡¢ÌúË¿ÍøÓë»úÇ¹µÄÑ¹ÖÆ¡£ÄÚÈ¼»ú¡¢×°¼×°åºÍÂÄ´øµÄ·¢Ã÷¶¼ÊÇÎªÏÖ´úÌ¹¿Ëµ®ÉúÆÌÆ½µÀÂ·µÄ¹Ø¼ü¿Æ¼¼¡£×îÔçÍ¶ÈëÊµÓÃµÄÌ¹¿ËÔ­ĞÍÊÇÒ»¿îµÍÖØĞÄ¡¢³¤ÂÄ´øµÄÁâĞÎÔØ¾ß£¬ËüÄÜ´©Ô½Æéá«µØÃæ£¬Ô½¹ıµĞ¾üµÄÕ½º¾£¬¶øÖ÷ÒªÎäÆ÷Ôò°²ÖÃÔÚ³µÌåÁ½²àµÄÏÏ²ÕÄÚ¡£;;;;;;;;;;;;x
+automobile_factory_desc;ÔçÆÚÆû³µÒ²±»³ÆÎª¡°ÎŞÂíÂí³µ¡±£¬ËüÃÇÊÇ×°ÅäÓĞÁ½¸ö»òËÄ¸ö³å³ÌÄÚÈ¼»úµÄ¼òµ¥ÔØ¾ß£¬ÔÚ250×ª/·ÖµÄ×ªËÙÏÂÄÜ¹»Î¬³Ö2/3ÂíÁ¦£¨0.5kW£©µÄ¹¦ÂÊ¡£²ÉÓÃ¿ª·ÅÊ½ÇúÖáÏäºÍÍÆ¸ËÊ½ÌáÉı·§ÓÃÓÚÅÅÆø£»´óĞÍË®Æ½·ÉÂÖ¿ÉÒÔÎÈ¶¨µ¥¸×·¢¶¯»úµÄ¹¦ÂÊÊä³ö£»ÕôÆûÊ½Æû»¯Æ÷ÔÚÌ×Í²·§µÄ¿ØÖÆÏÂµ÷½ÚÔËĞĞ¹¦ÂÊºÍ·¢¶¯»ú×ªËÙ¡£ÕâĞ©Æû³µÊÇÔÚĞ¡ĞÍ³µ¼äÄÚÉú²ú¶ø³ÉµÄ£¬µ«ËüÃÇµÄ·¢Õ¹È´Ïàµ±µÄ¿ì£¬¼òÒ×µÄ¿ª·ÅÊ½½ğÊô³µ¼ÜºÜ¿ì±ãÈÃÎ»ÓÚ×°ÓĞ²£Á§´°µÄÆû³µµ×ÅÌ¡£;;;;;;;;;;;;x
+telephone_factory_desc;×îÔçµÄµç»°Ö»ÓĞÒ»¸ùµçÏßÓÃÓÚ·¢ËÍÓë½ÓÊÕÒôÆµ£¬ÕâÑùÔ­Ê¼µÄÉè¼ÆºÜ¿ì¾ÍÎªÖòÌ¨µç»°ËùÈ¡´ú¡£ºóÕßµÄµ××ùÉÏ´¹Ö±ÊúÁ¢×ÅÒ»¶Î³¤´ï10Ó¢´çµÄÔ²ÖùÌå¾±²¿£¬Ö§¼ÜµÄ¶¥¶ÎÔò×°ÓĞÌ¼Á£´«ÉùÆ÷£¨·¢ÉäÆ÷£©¹©Ê¹ÓÃÕß½²»°£¬ÔÚÆä²àÃæ»¹°²×°×ÅÑÓÉìµÄ²æ»ÉĞü¹ÒÌıÍ²£¨½ÓÊÕÆ÷£©¡£ÎªÁË²¦´ò»ò½ÓÌıµç»°£¬ÓÃ»§ĞèÒª½«½ÓÊÕÆ÷´Ó²æ»ÉÉÏÄÃÆğ£¬´Ó¶ø¼¤»îÄÚÖÃ¿ª¹Ø£¬½«ÌıÍ²Á¬½Óµ½µç»°ÏßÉÏ¡£;;;;;;;;;;;;x
+electric_gear_factory_desc;1882Äê£¬ÍĞÂíË¹¡¤°®µÏÉúÔÚÅ¦Ô¼ÊĞÒı½øÁËÒ»Ì×µçÁ¦ÕÕÃ÷ÏµÍ³£¬±êÖ¾×ÅÈËÀàµçÆøÊ±´úµÄÆğµã¡£µçµÆÔÚÃÀ¹úÑ¸ËÙÍÆ¹ã²¢ºÜ¿ìÔÚÅ·ÖŞµÃµ½Ó¦ÓÃ¡£Ëæ×Å¹¤ÒµµçÆø»¯µÄ³ÖĞø·¢Õ¹£¬µç×ÓÔª¼ş²úÒµÒ²ÓÉ´ËÒòÔË¶øÉú£¬Îª¸÷ÖÖÆû³µ¡¢µç»°¡¢ÁôÉù»úÓë¹¤Òµ»úĞµµÄÍ¶²úÉú²ú±ØÒªµÄµç×ÓÅä¼ş¡£¸÷ÖÖ¸÷ÑùµÄĞĞÒµ¶¼ĞèÒªÏà¹ØÅä¼şµÄÖ§³Ö£¬ÀıÈç½»Í¨¡¢Í¨Ñ¶¡¢ÊÕÒô»úºÍº½¿Õ¹¤Òµ¡£;;;;;;;;;;;;x
+machine_parts_factory_desc;Ëæ×ÅÌúÂ·µÄÆÕ¼°£¬¹¤Òµ¸ïÃüµÃµ½ÁË½øÒ»²½µÄÍÆ¶¯¡£»úĞµĞĞÒµ¿ªÊ¼Éú²úÒ»ÏµÁĞĞÂÊÂÎï°üÀ¨ĞÂµÄÒ±½ğ»úÆ÷£¬½ğÊô¼Ó¹¤»ú´²ºÍ»ğ³µÕôÆû·¢¶¯»ú¡£´ËÍâ£¬ĞÂĞËµÄ»úÆ÷¹¤³§¿ªÊ¼ÖÆÔìÓÃÓÚÉú²ú»úÆ÷µÄ»úÆ÷£¬Èç·ÄÖ¯»úĞµ£¬Ñ¹Ëõ»ú£¬Å©Òµ»úĞµºÍ´¬ÓÃ·¢¶¯»ú¡£Ëæ×Å»úÆ÷ĞĞÒµµÄÊĞ³¡Ô½À´Ô½¹ã·º£¬×¨ÃÅµÄ²úÆ·ÒÔÓ¦¶ÔÓÚ¸ü´óµÄ¹úÄÚÉõÖÁ¹ú¼ÊÊĞ³¡¡£;;;;;;;;;;;;x
+fuel_refinery;Á¶ÓÍ³§;;;;;;;;;;;;x
+fuel_refinery_desc;Á¶ÓÍ³§ÊÇÒ»ÖÖ¹¤Òµ¼Ó¹¤³§£¬ÆäÖĞÔ­ÓÍ±»¼Ó¹¤ºÍ¾«Á¶³É¸üÓĞÓÃµÄ²úÆ·£¬ÀıÈçÊ¯ÄÔÓÍ£¬ÆûÓÍ£¬²ñÓÍ£¬Á¤Çà»ù£¬¼ÓÈÈÓÍ£¬ÃºÓÍºÍÒº»¯Ê¯ÓÍÆø¡£ÔÚÁ¶ÓÍ³§ÖĞ£¬Ô­ÓÍÍ¨¹ı·ÖÁó´Ó¶ø·ÖÀë³ÉÁó·Ö¡£·ÖÁóËşµÄ¶¥²¿µÄÁó·Ö¾ßÓĞ±Èµ×²¿µÄ¼¶·Ö¸üµÍµÄ·Ğµã¡£ÖØµÄµ×²¿Áó·Ö¾­³£±»ÁÑ»¯³É¸üÇá£¬¸üÓĞÓÃµÄ²úÎï¡£ËùÓĞÁó·Ö»áÔÚÆäËü¾«ÖÆµ¥ÔªÖĞ½øÒ»²½´¦Àí¡£;;;;;;;;;;;;x
+radio_factory_desc;AMÊÕÒô»úÊ¹ÓÃÕñ·ùµ÷ÖÆ£¬ÆäÖĞ·¢ÉäĞÅºÅµÄ·ù¶ÈÓëÂó¿Ë·ç²¶»ñ£¨×ª»»£©µÄÉùÒôÕñ·ù³É±ÈÀı£¬¶øÆµÂÊ±£³Ö²»±ä¡£Ëü¼È¿ÉÒÔÊÇ¸ßÖÜ²¨Í¬Õ{½ÓÊÕ»úÒ²¿ÉÒÔÊÇ³¬Íâ²î½ÓÊÕ»ú£¬ºóÕßÍ¨³£Ê¹ÓÃ6¸öÈı¼«¹Ü£ºÒ»¸ö»ìÆµÆ÷£¬Ò»¸ö±¾µØÕñµ´Æ÷£¬Á½¸ö45kHzµÄIFºÍÁ½¸öÒôÆµ·Å´óÆ÷¼¶¡£ÊÕÒô»úÏäÒ»°ãÊ¹ÓÃµçÄ¾»òÄ¾²ÄÖÆ×÷²¢ÇÒÄÚ²¿ÓÉ¸÷ÖÖ½ğÊôºÍÕæ¿Õ¹Ü¹¹³É£¬ÓĞÊ±ÓÃÏğ½º¾øÔµ¡£;;;;;;;;;;;;x
+synthetic_oil_factory;ÃºÒº»¯³§;;;;;;;;;;;;x
+synthetic_oil_factory_desc;²®¼ªÓÈË¹·¨µÄÖ÷ÒªÄÚÈİÊÇÍ¨¹ı¼ÓÇâ¹¤ÒÕ½«ÃºÖ±½Ó×ª»¯ÎªÒºÌå¡£ÔÚ¸Ã¹ı³ÌÖĞ£¬½«ÃºÑĞÄ¥¾«Ï¸²¢ÔÚÈÈÆøÁ÷ÖĞ¸ÉÔï¡£¸ÉÔï²úÎïÓë´Ó¸Ã¹ı³ÌÖĞÔÙÑ­»·µÃµ½µÄÖØÓÍ»ìºÏ£¬Ò»°ã»áÔÚ»ìºÏÎïÖĞ¼ÓÈë´ß»¯¼Á£¬²»¹ıÃºÖĞ¹ÌÓĞµÄÁò»¯ÌúÍ¨³£¿ÉÄÜÒÑ¾­¾ß±¸×ã¹»µÄ´ß»¯»îĞÔ¡£´¦Àí²úÉúµÄ»ìºÏÎï½«±»±ÃÈë·´Ó¦Æ÷ÖĞ£¬ÔÚ400-500¡æºÍ20-70MPaÇâÆøÑ¹Á¦ÏÂ½øĞĞ·´Ó¦£¬×îÖÕ²ú³ö¾ßÓĞÀûÓÃ¼ÛÖµµÄÖØÓÍ¡¢ÖĞÓÍ¡¢ÆûÓÍºÍÃºÆø¡£;;;;;;;;;;;;x
+steamer_shipyard_desc;Ê¹ÕôÆû»ú´¬µÃµ½¹ã·ºÔËÓÃµÄ¹Ø¼ü·¢Ã÷ÊÇÂİĞı½°£¬ËüÈ¡´úÁËÔø¾­ÓÃ×÷ÍÆ½ø×°ÖÃµÄÃ÷ÂÖ¡£ÕôÆû»ú±»Éè¼Æ³ÉÔÚ»úÆ÷µ×²¿Ìá¹©¶¯Á¦£¬Ö±½ÓÇı¶¯ÂİĞı½°Öá£¬½¬ÖáÍ¨¹ı´¬Ìå½øÈëôºÖá¹Ü¡£ÓÉÓÚÂİĞıÍÆ½øµÄ¶¯Á¦ÑØÖáÏò´«µİ£¬Òò´ËĞèÒªÍÆÁ¦Öá³ĞÔÚÃ»ÓĞ¹ı¶ÈÄ¦²ÁµÄÇé¿öÏÂÀ´´«µİÏàÓ¦µÄ¶¯Á¦ºÉÔØ¡£;;;;;;;;;;;;x
+clipper_shipyard_desc;¿ìËÙ·«´¬ÊÇÓÉÈıÖ§Î¦¸ËÓë·½ĞÎ·«¾ß¹¹³ÉµÄ¿ìËÙ´¬Ö»¡£Ïà¶ÔÓÚ³¤¶È¶øÑÔ£¬¿ìËÙ·«´¬Í¨³£½ÏÕ­£»×Ü·«Ãæ»ı½Ï´ó£¬¿ÉÒÔ³ĞÔØÓĞÏŞµÄÉ¢»õ¡£ÎªÁËÓÅ»¯ËÙ¶È¶ø²ÉÈ¡µÄ¿ØÖÆ¿í¶ÈÉè¼Æ£¬Ê¹ËûÃÇÎŞ·¨Ğ¯´ø´óÁ¿»õÎï¡£¿ìËÙ·«´¬Í¨³£»áÔÚÎ¦¸ËÉÏ°²ÖÃ¶îÍâµÄ·«¾ß£¬ÀıÈçÌì·«£¨µÚÈı²ã·«£©ºÍÔÂ·«£¨¶¥Î¦Çá·«£©£¬ÒÔ¼°´Ó´¬Ìå»ò·«èìÉì³öµÄÒí·«£¨¸±·«£©£¬ÕâĞ©¶¼ĞèÒª¶îÍâµÄÈËÊÖÀ´²Ù×÷ËüÃÇ¡£;;;;;;;;;;;;x
+luxury_clothes_factory_desc;¸ßµµ·şÊÎÍ¨³£ÓÉÒ»ÕûÆ¥ÉÏµÈË¿ÁÏÖÆ³É£¬Í¨¹ı·´¸´½şÈëÈ¾ÁÏ¶ø»ñµÃÁË¶ÀÌØµÄÑÕÉ«£¬¶à²ÊÒ«ÈËµÄÉ«ÔóÊ¹ÈË²»½ûÏëÆğÁÃÈËµÄÔÂÉ«ÓëÍşÄáË¹•ºşÉÏµÄË®¹âµ¹Ó°¡£ÒÔ½ğÏß´ÌĞå£¬´îÅä×ÅÊÖ¹¤Ó¡»¨ºÍÕæË¿·½½í£¬SĞÍÇúÏßµÄĞÎÌåÃÀÖ÷Ô××ÅÅ®ĞÔÃÇµÄÊ±ÉĞ£¬½ôÉíĞØÒÂ½ô½ôÏµ×¡Ñü²¿£¬ÆÈÊ¹ÍÎ²¿ºóÇÌ¡£ÄĞÊ¿ÃÇÔòÏ²°®Éí×ÅÄÇĞ©Î²±ßÓĞĞ¡ÍÈÄÇÃ´³¤µÄ½ôÉíÑàÎ²·ş£¬Àï±ßÔÙ»»ÉÏÂí¼×±³ĞÄ¡£±³ĞÄÒÂÁìÓĞÅû¼çµÄÒ²ÓĞÈ±½ÇµÄ£¬Åä±¸µ¥ÅÅ»òË«ÅÅÅ¦¿Û£¬ÔÙÀ´¸ùÊÖÕÈÓë¸ßÃ±£¬Äã¾ÍÊÇÎ»Ê®×ãµÄÉğÊ¿À²¡£;;;;;;;;;;;;x
+luxury_furniture_factory_desc;ÉîÉ«»ò¶Æ½ğµÄµñ¿ÌÄ¾²ÄºÍÍ¼°¸·á¸»µÄÖ¯Îï£¬¸´ÔÓµÄ½ğÊÎÆ·£¬¿¿µæºÍË¿³ñÖ¯Îï£¬ÊÀ½çÉÏ×îºÃ»ò×îÆæÒìµÄÄ¾²ÄÓÃÓÚ¼Ò¾ß¡£ºÀ»ª¼Ò¾ßÉè¼ÆÊ¦Ê¹ÓÃºÍĞŞ¸ÄĞí¶à·ç¸ñÈ¡×Ô²»Í¬Ê±ÆÚµÄÀúÊ·£¬Èç¸çÌØÊ½£¬¶¼îì£¬ÒÁÀöÉ¯°×£¬Ó¢¹úÂå¿É¿É£¬ĞÂ¹ÅµäÖ÷ÒåºÍÆäËû¡£¸çÌØÊ½ºÍÂå¿É¿É¸´ĞË·ç¸ñÊÇÀúÊ·ÉÏÕâ¶ÎÊ±ÆÚ¼Ò¾ßÖĞ×î³£¼ûµÄ·ç¸ñ¡£·ç¸ñÓëÖĞ¶«ºÍÑÇÖŞÔÚ¼Ò¾ß¡¢Åä¼şºÍÊÒÄÚ×°ÊÎ·½ÃæµÄÓ°ÏìÏà½áºÏ¡£;;;;;;;;;;;;x
+steel_factory;¸Ö³§;;;;;;;;;;;;x
+steel_factory_desc;¸ÖÊÇÌúºÍÆäËûÔªËØ£¨Ö÷ÒªÊÇÌ¼£©µÄºÏ½ğ£¬ÓÃÓÚ½¨ÖşºÍÆäËûÓ¦ÓÃ¡£µ±´ÓÌú¿óÊ¯ÖĞÒ±Á¶ÌúÊ±£¬ËüËùº¬µÄÌ¼±ÈËùĞèµÄ¶à¡£Òª³ÉÎª¸Ö£¬±ØĞë¶ÔÆä½øĞĞÔÙ¼Ó¹¤£¬ÒÔ½«Ì¼»¹Ô­µ½ÕıÈ·µÄÁ¿£¬´ËÊ±¿ÉÒÔÌí¼ÓÆäËûÔªËØ¡£¸Ö³§°ÑÉúÌúÖı³É¸Ö¶§£¬´¢´æÆğÀ´£¬Ö±µ½½øÒ»²½µÄ¾«Á¶¹ı³Ì¡£¸Ö¶§ÔÚ¾ùÈÈÂ¯ÖĞ¼ÓÈÈ£¬È»ºóÈÈÔş³É°åÅ÷¡¢¸ÖÅ÷»ò¸ÖÅ÷¡£ËüÃÇ±»ÔşÖÆ³É½ğÊô°å¡¢¸Ö°å¡¢°ô²Ä¡¢Ïß²ÄºÍ½á¹¹¸Ö£¬Èç¹¤×Ö¸ÖºÍ¸Ö¹ì¡£;;;;;;;;;;;;x
+artillery_factory_desc;»ğÅÚÉú²úµÄµÚÒ»¸ö½×¶ÎÊÇ½¨Á¢¾«È·µÄ»ğÅÚ¡¢ÆÈ»÷ÅÚ»òÁñµ¯ÅÚÄ£ĞÍ¡£ÕâÊÇ½¨Á¢ÔÚÒ»¸ö×¶ĞÎÄ¾Ö÷Öá£¬´Ó8µ½12Ó¢³ß³¤£¬Ô¼2Ó¢´çÖ±¾¶Ğ¡ÓÚÄ£ĞÍ¡£È»ºó½«Ö÷Öá°²×°ÔÚÄ¾ÖÆ³µÏ÷¼ÜÉÏ£¬²¢Í¿ÉÏÈó»¬Ö¬»ò·ÊÔí£¬ÒÔ°ïÖú×îÖÕ´ÓÄ£¾ßÖĞÈ¡³öÖ÷Öá¡£ÔÚÄÚ±íÃæÍ¿ÉÏÒ»²ã¼îÒº»ìºÏÎï£¬ÒÔ·ÀÖ¹Öı¼şµÄÈÛÈÚ½ğÊôÕ³¸½ÔÚÄ£¾ß±ÚÉÏ¡£È»ºó½«Ä£¾ßËÍÖÁÖıÔì¿Ó½øĞĞÍË»ğ¡£;;;;;;;;;;;;x
+small_arms_factory_desc;²½Ç¹¾ü¶ÓµÄ»ù±¾×°±¸£¬°üÀ¨Ğ¡ÎäÆ÷£¬Èç²½Ç¹¡¢²½Ç¹¡¢ÊÖÇ¹¡¢×óÂÖÊÖÇ¹ºÍ²½Ç¹¡£²½Ç¹£¬19ÊÀ¼ÍÖĞÆÚ×î³£¼ûµÄ»ğÆ÷£¬ÊÇÓÃÌú¶ÍÔìµÄ£¬¶ÍÔì³ÉÒ»¸öÕûÌå£¬ÍË»ğ£¬¼Ó¹¤³É´ÓLĞÎ±ú½ÅÑÓÉìµÄÂİÎÆÈûµÄĞÎ×´¡£ËüÊÇÉøÌ¼ÄÍÄ¥ĞÔ£¬²¢Íê³ÉÁËÄ¾²ÄÔÚ¹ÉÆ±ºÍÍ°´ø¡£ÓĞĞ©²½Ç¹ÊÇÀ´¸´Ç¹£¬¶øÀÏÊ½µÄ²½Ç¹ĞÍºÅ²»ÊÇ£¬ËüÃÇÍ¨³£´øÓĞ´Ìµ¶ºÍ³å·æ¸Ë¡£;;;;;;;;;;;;x
+furniture_factory_desc;¸»Ô£µÄÀÏÒ¯ÃÇ×¡ÔÚ·Ç³£ÊæÊÊµÄ·¿×ÓÀï£¬¾¡¹ÜËûÃÇµÄÆÍÈË×¡ÔÚÏÁĞ¡µÄËŞÉáÀï£¬Í¨³£ÔÚ¸óÂ¥Àï¡£ÔÚ19ÊÀ¼Í£¬ÓĞÊ·ÒÔÀ´µÚÒ»´Î´ó¹æÄ£Éú²ú¼Ò¾ß¡£ÕâÒâÎ¶×ÅËü¸ü±ãÒË£¬µ«²»ĞÒµÄÊÇÉè¼Æ±ê×¼ÏÂ½µ¡£ÔÚ19ÊÀ¼ÍÔçÆÚ£¬¼¼Êõ¹¤ÈËÍ¨³£×¡ÔÚ¡°Ö±Í¨·¿¡±Àï£¬Ò²¾ÍÊÇËµ£¬ÄÇĞ©Ã»ÓĞÁ¬½Óµ½ÆäËû·¿×ÓºóÃæµÄ·¿×Ó£¬¶øÆÕÍ¨ÃñÖÚÍ¨³£×¡ÔÚ¡°±³¿¿±³¡±Àï¡£ÕâĞ©·¿×ÓÓĞÈı¸ö£¨ÓĞÊ±Ö»ÓĞÁ½¸ö£©·¿¼ä£¬Ò»¸öÔÚÁíÒ»¸öÉÏÃæ¡£;;;;;;;;;;;;x
+paper_mill_desc;ÔìÖ½³§Ê¹ÓÃ³¤ÍøÔìÖ½»úÓÃÄ¾½¬µÈÖ²ÎïÏËÎ¬ÔìÖ½¡£ÕâÌ¨»úÆ÷ÓÉÒ»ÌõÔÚ³ÉĞÍ¶ÎÓÃÇàÍ­±àÖ¯µÄ´«ËÍ´ø×é³É£¬ÔÚÕâÀïÅÅ³öÏËÎ¬½¬£¨Í¨³£ÊÇÄ¾²Ä»òÆäËûÖ²ÎïÏËÎ¬£©£¬ĞÎ³ÉÁ¬ĞøµÄÖ½·ù¡£ÔÚ³ÉĞÍ²¿·ÖÖ®ºó£¬ÊªÖ½Í¨¹ıÒ»¸öË®Æ½µÄÅÅË®ÇøÓò£¬³ÆÎªÅÅË®±í£¬´Ó¶ø²úÉúÁ¬ĞøµÄÖ½ÕÅÉú²ú¡£Ö½ÊÇÓÃÀ´ÖÆ×÷Êé¼®¡¢±¨Ö½ºÍÆäËûĞÅÏ¢µÄ¹¤¾ß¡£;;;;;;;;;;;;x
+regular_clothes_factory;³ÉÒÂ³§;;;;;;;;;;;;x
+regular_clothes_factory_desc;ÔÚ¹¤Òµ¸ïÃüÆÚ¼ä£¬Ö¯ÎïÉú²úÊÇ»úĞµ»¯µÄ£¬»úÆ÷ÓÉË®³µºÍÕôÆû»úÇı¶¯¡£Ëæ×Å·ìÈÒ»úµÄ³öÏÖ£¬·ş×°Éú²ú·¢ÉúÁË·­Ìì¸²µØµÄ±ä»¯¡£Ô­À´µÄ»úÆ÷ÊÇÄ¾Í·×öµÄ£¬ÓÃ´ø´ÌµÄÕëÏòÏÂ´©¹ı²¼ÁÏ×¥×¡Ïß£¬È»ºóÏòÉÏÀ­£¬ĞÎ³ÉÒ»¸öÈ¦£¬ÓÉÏÂÒ»¸öÈ¦Ëø×¡¡£;;;;;;;;;;;;x
+explosives_factory_desc;Õâ¼ÒÕ¨Ò©³§Éú²ú¸÷ÖÖ¹¤ÒµºÍ¾üÊÂÓÃ²¿¼ş£¬ÈçÏõ»¯¸ÊÓÍ¡¢Õ¨Ò©ºÍºÚ»ğÒ©¡£ÔÚ19ÊÀ¼ÍÔçÆÚ£¬ºÚ»ğÒ©ÊÇÖ÷ÒªµÄÖÆ³ÉÆ·£¬ÓÃÓÚ¿ª²É¿óÎï¡¢ÆÆËéÑÒÊ¯¡¢ÇåÀíÌïµØºÍĞŞÂ·¡£Ëæ×ÅÕ¨Ò©µÄ·¢Ã÷£¬¿ó¾®¿ÉÒÔÍÚµÃ¸üÉî¸ü¿ì£¬²»¾­¼ÃµÄ¿ó²ØÒò´Ë±äµÃÓĞÀû¿ÉÍ¼¡£¾¡¹ÜÈç´Ë£¬±¬Õ¨ÎïµÄÖ÷ÒªÓÃÍ¾»¹ÊÇÔÚ¾üÊÂ¹¤Òµ£ºÕ¨µ¯¡¢»ğÒ©ºÍÎäÆ÷¡£¶ÔÓÚ²½±ø¡¢ÅÚ±ø»ò¹¤±øÀ´Ëµ£¬Õ¨Ò©ºÍ»ğÒ©µÄÊ¹ÓÃÊÇ¾ü¶ÓµÄºËĞÄ¡£;;;;;;;;;;;;x
+ammunition_factory_desc;ÔÚ19ÊÀ¼Í£¬¶ÍÔì¶ø²»ÊÇÖıÔìÊÇµ¯Ò©µÄÊ×Ñ¡ÖÆÔì¼¼Êõ¡£¶ÍÔì×Óµ¯ÊÇ½«ÊÒÎÂ½ğÊô¶ÍÔì³É×Óµ¯ĞÎ×´µÄÄ£¾ßÖÆÔìµÄ×Óµ¯¡£ÁíÒ»ÖÖ³£¼ûµÄÖÆÔì·½·¨ÊÇ½½Öı£¬¼´½«ÈÛÈÚ½ğÊôµ¹ÈëÄ£¾ßÖĞ¡£ÔÚ19ÊÀ¼ÍÄ©£¬Ëæ×Å×°Ò©×ªÏòÎŞÑÌ»ğÒ©£¬È±µã±äµÃÃ÷ÏÔ£¬¸ßËÙ¾üÓÃµ¯Ò©µÄÖÆÔìÉÌ¸Ä½øÁËËûÃÇµÄ×Óµ¯Ä£¶Í¹¤ÒÕ£¬ÔÚÈíÇ¦×Óµ¯ÉÏÍ¿ÉÏÒ»²ã½ÏÓ²µÄ½ğÊô±¡Æ¬¡£;;;;;;;;;;;;x
+canned_food_factory_desc;¹ŞÍ·µÄ¸ÅÄîÊÇ»ùÓÚ·¨¹ú·¢Ã÷¼ÒÄá¹ÅÀ­Ë¹¡¤°¢ÅåÌØÔÚ²£Á§ÈİÆ÷ÖĞµÄÊµÑéĞÔÊ³Æ·±£´æ¹¤×÷¡£´ó¶àÊı¹ŞÍ·µÄÖÆÔì½á¹ûÖÁÉÙÓĞÒ»¸ö¡°±ßÔµ¡±£¬Ò»¸öÏÁÕ­µÄ»·£¬ÆäÍâ¾¶ÂÔ´óÓÚ¹ŞµÄÆäÓà²¿·Ö¡£±ßÔµ¹ŞµÄÆ½Ãæ´ÓÈÎºÎ±ßÔµ£¨³¯Ïò¹ŞµÄÖĞ¼ä£©°¼½ø´óÔ¼±ßÔµµÄ¿í¶È£ºÓë´Ë°¼½ø±íÃæÏàÁÚµÄ±ßÔµµÄÄÚ¾¶ÂÔĞ¡ÓÚ¹ŞµÄÆäÓà²¿·ÖµÄÄÚ¾¶¡£¹Ş×°Ê³Æ·Ö÷ÒªÓÃÓÚ¾üÊÂ¿ÚÁ¸¡£;;;;;;;;;;;;x
+dye_factory;ºÏ³ÉÈ¾ÁÏ³§;;;;;;;;;;;;x
+dye_factory_desc;ÌìÈ»È¾ÁÏ½ö½üÉÙÁ¿´æÔÚ£¬²¢ÇÒÆäÌáÈ¡Í¨³£ÊÇµÍĞ§µÄ£¬Òò´ËËüÃÇÍ¨³£ºÜ°º¹ó¡£ ÔÚÊ¹ÓÃ³ÆÎª±½°·µÄ»¯ºÏÎï£¨Ãº½¹ÓÍµÄ×î¼òµ¥µÄ»¯Ñ§×é·ÖÖ®Ò»£©µÄ»¯ºÏÎïµÄÊµÑéÖĞ£¬Ò»¸ö·¢Ã÷¼Ò·¢ÏÖ´Ó´¼ÖĞÌáÈ¡×ÏÉ«ºÜÈİÒ×°ÑË¿ÏßÈ¾É«£¬²¢ÇÒÔÚÊ¹ÓÃÖĞ±ÈÈÎºÎÆäËü×ÏÉ«È¾ÁÏÔÚÑô¹âÏÂ¸üÎÈ¶¨¡£ÔÚºÏ³ÉÈ¾ÁÏ³§ÖĞ£¬È¾ÁÏ±»»ìºÏ£¬ÔÚ·´Ó¦Æ÷ÖĞºÏ³É£¬¹ıÂËÔÓÖÊ£¬¸ÉÔïÈ»ºóÈÚºÏ£¬¾¡¹Ü»¹ÓĞĞí¶àÆäËüÌí¼Ó¼Á£¬ÈÜ¼ÁºÍ»¯Ñ§»¯ºÏÎïÓÃÓÚÒı·¢·´Ó¦¡£;;;;;;;;;;;;x
+liquor;¾ÆË®ÒûÁÏ³§;;;;;;;;;;;;x
+liquor_distillery;×°Æ¿³§;;;;;;;;;;;;x
+liquor_distillery_desc;¾Æ¾«ĞĞÒµ³ÖĞø´ïµ½ĞÂµÄÉú²úÂÊË®Æ½¡£ËşÊ½ÕôÁóÆ÷µÄµÚÒ»²ã£¨³ÆÎª·ÖÎöÆ÷£©Ê¹ÕôÆûÉÏÉı£¬½«µÚÒ»´ÎÕôÁóµÄ·¢½Í³ÉÆ·ÍùÏÂÁ÷¡£ µÚ¶ş²ã£¨³ÆÎª¾«ÁóÆ÷£©Ôò½ØÈ¡À´×ÔµÚÒ»´Î·¢½Í³ÉÆ·µÄ¾Æ¾«£¬Èç´ËÑ­»·Ö±µ½ÀäÄıËùĞèÒªµÄÇ¿¶È¡£ËüµÄĞĞÎªºÜÏñÒ»ÏµÁĞµÄÔÚÒ»¸ö³¤µÄ´¹Ö±¹Ü×ÓÀïµÄºøÊ½ÕôÁóÆ÷¡£¸Ã¹ÜÓÉ¶à¿×ÌîÁÏ»òÆøÅİ°åÌî³ä¡£ÉÏÉıµÄÕôÆû»áµÄ½Ï¸ßË®Æ½¿ªÊ¼ÀäÄı¡£;;;;;;;;;;;;x
+winery_desc;ÆÏÌÑ¾ÆÄğÔì¹ı³Ì°üÀ¨Ë®¹ûµÄ·¢½Í£¬ÓÃ»ò²»ÓÃÌìÈ»½ÍÄ¸£¬ÒÔ¼°½Á°è¡£ÈéËá×ª»¯¼´Ï¸¾ú×ª»¯¹ı³Ì£¬½«¡±´à¡°£¬¡±ÇàÆ»¹û¡°£¬¡±Æ»¹ûËá¡°µÈ×ª»¯Îª¡±Èí¡°£¬¡±ÄÌÓÍ¡°µÈÈéËáÈí»¯ÆÏÌÑ¾ÆµÄÎ¶µÀ¡£ÆÏÌÑ¾ÆÓĞÊ±»á×ªÒÆµ½ÏğÄ¾Í°ÖĞ³ÉÊì¼¸ÖÜ»ò¼¸¸öÔÂ£¬µ«±ØĞëÔÚ×°Æ¿Ç°½øĞĞÎÈ¶¨»ò³ÎÇåºÍµ÷Õû¡£Õû¸ö¹ı³ÌĞèÒªÊÕ¼¯£¬´¦ÀíºÍ´¦ÖÃ·ÏË®£¬ÔüÓÍºÍ¾ÆÔã¡£;;;;;;;;;;;;x
+lumber_mill;¾âÄ¾³§;;;;;;;;;;;;x
+lumber_mill_desc;ÔÚ¾âÄ¾³§£¬Ê¹ÓÃÖîÈçÔ²¾âºÍ´ø×´¾â½«Ô­Ä¾ÇĞ¸î³É°å³ÆÎª×ª»»¡£×ª»»µÄµÚÒ»½×¶ÎÊÇ³ÆÎª·Ö½âµÄ¹ı³Ì£¬ÕâÒâÎ¶×Å´Ö¾â¡£µÚ¶ş½×¶Î³ÆÎªÔÙÇĞ¸î£¬ÊÇÖ¸¸ü¾«È·µÄÇĞ¸îºÍ¾«¼Ó¹¤£¬ÈçÅÙÏ÷ºÍ½øÒ»²½¼Ó¹¤¡£ÔÚ19ÊÀ¼ÍÒıÈëÕôÆû¶¯Á¦Îª¹¤³§´´ÔìÁËĞí¶àĞÂµÄ¿ÉÄÜĞÔ£¬ÕôÆûÇı¶¯µÄ¾âÄ¾³§¸ü¼Ó»úĞµ»¯£¬²¢ÇÒÀ´×ÔÔş»úµÄ·ÏÄ¾²ÄÌá¹©ÁËÓÃÓÚÈ¼ÉÕ¹øÂ¯µÄ×¼±¸È¼ÁÏÔ´¡£;;;;;;;;;;;;x
+fabric_factory;·ÄÖ¯³§;;;;;;;;;;;;x
+fabric_factory_desc;²¼Æ¥ÊÇÔÚ·ÄÖ¯³§ÖĞÖÆÔìµÄ½ôÃÜ±àÖ¯µÄ·ÄÖ¯Æ·£¬ÓÈÆäÓÃÓÚÉú²úÓÃÓÚ´¬²°µÄ·«ºÍÒÂ·ş¡£¿¨ÌØÀµÌØÖ¯²¼»ú£¬ÄÂÀÕ·ÄÖ¯»úºÍÍßÌØÕôÆû»ú£¬ÕâĞ©·¢Ã÷´Ù½øÁË·ÄÖ¯¹¤ÒµµÄ»úĞµ»¯¡£¾¡¹Üµ±Ê±Ã»ÓĞĞÂ·¢Ã÷³öÏÖ£¬µ«Ëæ×Å¼¼ÊõµÄ³ÖĞø½ø²½£¬ÔËÊä»ù´¡ÉèÊ©µÄ·¢Õ¹´Ù½øÔ­²ÄÁÏ½ø¿ÚºÍ³ÉÆ·³ö¿Ú£¬·ÄÖ¯³§Ö÷µÃÒÔ¼õÉÙ³É±¾²¢Ìá¸ß²¼Æ¥µÄÖÊÁ¿¡£;;;;;;;;;;;;x
+cement_factory_desc;1824Äê£¬Ô¼Éª·ò¡¤°¢Ë¹±ö£¬Ò»¸öÓ¢¹úÍß¹¤×ªĞĞµÄ½¨ÖşÊ¦£¬»ñµÃÁË²¨ÌØÀ¼Ë®Äà»¯Ñ§¹¤ÒÕÖÆÔìµÄ×¨Àû£¬ÕâÊÇÒ»¸ö½¨ÖşĞĞÒµµÄÖØÒª½ø²½¡£¸Ã·½·¨°üÀ¨½«Õ³ÍÁºÍÊ¯»ÒÊ¯µÄ»ìºÏÎïÈ¼ÉÕµ½Ô¼1400Â°C£¬È»ºóÑĞÄ¥³ÉÏ¸·Û£¬È»ºóÓëË®£¬É³×ÓºÍÀùÊ¯»ìºÏÒÔ²úÉú»ìÄıÍÁ¡£»ìÄıÍÁÓÃÓÚ½¨Ôì¹¤³§£¬±¤Àİ£¬´¬Îë£¬½¨ÖşÎï£¬ÎÛË®ÏµÍ³ºÍËíµÀ¡£ÆäÊ¹ÓÃÔÚÃñÓÃºÍ¾üÓÃ½¨ÖşÖĞÑ¸ËÙÆÕ¼°¡£;;;;;;;;;;;;x
+glass_factory_desc;19ÊÀ¼Í³õÆÚ£¬Å·ÖŞ¿ª·¢ÁËÒ»ÖÖĞÂµÄÉú²ú²£Á§µÄ·½·¨£¬³ÆÎªÔ²Í²¹¤ÒÕ¡£1832Äê£¬Õâ¸ö¹¤ÒÕ±»Ç®Ë¹ĞÖµÜÓÃÀ´ÖÆÔìÆ½°å²£Á§¡£¸Ã¹¤ÒÕÔÊĞíÔÚ²»ÖĞ¶ÏµÄÇé¿öÏÂ´´½¨¸ü´óµÄ²£Á§°å£¬´Ó¶øÊÍ·ÅÄÚ²¿¿Õ¼ä¹æ»®ÒÔ¼°½¨ÖşÎïµÄ¿ª´°¡£ÁíÒ»ÖÖ²£Á§ÖÆÔì·½·¨ÊÇ´µÖÆ·¨£¬ÓÃÀ´Éú²úÆ¿×ÓºÍÆäËüÈİÆ÷¡£²£Á§ÓÃÓÚ¸÷ÖÖµçÆ÷£¬ÈçÆ¿£¬´°£¬Íë£¬»¨Æ¿£¬µÆ£¬¹Ş£¬Õæ¿Õ¹ÜºÍµÆÅİ¡£;;;;;;;;;;;;x
+fertilizer_factory_desc;»¯·ÊÓÉÄñ·à£¬Áò»ò¹Ç·ÛÖÆ³É¡£´´Ôì·ÊÁÏµÄ×î³£¼ûµÄ·½·¨ÊÇ²®¿ËÀ¼-°¬µÏµç»¡·¨¡£¸Ã·½·¨ÓÃÓÚ½«´óÆøµª£¨N2£©¹Ì¶¨µ½ÏõËá£¨HNO3£©ÖĞ£¬ÕâÊÇ¼¸ÖÖÍ¨³£³ÆÎª¹ÌµªµÄ»¯Ñ§¹ı³ÌÖ®Ò»¡£ È»ºó½«ËùµÃÏõËáÓÃ×÷·ÊÁÏµÄÏõËáÑÎ£¨NO3-£©Ô´¡£ÕâĞ©·ÊÁÏÓÃÓÚÌá¸ßÅ©³¡µÄÉú²úÂÊ»ò»¯Ñ§Ô­ÁÏ½øÒ»²½¾«ÖÆÕ¨Ò©¡£;;;;;;;;;;;;x
+MODIFIER_CB_GENERATION_SPEED_MODIFIER;ÖÆÔìÕ½Õù½è¿ÚµÄËÙ¶È;;;;;;;;;;;;x
+MODIFIER_MOBILIZATION_IMPACT;¶¯Ô±Ó°Ïì;;;;;;;;;;;;x
+GREAT_WARS_ENABLED_DESC;¿ÉÒÔ·¢¶¯´óÕ½\n;;;;;;;;;;;;x
+GREAT_WARS_DISABLED_DESC;²»¿ÉÒÔ·¢¶¯´óÕ½\n;;;;;;;;;;;;x
+HAVE_NOT_A_PORT_IN;Ã»ÓĞÒ»¸ö¸Û¿ÚÔÚ;;;;;;;;;;;;x
+IN_SOCIAL_MOVEMENT;´¦ÓÚÉç»áÔË¶¯ÖĞ\n;;;;;;;;;;;;x
+NOT_IN_SOCIAL_MOVEMENT;²»´¦ÓÚÉç»áÔË¶¯\n;;;;;;;;;;;;x
+IN_POLITICAL_MOVEMENT;´¦ÓÚÕşÖÎÔË¶¯ÖĞ\n;;;;;;;;;;;;x
+NOT_IN_POLITICAL_MOVEMENT;Î´´¦ÓÚÕşÖÎÔË¶¯ÖĞ\n;;;;;;;;;;;;x
+NEUTRALITY_EFFECT;¸Ã¹ú¼Ò±äµÃÖĞÁ¢£¬½âÉ¢ËùÓĞÁªÃË²¢½â·ÅËùÓĞÎÀĞÇ¹ú¡£;;;;;;;;;;;;x
+INFLUENCE_CHANGE;¡ìY$ACTIVE$¡ìW¶Ô¡ìY$PASSIVE$¡ìWµÄÓ°ÏìÁ¦¸Ä±ä$MUCH$\n;;;;;;;;;;;;x
+THE_CAPITAL_IS_NOT;Ê×¶¼²»ÊÇ;;;;;;;;;;;;x
+ENDGAME_DESC;¹Ø¼üµÄÒ»°ÙÄêÒÑ¾­¹ıÈ¥£¬ÎÒÃÇ½øÈëÁËÏÖ´úÉç»á£¬ÄãµÄ¹ú¼Ò×¼±¸ÔõÃ´Ãæ¶ÔÕâ¸öÒÑ¾­±äµÃÍêÈ«²»Ò»ÑùµÄÊÀ½ç£¿;;;;;;;;;;;;x
+DIPLOMACY_FILTER_NORTH_AMERICA;±±ÃÀÖŞ;;;;;;;;;;;;x
+DIPLOMACY_FILTER_OCEANIA;½ü¶«;;;;;;;;;;;;x
+DIPLOMACY_FILTER_OCEANIA_TOOLTIP;ÁĞ³ö¡ìY½ü¶«¡ìW¹ú¼Ò;;;;;;;;;;;;x
+north_america;±±ÃÀÖŞ;;;;;;;;;;;;x
+oceania;½ü¶«;;;;;;;;;;;;x
+siberian;Î÷²®ÀûÑÇÉÙÊıÃñ×å;;;;;;;;;;;;x
+tanzimat_reforms_enacted;ÒÑÇ©ÊğÌ¹ÆëÂíÌØ¸Ä¸ï;;;;;;;;;;;;x
+indo_iranian;ÑÅÀû°²ÈË;;;;;;;;;;;;x
+yazidi;ÑÅ×ÈµÏ;;;;;;;;;;;;x
+yazidi_group;ÑÅ×ÈµÏÅÉ;;;;;;;;;;;;x
+islamic_law;ÒÁË¹À¼·¨ÂÉ;;;;;;;;;;;;x
+EFFECT_CRISIS_INTEREST;$COUNTRY$Ğû²¼¶Ôµ±Ç°Î£»ú¸ĞĞËÈ¤\n;;;;;;;;;;;;x
+NORMAL_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ºÚÉÀµ³¸ïÃü;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_FASCISM;$ORDER$$FIRST$-$SECOND$ºÚÉÀµ³¸ïÃü;;;;;;;;;;;;x
+NORMAL_WAR_NAME_COMMUNISM;$ORDER$$FIRST$-$SECOND$¸ïÃüÕ½Õù;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_COMMUNISM;$ORDER$$FIRST$-$SECOND$¸ïÃüÕ½Õù;;;;;;;;;;;;x
+NORMAL_WAR_NAME_DEMOCRACY;$ORDER$$FIRST$-$SECOND$·´¸ïÃüÕ½Õù;;;;;;;;;;;;x
+AGRESSION_WAR_NAME_DEMOCRACY;$ORDER$$FIRST$-$SECOND$·´¸ïÃüÕ½Õù;;;;;;;;;;;;x
+aristocrats;µØÖ÷;;;;;;;;;;;;x
+appointed_desc;¹ú¼ÒÁìµ¼ÈËÖ¸¶¨µØÖ÷»ò×Ê±¾¼ÒÎªÉÏÒéÔºÒéÔ±¡£;;;;;;;;;;;;x
+landed_voting_desc;Ö»ÓĞµØÖ÷ºÍ×Ê±¾¼ÒÓĞÑ¡¾ÙÈ¨¡£;;;;;;;;;;;;x
+promote_aristocrats;¹ÄÀøµØÖ÷;;;;;;;;;;;;x
+ELECTIONSTART_1;$COUNTRY$µÄÑ¡¾Ù¿ªÊ¼ÁË;;;;;;;;;;;;x
+sepoy_rebellion;Ó¡¶ÈÃñ×å´óÆğÒå;;;;;;;;;;;;x
+IS_SUBSTATE_OF;ÊÇ´Î¹ú¼ÒÊôÓÚ;;;;;;;;;;;;x
+IS_NOT_SUBSTATE_OF;²»ÊÇ´Î¹ú¼Ò;;;;;;;;;;;;x
+public_illumination;¹«¹²ÕÕÃ÷;;;;;;;;;;;;x
+IS_NOT_IN_A_SPHERE;²»ÔÚÊÆÁ¦·¶Î§ÄÚ;;;;;;;;;;;;x
+HOLD_ELECTION_BUTTON;¾ÙĞĞÑ¡¾Ù;;;;;;;;;;;;x
+HOLD_ELECTION;¾ÙĞĞÑ¡¾Ù\n;;;;;;;;;;;;x
+NATIONALIZE_INDUSTRY_EFFECT;ÊµÊ©¹úÓĞ»¯\n;;;;;;;;;;;;x
+2nd_caucasian_war;µÚ¶ş´Î¸ß¼ÓË÷Õ½Õù;;;;;;;;;;;;x
+RELEASE;ÊÍ·Å¡ìY$WHO$¡ìW×÷ÎªÒ»¸ö¶ÀÁ¢¹ú¼Ò\n;;;;;;;;;;;;x
+administrative_efficiency_modifier;ĞĞÕşĞ§ÂÊ;;;;;;;;;;;;x
+MODIFIER_ADMINISTRATIVE_EFFICIENCY;ĞĞÕşĞ§ÂÊ;;;;;;;;;;;;x
+in_great_war;´¦ÓÚÊÀ½ç´óÕ½;;;;;;;;;;;;x
+fascist_rebels_title;·¨Î÷Ë¹Ö÷ÒåÕß;;;;;;;;;;;;x
+fascist_rebels_name;$COUNTRY$·¨Î÷Ë¹Ö÷ÒåÕß;;;;;;;;;;;;x
+fascist_rebels_desc;×¼¾üÊÂ»¯Îä×°ÍÅÌå£¬ºÚÉ«¾üÍÅ£¬ÊÇÊÜµ½ĞÂ½üáÈÆğµÄ·¨Î÷Ë¹Ö÷ÒåÒâÊ¶ĞÎÌ¬Çı¶¯µÄ¸ïÃüÕß¡£Í¨¹ıÓĞ¼Æ»®µÄ±©Á¦ĞĞ¶¯£¬¼«ÓÒÒí¸ïÃüÕßÃÇ²»Ï§Ò»ÇĞ´ú¼ÛÍÆ·­³Â¸¯µÄ¾ıÖ÷ÖÆ¶È»òĞÂÉúµÄÃñÖ÷ÕşÈ¨£¬´úÖ®ÒÔ·¨Î÷Ë¹ÀûÎ¬Ì¹µÄ¾ø¶ÔÍ³ÖÎ¡£;;;;;;;;;;;;x
+fascist_rebels_army;$COUNTRY_ADJ$×ÔÓÉ¾üÍÅ;;;;;;;;;;;;x
+dagestani;´ï¼ªË¹Ì¹ÈË;;;;;;;;;;;;x
+circassian;ÇĞ¶û¿ËË¹ÈË;;;;;;;;;;;;x
+chechen;³µ³¼ÈË;;;;;;;;;;;;x
+north_caucasian;¸ß¼ÓË÷ÉÙÊıÃñ×å;;;;;;;;;;;;x
+caucasian;¸ß¼ÓË÷ÈË;;;;;;;;;;;;x
+botanical_expedition_threatened;Ö²ÎïÑ§¿¼²ì¶Ó±»ÍşĞ²;;;;;;;;;;;;x
+participates_in_botanical_expedition;²ÎÓëÖ²ÎïÑ§¿¼²ì;;;;;;;;;;;;x
+ANY_POP_IN_PROVINCE_STARTS;ÈÎºÎÈË¿Ú;;;;;;;;;;;;x
+house_of_rashid_exiled;À­Ï£µÂ¼Ò×åÔâ·ÅÖğ;;;;;;;;;;;;x
+house_of_saud_returned;É³ÌØ¼Ò×å»ØÀ´ÁË;;;;;;;;;;;;x
+house_of_saud_exiled;É³ÌØ¼Ò×åÔâ·ÅÖğ;;;;;;;;;;;;x
+early_electrical_telegraph;ÔçÆÚµç±¨;;;;;;;;;;;;x
+early_electrical_telegraph_desc;µÚÒ»¸öÉÌÒµµç±¨ÓÉÍşÁ®¡¤¸£Éª¼ª¶û¡¤¿â¿Ë¾ôÊ¿ºÍ²é¶ûË¹¡¤»İË¹Í¨ÏÈÉú¹²Í¬¿ª·¢¡£ÕâÊÇÒ»¸öÎåÕëÁùÏßÏµÍ³¡£µçÀÂ×î³õ°²×°ÔÚ¸Ö¹ÜµÀµÄµØÏÂ£¬È»¶ø£¬µçÀÂÓÉÓÚ¾øÔµÁÓ»¯¶øºÜ¿ì¿ªÊ¼Ê§Ğ§£¬²¢ÇÒÔÚÁ½¼«ÉÏÓÃÎ´¾øÔµµÄµçÏß´úÌæ¡£×÷Îª´úÌæ½«Ê¹ÓÃÁ½ÕëÏµÍ³ÎªÁÙÊ±´ëÊ©£¬ÆäÖĞÈı¸öÊ£ÓàµÄ»¹ÔÚ¹¤×÷ÖĞµÄµØÏÂÏßÂ·£¬¾¡¹ÜÊ¹ÓÃÁ½¸öÕë¾ßÀ´´«ÊäĞèÒª¸ü¶àµÄ´úÂë¡£;;;;;;;;;;;;x
+telegraph;µç±¨;;;;;;;;;;;;x
+REMOVE_MONEY_EFFECT;Ê§È¥¡ìR$VALUE$¡è¡ìW¡£\n;;;;;;;;;;;;x
+MONEY_EFFECT;Ö§¸¶¡ìR$VALUE$¡ìW¡è¡ìW¡£\n;;;;;;;;;;;;x
+theocracy_ruler;Ê¥×ù;;;;;;;;;;;;x
+proletarian_dictatorship_ruler;Ö÷Ï¯;;;;;;;;;;;;x
+presidential_dictatorship_ruler;×ÜÍ³;;;;;;;;;;;;x
+bourgeois_dictatorship_ruler;¶­ÊÂ;;;;;;;;;;;;x
+fascist_dictatorship_ruler;×î¸ßÁìĞä;;;;;;;;;;;;x
+absolute_monarchy_ruler;±İÏÂ;;;;;;;;;;;;x
+prussian_constitutionalism_ruler;±İÏÂ;;;;;;;;;;;;x
+hms_government_ruler;±İÏÂ;;;;;;;;;;;;x
+democracy_ruler;×ÜÍ³;;;;;;;;;;;;x
+islamic_fundamentalists_title;ÒÁË¹À¼Ô­½ÌÖ¼Ö÷ÒåÕß;;;;;;;;;;;;x
+islamic_fundamentalists_name;ÒÁË¹À¼Ô­½ÌÖ¼Ö÷ÒåÕß;;;;;;;;;;;;x
+islamic_fundamentalists_desc;ÒÁË¹À¼Ô­½ÌÖ¼Ö÷ÒåÕßÈÏÎªÒÁË¹À¼½ÌÓ¦¸Ã»ùÓÚ¹ÅÀ¼¾­£¬Ê¥ÑµºÍÊ¥ĞĞ¶ø²»ÊÇ´«Í³ÎÄ»¯£¬ËûÈËµÄ×¢ÊÍ£¬Á÷ĞĞµÄ×Ú½ÌÏ°Ë×£¨Maraboutism£¬¼´Ê¥ÈË³ç°İ£©£¬Æ«²îµÄÀí½âºÍÃÔĞÅ£¬Ó¦¸Ã»Øµ½Ô­Ê¼µÄÎÄ±¾Àï¡£ËûÃÇÖÂÁ¦ÓÚ°ÚÍÑÍâ¹úµÄÍÇ·ÏÎÄ»¯£¬ÍÆ·­Õş¸®£¬½¨Á¢Ò»¸öÔ­½ÌÖ¼Ö÷Òå¹ú¼Ò¡£;;;;;;;;;;;;x
+islamic_fundamentalists_army;ÒÁË¹À¼Ô­½ÌÖ¼Ö÷ÒåÕß;;;;;;;;;;;;x
+theocracy;Õş½ÌºÏÒ»ÖÆ;;;;;;;;;;;;x
+artillery_production_desc;19ÊÀ¼ÍµÄ¹¤Òµ¸ïÃüÓ°ÏìÁË»ù±¾ÉÏËùÓĞÈËÀàÔø¾­×êÑĞµÄÁìÓò£¬»ğÅÚÉú²úÒ²²»ÀıÍâ¡£ Ô­±¾Âş³¤µÄÖıÔìÇàÍ­´óÅÚµÄ¹ı³Ì£¬ÔÚ¹¤ÒµµÄ·¢Ã÷¼ÒÊÖÖĞ£¬Èç°¢¶û¸¥À×µÂ¡¤¿ËÂ²²®»òÏ£À­Ä·¡¤Âí¿ËÎ÷Ä·£¬ ³ÉÎªÁËÒ»ÃÅ¿ÉÒÔ¹¤Òµ»¯»¯µÄ¾«È·¿ÆÑ§¡£;;;;;;;;;;;;x
+australian;°Ä´óÀ­Î÷ÑÇÈË;;;;;;;;;;;;x
+serfdom_not_abolished;Å©Å«ÖÆÎ´·Ï³ı;;;;;;;;;;;;x
+theocratic_government;ÉñÈ¨Õş¸®;;;;;;;;;;;;x
+communist_gov;ÎŞ²ú½×¼¶×¨Õş;;;;;;;;;;;;x
+absolute_monarchy_gov;¾ø¶Ô¾ıÖ÷ÖÆ;;;;;;;;;;;;x
+semi_constitutional_monarchy_gov;¶şÔª¾ıÏÜÖÆ;;;;;;;;;;;;x
+constitutional_monarchy_gov;Òé»á¾ıÏÜÖÆ;;;;;;;;;;;;x
+democracy_gov;ÃñÖ÷¹²ºÍÖÆ;;;;;;;;;;;;x
+presidential_dictatorship_gov;¶À²Ã¹²ºÍÖÆ;;;;;;;;;;;;x
+fascist_gov;·¨Î÷Ë¹×¨Õş;;;;;;;;;;;;x
+anarcho_liberal_gov;×Ê²ú½×¼¶×¨Õş;;;;;;;;;;;;x
+serfs;Å©Å«;;;;;;;;;;;;x
+TRIGGER_STATE;Î£»úµØÇø;;;;;;;;;;;;x
+piston_steam_engine;»îÈûÊ½ÕôÆû»ú;;;;;;;;;;;;x
+high_pressure_steam_engine;¸ßÑ¹Ê½ÕôÆû»ú;;;;;;;;;;;;x
+compound_steam_engines;¸´ºÏĞÍÕôÆû»ú;;;;;;;;;;;;x
+nv_autocracy;×¨ÖÆ;;;;;;;;;;;;x
+nv_tradition;´«Í³;;;;;;;;;;;;x
+nv_productivity;ÇÚÀÍ;;;;;;;;;;;;x
+french_claimed_the_rhine;·¨¹úĞû³ÆÀ³Òğ;;;;;;;;;;;;x
+CANAL_5;´ï´ïÄá¶ûº£Ï¿;;;;;;;;;;;;x
+CANAL_4;²©Ë¹²¼Â³Ë¹º£Ï¿;;;;;;;;;;;;x
+MODIFIER_LAND_ATTACK;Â½¾ü¹¥»÷;;;;;;;;;;;;x
+MODIFIER_NAVAL_ATTACK;º£¾ü¹¥»÷;;;;;;;;;;;;x
+MODIFIER_LAND_DEFENSE;Â½¾ü·ÀÓù;;;;;;;;;;;;x
+MODIFIER_NAVAL_DEFENSE;º£¾ü·ÀÓù;;;;;;;;;;;;x
+PV_CLERGY_LIT_PROVIDES;ÉñÖ°ÈËÔ±Ìá¹©£º$VAL$;;;;;;;;;;;;x
+PV_CLERGY_LIT_NUM;ÄãµÄÃñÖÚÖĞÓĞ$NUM$ÊÇÖªÊ¶·Ö×Ó£¨×î¼ÑÎª$OPT$£©£º$VAL$;;;;;;;;;;;;x
+PV_CLERGY_LIT_DESC1;$LOC$µÄÈË¿ÚÖĞÓĞ$NUM$ÊÇÖªÊ¶·Ö×Ó;;;;;;;;;;;;x
+POP_CON_CLERGY;ÖªÊ¶·Ö×Ó¼Ó³É;;;;;;;;;;;;x
+clergymen;ÖªÊ¶·Ö×Ó;;;;;;;;;;;;x
+promote_clergymen;¹ÄÀøÖªÊ¶·Ö×Ó;;;;;;;;;;;;x
+land_attack_modifier;Â½¾ü¹¥»÷ĞŞÕı;;;;;;;;;;;;x
+BUDGET_TAX_RICH;Ë°ÊÕ£¨¸»Ô£½×²ã£©;;;;;;;;;;;;x
+BUDGET_TAX_MIDDLE;Ë°ÊÕ£¨ÖĞ²ú½×²ã£©;;;;;;;;;;;;x
+BUDGET_TAX_POOR;Ë°ÊÕ£¨Æ¶À§½×²ã£©;;;;;;;;;;;;x
+NATIONAL_BANK;¹ú¼ÒÒøĞĞ;;;;;;;;;;;;x
+immigration_focus_desc;ÒÆÃñÓĞ¡ìY$VAL$%¡ìWµÄ¸ü´ó¿ÉÄÜÑ¡ÔñÕâÀï¡£Õâ¸ö½¹µã»áÎüÒı¸ü¶àµÄÒÆÃñÇ°À´¸ÃÊ¡·İ£¬µ«²¢²»»áÓĞ¸ü¶àµÄÒÆÃñÇ°À´ÎÒÃÇ¹ú¼Ò¡£;;;;;;;;;;;;x
+emigration_focus;¹ÄÀøÒÆÃñ;;;;;;;;;;;;x
+emigration_focus_desc;µ±µØ¾ÓÃñÓĞ¡ìY$VAL$¡ìWµÄ¸ü´ó¿ÉÄÜĞÔÀë¿ª¸ÃÇøÓò¡£;;;;;;;;;;;;x
+not_AI;¿ØÖÆÕß²»ÊÇAI;;;;;;;;;;;;x
+harassment_l;Õşµ³É§ÈÅ;;;;;;;;;;;;x
+land_reform;ÍÁµØ¸Ä¸ï;;;;;;;;;;;;x
+land_reform_l;ÍÁµØ¸Ä¸ï;;;;;;;;;;;;x
+no_land_reform;Ã»ÓĞÍÁµØ¸Ä¸ï;;;;;;;;;;;;x
+yes_land_reform;ÍÁµØ¸Ä¸ï;;;;;;;;;;;;x
+no_land_reform_desc;ÍÁµØÓÉ´«Í³¾«Ó¢ÃÇÒÔ´ú´úÏà´«µÄ·½Ê½ÓµÓĞ²¢ÏíÓÃ£¬ÕâÒ²ÊÇËûÃÇÏëÒªµÄÉú»î·½Ê½£¬Ò»ÇĞ×ÜÄÜÈçÎôÈÕÄÇ°ã¸ÃÓĞ¶àºÃ°¡¡£;;;;;;;;;;;;x
+yes_land_reform_desc;ÍÁµØËùÓĞÈ¨ÔÙ·ÖÅäÄÜÌá¸ßÅ©ÒµºÍ¿óÒµĞ§ÂÊ;;;;;;;;;;;;x
+admin_reform;¹ÜÀíÖÆ¶È¸Ä¸ï;;;;;;;;;;;;x
+admin_reform_l;¹ÜÀíÖÆ¶È¸Ä¸ï;;;;;;;;;;;;x
+no_admin_reform;Ã»ÓĞ¹ÜÀíÖÆ¶È¸Ä¸ï;;;;;;;;;;;;x
+yes_admin_reform;¹ÜÀíÖÆ¶È¸Ä¸ï;;;;;;;;;;;;x
+no_admin_reform_desc;Ã»ÓĞ¹ÜÀíÖÆ¶È¸Ä¸ï¡£¹ú¼ÒĞĞÕş»ú¹¹ÒÔÀÏ¾ÉµÄ·½Ê½ÔËĞĞ£¬Èç¹ûÓĞµÄ»°¡£;;;;;;;;;;;;x
+yes_admin_reform_desc;ÎÒÃÇµÄ¹ÜÀíÖÆ¶ÈÏÈ½ø¶ø¸»ÓĞĞ§ÂÊ¡£;;;;;;;;;;;;x
+finance_reform;²ÆÕş½ğÈÚ¸Ä¸ï;;;;;;;;;;;;x
+finance_reform_l;²ÆÕş½ğÈÚ¸Ä¸ï;;;;;;;;;;;;x
+no_finance_reform;Ã»ÓĞ²ÆÕş½ğÈÚ¸Ä¸ï;;;;;;;;;;;;x
+yes_finance_reform;²ÉÈ¡²ÆÕş½ğÈÚ¸Ä¸ï;;;;;;;;;;;;x
+finance_reform_two;¹ú¼ÊÕ®Îñ;;;;;;;;;;;;x
+no_finance_reform_desc;ÎÒ¹úµÄ½ğÈÚ»ú¹¹Óë¾­¼ÃÔË×ªºÍ¹ıÈ¥Ã»Ê²Ã´Á½Ñù;;;;;;;;;;;;x
+yes_finance_reform_desc;ÎÒÃÇ¿ªÊ¼×ÅÁ¦Ê¹½ğÈÚ»ú¹¹ÊµÏÖÏÖ´ú»¯¡£;;;;;;;;;;;;x
+finance_reform_two_desc;ÎÒ¹ú½ğÈÚ»ú¹¹µÄºÜ´óÒ»²¿·ÖÒÑ¾­½ÓÊÜÁËÏÖ´ú»¯¸ÄÔì£¬ÏÖÔÚÎÒÃÇ¿ÉÒÔÏòÆäËû¹ú¼Ò½èÇ®ÁË£¡;;;;;;;;;;;;x
+education_reform;»ù´¡½ÌÓı;;;;;;;;;;;;x
+education_reform_l;»ù´¡½ÌÓı;;;;;;;;;;;;x
+no_education_reform;Ã»ÓĞ½ÌÓı¸Ä¸ï;;;;;;;;;;;;x
+yes_education_reform;Íê³É½ÌÓı¸Ä¸ï;;;;;;;;;;;;x
+no_education_reform_desc;ÎÒ¹ú²»´æÔÚÑ§Ğ££¬½ÌÓıÏµÍ³É¢ÂÒ¶øÎŞĞò¡£;;;;;;;;;;;;x
+yes_education_reform_desc;ÎÒ¹úÓµÓĞ×éÖ¯»¯µÄ»ù´¡½ÌÓı¡£;;;;;;;;;;;;x
+transport_improv;½»Í¨ÏµÍ³;;;;;;;;;;;;x
+transport_improv_l;½»Í¨ÏµÍ³;;;;;;;;;;;;x
+no_transport_improv;Ã»ÓĞ¸Ä½ø;;;;;;;;;;;;x
+yes_transport_improv;µÃµ½¸Ä½ø;;;;;;;;;;;;x
+no_transport_improv_desc;½»Í¨ÏµÍ³Ô­Ê¼¶øÂäºó;;;;;;;;;;;;x
+yes_transport_improv_desc;½»Í¨ÏµÍ³ÏÖ´ú»¯£¬ÖÁÉÙÔÚÊ×¶¼ÇøÓòÊÇÕâÑù¡£;;;;;;;;;;;;x
+pre_indust;ÔçÆÚ¹¤Òµ»¯;;;;;;;;;;;;x
+pre_indust_l;ÔçÆÚ¹¤Òµ»¯;;;;;;;;;;;;x
+no_pre_indust;¹Ì²½×Ô·â;;;;;;;;;;;;x
+yes_pre_indust;¹¤Òµ»¯Èç»ğÈçİ±;;;;;;;;;;;;x
+no_pre_indust_desc;ÎÒÃÇ²»ĞèÒª¹¤Òµ;;;;;;;;;;;;x
+yes_pre_indust_desc;ÔÚÍâ¹ú¹ËÎÊ°ïÖúÏÂ½¨ÉèÒ»Ğ©»ù´¡¹¤³§¡£ÕâÄÜ³ÉÎª¹¤Òµ¸ïÃüµÄÇ°×àÂğ£¿;;;;;;;;;;;;x
+industrial_construction;¹¤Òµ½¨Éè;;;;;;;;;;;;x
+industrial_construction_l;¹¤Òµ½¨Éè;;;;;;;;;;;;x
+no_industrial_construction;ÎŞ¹¤Òµ½¨Éè;;;;;;;;;;;;x
+yes_industrial_construction;Ö§³Ö¹¤Òµ½¨Éè;;;;;;;;;;;;x
+no_industrial_construction_desc;ÎŞÏÈ½ø¹¤³§.;;;;;;;;;;;;x
+yes_industrial_construction_desc;À´×ÔÍâ¹úµÄ¹¤Òµ¹ËÎÊ×¨¼Ò½«°ïÖúÎÒÃÇ½¨Éè¸ü¼ÓÏÈ½øµÄ¹¤³§;;;;;;;;;;;;x
+foreign_officers;¾ü¹ÙÅàÑµ;;;;;;;;;;;;x
+foreign_officers_l;¾ü¹ÙÅàÑµ;;;;;;;;;;;;x
+no_foreign_officers;¾ÉÊ½¾ü¹ÙÑµÁ·;;;;;;;;;;;;x
+yes_foreign_officers;Î÷Ê½¾ü¹ÙÑµÁ·;;;;;;;;;;;;x
+no_foreign_officers_desc;±¾ÍÁ¾ü¹Ù´øÁìÎÒÃÇµÄ²¿¶Ó£¬²¢ÒÔÎÒÃÇ´«Í³µÄ·½Ê½ÑµÁ·.;;;;;;;;;;;;x
+yes_foreign_officers_desc;ÎÒÃÇµÄ²¿¶ÓÏÖÔÚ½ÓÊÜÁËÍâ¹ú¾ü¹ÙµÄÑµÁ·£¬Ğ­ÖúºÍ²»¶¨Ê±µÄÁìµ¼.;;;;;;;;;;;;x
+army_schools;Â½¾ü¾üÊÂÑ§Ï°;;;;;;;;;;;;x
+army_schools_l;Â½¾ü¾üÊÂÑ§Ï°;;;;;;;;;;;;x
+no_army_schools;ÁÙÊ±ÅàÑµ;;;;;;;;;;;;x
+yes_army_schools;Â½¾ü¾üÊÂÑ§Ôº;;;;;;;;;;;;x
+no_army_schools_desc;ÎÒÃÇÔÚÕ½³¡ÉÏÁÙÊ±Ñ§Ï°Õ½¶·¼¼ÄÜ.;;;;;;;;;;;;x
+yes_army_schools_desc;¾ü¹ÙÔÚÂÊÁì²¿¶Ó×÷Õ½Ö®Ç°½«½ÓÊÜ×¨Òµ»¯¾üÊÂÑµÁ·.;;;;;;;;;;;;x
+foreign_naval_officers;º£¾ü¾ü¹Ù;;;;;;;;;;;;x
+foreign_naval_officers_l;º£¾ü¾ü¹Ù;;;;;;;;;;;;x
+no_foreign_naval_officers;¾ÉÊ½º£¾ü¾ü¹ÙÑµÁ·;;;;;;;;;;;;x
+yes_foreign_naval_officers;Î÷Ê½º£¾ü¾ü¹ÙÑµÁ·;;;;;;;;;;;;x
+no_foreign_naval_officers_desc;±¾ÍÁº£¾ü¾ü¹Ù´øÁìÎÒÃÇµÄ´¬¶Ó£¬²¢ÒÔÎÒÃÇ´«Í³µÄ·½Ê½ÑµÁ·.;;;;;;;;;;;;x
+yes_foreign_naval_officers_desc;Íâ¹ú¾ü¹Ù½«Ğ­ÖúÎÒÃÇµÄ½¢³¤ÃÇ.;;;;;;;;;;;;x
+naval_schools;º£¾ü¾üÊÂÑ§Ï°;;;;;;;;;;;;x
+naval_schools_l;º£¾ü¾üÊÂÑ§Ï°;;;;;;;;;;;;x
+no_naval_schools;ÁÙÊ±ÅàÑµ;;;;;;;;;;;;x
+yes_naval_schools;º£¾ü¾üÊÂÑ§Ôº;;;;;;;;;;;;x
+no_naval_schools_desc;ÎÒÃÇµÄº£¾ü¾ü¹Ù½«»áÔÚÕ½¶·ÖĞ»òÕßÇ°±²µÄÑÔ´«Éí½ÌÖĞÑ§Ï°º£¾üÖªÊ¶;;;;;;;;;;;;x
+yes_naval_schools_desc;ÎÒÃÇµÄº£¾ü¾ü¹Ù½«»áÔÚÂÊÁì²¿¶ÓÖ®Ç°ÔÚº£¾üÑ§ÔºÖĞ½øĞŞÏà¹ØÖªÊ¶ºÍÍâ¹úµÄÏÈ½øÀíÂÛ.;;;;;;;;;;;;x
+foreign_navies;Õ½½¢½ø¿Ú;;;;;;;;;;;;x
+foreign_navies_l;Õ½½¢½ø¿Ú;;;;;;;;;;;;x
+no_foreign_navies;×ÔÖ÷Éú²ú´¬Ö»;;;;;;;;;;;;x
+yes_foreign_navies;½ø¿Ú´¬Ö»;;;;;;;;;;;;x
+no_foreign_navies_desc;ÎÒÃÇÖ»»áÊ¹ÓÃ±¾µØÖÆÔìµÄ´¬Ö».;;;;;;;;;;;;x
+yes_foreign_navies_desc;ÎÒÃÇ½«½ø¿ÚÇ¿´óµÄÎ÷·½´¬Ö»À´ÔöÇ¿ÎÒÃÇµÄº£¾ü;;;;;;;;;;;;x
+foreign_training;ÑµÁ··½·¨;;;;;;;;;;;;x
+foreign_training_l;ÑµÁ··½·¨;;;;;;;;;;;;x
+no_foreign_training;¾ÉÊ½ÑµÁ··½·¨;;;;;;;;;;;;x
+yes_foreign_training;Î÷Ê½ÑµÁ··½·¨;;;;;;;;;;;;x
+no_foreign_training_desc;²¿¶ÓÒÔ´«Í³·½Ê½ÑµÁ·.;;;;;;;;;;;;x
+yes_foreign_training_desc;²¿¶Ó½«ÑûÇëÍâ¹ú¾üÊÂ¹ËÎÊÑµÁ·»ò½«Åä±¸Íâ¹ú¼¼Êõ.;;;;;;;;;;;;x
+foreign_weapons;½ø¿ÚÎäÆ÷;;;;;;;;;;;;x
+foreign_weapons_l;½ø¿ÚÎäÆ÷;;;;;;;;;;;;x
+no_foreign_weapons;¾ÉÊ½ÎäÆ÷;;;;;;;;;;;;x
+yes_foreign_weapons;½ø¿ÚÎ÷ÑóÎäÆ÷;;;;;;;;;;;;x
+no_foreign_weapons_desc;ÎÒÃÇµÄ¾ü¶ÓÊ¹ÓÃ´«Í³ÎäÆ÷.;;;;;;;;;;;;x
+yes_foreign_weapons_desc;ÕâÊÇÎÒÃÇµÄÃØÃÜÉ±Æ÷!;;;;;;;;;;;;x
+military_constructions;¾üÊÂÉèÊ©;;;;;;;;;;;;x
+military_constructions_l;¾üÊÂÉèÊ©;;;;;;;;;;;;x
+no_military_constructions;¼òÒ×ÉèÊ©;;;;;;;;;;;;x
+yes_military_constructions;×¨ÒµÉèÊ©;;;;;;;;;;;;x
+no_military_constructions_desc;ÎÒÃÇµÄ¾üÊÂÉèÊ©ÊÇÓÃ´«Í³·½Ê½½¨ÔìµÄ£¬»ò¸ù±¾²»½¨Ôì.;;;;;;;;;;;;x
+yes_military_constructions_desc;Ê¹ÓÃ½ü´úÎ÷·½µÄ¾üÊÂÉèÊ©½¨Ôì·½Ê½À´½¨Ôì,Õû¸ö½¨Ôì¹ı³Ì½«ÓĞÍâ¹ú¹ËÎÊ¼à¹Ü.;;;;;;;;;;;;x
+firearms_production;Ç¹Ö§Éú²ú;;;;;;;;;;;;x
+firearms_production_l;Ç¹Ö§Éú²ú;;;;;;;;;;;;x
+no_firearms_production;Ç¹Ö§½ø¿Ú;;;;;;;;;;;;x
+no_firearms_production_l;Ç¹Ö§½ø¿Ú;;;;;;;;;;;;x
+no_firearms_production_desc;ÎÒÃÇµÄÇ¹Ö§ÒÀÀµÓÚ½ø¿Ú,×Ô¼ºÎŞ·¨Éú²ú.;;;;;;;;;;;;x
+yes_firearms_production;±¾¹ú×Ô²ú;;;;;;;;;;;;x
+yes_firearms_production_l;±¾¹úÉú²ú;;;;;;;;;;;;x
+yes_firearms_production_desc;Ç¹Ö§ÊÇÔÚÎÒ¹úÉú²úµÄ,²»ĞèÒªÒÀÀµÓÚ´ó¹æÄ£½ø¿Ú.;;;;;;;;;;;;x
+writing_system;ÊéĞ´ÏµÍ³;;;;;;;;;;;;x
+writing_system_l;ÊéĞ´ÏµÍ³;;;;;;;;;;;;x
+no_writing_language;ÎŞÊéĞ´ÏµÍ³;;;;;;;;;;;;x
+no_writing_language_desc;¿ÚÓïÊÇÎ¨Ò»µÄ¹µÍ¨·½Ê½,Ã»ÓĞÎÄ¼ş»òĞ´×÷ÓïÑÔ£¬Ã»ÓĞ½ÌÓıÖÆ¶ÈºÍÃ»ÓĞ¹Ù·½µÄ¹ú¼ÒÓïÑÔ.;;;;;;;;;;;;x
+writing_language;ÊéĞ´ÏµÍ³;;;;;;;;;;;;x
+writing_language_l;ÊéĞ´ÏµÍ³;;;;;;;;;;;;x
+writing_language_desc;ÎÒÃÇÓĞÒ»¸öÊéĞ´ÏµÍ³ºÍ¹Ù·½µÄÊéÃæÓïÑÔ£¬ÓÉÕş¸®Ê¹ÓÃ.ÒòÎªÃ»ÓĞÊéÃæÓïÑÔ£¬ÎÒÃÇ¾Í²»¿ÉÄÜÓĞÒ»¸öÏÖ´ú»¯µÄ¹ú¼Ò.;;;;;;;;;;;;x
+monetary_reform;±ÒÖÆ¸Ä¸ï;;;;;;;;;;;;x
+monetary_reform_l;±ÒÖÆ¸Ä¸ï;;;;;;;;;;;;x
+no_monetary_reform;ÎŞ±ê×¼»õ±Ò;;;;;;;;;;;;x
+no_monetary_reform_l;ÎŞ±ê×¼»õ±Ò;;;;;;;;;;;;x
+no_monetary_reform_desc;ÎÒÃÇÖÎÏÂµÄÃ¿¸öÊ¡¶¼ÓĞ×Ô¼ºµÄ»õ±Ò,ÕâÔì³ÉÁË»õ±ÒÎŞ·¨Á÷Í¨;;;;;;;;;;;;x
+yes_monetary_reform;¹Ù·½»õ±Ò;;;;;;;;;;;;x
+yes_monetary_reform_l;¹Ù·½»õ±Ò;;;;;;;;;;;;x
+yes_monetary_reform_desc;Õş¸®²ÉÓÃÁËÒ»Ğ©»õ±ÒÑùÊ½×÷Îª¹Ù·½»õ±Ò£¬µ«²»Í¨¹ıÖĞÑëÒøĞĞ·¢ĞĞ.;;;;;;;;;;;;x
+monetary_reform_two;µ¥Ò»»õ±Ò;;;;;;;;;;;;x
+monetary_reform_two_l;µ¥Ò»»õ±Ò;;;;;;;;;;;;x
+monetary_reform_two_desc;Õş¸®Ö´ĞĞÓÉÉÙÊı±»Ğí¿ÉµÄ¹ú¼ÒÒøĞĞ·¢ĞĞµÄµ¥Ò»µÄÖ¸¶¨»õ±Ò,ÕâÊÇ»õ±Ò¼¯ÖĞ»¯ºÍ±ê×¼»¯µÄ¿ªÊ¼;;;;;;;;;;;;x
+research_reform;´óÑ§¸Ä¸ï;;;;;;;;;;;;x
+research_reform_l;´óÑ§¸Ä¸ï;;;;;;;;;;;;x
+no_research_reform;ÏÖÎŞ´óÑ§;;;;;;;;;;;;x
+no_research_reform_l;ÏÖÎŞ´óÑ§;;;;;;;;;;;;x
+no_research_reform_desc;ÏÖÔÚÃ»ÓĞÒ»Ëù½ü´ú»¯´óÑ§ÔÚÎÒÃÇ¹ú¼ÒÀï½¨Á¢;;;;;;;;;;;;x
+yes_research_reform;Î÷Ê½´óÑ§;;;;;;;;;;;;x
+yes_research_reform_l;Î÷Ê½´óÑ§;;;;;;;;;;;;x
+yes_research_reform_desc;×ñÑ­Î÷·½µÄ±ê×¼½¨Á¢ÏÖ´ú´óÑ§,´óÑ§µÄ½ÌÊÚ¶¼ÊÇÔÚ¹úÍâ»òÕßÔÚÊµĞĞÍâ¹úÖÆ¶ÈµÄ½ü´ú»¯»ú¹¹Àï±ÏÒµ,ËûÃÇ¸ºÔğ½ÌÊÚÎ÷·½µÄÕÜÑ§Ë¼ÏëºÍ¿ÆÑ§¼¼Êõ;;;;;;;;;;;;x
+foreign_artillery;½ø¿Ú»ğÅÚ;;;;;;;;;;;;x
+foreign_artillery_l;½ø¿Ú»ğÅÚ;;;;;;;;;;;;x
+no_foreign_artillery;×Ô²ú»ğÅÚ;;;;;;;;;;;;x
+no_foreign_artillery_l;×Ô²ú»ğÅÚ;;;;;;;;;;;;x
+no_foreign_artillery_desc;»ğÅÚÊÇÓÉÏÖÔÚÀ´ËµÒÑ¾­¶ÔÎ÷·½ÎŞÓÃµÄËùÎ½¹¥³Ç»úĞµ×é³É»òÕß¸ù±¾²»´æÔÚ¡£;;;;;;;;;;;;x
+yes_foreign_artillery;½ø¿Ú»ğÅÚ;;;;;;;;;;;;x
+yes_foreign_artillery_l;½ø¿Ú»ğÅÚ;;;;;;;;;;;;x
+yes_foreign_artillery_desc;ÎÒÃÇµÄ»ğÅÚ´ÓÎ÷·½ÁĞÇ¿½ø¿Ú¶øµÃµÄ.;;;;;;;;;;;;x
+public_meetings;¹«ÖÚ¼¯»á;;;;;;;;;;;;x
+public_meetings_l;¹«ÖÚ¼¯»á;;;;;;;;;;;;x
+yes_meeting;ÔÊĞí;;;;;;;;;;;;x
+yes_meeting_desc;ÔÊĞí¹«ÖÚ¼¯»áºÍÓÎĞĞ;;;;;;;;;;;;x
+no_meeting;²»ÔÊĞí;;;;;;;;;;;;x
+no_meeting_desc;²»ÔÊĞí¹«ÖÚ¼¯»á,¸ü±ğÌ¸ÓÎĞĞÁË.;;;;;;;;;;;;x
+POLITICS_MATTERS_OF_STATE;¹ú¼Ò´óÊÂ;;;;;;;;;;;;x
+matters_of_state;¹ú¼Ò´óÊÂ;;;;;;;;;;;;x
+bureaucracy_ref;ÎÄ¹ÙÖÆ¶È;;;;;;;;;;;;x
+bureaucracy_ref_l;ÎÄ¹ÙÖÆ¶È;;;;;;;;;;;;x
+gentry;¹ó×å¾ö¶¨;;;;;;;;;;;;x
+gentry_l;¹ó×å¾ö¶¨;;;;;;;;;;;;x
+gentry_desc;¹ú¼ÒµÄ¹ó×åÔÚ¹ú¼ÒµÄ¹ÙÁÅ»ú¹¹ÖĞÓĞ×î¶àµÄ»°ÓïÈ¨¡£ ¹ÙÁÅ»ú¹¹·Ç³£Ğ¡»òÑÏÖØÊÜÏŞ;;;;;;;;;;;;x
+hereditary_bureaucracy;¹ÙÔ±ÊÀÏ®;;;;;;;;;;;;x
+hereditary_bureaucracy_l;¹ÙÔ±ÊÀÏ®;;;;;;;;;;;;x
+hereditary_bureaucracy_desc;Õş¸®µÄ¹ÙÁÅĞÔÖÊ£¬ÎŞÂÛÕıÊ½Óë·ñ£¬¶¼ÊÇÊÀÏ®µÄ£¬ÑÏÖØÏŞÖÆÁË¹ú¼ÒÄÚ²¿¹ÜÀíµÄÆÕ±éĞÔ¡£Í¨³£Çé¿öÏÂ£¬Éç»áÉÏ²ã½×¼¶ÊÇÄÇĞ©¹ÙÔ±µÄÖ÷Òª×é³É²¿·Ö£¬ÕâÒ²µ¼ÖÂÁË¹ú¼Ò¹ÜÀíÏµÍ³µÄ¸ß¶È¸¯°Ü;;;;;;;;;;;;x
+professional_civil_servants;¹«ÎñÔ±ÖÆ¶È;;;;;;;;;;;;x
+professional_civil_servants_l;¹«ÎñÔ±ÖÆ¶È;;;;;;;;;;;;x
+professional_civil_servants_desc;¹ÙÔ±»ú¹¹ÓÉÔÚ¹«¹²ĞĞÕşÁìÓòĞÎ³ÉµÄÊÜ¹ı½ÌÓıµÄ¹«Ãñ×é³É¡£¹ÙÔ±ÊÇ·ÇÊÀÏ®µÄ£¬¹ÙÔ±Ö÷ÒªÊÇ»ùÓÚÌôÑ¡¾«Ó¢µÄÔ­ÔòÀ´Ñ¡ÔñµÄ¡£;;;;;;;;;;;;x
+residency_desc;Ö»ÓĞÄãµÄ¹ú¼ÒµÄÖ÷ÌåÃñ×åµÄÈË±»ÔÊĞíÍ¶Æ±¡£;;;;;;;;;;;;x
+limited_citizenship_desc;Õâ¸öµ³ÅÉÖ§³ÖÊ¹ÓÃÕşÖÎÊÖ¶ÎÀ´ÏŞÖÆ¹«ÃñÈ¨ÀûºÍÕşÖÎÈ¨Àû,µ«ÔÊĞí¶ÔºÍ´Ë¹ú¼ÒÍ¬Ò»ÎÄ»¯·ÕÎ§µÄÃñ×åÏíÓĞÉÙÁ¿¡¢±»ÏŞÖÆµÄÈ¨Àû;;;;;;;;;;;;x
+full_citizenship_desc;Õâ¸öµ³Ö§³ÖÈËÈËÆ½µÈ.;;;;;;;;;;;;x
+movement_censored_press;¸ü¿í·ºµÄĞÂÎÅ×ÔÓÉÒªÇóÔË¶¯;;;;;;;;;;;;x
+revolution_n_counter_researched;¸ïÃüºÍ·´¸ïÃü;;;;;;;;;;;;x
+crisis_begin_researched;´¥·¢Î£»úÊÂ¼ş;;;;;;;;;;;;x
+medicine_invented;Ò½Ñ§ÑĞ¾¿;;;;;;;;;;;;x
+germs_invented;·¢Ã÷Î¢ÉúÎïÀíÂÛ;;;;;;;;;;;;x
+gaslights_invented;·¢Ã÷ÃºÆøµÆ;;;;;;;;;;;;x
+electricity_invented;µçÑ§ÑĞ¾¿;;;;;;;;;;;;x
+germ_theory;Î¢ÉúÎïÀíÂÛÓëÊµÑé²¡ÀíÑ§;;;;;;;;;;;;x
+germ_theory_desc;Ò½Ñ§ÉÏµÄÎ¢ÉúÎïÀíÂÛÖ¸³ö,ÓĞĞ©¼²²¡ÊÇÓÉÎ¢ÉúÎïÒıÆğµÄ,ÕâĞ©Ğ¡ÉúÎïÌ«Ğ¡,ÒÔÖÂÓÚÈËÀà³ı·ÇÍ¨¹ı·Å´óµÄÊÖ¶ÎÎŞ·¨¹Û²ìµ½ËüÃÇ,ËüÃÇÇÖÈëÈËÀàºÍ¶¯ÎïÒÔ¼°ÆäËû¿ÉÄÜµÄÉúÎï,ËüÃÇÔÚËŞÖ÷ÌåÄÚµÄÉú´æºÍ·±Ö³ĞĞÎª¿ÉÒÔÒı·¢¼²²¡²¢»ñµÃ¹ã·ºµÄ´«²¥£¬Î¢ÉúÎïÀíÂÛÔçÔÚ16ÊÀ¼Í¾ÍÒÑ¾­±»Ìá³ö,²¢ÓÉ17ÊÀ¼Íµ½19ÊÀ¼ÍÄ©µÄ¿ÆÑ§·¢ÏÖÖ¤Êµ¡£ËüÈ¡´úÁËÔçÆÚ¶Ô¼²²¡µÄ½âÊÍ£¬Èç¸ÇÂ×µÄÕÎÆøËµÀíÂÛ¡£;;;;;;;;;;;;x
+prussian_constitutionalism;¶şÔª¾ıÏÜÖÆ;;;;;;;;;;;;x
+hms_government;Òé»á¾ıÏÜÖÆ;;;;;;;;;;;;x
+market_structure;ÊĞ³¡½á¹¹;;;;;;;;;;;;x
+former_sphere_leader;Ô­ÊÆÁ¦È¦Áìµ¼¹ú;;;;;;;;;;;;x
+former_overlord;ÎôÈÕ°ÔÖ÷;;;;;;;;;;;;x
+cisplatina_is_ours;Î÷Ë¹ÆÕÀ­¶¡ÊÇÎÒÃÇµÄ;;;;;;;;;;;;x
+pessimist;±¯¹ÛÖ÷Òå;;;;;;;;;;;;x
+MOR_1696;Î÷Èö¹şÀ­;;;;;;;;;;;;x
+anti__rationalism;·´ÀíĞÔÖ÷Òå;;;;;;;;;;;;x
+time_saving_measures;Ê¡Ê±´ëÊ©;;;;;;;;;;;;x
+time_saving_measures_desc;Ê¡Ê±µÄ´ëÊ©;;;;;;;;;;;;x
+FOCUS_OWNED_BY;Äã²»ÄÜ½«¹ú¼Ò½¹µã·ÅÔÚÆäËû¹ú¼ÒµÄÊ¡·İÉÏ£¬³ı·ÇËüÊÇÄãºËĞÄµÄÇ±ÔÚ±¬·¢µã£¬¹ÄÀøÎ£»ú½ôÕÅ¶ÈĞèÒªÑĞ¾¿¸ïÃüÓë·´¸ïÃü¡£;;;;;;;;;;;;x
+secularized_desc;×Ú½Ì²»ÊÇ¹ú¼ÒÕş²ßĞèÒªÃ÷È·µÄ²¿·Ö£¬µ«¹ú¼Ò²»»áÍü¼ÇÀûÓÃËü´«Í³µÄ×Ú½Ì¼ÛÖµ¡£;;;;;;;;;;;;x
+dismantle_declared;·Ï³ı;;;;;;;;;;;;x
+THE_CAPITAL_IS;Ê×¶¼ÊÇ;;;;;;;;;;;;x
+post_colonial_country;ºóÖ³Ãñ¹ú¼Ò;;;;;;;;;;;;x
+mormon;Ä¦ÃÅ½Ì;;;;;;;;;;;;x
+gypsy;¼ªÆÕÈüÈË;;;;;;;;;;;;x
+eugen_von_bohm_bawerk;Å·¸ù¡¤·ë¡¤²®Ä·-°ÍÎ¤¶û¿Ë;;;;;;;;;;;;x
+eugen_von_bohm_bawerk_desc;²®Ä·-°ÍÎ¤¶û¿ËµÄÑ§ÕßÉúÑÄÊÇ¶Ï¶ÏĞøĞøµÄ¡£×îÖØÒªµÄÑ§Êõ»î¶¯¿ç¶ÈÊÇËûÔÚÒòË¹²¼Â³¿Ë´óÑ§µÄ¼¸Äê£¨1881-1889£©¡£ÕıÊÇÔÚ19ÊÀ¼Í80Äê´ú£¬ËûµÚÒ»´Î³ö°æÁËËûµÄ´ú±í×÷¡¶×Ê±¾ÓëÀûÏ¢¡·Èı¾íÖĞµÄÁ½¾í¡£ËûÍíÄêµÄÖ÷Òª¹¤×÷ÊÇµ£ÈÎ°ÂµØÀû²ÆÕş²¿³¤£¬ÕâÒ»Ö°ÎñÔÚÕû¸ö19ÊÀ¼Í90Äê´ú¼°ÒÔºóÒ»Ö±ÓÉËûµ£ÈÎ£¬¾¡¹Ü²»ÊÇÒ»Ö±µ£ÈÎ£¬µ«ËûÔÚ°ÂµØÀûµÄ100ÏÈÁî³®Æ±ÉÏÓĞ×Ô¼ºµÄĞ¤Ïñ£¬ÕâÊ¹ËûÊÜµ½ÁËÒ»¶¨µÄ×ğ¾´¡£ÔÚµ£ÈÎÕâÒ»Ö°Îñ²¢³Ğµ£ÆäËûÕş¸®Ö°Ôğºó£¬ËûÓÚ1904ÄêÖØ·µ½ÌÑ§¸ÚÎ»¡£ÔÚÎ¬Ò²ÄÉ´óÑ§µ£ÈÎÖ÷Ï¯ºó£¬Ëû³ÉÁËÎ¬ÉªµÄÍ¬ÊÂ£¬Î¬ÉªÊÇËûµÄÍ¬ÊÂÃÅ¸ñ¶ûµÄ¼ÌÈÎÕß¡£ÔÚ²®Ä·-°ÍÎ¤¶û¿ËÖ°ÒµÉúÑÄµÄ×îºóÊ®ÄêÀï£¨ËûÓÚ1914ÄêÈ¥ÊÀ£©£¬±»Ëû½Ì¹ıµÄÑ§Éú°üÀ¨Ô¼Éª·ò¡¤ĞÜ±ËÌØºÍÂ·µÂÎ¬Ï£¡¤·ë¡¤Ã×ÈûË¹¡£;;;;;;;;;;;;x
+leon_walras;Àï°º¡¤Íß¶ûÀ­Ë¹;;;;;;;;;;;;x
+leon_walras_desc;·¨¹ú¾­¼ÃÑ§¼ÒÀï°º¡¤Íß¶ûÀ­Ë¹±»Ô¼Éª·ò¡¤ĞÜ±ËÌØ³ÆÔŞÎª¡°ËùÓĞ¾­¼ÃÑ§¼ÒÖĞ×îÎ°´óµÄ¡±¡£Íß¶ûÀ­Ë¹ÊÇ±ßÔµ¸ïÃüµÄÈıÎ»Áìµ¼ÈËÖ®Ò»£¬¾¡¹ÜËû×îÎ°´óµÄ×÷Æ·¡°´¿´â¾­¼ÃÑ§ÔªËØ¡±ÓÚ1874Äê³ö°æ£¬±ÈÍşÁ®¡¤Ë¹Ì¹Àû¡¤½ÜÎÄË¹ºÍ¿¨¶û¡¤ÃÅ¸ñ¶ûÈıÄêºó³ö°æ¡£¾¡¹ÜÈç´Ë£¬ÔÚÈıÎ»¸ïÃüÕßÖĞ£¬À³°º¡¤Íß¶ûÀ­Ë¹ÔÚÕıÊ½µÄÒ»°ã¾ùºâ»·¾³ÖĞÌá³öÁËĞÂµÄ¡°±ßÔµÖ÷Òå¡±»ò¡°ĞÂ¹ÅµäÖ÷Òå¡±ÀíÂÛ¡£Òò´Ë£¬Ëû¸³ÓèËüÒÔ½Ü¿ËÑ·ÔÚºÜ´ó³Ì¶ÈÉÏ±ÜÃâµÄ¶àÊĞ³¡¿¼ÂÇÒòËØÒÔ¼°ÃÅ¸ñ¶ûËù±ÜÃâµÄÊıÑ§¾«È·ĞÔ¡£À³°ºÍß¶ûÀ­Ë¹±»¹ã·º¶øºÏÀíµØÊÓÎªÒ»°ã¾ùºâÀíÂÛµÄ¸¸Ç×¡£;;;;;;;;;;;;x
+jean_jaures;ÈÃ¡¤ÈÄÀÕË¹;;;;;;;;;;;;x
+jean_jaures_desc;1885Äê£¬ÈÄÀÕË¹µ±Ñ¡ÎªÖÚÒéÔºÒéÔ±¡£ÔÚ1889ÄêµÄÑ¡¾ÙÖĞÊ§°Üºó£¬Ëû»Øµ½Í¼Â¬×È´óÑ§¡£ËûÔÚÕşÖÎ¹ÛµãÉÏ±äµÃÔ½À´Ô½¼¤½ø£¬¶ÁÁËÂí¿ËË¼µÄÊéÖ®ºó£¬Ëû¿ªÊ¼Ìá³«Éç»áÖ÷Òå¡£Ëû²»ÊÇ¸ïÃüÕß£¬Ö§³Ö¶ÀÁ¢µÄÉç»áÖ÷ÒåÕß¡£ÔÚµ£ÈÎÒéÔ±Ö®Óà£¬ÈÄÀÕË¹Íê³ÉÁËËûÅÓ´óµÄÖø×÷¡¶Éç»áÖ÷ÒåµÄ·¨¹ú¸ïÃüÊ·¡·¡£1904Äê£¬Ëû»¹Óë°¢ÀïË¹µÙµÂ¡¤°×Àï°²ºÍÀ×ÄÚ¡¤Î¬Î¬ÑÇÄáÁªÊÖ´´°ìÁË×óÒí±¨Ö½¡¶ÈËµÀ±¨¡·¡£ÔÚ20ÊÀ¼Í³õ£¬ÈÄÀÕË¹Áìµ¼ÏÂµÄÒ»¸öĞÂµÄÉç»áµ³Ñ¸ËÙ·¢Õ¹£¬µ«ÔÚ¶ÔµÂ¹ú¾ü¹úÖ÷ÒåµÄÕıÈ··´Ó¦ÉÏ³öÏÖÁË·ÖÆç¡£ÈÄÀÕË¹Ö÷ÕÅ¹ú¼ÊÖÙ²ÃÕş²ß£¬¶øÆäËûÈËÔòÖ§³ÖÈı¹úĞ­Ô¼¡£;;;;;;;;;;;;x
+johann_heinrich_von_thunen;Ô¼º²¡¤º£ÒòÀïÏ£¡¤·ë¡¤¶ÅÄÜ;;;;;;;;;;;;x
+johann_heinrich_von_thunen_desc;Ô¼º²¡¤º£ÒòÀïÏ£¡¤·ë¡¤Í¼ÄşÊÇÀ´×ÔÃ·¿ËÂ×±¤µØÇøµÄ±±µÂµØÖ÷¡£ËäÈ»ÔÚ¸çÍ¢¸ù½ÓÊÜ½ÌÓı£¬µ«ËûÒ»ÉúµÄ´ó²¿·ÖÊ±¼ä¶¼ÔÚ¹ÜÀí×Ô¼ºµÄÏç´å×¯Ô°Ì©Âå¡£ÔÚËûµÄÂÛÖø¡¶¹ÂÁ¢¹ú¡·µÚÒ»¾í£¨1826Äê£©ÖĞ£¬Ëû½áºÏµØ×âÀíÂÛ¶Ô¿Õ¼ä¾­¼ÃÑ§½øĞĞÁËµÚÒ»´ÎÑÏËàµÄÂÛÊö¡£ËûµÄµÚ¶ş¾í£¨1850Äê£©ÒÔ¾«È·µÄÊıÑ§·½·¨·¢Õ¹ÁË±ß¼ÊÉú²úÁ¦·ÖÅäÀíÂÛµÄ¾«Ëè£¬´Ó¶ø³ÉÎªÕâ¸öÊ±´ú×îÖØÒªµÄÔ­Ê¼±ß¼ÊÂÛÕßÖ®Ò»¡£ÁÙÖÕÇ°£¬ËûÒªÇóÔÚÄ¹±®ÉÏ¿ÌÉÏËûÄÇÖøÃûµÄÀÍ¶¯±ß¼Ê²úÆ·»ò×ÔÈ»¹¤×ÊµÄµÈÊ½¡£;;;;;;;;;;;;x
+colorado_rebels_title;ºìµ³;;;;;;;;;;;;x
+colorado_rebels_name;ºìµ³ÅÑ¾ü;;;;;;;;;;;;x
+colorado_rebels_desc;ºìµ³ÅÑ¾üÏ£ÍûÍÆ·­°×µ³Õş¸®£¬²¢ÇÒÈÃËûÃÇ»ñµÃÈ¨Á¦;;;;;;;;;;;;x
+colorado_rebels_army;ºìµ³ÅÑ¾ü;;;;;;;;;;;;x
+blanco_rebels_title;°×µ³;;;;;;;;;;;;x
+blanco_rebels_name;°×µ³ÅÑ¾ü;;;;;;;;;;;;x
+blanco_rebels_desc;°×µ³ÅÑ¾üÏ£ÍûÄÜ¹»ÍÆ·­ºìµ³Õş¸®£¬²¢ÇÒÈÃËûÃÇ»ñµÃÈ¨Á¦¡£;;;;;;;;;;;;x
+blanco_rebels_army;°×µ³ÅÑ¾ü;;;;;;;;;;;;x
+separatist_rebels_title;°®¹úÕß;;;;;;;;;;;;x
+separatist_rebels_name;$CULTURE$°®¹úÖ÷ÒåÕß;;;;;;;;;;;;x
+separatist_rebels_desc;°®¹úÖ÷ÒåÅÑ¾üÃÎÏë×ÅÓëËûÃÇµÄÍ¬°ûÔÚ×ÔÓÉµÄÆìÖÄÏÂÖØ¹éÍ³Ò»£¬ÈÎºÎ±»ËûÃÇÕ¼ÁìµÄÊ¡·İ×îÖÕ»á¹éÊôµ½ÓëËûÃÇÍ¬ÎÄ»¯µÄÁÚ¹ú°æÍ¼¡£;;;;;;;;;;;;x
+separatist_rebels_army;$CULTURE$°®¹úÖ÷ÒåÕß;;;;;;;;;;;;x
+afro_caribeno;·ÇÒáÀ­¶¡ÈË;;;;;;;;;;;;x
+NOT_STRONGER_ARMY_THAN;¾üÊÂÁ¦Á¿Ã»ÓĞ³¬¹ı;;;;;;;;;;;;x
+STRONGER_ARMY_THAN;¾üÊÂÁ¦Á¿³¬¹ı ;;;;;;;;;;;;x
+beiyang_faction;±±ÑóÅÉ;;;;;;;;;;;;x
+kuomintang_faction;¹úÃñµ³;;;;;;;;;;;;x
+neutral_faction;ÖĞÁ¢ÅÉ;;;;;;;;;;;;x
+communist_faction;¹²²úÅÉ;;;;;;;;;;;;x
+mandatory_service;Ç¿ÖÆ±øÒÛ;;;;;;;;;;;;x
+mandatory_service_l;Ç¿ÖÆ±øÒÛ;;;;;;;;;;;;x
+mandatory_service_desc;ËùÓĞ³ÉÄêÄĞĞÔ±ØĞëÔÚ¾ü¶Ó·şÒÛ¡£Õş¸®ÏëÕ÷±ø¶à¾Ã¾ÍÕ÷±ø¶à¾Ã¡£;;;;;;;;;;;;x
+movement_mandatory_service;Ç¿ÖÆ±øÒÛÔË¶¯.;;;;;;;;;;;;x
+four_year_draft;ËÄÄê±øÒÛ;;;;;;;;;;;;x
+four_year_draft_l;ËÄÄê±øÒÛ;;;;;;;;;;;;x
+four_year_draft_desc;Í¨¹ıËÄÄê±øÒÛ·¨Áî.;;;;;;;;;;;;x
+movement_four_year_draft;ËÄÄê±øÒÛ¸Ä¸ïÔË¶¯;;;;;;;;;;;;x
+two_year_draft;Á½Äê±øÒÛ;;;;;;;;;;;;x
+two_year_draft_l;Á½Äê±øÒÛ;;;;;;;;;;;;x
+two_year_draft_desc;Í¨¹ıÁ½Äê±øÒÛ·¨Áî;;;;;;;;;;;;x
+movement_two_year_draft;Á½Äê±øÒÛ¸Ä¸ïÔË¶¯;;;;;;;;;;;;x
+one_year_draft;Ò»Äê±øÒÛ;;;;;;;;;;;;x
+one_year_draft_l;Ò»Äê±øÒÛ;;;;;;;;;;;;x
+one_year_draft_desc;Í¨¹ıÒ»Äê±øÒÛ·¨Áî.;;;;;;;;;;;;x
+movement_one_year_draft;Ò»Äê±øÒÛ¸Ä¸ïÔË¶¯;;;;;;;;;;;;x
+no_draft;ÎŞ±øÒÛ;;;;;;;;;;;;x
+no_draft_l;ÎŞ±øÒÛ;;;;;;;;;;;;x
+no_draft_desc;Ã»ÓĞÒåÎñÕ÷±øÖÆ¶È;;;;;;;;;;;;x
+conscription;Õ÷±ø;;;;;;;;;;;;x
+movement_no_draft;·Ï³ı±øÒÛÔË¶¯;;;;;;;;;;;;x
+yes_slavery_desc;ÔÊĞíÅ«Á¥ÖÆ.\n¡ìRÕâÏî¸Ä¸ï»áÓ°ÏìÈË¿ÚÖ°Òµ×ª»¯£¬ÔÚÅ«Á¥ÖÆÔÊĞíÏÂ£¬±¾¹úÉõÖÁÈ«ÇòµÄÖ°Òµ×ª»¯»á±äÂı¡ìW\n¡ìYÔÚĞîÅ«µØÇø£¬»áÓĞ±È·ÇĞîÅ«µØÇø¸ü¶àµÄ±£ÊØÖ÷ÒåÖ§³ÖÕßºÍ¸üÉÙµÄ×ÔÓÉÖ÷ÒåÖ§³ÖÕßÕß,²¢ÇÒÆäËû¹ú¼ÒµÄÒÆÃñÆÕ±é²»Ì«Ï²»¶Å«Á¥ÖÆ¹ú¼Ò¡ìW\n¡ìGÅ«Á¥µÄÈË¿ÚÊıÁ¿»áÔö¼Ó¡ìW;;;;;;;;;;;;x
+freedom_of_womb;×ÔÓÉÒ¡Àº;;;;;;;;;;;;x
+freedom_of_womb_l;×ÔÓÉÒ¡Àº·¨;;;;;;;;;;;;x
+freedom_of_womb_desc;¸Õ³öÉúµÄÅ«Á¥µÄÓ¤¶ù»á±»½â·Å£¬²¢ÇÒÔÚ´ó¶àÊıÇé¿öÏÂÄêÀÏµÄÅ«Á¥Ò²»á±»½â·Å\n¡ìRÕâÏî¸Ä¸ï»áÓ°ÏìÈË¿ÚÖ°Òµ×ª»¯£¬ÔÚÅ«Á¥ÖÆÔÊĞíÏÂ£¬±¾¹úÉõÖÁÈ«ÇòµÄÖ°Òµ×ª»¯»á±äÂı¡ìW\n¡ìYÔÚĞîÅ«µØÇø£¬»áÓĞ±È·ÇĞîÅ«µØÇø¸ü¶àµÄ±£ÊØÖ÷ÒåÖ§³ÖÕßºÍ¸üÉÙµÄ×ÔÓÉÖ÷ÒåÖ§³ÖÕßÕß,²¢ÇÒÆäËû¹ú¼ÒµÄÒÆÃñÆÕ±é²»Ì«Ï²»¶Å«Á¥ÖÆ¹ú¼Ò¡ìW\n¡ìRÅ«Á¥µÄÈË¿ÚÊıÁ¿»áÍ£Ö¹Ôö¼Ó¡ìW;;;;;;;;;;;;x
+movement_freedom_of_womb;×ÔÓÉÒ¡ÀºÔË¶¯;;;;;;;;;;;;x
+no_slavery;·Ï³ıÅ«Á¥ÖÆ;;;;;;;;;;;;x
+no_slavery_desc;Å«Á¥ÖÆÊÇ·Ç·¨µÄ.;;;;;;;;;;;;x
+no_slavery_l;·Ï³ıÅ«Á¥ÖÆ;;;;;;;;;;;;x
+citizens_rights;ÕşÖÎÈ¨Àû;;;;;;;;;;;;x
+primary_culture_only;ÓĞÏŞµÄÕşÖÎÈ¨Àû;;;;;;;;;;;;x
+primary_culture_only_l;Ö»ÓĞÖ÷Á÷ÎÄ»¯ÈË¿Ú²Å»áÓĞÕşÖÎÈ¨Àû;;;;;;;;;;;;x
+primary_culture_only_desc;Ö»ÓĞ¹ú¼ÒµÄÒ»µÈ¹«Ãñ²Å±»ÔÊĞí²ÎÓëÕşÖÎÉú»î£¬ËùÓĞÆäËûÈºÌå¶¼±»¸ôÀë¡£Òª³ÉÎªÒ»µÈ¹«ÃñÊÇºÜÀ§ÄÑµÄ£¬Ò²ÊÇ¼«ÆäÓĞÏŞµÄ¡£;;;;;;;;;;;;x
+movement_primary_culture_only;À©´ó¹«ÃñÈ¨ÔË¶¯;;;;;;;;;;;;x
+culture_voting_only;À©´óµÄÕşÖÎÈ¨Àû;;;;;;;;;;;;x
+culture_voting_only_l;¿É½ÓÊÜÎÄ»¯ÈË¿ÚÒ²ÓĞÕşÖÎÈ¨Àû;;;;;;;;;;;;x
+culture_voting_only_desc;À´×Ô¸Ã¹úÎÄ»¯µÄÈË±»ÔÊĞí²ÎÓë¸Ã¹úµÄÕşÖÎÉú»î£¬ÕâĞ©ÈËµÄ¹«ÃñÉí·İµÃµ½¼«´ó´Ù½ø¡£;;;;;;;;;;;;x
+movement_culture_voting_only;¿É½ÓÊÜÎÄ»¯ÈË¿ÚÕùÈ¡ÕşÖÎÈ¨ÀûÔË¶¯;;;;;;;;;;;;x
+all_voting_pops;ÆÕ±éµÄÕşÖÎÈ¨Àû;;;;;;;;;;;;x
+all_voting_pops_l;ÆÕ±éµÄÕşÖÎÈ¨Àû;;;;;;;;;;;;x
+all_voting_pops_desc;ËùÓĞºÏ·¨ÒÆÃñ£¬²»ÂÛÆäËùÊôÎÄ»¯£¬¶¼¿ÉÒÔÍ¶Æ±¡£ÓĞÖúÓÚ»ñµÃ¹«ÃñÉí·İ¡£;;;;;;;;;;;;x
+movement_all_voting_pops;ÆÕ±éÕşÖÎÈ¨ÀûÁªÃË;;;;;;;;;;;;x
+border_policy;±ß¾³Õş²ß;;;;;;;;;;;;x
+closed_borders;¹Ø±Õ±ß¾³;;;;;;;;;;;;x
+closed_borders_l;¹Ø±Õ±ß¾³;;;;;;;;;;;;x
+closed_borders_desc;ÈËÃÇ²»ÔÊĞí½ø³öÎÒ¹ú¡£ ÕâÏîÕş²ßµÄÓĞĞ§ĞÔÊÇ»ùÓÚÎÒÃÇµÄĞĞÕş¿ªÖ§¡£ ÓĞĞ©ÈË¿ÉÄÜÍ¨¹ıÔ½½ç»ò¶ãÔÚ´¬ÉÏ·Ç·¨ÒÆÃñ¡£ µ«ÕÚÑÚÎÒÃÇ¹ú¼ÒµÄÃØÃÜÃæÉ´»áÈÃÆäËû¹ú¼Ò²»ĞÅÈÎÎÒÃÇ¡£;;;;;;;;;;;;x
+movement_closed_borders;±Õ¹ØËø¹úÔË¶¯;;;;;;;;;;;;x
+quota_immigration;ÓĞÏŞÒÆÃñÈ¨;;;;;;;;;;;;x
+quota_immigration_l;ÓĞÏŞÒÆÃñÈ¨;;;;;;;;;;;;x
+quota_immigration_desc;Íâ¹úÈË±»ÔÊĞíÒÆÃñµ½ÎÒÃÇ¹ú¼Ò£¬Ö»ÒªËûÃÇµÄÊ¶×ÖÂÊ¸ßÓÚ60£¥£¬²»ÊÇ×î½ü»òÕıÔÚÓëÎÒ¹úÕ½ÕùµÄ¹ú¼ÒµÄ¹«Ãñ¡£ Ö»ÒªÂú×ãÒÔÉÏÌõ¼şÒÆÃñÃ»ÓĞÏŞÖÆ¡£;;;;;;;;;;;;x
+movement_quota_immigration;ÓĞÏŞÒÆÃñÈ¨ÔË¶¯;;;;;;;;;;;;x
+open_borders;¿ª·Å±ß¾³;;;;;;;;;;;;x
+open_borders_l;¿ª·Å±ß¾³;;;;;;;;;;;;x
+open_borders_desc;ÎÒ¹úÍêÈ«¿ÉÒÔÍ¨¹ıÓĞÒâµÄÑ¡Ôñ»òÓÉÓÚÈ±·¦ÊÊµ±µÄ±ß½ç¹ÜÖÆÀ´¿ª·Å³öÈë¾³¡£;;;;;;;;;;;;x
+movement_open_borders;ÍêÈ«ÒÆÃñÈ¨ÔË¶¯;;;;;;;;;;;;x
+unemployment_subsidies;Ê§Òµ²¹Ìù;;;;;;;;;;;;x
+safety_regulations;°²È«ÊØÔò;;;;;;;;;;;;x
+child_labor_illegal;Í¯¹¤·Ç·¨;;;;;;;;;;;;x
+child_labor_illegal_l;Í¯¹¤·Ç·¨;;;;;;;;;;;;x
+child_labor_illegal_desc;Í¯¹¤±»ÊÓÎª²»µÀµÂµÄ£¬ÊÇ·Ç·¨µÄ.;;;;;;;;;;;;x
+movement_child_labor_child_labor_illegal;Í¯¹¤ºÏ·¨»¯ÔË¶¯;;;;;;;;;;;;x
+child_labor_restricted;ÏŞÖÆÍ¯¹¤;;;;;;;;;;;;x
+child_labor_restricted_l;ÏŞÖÆÍ¯¹¤;;;;;;;;;;;;x
+child_labor_restricted_desc;Í¯¹¤±»ÏŞÖÆ²»ÄÜÔÚÄ³Ğ©Î£ÏÕµØµã¹¤×÷»òÕß×öÄ³Ğ©¹¤×÷.;;;;;;;;;;;;x
+movement_child_labor_restricted;ÏŞÖÆÍ¯¹¤ÔË¶¯;;;;;;;;;;;;x
+child_labor_legal;Í¯¹¤ºÏ·¨;;;;;;;;;;;;x
+child_labor_legal_l;Í¯¹¤ºÏ·¨;;;;;;;;;;;;x
+child_labor_legal_desc;Ã»ÓĞ¹ØÓÚÍ¯¹¤µÄ¹æ¶¨;;;;;;;;;;;;x
+child_labor;Í¯¹¤ºÏ·¨;;;;;;;;;;;;x
+movement_child_labor_illegal;·Ï³ıÍ¯¹¤ÁªÃË;;;;;;;;;;;;x
+debt_law;Õ®Îñ·¨;;;;;;;;;;;;x
+serfdom;Å©Å«ÖÆ;;;;;;;;;;;;x
+serfdom_l;Å©Å«ÖÆ;;;;;;;;;;;;x
+serfdom_desc;Å©Å«±ØÈ»ÊÜÍÁµØËùÓĞÈ¨µÄÔ¼Êø£¬²¢±»ÆÈÔÚ·â½¨ÖÆ¶ÈÏÂ¹¤×÷¡£\n¡ìRÕâÖÖ¸Ä¸ï»áÓ°ÏìPOPµÄ×ª»¯»ú»á¡ª¡ª×ª»¯»á¸üÂı¡£¡ìW\n¡ìYÕâ¸ö¸Ä¸ïÊ¹µÃÅ©ÃñÆ¶Çî³ÖĞøÒ»¶¨Ê±ÆÚºó½«½µµÍµ½Å©Å«£¬²»»áÔÚÅ«Á¥ÖÆÖ®Ç°±»ÌÔÌ­¡ìW;;;;;;;;;;;;x
+movement_serfdom;µØÖ÷ÁªÃË;;;;;;;;;;;;x
+peonage;ÀÍÒÛ³¥Õ®;;;;;;;;;;;;x
+peonage_l;ÀÍÒÛ³¥Õ®;;;;;;;;;;;;x
+peonage_desc;ÕâÊÇÒ»ÖÖÕ®ÎñÖÆ¶È£¬Õ®ÎñÈË±»ÆÈ³¥»¹Õ®Îñ¡£ ÕâÍùÍùµ¼ÖÂÓÀ¾ÃĞÔµÄ·Ç×ÔÔ¸ÀÍ¶¯µÄÑ­»·£¬³ÆÎªÕ®ÎñÀÍ¶¯¡£;;;;;;;;;;;;x
+movement_peonage;ÔÊĞíÀÍÒÛÔË¶¯;;;;;;;;;;;;x
+debtors_prisons;Õ®ÎñÈË¼àÓü;;;;;;;;;;;;x
+debtors_prisons_l;Õ®ÎñÈË¼àÓü;;;;;;;;;;;;x
+debtors_prisons_desc;Õ®ÎñÈË±»ÏŞÖÆÔÚ¼àÓü£¬Ö±µ½Õ®ÎñµÃµ½½â¾öÎªÖ¹¡£\n¡ìYÕâ¸ö¸Ä¸ïÊÇÖĞĞÔµÄ - ²»»á²úÉúÓ°Ïì¡£¡ìW;;;;;;;;;;;;x
+movement_debtors_prisons;·Ï³ıÕ®ÎñÀÍÒÛÔË¶¯;;;;;;;;;;;;x
+bankruptcy;ÔÊĞíÆÆ²ú;;;;;;;;;;;;x
+bankruptcy_l;ÔÊĞíÆÆ²ú;;;;;;;;;;;;x
+bankruptcy_desc;Õ®ÎñÈË±»ÔÊĞíĞû²¼ÆÆ²ú£¬²¢½«ÆäÒÔÇ°µÄÕ®ÎñĞû¸æÎªÎŞĞ§;;;;;;;;;;;;x
+movement_bankruptcy;·Ï³ıÕ®Îñ¼àÓüÔË¶¯;;;;;;;;;;;;x
+capital_punishment;¿áĞÌ;;;;;;;;;;;;x
+capital_punishment_l;¿áĞÌ;;;;;;;;;;;;x
+capital_punishment_desc;×ï·¸»áÒò·¸Çá×ï¶ø±»´¦ËÀ¡£;;;;;;;;;;;;x
+movement_capital_punishment;»Ö¸´¿áĞÌÁªÃË;;;;;;;;;;;;x
+penal_system;ĞÌ·£ÖÆ¶È;;;;;;;;;;;;x
+colonial_transportation;Á÷·Å;;;;;;;;;;;;x
+colonial_transportation_l;Á÷·Å;;;;;;;;;;;;x
+colonial_transportation_desc;·¸ÈË»á´Ó×Ô¼ºµÄÄ¸¹ú±»Á÷·Åµ½Ò»¸öÖ³ÃñµØ»òÕßÒ»¸ö²»ÒË¾Ó×¡µÄµØ·½£¬ÕâÒ²»áÔö¼Ó¹ÙÁÅĞèÇóµÄ¸ºµ£\n¡ìY×¢Òâ£¬Õâ¸ö¸Ä¸ï»áÔö¼Ó¹ÙÁÅµÄ¸ºµ££¬µ«ÊÇËü»áÔö¼ÓÄãµÄÖ³ÃñµØÒÆÃñ¡ìW;;;;;;;;;;;;x
+movement_colonial_transportation;·Ï³ı¿áĞÌÔË¶¯;;;;;;;;;;;;x
+incarceration;¼à½û;;;;;;;;;;;;x
+incarceration_l;¼à½û;;;;;;;;;;;;x
+incarceration_desc;¼à½ûÇô·¸µÄÄ¿µÄÊÇ°Ñ²»ÊÜ»¶Ó­µÄÈË´ÓÉç»áÖĞÇıÖğ³öÈ¥£¬¾¡¹ÜËûÃÇ´ó¶àÊıÊ±ºò²¢²»Ï°¹ßÓÚ´ÓÊÂ¼è¿àµÄÌåÁ¦ÀÍ¶¯¡£\n¡ìYÕâÊÇÖĞĞÔ¸Ä¸ï£¬²»»á²úÉúÓ°Ïì¡ìW;;;;;;;;;;;;x
+movement_incarceration;·Ï³ıÁ÷·ÅÔË¶¯;;;;;;;;;;;;x
+rehabilitation;¸ÄÔì;;;;;;;;;;;;x
+rehabilitation_l;¸ÄÔì;;;;;;;;;;;;x
+rehabilitation_desc;¼à½ûÇô·¸µÄÄ¿µÄÊÇ¸ÄÔìËûÃÇ²¢Ê¹ËûÃÇÖØĞÂÈÚÈëÉç»á¡£;;;;;;;;;;;;x
+movement_rehabilitation;¸ÄÔì×ï·¸ÔË¶¯;;;;;;;;;;;;x
+EVTNAME34608;Í¯¹¤·¨Í¨¹ı;;;;;;;;;;;;x
+EVTDESC34608;¼ÌÓ¢¹úÖ®ºó£¬$YEAR$ÄêÆÕÂ³Ê¿ÔÚÒ»Ğ©×Ú½ÌºÍÉç»áÈËÎïµÄÓ°ÏìÏÂ£¬Í¨¹ıÁËĞÂµÄÍ¯¹¤·¨¡£¸ù¾İĞÂ·¨£¬ÆÕÂ³Ê¿Õş¸®½«¶ÔÍ¯¹¤½øĞĞÏŞÖÆ£¬¾ßÓĞÒÔÏÂÒªµã£º¾ÅËêÒÔÏÂ¶ùÍ¯±»½ûÖ¹¹¤³§ÀÍ¶¯£¬¹¤×÷Ç°¶ùÍ¯ÖÁÉÙĞèÒªÉÏÑ§ÈıÄê£¬Ê®ÁùËêÒÔÏÂµÄ¶ùÍ¯Ã¿Ìì¹¤×÷Ê±¼ä²»³¬¹ıÊ®Ğ¡Ê±¡£ÆäËû¹æ¶¨°üÀ¨Ç¿ÖÆĞÔµÄĞİÏ¢Ê±¼äºÍÈ«Ãæ½ûÖ¹¶ùÍ¯Ò¹¼ä¹¤×÷¡£;;;;;;;;;;;;x
+EVTOPTA34608;¿ÉÁ¯µÄº¢×ÓÃÇ°¡£¡;;;;;;;;;;;;x
+EVTOPTB34608;ÕâÆäÊµÃ»±ØÒª£¬·Ï³ı·¨ÂÉ¡£;;;;;;;;;;;;x
+EVTNAME3700;É¨ÑÌ´ÑÄĞº¢;;;;;;;;;;;;x
+EVTDESC3700;¡°Ò»¸öĞ¡ÄĞº¢´ÓÑÌ´ÑÀïÅÀ³ö£¬ÇáÇá×øÔÚÎİ¶¥ÉÏ¡£ËûµÄÁ³ºÍÒÂ·ş¶¼±»´ÓÑÌ´ÑÖĞÃ°³öµÄÃºÑÌÑ¬ºÚ£¬Õâ±íÃ÷Õâ²»ÊÇËû½ñÌìÉ¨µÄµÚÒ»¸öÑÌ´Ñ¡£ÔÚ½Óµ½Å®Ö÷ÈËÅ×À´µÄÒ»¸ö±ãÊ¿ºó£¬ËûÆ£¾ëµØ´ÓÎİ¶¥ÉÏÅÀÁËÏÂÀ´¡£¡±\n\nÑÌ´Ñ¹¤±¯²ÒµÄ¹¤×÷Ìõ¼şÒıÆğÁËÉç»áµÄ·ßÅ­ºÍÍ¬Çé¡£Ò»¸öÎ¯Ô±»áÒÑ¾­±»½¨Á¢ÆğÀ´ÒÔ×ÅÊÖ½â¾ö¼òÂªµÄ¹¤×÷Ìõ¼ş¡£;;;;;;;;;;;;x
+EVTOPTA3700;ÎÒÃÇÓ¦¸Ã¿¼ÂÇÁ¢·¨À´ÖÕÖ¹ÕâÒ»µã.;;;;;;;;;;;;x
+EVTOPTB3700;¼è¿à·Ü¶·ÊÇÁ¼ºÃµÀµÂÆ·ÖÊµÄ»ù´¡¡£;;;;;;;;;;;;x
+EVTNAME370000002;¹¤³§Ò»ÈÕ;;;;;;;;;;;;x
+EVTDESC370000002;¡°ÕâĞ©¹¤³§Ò»¸ö½ÓÒ»¸öµØÓÃ°¹ÔàµÄ×©¿éÆö³É£¬¹âÍºÍºµÄ£¬Ã»ÓĞ°ÙÒ¶´°µÄ´°»§£¬¾ÍÏñ¾­¼ÃÓÖ¾Ş´óµÄ¼àÓü¡£¡£¡£¶øÔÚÀïÃæ£¬±»ÃºÆøÅçÉä»úµãÈ¼£¬±»×Ô¼ºµÄÀÍ¶¯ĞúÏùÕğ¶úÓûÁû£¬³ÉÇ§ÉÏÍòµÄ¹¤ÈËĞÁÇÚÀÍ×÷£¬±»¹ØÔÚÎ§À¸Àï£¬±»°²ÅÅºÃ£¬Ë«ÊÖ»îÔ¾£¬Ë«½ÅÒ»¶¯²»¶¯£¬ÈÕ¸´Ò»ÈÕ£¬»úĞµµØÎªËûÃÇµÄ»úÆ÷·şÎñ¡­¡­¡±\n¸ÃÊĞ¹¤ÈË¿à²»¿°ÑÔµÄÀÍ¶¯¼¤Å­ÁËĞí¶àÈË£¬²¢³ÉÁ¢ÁËÒ»¸öÎ¯Ô±»áÀ´½â¾ö¶ñÁÓµÄ¹¤×÷Ìõ¼ş¡£;;;;;;;;;;;;x
+EVTOPTA370000002;ÎÒÃÇÓ¦¸Ã¿¼ÂÇÁ¢·¨À´¸Ä±äÕâÇé¿ö.;;;;;;;;;;;;x
+EVTOPTB370000002;¼è¿à·Ü¶·ÊÇÁ¼ºÃµÀµÂÆ·ÖÊµÄ»ù´¡¡£;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_RUS_CIR;$ORDER$ ¸ß¼ÓË÷Õ½Õù;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_RUS_CIR;$ORDER$ ¸ß¼ÓË÷Õ½Õù;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_RUS_DAG;$ORDER$ ¸ß¼ÓË÷Õ½Õù;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_RUS_DAG;$ORDER$ ¸ß¼ÓË÷Õ½Õù;;;;;;;;;;;;x
+womens_suffrage_movement;¸¾Å®Ñ¡¾ÙÈ¨ÔË¶¯;;;;;;;;;;;;x
+assyrian;ÑÇÊöÈË;;;;;;;;;;;;x
+xhosa;¿ÆÈøÈË;;;;;;;;;;;;x
+arabic;°¢À­²®ÈË;;;;;;;;;;;;x
+breton;²¼ÁĞËşÄáÈË;;;;;;;;;;;;x
+pan_albanian;°¢¶û°ÍÄáÑÇÈË;;;;;;;;;;;;x
+occitan;°Â¿ËÈË;;;;;;;;;;;;x
+picard;Æ¤¿¨µÚÈË;;;;;;;;;;;;x
+western_slavic;Î÷Ë¹À­·òÈË;;;;;;;;;;;;x
+anglo_african;Ó¢Òá·ÇÖŞÈË;;;;;;;;;;;;x
+jewish_cultures;ÓÌÌ«ÈË;;;;;;;;;;;;x
+itsekari;ÒÁ×¿ÈË;;;;;;;;;;;;x
+kuba;°Í¿â°ÍÈË;;;;;;;;;;;;x
+indian_nationalists_title;Ó¡¶ÈÃñ×åÖ÷ÒåÕß;;;;;;;;;;;;x
+indian_nationalists_name;Ó¡¶ÈÃñ×åÖ÷ÒåÕß;;;;;;;;;;;;x
+indian_nationalists_desc;Ó¡¶ÈÃñ×åÖ÷ÒåÕßÒªÇóÍ³Ò»´Î´óÂ½£¬ÓÃÈÎºÎ±ØÒªÊÖ¶Î³ÉÁ¢¶ÀÁ¢×ÔÓÉµÄÃñ×å¹ú¼Ò¡£Õâ°üÀ¨°ÚÍÑÍâÀ´Ñ¹ÆÈÕßµÄÊø¸¿£¬ÍÅ½áÆğËûÃÇµÄÍ¬°û¡£;;;;;;;;;;;;x
+indian_nationalists_army;Ó¡¶ÈÃñ×åÖ÷ÒåÕß;;;;;;;;;;;;x
+socialist_rebels_title;¼¤½øÉç»áµ³ÈË;;;;;;;;;;;;x
+socialist_rebels_name;¼¤½øÉç»áµ³ÈË;;;;;;;;;;;;x
+socialist_rebels_desc;ÔÚÒ»¸öÃñÖ÷¹ú¼Ò£¬¼¤½øÉç»áµ³ÈË½«Ñ°ÇóÖ´ĞĞÒ»¸öÉç»áÖ÷ÒåÕş¸®¡£ÔÚÈÎºÎÆäËû¹ú¼Ò£¬ËûÃÇ¶¼½«Ñ°Çó½¨Á¢Ò»¸öÉç»áÖ÷ÒåÕş¸®µÄÃñÖ÷ÕşÌå¡£;;;;;;;;;;;;x
+socialist_rebels_army;¼¤½øÉç»áµ³ÈË;;;;;;;;;;;;x
+christino_rebels_title;¿ËÀïË¹µÙÄÈÅÉ;;;;;;;;;;;;x
+christino_rebels_name;¿ËÀïË¹µÙÄÈÅÉ;;;;;;;;;;;;x
+christino_rebels_desc;ÕâĞ©ÅÑÂÒ·Ö×ÓÖ§³Öì³µÏÄÏÆßÊÀµÄ»ÊÊÒÊÀÏµ£¬²¢Ö÷ÕÅÏÖÈÎ¹úÍõÊÇ¸ö³¹Í·³¹Î²µÄÃ°ÅÆÕß¡£ËûÃÇÏ£ÍûÖØĞÂÓµÁ¢¡°ºÏ·¨µÄÅ®Íõ¡±£¬»Ö¸´Ç°ÍõÊÒÖÆ¶¨µÄ×ÔÓÉÖ÷Òå¸Ä¸ïÕş²ß¡£;;;;;;;;;;;;x
+christino_rebels_army;¿ËÀïË¹µÙÄÈÅÉ;;;;;;;;;;;;x
+slave_revolt_title;Å«Á¥;;;;;;;;;;;;x
+slave_revolt_name;Å«Á¥ÆğÒå;;;;;;;;;;;;x
+slave_revolt_desc;ÕâĞ©Å«Á¥ÕıÔÚÎä×°ÆğÒå¡£ÎŞÂÛËûÃÇ×ßµ½ÄÄÀï£¬ËûÃÇ¶¼»áÁ÷Ñª£¬½â·ÅÅ«Á¥£¬Ö±µ½Õâ¸ö¹ú¼Ò´ÓÅ«Á¥ÖÆÖĞ½â·Å³öÀ´¡£;;;;;;;;;;;;x
+slave_revolt_army;ÌÓÍöµÄÅ«Á¥;;;;;;;;;;;;x
+independence_rebels_title;¶ÀÁ¢ÅÉ;;;;;;;;;;;;x
+independence_rebels_name;$CULTURE$¶ÀÁ¢¾ü;;;;;;;;;;;;x
+independence_rebels_desc;ÕâĞ©ÈËÑ°Çó½«ËûÃÇµÄ×æ¹ú´Ó¸½Ó¹µØÎ»½âÍÑ³öÀ´¡£;;;;;;;;;;;;x
+independence_rebels_army;$CULTURE$¶ÀÁ¢¾ü;;;;;;;;;;;;x
+turkish_nationalist_rebels_title;ÍÁ¶úÆäÃñ×åÖ÷ÒåÕß;;;;;;;;;;;;x
+turkish_nationalist_rebels_name;ÍÁ¶úÆäÃñ×åÖ÷ÒåÕß;;;;;;;;;;;;x
+turkish_nationalist_rebels_desc;ÍÁ¶úÆäÃñ×åÖ÷ÒåÕßÑ°ÇóÍÆ·­°ÂË¹ÂüµÛ¹ú£¬´úÖ®ÒÔÒ»¸ö×ÔÓÉÖ÷ÒåµÄ¹²ºÍ¹ú¡£;;;;;;;;;;;;x
+turkish_nationalist_rebels_army;ÍÁ¶úÆäÃñ×åÖ÷ÒåÕß;;;;;;;;;;;;x
+native_rebels_title;·´Ö³ÃñÖ÷ÒåÕß;;;;;;;;;;;;x
+native_rebels_name;·´Ö³ÃñÖ÷ÒåÕß;;;;;;;;;;;;x
+native_rebels_desc;ÕâĞ©ÈËÑ°ÇóÈÃµ±µØÊÊµ±µÄÎÄ»¯×åÈº»Ö¸´¹ú¼ÒµÄÍ³ÖÎÈ¨¡£;;;;;;;;;;;;x
+native_rebels_army;·´Ö³ÃñÖ÷ÒåÕß;;;;;;;;;;;;x
+liberal_rebels_desc;ÔÚÒ»¸ö¾ø¶Ô¾ıÖ÷ÖÆµÄ¹ú¼Ò£¬ÑÅ¸÷±öµ³ÈË»áÊÔÍ¼Ç¿ÖÆÍÆ¶¯½¨Á¢Ò»¸ö¾ıÖ÷Á¢ÏÜµÄÕş¸®¡£·ñÔòËûÃÇ»áÅ¬Á¦½¨Á¢Ò»¸öÓĞ×Å×ÔÓÉÖ÷ÒåÒâÊ¶ĞÎÌ¬ÇÒ¹Ø×¢ÕşÖÎ¸Ä¸ïµÄÃñÖ÷Õş¸®¡£;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_ANY_NAME;$ORDER$ Õ÷·ş $SECOND$ Õ½Õù;;;;;;;;;;;;x
+AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$$FIRST$ÇÖÂÔ$SECOND_COUNTRY$Ö®Õ½;;;;;;;;;;;;x
+RANK_INDUSTRY_D;¹¤Òµ·ÖÊÇºâÁ¿Äã¹¤ÒµË®Æ½µÄ·ÖÊı£¬Ëã·¨ÊÇ¼¼¹¤ºÍÖ°Ô±×ÜÊıÁ¿³ıÒÔ2500ÔÙËãÉÏÄãµÄÉú²úºÍº£ÍâÍ¶×Ê¼ÛÖµ;;;;;;;;;;;;x
