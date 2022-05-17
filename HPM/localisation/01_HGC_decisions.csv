@@ -1,5 +1,6 @@
 #Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+Key;English;;;;;;;;;;;;x
 rhodesia_renaming_act_title;罗得西亚重命名法案;;;;;;;;;;;;x
 rhodesia_renaming_act_desc;既然马绍纳兰掌握在我们手中，那么我们将该地区重新命名为更加文明的方式是恰当的。;;;;;;;;;;;;x
 support_january_uprising_title;支持一月起义;;;;;;;;;;;;x
@@ -7,7 +8,7 @@ support_january_uprising_desc;宣布戒严后，被指定征兵的人秘密逃离华沙（1863年1月1
 treaty_of_tartu_EST_title;塔尔图和约;;;;;;;;;;;;x
 treaty_of_tartu_EST_desc;塔尔图条约是爱沙尼亚与苏俄签订的和平条约，于1920年2月2日签署，结束了爱沙尼亚独立战争。该条约的条款规定，“俄罗斯毫无保留地承认”法定的爱沙尼亚共和国的独立，并永久放弃对爱沙尼亚领土的所有权利。该条约的批准于1920年3月30日在莫斯科交换。它于1922年7月12日在国际联盟条约系列中登记。;;;;;;;;;;;;x
 establish_the_sovnarkomSOV_title;建立人民委员会;;;;;;;;;;;;x
-establish_the_sovnarkomSOV_desc;“Soviet Narodnykh Kommissarov”，俄语意为“人民代表委员会”，曾是苏俄最高政府权威，从1918年的俄罗斯社会主义加盟共和国制宪会议起按惯例发挥职能。人民代表苏维埃（正式地）对苏维埃议会负责，在议会休会期间，拥有发布法律、政令的权力。;;;;;;;;;;;;x
+establish_the_sovnarkomSOV_desc;“苏维埃人民委员会”（Soviet Narodnykh Kommissarov），俄语译为 "人民委员会议"，是苏维埃俄国的最高政府权力机构，其职能在1918年《苏维埃联邦共和国宪法》中有所规定。苏维埃议会(正式)对苏维埃议会负责，在苏维埃议会闭会期间，有权颁布具有完全法律效力的法令。;;;;;;;;;;;;x
 russian_vladivostokSOV_title;东方统治者;;;;;;;;;;;;x
 russian_vladivostokSOV_desc;1860年7月，符拉迪沃斯托克港，即 "东方的统治者"港，在朝鲜边境附近建成。 它后来成为俄罗斯的主要贸易港口和造船厂。最终它将成为洲际铁路的焦点，同时让该城市成为一个重要的科学、文化和工业中心。沙皇希望这个城市将成为连接西部和东部的枢纽。也许通往符拉迪沃斯托克（海参崴）的铁路最终会取代苏伊士运河，成为东西方之间货物和原料运输的中心枢纽？;;;;;;;;;;;;x
 treaty_of_tartuSOV_title;塔尔图条约;;;;;;;;;;;;x

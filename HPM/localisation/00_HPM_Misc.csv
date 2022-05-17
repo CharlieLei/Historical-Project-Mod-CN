@@ -1,7 +1,8 @@
 #Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
-AND_TRIGGER_STARTS;¡ìRÏÂÁÐËùÓÐ¡ìW;;;;;;;;;;;;x
-OR;¡ìR»òÕß¡ìW;;;;;;;;;;;;x
+Key;English;;;;;;;;;;;;x
+AND_TRIGGER_STARTS;§RÏÂÁÐËùÓÐ§W;;;;;;;;;;;;x
+OR;§R»òÕß§W;;;;;;;;;;;;x
 partisan_rebels;ÓÎ»÷¶Ó;;;;;;;;;;;;x
 partisan_rebels_title;ÓÎ»÷¶Ó;;;;;;;;;;;;x
 partisan_rebels_name;$COUNTRY_ADJ$ÓÎ»÷¶Ó;;;;;;;;;;;;x
@@ -17,35 +18,35 @@ oceanic;Ì«Æ½ÑóµºÃñ;;;;;;;;;;;;x
 levantine;¸ß¼ÓË÷Ï£À°ÈË;;;;;;;;;;;;x
 turko_semitic;Í»ØÊÈË;;;;;;;;;;;;x
 polish_culture_group;Î÷Ë¹À­·òÈË;;;;;;;;;;;;x
-BRIGADES_COMPARE_GREATER;Á½¹úµÄÂÃ±È½ÏÏµÊýÖÁÉÙÎª¡ìY$VAL$¡ì!\n;;;;;;;;;;;;x
-BRIGADES_COMPARE_SMALLER;Á½¹úµÄÂÃ±È½ÏÏµÊýµÍÓÚ¡ìY$VAL$¡ì!\n;;;;;;;;;;;;x
+BRIGADES_COMPARE_GREATER;Á½¹úµÄÂÃ±È½ÏÏµÊýÖÁÉÙÎª§Y$VAL$?!\n;;;;;;;;;;;;x
+BRIGADES_COMPARE_SMALLER;Á½¹úµÄÂÃ±È½ÏÏµÊýµÍÓÚ§Y$VAL$?!\n;;;;;;;;;;;;x
 jewish_group;ÓÌÌ«½Ì;;;;;;;;;;;;x
 muslim;ÄÂË¹ÁÖ;;;;;;;;;;;;x
 christian;»ù¶½½Ì;;;;;;;;;;;;x
 eastern;¶«·½×Ú½Ì;;;;;;;;;;;;x
 pagan;Ô­Ê¼¶àÉñ½Ì;;;;;;;;;;;;x
-jefferson_method_desc;½Üì³Ñ··½·¨ÊÇ·ÖÅäÏ¯Î»µÄ×î¸ßÆ½¾ùÊý·½·¨£¬Òò´ËÊÇÒ»ÖÖÕþµ³Ãûµ¥±ÈÀý´ú±íÖÆ¡£±ÈÀý´ú±íÖÆµÄÄ¿µÄÊÇ¸ù¾Ý»ñµÃµÄÆ±Êý´óÖÂ°´±ÈÀý·ÖÅäÏ¯Î»¸øÕþµ³¡£ÀýÈç£¬Èç¹ûÒ»¸öÕþµ³Ó®µÃÈý·ÖÖ®Ò»µÄÑ¡Æ±£¬ÄÇÃ´ËüÓ¦¸Ã»ñµÃÈý·ÖÖ®Ò»µÄÏ¯Î»¡£×ÜµÄÀ´Ëµ£¬ÓÉÓÚÕâÐ©»®·Ö»á²úÉú·ÖÊýµÄÏ¯Î»£¬Òò´Ë²»¿ÉÄÜÊµÏÖ¾«È·µÄ±ÈÀý¡£Òò´Ë£¬ÖÆ¶¨ÁËÈô¸É·½·¨£¬È·±£¸÷Õþµ³Ï¯Î»·ÖÅä£¨µ±È»ÊÇÕûÊý£©¾¡¿ÉÄÜ³É±ÈÀý¡£¡ìYÓëÊ¥À­¹Å·½·¨Ïà±È£¬½Üì³Ñ··½·¨ÉÔÎ¢ÇãÏòÓÚ´óµ³ÅÉºÍÁªÃË£¬¶ø²»ÊÇ·ÖÉ¢µÄÐ¡µ³ÅÉ¡£¡ìW;;;;;;;;;;;;x
+jefferson_method_desc;½Üì³Ñ··½·¨ÊÇ·ÖÅäÏ¯Î»µÄ×î¸ßÆ½¾ùÊý·½·¨£¬Òò´ËÊÇÒ»ÖÖÕþµ³Ãûµ¥±ÈÀý´ú±íÖÆ¡£±ÈÀý´ú±íÖÆµÄÄ¿µÄÊÇ¸ù¾Ý»ñµÃµÄÆ±Êý´óÖÂ°´±ÈÀý·ÖÅäÏ¯Î»¸øÕþµ³¡£ÀýÈç£¬Èç¹ûÒ»¸öÕþµ³Ó®µÃÈý·ÖÖ®Ò»µÄÑ¡Æ±£¬ÄÇÃ´ËüÓ¦¸Ã»ñµÃÈý·ÖÖ®Ò»µÄÏ¯Î»¡£×ÜµÄÀ´Ëµ£¬ÓÉÓÚÕâÐ©»®·Ö»á²úÉú·ÖÊýµÄÏ¯Î»£¬Òò´Ë²»¿ÉÄÜÊµÏÖ¾«È·µÄ±ÈÀý¡£Òò´Ë£¬ÖÆ¶¨ÁËÈô¸É·½·¨£¬È·±£¸÷Õþµ³Ï¯Î»·ÖÅä£¨µ±È»ÊÇÕûÊý£©¾¡¿ÉÄÜ³É±ÈÀý¡£§YÓëÊ¥À­¹Å·½·¨Ïà±È£¬½Üì³Ñ··½·¨ÉÔÎ¢ÇãÏòÓÚ´óµ³ÅÉºÍÁªÃË£¬¶ø²»ÊÇ·ÖÉ¢µÄÐ¡µ³ÅÉ¡£§W;;;;;;;;;;;;x
 precious_goods;¹ó½ðÊô;;;;;;;;;;;;x
 precious_goods_RGO_SIZE;¹ó½ðÊôÊÐ³¡¹æÄ£;;;;;;;;;;;;x
-PARTY_LOYALTY_EFFECT_DESC;¡ìY$PROV$¡ìW¶Ô¡ìY$PARTY$¡ìWµÄÖ§³Ö¶È½«¸Ä±ä¡ìY$VALUE$¡ìW.\n;;;;;;;;;;;;x
-MODIFY_RELATION_EFFECT;¡ìY$TARGET$¡ì!¶Ô¡ìY$SOURCE$¡ì!µÄ¹ØÏµ¸Ä±äÁË$VALUE$.\n;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_DESC;§Y$PROV$§W¶Ô§Y$PARTY$§WµÄÖ§³Ö¶È½«¸Ä±ä§Y$VALUE$§W.\n;;;;;;;;;;;;x
+MODIFY_RELATION_EFFECT;§Y$TARGET$?!¶Ô§Y$SOURCE$?!µÄ¹ØÏµ¸Ä±äÁË$VALUE$.\n;;;;;;;;;;;;x
 IS_NOT_ACCEPTED_CULTURE;²»ÊÇÒ»¸ö¿É½ÓÊÜÎÄ»¯¡£;;;;;;;;;;;;x
 canned_food_factory;¹ÞÍ·Ê³Æ·³§;;;;;;;;;;;;x
 ALL_CORE_PROVINCE_THAT;ËùÓÐºËÐÄÊ¡·Ý\n;;;;;;;;;;;;x
-TOPBAR_POPULATION;ÎÒÃÇ¹úÄÚµÄ³ÉÄêÄÐÐÔÈË¿ÚÊýÁ¿ÊÇ$CURR$. ÎÒÃÇ¹úÄÚµÄ³ÉÄêÄÐÐÔÈË¿ÚÊýÁ¿ÔÚ¹ýÈ¥¡ìY$DAYS$¡ì!ÌìÖÐ¸Ä±äÁË$CHANGE$.;;;;;;;;;;;;x
+TOPBAR_POPULATION;ÎÒÃÇ¹úÄÚµÄ³ÉÄêÄÐÐÔÈË¿ÚÊýÁ¿ÊÇ$CURR$. ÎÒÃÇ¹úÄÚµÄ³ÉÄêÄÐÐÔÈË¿ÚÊýÁ¿ÔÚ¹ýÈ¥§Y$DAYS$?!ÌìÖÐ¸Ä±äÁË$CHANGE$.;;;;;;;;;;;;x
 precious_metal;¹ó½ðÊô;;;;;;;;;;;;x
 precious_metal_RGO_SIZE;¹ó½ðÊô¿ó²ú¹æÄ£;;;;;;;;;;;;x
 cattle;ÉüÐó;;;;;;;;;;;;x
 cattle_RGO_SIZE;ÄÁ³¡¹æÄ£;;;;;;;;;;;;x
 no_health_care_desc;Õþ¸®²»¹ØÐÄÒ½ÁÆ±£½¡£¬Ò²Ã»ÓÐÕë¶ÔÏà¹ØÊÂÒµµÄ×¨Ïî×Ê½ð´æÔÚ¡£ ÏÖ´æµÄÉÙÊýÎÀÉú»ú¹¹ÊÇ´ÓÖÐÊÀ¼ÍÊ±´úÒÅÁôÏÂÀ´µÄ£¬ÆäÖÐµÄÉèÊ©Ò²Í¬ÑùÈç´Ë¡£ Ò½ÁÆÎÀÉúÈÔÈ»ÊÇÖÖÓë½Ì»áÊÂÒµÏà¹ØÁªµÄ·ÇÕýÊ½Ö°Òµ¡£ Ò½ÔºµÄÕÕÃ÷Éè±¸¼òÂª¶øÔ­Ê¼£¬ÖÎÁÆÉèÊ©Ïà»¥Óµ¼·ÔÚÒ»Æð£¬´«È¾²¡µÄÖÂ²¡Òò×Ó±é²¼Ò½ÔºµÄ´óÌüÓë¸÷¸ö½ÇÂä¡£Ò½ÔºÍ¨³£»áÍÆ¼ö»¼Õß¼°Æä¼ÒÊôÍ¨¹ýÆíµ»µÈ°ì·¨À´ÖÎÁÆ×Ô¼ºµÄ¼²²¡¡£;;;;;;;;;;;;x
 trinket_health_care;ÏóÕ÷ÐÔÒ½ÁÆ±£½¡;;;;;;;;;;;;x
-trinket_health_care_desc;Ò½ÉúºÍ»¤Ê¿¶ÔÉË¿ÚºÍ¼²²¡ÓÐ»ù±¾µÄÁË½â£¬ÔÚÖÎÁÆ»¼ÕßÊ±²¿·ÖÈÔÒÀ¿¿¾ÉÐÅÌõ£¬µ«ËûÃÇÈ·Êµ½ÓÊÜ¹ýÕýÊ½ÅàÑµ¡£Ò½ÔºÖÆ¶¨ÁËÏà¹ØÊØÔòÀ´±ÜÃâ¹ý¶ÈÓµ¼·µÄÏÖÏó£¨´²¼ä¸ôÖÁÉÙÐèÎ¬³ÖÒ»Ã×£©£¬¾­Ò½ÔºÍ¨³öµÄ»»ÆøÉè±¸ÓëÅÅÎÛ¹ÜÃ¿ÈÕÓ¦³åÏ´Êý´Î£¬¶ø²ÞËùºÍÏÂË®µÀÔòÐèÓÃÄàÌ¿Ïû¶¾¡£ µ«ÊÇ£¬Ôº·½Ö÷¶¯ÊÕ¼¯µÄ»¼ÕßÊý¾ÝºÜÉÙ£¬Ò²Ã»ÓÐÏàÓ¦µÄÎÀÉú±ê×¼À´¹©Õþ¸®»ú¹¹ÊµÊ©ÀýÐÐ¼ì²é¡£Ò½ÁÆÉè±¸Ï¡È±Ò²ÈÔÈ»ÊÇÖØÒªµÄÇ¯ÖÆÒòËØ¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½20£¥¡£¡ìW;;;;;;;;;;;;x
+trinket_health_care_desc;Ò½ÉúºÍ»¤Ê¿¶ÔÉË¿ÚºÍ¼²²¡ÓÐ»ù±¾µÄÁË½â£¬ÔÚÖÎÁÆ»¼ÕßÊ±²¿·ÖÈÔÒÀ¿¿¾ÉÐÅÌõ£¬µ«ËûÃÇÈ·Êµ½ÓÊÜ¹ýÕýÊ½ÅàÑµ¡£Ò½ÔºÖÆ¶¨ÁËÏà¹ØÊØÔòÀ´±ÜÃâ¹ý¶ÈÓµ¼·µÄÏÖÏó£¨´²¼ä¸ôÖÁÉÙÐèÎ¬³ÖÒ»Ã×£©£¬¾­Ò½ÔºÍ¨³öµÄ»»ÆøÉè±¸ÓëÅÅÎÛ¹ÜÃ¿ÈÕÓ¦³åÏ´Êý´Î£¬¶ø²ÞËùºÍÏÂË®µÀÔòÐèÓÃÄàÌ¿Ïû¶¾¡£ µ«ÊÇ£¬Ôº·½Ö÷¶¯ÊÕ¼¯µÄ»¼ÕßÊý¾ÝºÜÉÙ£¬Ò²Ã»ÓÐÏàÓ¦µÄÎÀÉú±ê×¼À´¹©Õþ¸®»ú¹¹ÊµÊ©ÀýÐÐ¼ì²é¡£Ò½ÁÆÉè±¸Ï¡È±Ò²ÈÔÈ»ÊÇÖØÒªµÄÇ¯ÖÆÒòËØ¡£\n§YÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½20£¥¡£§W;;;;;;;;;;;;x
 low_health_care;µÍ¼¶Ò½ÁÆ±£½¡;;;;;;;;;;;;x
-low_health_care_desc;Í¨¹ýÑ§Ï°Óë»ýÀÛ£¬Ò½ÉúºÍ»¤Ê¿ÒÑ¾­ÄÜ¹»¸üºÃµØÀí½âÉË¿ÚºÍ¼²²¡µÄ³ÉÒò£¬²¢ÔÚÖÎÁÆ²¡»¼Ê±Ó¦ÓÃËùÎ½¡°Ï¸¾úÀíÂÛ¡±µÄÖ¸µ¼¡£ ¾¡¹ÜÏà¹Ø¼ì²éÈÔ²»Æµ·±£¬Ò»´¦×¨ÃÅµÄÎÀÉúÎ¯Ô±»áÒÑ¾­µÃµ½³ÉÁ¢£¬Äã¿ÉÒÔ¿´µ½ËûÃÇµÄ´úÀíÈËÔÚÒ½ÔºËÄ´¦Ñ²²é£¬ÒÔÈ·±£»ù±¾µÄÎÀÉú±ê×¼ÔÚ¸÷´¦µÃµ½ÇÐÊµÖ´ÐÐ¡£Ò½ÁÆÉè±¸Ò²ÕýÖð²½µÃµ½ÆÕ¼°¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½30£¥¡£¡ìW;;;;;;;;;;;;x
+low_health_care_desc;Í¨¹ýÑ§Ï°Óë»ýÀÛ£¬Ò½ÉúºÍ»¤Ê¿ÒÑ¾­ÄÜ¹»¸üºÃµØÀí½âÉË¿ÚºÍ¼²²¡µÄ³ÉÒò£¬²¢ÔÚÖÎÁÆ²¡»¼Ê±Ó¦ÓÃËùÎ½¡°Ï¸¾úÀíÂÛ¡±µÄÖ¸µ¼¡£ ¾¡¹ÜÏà¹Ø¼ì²éÈÔ²»Æµ·±£¬Ò»´¦×¨ÃÅµÄÎÀÉúÎ¯Ô±»áÒÑ¾­µÃµ½³ÉÁ¢£¬Äã¿ÉÒÔ¿´µ½ËûÃÇµÄ´úÀíÈËÔÚÒ½ÔºËÄ´¦Ñ²²é£¬ÒÔÈ·±£»ù±¾µÄÎÀÉú±ê×¼ÔÚ¸÷´¦µÃµ½ÇÐÊµÖ´ÐÐ¡£Ò½ÁÆÉè±¸Ò²ÕýÖð²½µÃµ½ÆÕ¼°¡£\n§YÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½30£¥¡£§W;;;;;;;;;;;;x
 acceptable_health_care;ÖÐ¼¶ÎÀÉú±£½¡;;;;;;;;;;;;x
-acceptable_health_care_desc;Ò½Ñ§ÒÑ¾­³ÉÎªÒ»ÃÅÍêÈ«³ÉÊìµÄÑ§¿Æ£¬Ò½ÉúºÍ»¤Ê¿ÔÚ±ÏÒµÊ±±ãÄÜ¶ÔÈËÌåÓë¼²²¡ÓµÓÐ¹ã·ºµÄÁË½â£¬²¢ÖªÏþ×Ô¼º¸ÃÈçºÎÈ¥ÖÎÓúËüÃÇ¡£ Ïû¶¾ÉèÊ©±äµÃÏàµ±ÆÕ¼°£¬ÀýÈçÓÃÕÅ²®Â×ÂË¾úÆ÷Óë¸ßÑ¹¸ª¾»»¯Ë®Ô´£¬Í¨¹ý¼ÓÈÈÈÜÒºÖÁ·ÐµãµÄ°ì·¨É±ÃðÎ£ÏÕµÄÎ¢ÉúÎï¡£Õþ¸®½¡¿µ»ú¹¹ÒÔÖ´ÐÐÎÀÉú°²È«´ëÊ©Îª¼ºÈÎ£¬È·±£Ò½ÔºÄÚ²»´æÔÚ¹ý¶ÈÓµ¼·µÄÏÖÏó¡£´ËÍâ£¬ÔÚÊÐÖÐÐÄÑ°ÕÒÕïËùÒÑ¾­±äµÃ¸ü¼ÓÈÝÒ×ÁË£¬Ò½Ôº»¹·ÅÆúÁË´«Í³µÄÓÍµÆ£¬¸ÄÓÃÄÜ¹»Ìá¸ßÔ±¹¤Ð§ÂÊµÄÆûµÆ¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½40£¥¡£¡ìW;;;;;;;;;;;;x
+acceptable_health_care_desc;Ò½Ñ§ÒÑ¾­³ÉÎªÒ»ÃÅÍêÈ«³ÉÊìµÄÑ§¿Æ£¬Ò½ÉúºÍ»¤Ê¿ÔÚ±ÏÒµÊ±±ãÄÜ¶ÔÈËÌåÓë¼²²¡ÓµÓÐ¹ã·ºµÄÁË½â£¬²¢ÖªÏþ×Ô¼º¸ÃÈçºÎÈ¥ÖÎÓúËüÃÇ¡£ Ïû¶¾ÉèÊ©±äµÃÏàµ±ÆÕ¼°£¬ÀýÈçÓÃÕÅ²®Â×ÂË¾úÆ÷Óë¸ßÑ¹¸ª¾»»¯Ë®Ô´£¬Í¨¹ý¼ÓÈÈÈÜÒºÖÁ·ÐµãµÄ°ì·¨É±ÃðÎ£ÏÕµÄÎ¢ÉúÎï¡£Õþ¸®½¡¿µ»ú¹¹ÒÔÖ´ÐÐÎÀÉú°²È«´ëÊ©Îª¼ºÈÎ£¬È·±£Ò½ÔºÄÚ²»´æÔÚ¹ý¶ÈÓµ¼·µÄÏÖÏó¡£´ËÍâ£¬ÔÚÊÐÖÐÐÄÑ°ÕÒÕïËùÒÑ¾­±äµÃ¸ü¼ÓÈÝÒ×ÁË£¬Ò½Ôº»¹·ÅÆúÁË´«Í³µÄÓÍµÆ£¬¸ÄÓÃÄÜ¹»Ìá¸ßÔ±¹¤Ð§ÂÊµÄÆûµÆ¡£\n§YÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½40£¥¡£§W;;;;;;;;;;;;x
 good_health_care;¸ß¼¶Ò½ÁÆ±£½¡;;;;;;;;;;;;x
-good_health_care_desc;¼¸ÖÖÒßÃçµÄ·¢ÏÖ³¹µ×¸Ä±äÁËÒ½Ñ§µÄÇ°¾°£¬Õþ¸®Ç¿ÖÆ»ò´óÁ¦ÍÆ¹ãÃñ¼äµÄÒßÃç½ÓÖÖ¡£Ò½ÉúÏÖÔÚ²ÉÓÃÕý¹æµÄÒ©ÎïÖÎÁÆ²¡ÈË£¬¶ÔËùÓÐÒ½ÁÆÉè±¸°´ÆÚ½øÐÐÈ«ÃæÃð¾ú£¬Õþ¸®ÎÀÉú»ú¹¹ÏÖÔÚÇ¿ÖÆÖ´ÐÐºÏÀíµÄ´«È¾²¡¼ìÒßÓëÒ½ÁÆ·ÏÎï´¦ÖÃ³ÌÐò¡£ ¼´Ê¹ÊÇ½ÏÐ¡µÄ³ÇÕòÒ²ÄÜ¾­³£¼ûµ½ÕïËù»òÒ½Ôº£¬¹ý¶ÈÓµ¼·µÄÎÊÌâÒÑ¾­ºÜº±¼ûÁË£¬±»³ÆÎªÎÀÉúÔºµÄÐ¡ÐÍ½¡¿µ»ú¹¹Ò²¿ªÊ¼ÔÚÅ©´åµØÇø¿ªÊ¼³öÏÖ¡£Ò½ÔºÈ«ÃæÅä±¸ÁËÏÖ´ú»¯µÄµçµÆ£¬²¢Ïò²¡»¼¹«¿ªÒ½ÉúÐÅÏ¢ÒÔ¹©Ñ¡È¡¡£\n¡ìYÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½50£¥\n³ä·ÖÂú×ãÐÐÕþÖ§³öµÄÐèÇóÄÜ¹»ÎªÕâÏî¸Ä¸ïÌá¹©¶îÍâµÄÐ§¹û¡£¡ìW;;;;;;;;;;;;x
+good_health_care_desc;¼¸ÖÖÒßÃçµÄ·¢ÏÖ³¹µ×¸Ä±äÁËÒ½Ñ§µÄÇ°¾°£¬Õþ¸®Ç¿ÖÆ»ò´óÁ¦ÍÆ¹ãÃñ¼äµÄÒßÃç½ÓÖÖ¡£Ò½ÉúÏÖÔÚ²ÉÓÃÕý¹æµÄÒ©ÎïÖÎÁÆ²¡ÈË£¬¶ÔËùÓÐÒ½ÁÆÉè±¸°´ÆÚ½øÐÐÈ«ÃæÃð¾ú£¬Õþ¸®ÎÀÉú»ú¹¹ÏÖÔÚÇ¿ÖÆÖ´ÐÐºÏÀíµÄ´«È¾²¡¼ìÒßÓëÒ½ÁÆ·ÏÎï´¦ÖÃ³ÌÐò¡£ ¼´Ê¹ÊÇ½ÏÐ¡µÄ³ÇÕòÒ²ÄÜ¾­³£¼ûµ½ÕïËù»òÒ½Ôº£¬¹ý¶ÈÓµ¼·µÄÎÊÌâÒÑ¾­ºÜº±¼ûÁË£¬±»³ÆÎªÎÀÉúÔºµÄÐ¡ÐÍ½¡¿µ»ú¹¹Ò²¿ªÊ¼ÔÚÅ©´åµØÇø¿ªÊ¼³öÏÖ¡£Ò½ÔºÈ«ÃæÅä±¸ÁËÏÖ´ú»¯µÄµçµÆ£¬²¢Ïò²¡»¼¹«¿ªÒ½ÉúÐÅÏ¢ÒÔ¹©Ñ¡È¡¡£\n§YÏëÒªÊµÏÖÕâÏî¸Ä¸ïµÄÈ«²¿Ð§¹û£¬ÄúµÄÐÐÕþÖ§³öÓ¦¸ÃÖÁÉÙ´ïµ½50£¥\n³ä·ÖÂú×ãÐÐÕþÖ§³öµÄÐèÇóÄÜ¹»ÎªÕâÏî¸Ä¸ïÌá¹©¶îÍâµÄÐ§¹û¡£§W;;;;;;;;;;;;x
 school_reforms;½ÌÓýÏµÍ³;;;;;;;;;;;;x
 no_schools_l;ÎÞ½ÌÓýÏµÍ³;;;;;;;;;;;;x
 no_schools;ÎÞ½ÌÓýÏµÍ³;;;;;;;;;;;;x
@@ -63,7 +64,7 @@ RULE_RICH_ONLY;\n½öÏÞ¸»Ô£½×²ã;;;;;;;;;;;;x
 RULE_SAME_AS_RULING_PARTY;\nµÈÍ¬ÓÚÖ´Õþµ³;;;;;;;;;;;;x
 RULE_STATE_VOTE;\nµØÇøÑ¡¾Ù;;;;;;;;;;;;x
 RULE_POPULATION_VOTE;\nÆÕÑ¡;;;;;;;;;;;;x
-ISSUE_MOVE_EFFECT;¡ìY$PERCENTAGE$%¡ìWµÄÈË¿Ú´Ó¡ìY$FROM$¡ìWÒÆ¶¯µ½¡ìY$TO$¡ìW\n;;;;;;;;;;;;x
+ISSUE_MOVE_EFFECT;§Y$PERCENTAGE$%§WµÄÈË¿Ú´Ó§Y$FROM$§WÒÆ¶¯µ½§Y$TO$§W\n;;;;;;;;;;;;x
 social_policy;¸£ÀûÕþ²ß;;;;;;;;;;;;x
 colonial_spending_policy;Ö³Ãñ;;;;;;;;;;;;x
 colonial_spending_policy_l;Ö³Ãñ;;;;;;;;;;;;x
@@ -116,11 +117,11 @@ POLITICS_IN_FAVOR_TOOLTIP;£¨$PERCENT$%µÄÉÏÒéÔºÒéÔ±ÔÞÍ¬¸Ä¸ï£©;;;;;;;;;;;;x
 POLITICS_UPPERHOUSE_CHART_TOOLTIP;$PERCENT$%µÄÉÏÒéÔºÏ¯Î»ÊôÓÚ$IDEOLOGY$Õß\n;;;;;;;;;;;;x
 POLITICS_UPPERHOUSE;ÉÏÒéÔº;;;;;;;;;;;;x
 HAVE_INDUSTRIAL_SCORE_LESS_THAN;¹¤Òµ·ÖÊýµÍÓÚ£º;;;;;;;;;;;;x
-CHANGE_GOODS;¡ìY$PROV$¡ìWµÄÌØ²ú±äÎª¡ìY$GOOD$¡ìW\n;;;;;;;;;;;;x
+CHANGE_GOODS;§Y$PROV$§WµÄÌØ²ú±äÎª§Y$GOOD$§W\n;;;;;;;;;;;;x
 HAVE_LESS_TOTAL_PORTS_THAN;º£¾ü»ùµØÊýÁ¿²»¶àÓÚ£º;;;;;;;;;;;;x
 HAVE_MORE_TOTAL_PORTS_THAN;º£¾ü»ùµØÊýÁ¿²»ÉÙÓÚ£º;;;;;;;;;;;;x
-TOTAL_AMOUNT_OF_SHIPS;½¢´¬×ÜÊý£º¡ìY$COUNT$¡ìW\n;;;;;;;;;;;;x
-LESS_AMOUNT_OF_SHIPS;½¢´¬×ÜÊýÉÙÓÚÓÚ£º¡ìY$COUNT$¡ìW\n;;;;;;;;;;;;x
+TOTAL_AMOUNT_OF_SHIPS;½¢´¬×ÜÊý£º§Y$COUNT$§W\n;;;;;;;;;;;;x
+LESS_AMOUNT_OF_SHIPS;½¢´¬×ÜÊýÉÙÓÚÓÚ£º§Y$COUNT$§W\n;;;;;;;;;;;;x
 ibadi;ÒÁ°ÍµÂÅÉ;;;;;;;;;;;;x
 HAS_RECENTLY_LOST_WAR;ÔøÔÚ¹ýÈ¥ÎåÄêÄÚ´ò¹ý°ÜÕÌ;;;;;;;;;;;;x
 NOT_IN_ELECTION_CAMPAIGN;²»ÔÚÑ¡¾ÙÖÐ;;;;;;;;;;;;x
@@ -129,23 +130,23 @@ PEACE_WE_ACCEPT_2;ÎÒ¹ú½ÓÊÜÁËÏÂÁÐ¹ú¼ÒÌá³öµÄºÍÆ½Ð­Òé;;;;;;;;;;;;x
 CALCULATED_WARSCORE;ºÍÆ½ÌáÒé·ÖÖµ£º$VAL$;;;;;;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_2;ÎÒ¹ú¾Ü¾øÁËÏÂÁÐ¹ú¼ÒÌá³öµÄºÍÆ½Ð­Òé;;;;;;;;;;;;x
 HAVE_LESS_VASSALS_THAN;¸½Ó¹ÉÙÓÚ;;;;;;;;;;;;x
-BUDGET_ADMIN_EFFICIENCY_DESC2;ÎÒ¹úµÄ¡ìYÐÐÕþÐ§ÂÊ¡ìW¾ö¶¨ÁËÉç»á¸Ä¸ïºÍ¹ØË°µÄÐ§ÂÊ¡£ÕâÐ©Ö§³öÒ²ÓÐÖúÓÚÎÒÃÇµÄÖÎ°²¡£;;;;;;;;;;;;x
+BUDGET_ADMIN_EFFICIENCY_DESC2;ÎÒ¹úµÄ§YÐÐÕþÐ§ÂÊ§W¾ö¶¨ÁËÉç»á¸Ä¸ïºÍ¹ØË°µÄÐ§ÂÊ¡£ÕâÐ©Ö§³öÒ²ÓÐÖúÓÚÎÒÃÇµÄÖÎ°²¡£;;;;;;;;;;;;x
 ADM_DESC;ÐÐÕþ¿ªÖ§Ê¹ÄãÃÇµÄ¹ÙÁÅÄÜ¹»ÔËÐÐºÍÎ¬³ÖÒ»¸ö½¡¿µµÄ¹ÙÁÅ»ú¹¹£¬Ìá¸ßÎÒÃÇµÄ¹ØË°Ð§ÂÊºÍÈË¿ÚµÄ×ªÖ°ÂÊ¡£;;;;;;;;;;;;x
 NO_POPS_OF_TYPE;ÎÒ¹úÃ»ÓÐÕâÖÖÈË¿ÚÀàÐÍ¡£;;;;;;;;;;;;x
 NAT_STOCK_DESC;Ã³Ò×¿ªÖ§¿ÉÒÔÌî²¹ÎÒ¹úµÄ¹ú¼Ò´¢±¸£¬°üÀ¨½¨Éè£¬º£¾ü²¹¸ø£¬Â½¾ü²¹¸øÒÔ¼°º£ÍâÎ¬»¤µÄ·ÑÓÃ¡£;;;;;;;;;;;;x
 IND_SUP_DESC;Ìá¹©¸ø¹¤³§µÄÕþ¸®²¹ÌùºÍ¹ú¼ÒÏÖ½ð´¢±¸½«ÓÃÓÚ°ïÖú¹¤³§¹ºÂòÎï×ÊºÍÖ§¸¶¹¤×Ê¡£;;;;;;;;;;;;x
 DIST_DEFENCE;¾üÊÂ¿ªÖ§;;;;;;;;;;;;x
 DEFENCE_DESC;¾üÊÂ¿ªÖ§½«±»Ö§¸¶¸ø¾ü¹ÙºÍÊ¿±ø×÷ÎªÐ½Ë®¡£.;;;;;;;;;;;;x
-SOCIAL_DESC2;Éç»á¿ªÖ§½«ÎªÄãÖÆ¶¨µÄÉç»á¸Ä¸ïÌá¹©×Ê½ð¡£·ÖÅäµÄ¾ßÌå×Ê½ðÊý¶îÈ¡¾öÓÚÄãµÄ¡ìY¹ú¼ÒÐÐÕþÐ§ÂÊ¡ìW;;;;;;;;;;;;x
+SOCIAL_DESC2;Éç»á¿ªÖ§½«ÎªÄãÖÆ¶¨µÄÉç»á¸Ä¸ïÌá¹©×Ê½ð¡£·ÖÅäµÄ¾ßÌå×Ê½ðÊý¶îÈ¡¾öÓÚÄãµÄ§Y¹ú¼ÒÐÐÕþÐ§ÂÊ§W;;;;;;;;;;;;x
 TAX_MIDDLE_DESC;ÕâÀï¿ØÖÆÖÐ²ú½×¼¶µÄË°ÊÕ¡£¹ý¸ßµÄË°ÊÕ»áÈÃËûÃÇÖ»ÓÐºÜÉÙµÄÇ®À´Âú×ã×Ô¼ºµÄÉú»îÐèÇóÓëÊÂÒµÖ§³ö¡£;;;;;;;;;;;;x
 TARIFFS_DESC;¹ØË°¶Ô½ø¿Ú»õÎïÕ÷ÊÕ¶îÍâ·ÑÓÃ£¬ÆäÊÕÒæ½«Á÷Ïò¹ú¿â¡£¸º¹ØË°ÓÃÀ´Ìá¹©½ø¿Ú²¹Ìù£¬ÎªÄãµÄ¹úÃñÓë¹¤³§»º½âÏû·ÑÑ¹Á¦¡£;;;;;;;;;;;;x
 precious_metal_desc;»Æ½ð¡¢°×Òø¡¢×êÊ¯¡¢ÕäÖéµÈ¹óÖØÎïÆ·²»×÷ÎªÆÕÍ¨ÉÌÆ·³öÊÛ£¬¶øÊÇÖ±½Ó¶Ò»»³É»õ±Ò¡£;;;;;;;;;;;;x
 GOLD;¹ó½ðÊô;;;;;;;;;;;;x
 BUDGET_GOLD_INCOME_DESC;¹ó½ðÊôÊÕÈë;;;;;;;;;;;;x
-BUDGET_GOLD;¹ó½ðÊô£º¡ìY$VAL$¡ìW;;;;;;;;;;;;x
+BUDGET_GOLD;¹ó½ðÊô£º§Y$VAL$§W;;;;;;;;;;;;x
 EDU_DESC;½ÌÓý¿ªÖ§ÓÃÓÚÖ§¸¶¸øÖªÊ¶·Ö×ÓÒÔ²úÉúÑÐ¾¿µãÊý¡£;;;;;;;;;;;;x
 MIL_COST_DESC;Â½¾üºÍº£¾üµÄ²¹¸ø¿ªÖ§£¬²»°üÀ¨½¨Éè·ÑÓÃ£¬Ð½Ë®ºÍº£ÍâÎ¬»¤·ÑÓÃ¡£;;;;;;;;;;;;x
-STOCKPILE_COST_ESTIMATED;¹ú¼Ò´¢±¸°üÀ¨Â½¾ü£¬º£¾ü£¬½¨ÉèÔ¤ËãÒÔ¼°º£ÍâÎ¬»¤·ÑÓÃ¡£\nÃ÷ÈÕµÄ¿â´æ²É¹º¡ìYÔ¤¼Æ¡ì!½«»¨·Ñ:;;;;;;;;;;;;x
+STOCKPILE_COST_ESTIMATED;¹ú¼Ò´¢±¸°üÀ¨Â½¾ü£¬º£¾ü£¬½¨ÉèÔ¤ËãÒÔ¼°º£ÍâÎ¬»¤·ÑÓÃ¡£\nÃ÷ÈÕµÄ¿â´æ²É¹º§YÔ¤¼Æ?!½«»¨·Ñ:;;;;;;;;;;;;x
 BUDGET_OVERSEAS;º£ÍâÎ¬»¤;;;;;;;;;;;;x
 BUDGET_CONSUMED_OVERSEAS;º£ÍâÎ¬»¤¿ªÖ§ÓÉ¹ú¼Ò¿â´æ¼ÆËã¶øÀ´¶øÇÒÎÞ·¨½µµÍ¡£\n×òÈÕº£ÍâÎï×ÊÏûºÄ·ÑÓÃÔ¼Îª£º;;;;;;;;;;;;x
 BUDGET_CONSUMED_MILITARY;×òÈÕ¾üÊÂ²úÆ·ÏûºÄ·ÑÓÃÔ¼Îª£º;;;;;;;;;;;;x
@@ -157,13 +158,13 @@ SUBSTATE_OF_NOCOLOR;´Î¹ú¼ÒÊôÓÚ;;;;;;;;;;;;x
 HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;ÒÑÕ¼ÁìµÄÊ¡·Ý±ÈÀý´óÓÚ£º;;;;;;;;;;;;x
 HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN;ÒÑÕ¼ÁìµÄÊ¡·Ý±ÈÀýÐ¡ÓÚ£º;;;;;;;;;;;;x
 yes_to_congo;Í¶Æ±ÔÞ³É¸Õ¹û×ÔÓÉ°î¡£;;;;;;;;;;;;x
-NEED_POSITIVE_WARSCORE;Õ½Õù½øÐÐµÃ²¢²»Ë³Àû¡£¡ìRÄã²»ÊÇÕ½ÕùµÄÁìµ¼Õß£¬¹±Ï×½«µ¥¶À¼ÆËã¡£¾¡¹ÜÕ½Õù·ÖÊý¿ÉÄÜÎªÕýµÄ, Äã±ØÐëÔö¼ÓÄã×Ô¼ºµÄÕ½Õù·ÖÊý-ÄãÔÚÕ½ÕùÖÐµÄ¹±Ï×-ÒÔÔö¼ÓÕ½ÕùÄ¿±ê¡£¡ìW;;;;;;;;;;;;x
+NEED_POSITIVE_WARSCORE;Õ½Õù½øÐÐµÃ²¢²»Ë³Àû¡£§RÄã²»ÊÇÕ½ÕùµÄÁìµ¼Õß£¬¹±Ï×½«µ¥¶À¼ÆËã¡£¾¡¹ÜÕ½Õù·ÖÊý¿ÉÄÜÎªÕýµÄ, Äã±ØÐëÔö¼ÓÄã×Ô¼ºµÄÕ½Õù·ÖÊý-ÄãÔÚÕ½ÕùÖÐµÄ¹±Ï×-ÒÔÔö¼ÓÕ½ÕùÄ¿±ê¡£§W;;;;;;;;;;;;x
 WARGOAL_LACK_JINGO;ÎÒ¹úµÄÎäÁ¦Õþ²ßÐèÒª$REQUIRED$µÄÖ§³Ö£¬µ«ÏÖÔÚ½ö½öÖ»ÓÐ$VALUE$.É³ÎÄÖ÷Òå´ú±í×ÅÍ³ÖÎÕß»òÉÏÒéÔºÏ£ÍûÑÓ³¤Õ½Õù¡£É³ÎÄÖ÷ÒåÔ½¸ß£¬ÓÐÒâÔ¸/Ö§³ÖÕ½ÕùÑÓ³¤µÄ»ú»á¸ü¸ß¡£;;;;;;;;;;;;x
 berlin_conference;°ØÁÖ»áÒé;;;;;;;;;;;;x
 enforce_conference_decision;Ö§³Ö»áÒé;;;;;;;;;;;;x
-enforce_conference_decision_desc;Ç¿ÆÈ¡ìY¹ú¼Ò¡ìW½ÓÊÜ¡ìYÁÐÇ¿¡ìWµÄ¾ö¶¨¡£;;;;;;;;;;;;x
-enforce_conference_decision_short;·þ´Ó¡ìYÁÐÇ¿¡ìWµÄ¾ö¶¨;;;;;;;;;;;;x
-enforce_conference_decision_setup;Ç¿ÆÈ¡ìY¹ú¼Ò¡ìW½ÓÊÜ¡ìYÁÐÇ¿¡ìWµÄ¾ö¶¨¡£;;;;;;;;;;;;x
+enforce_conference_decision_desc;Ç¿ÆÈ§Y¹ú¼Ò§W½ÓÊÜ§YÁÐÇ¿§WµÄ¾ö¶¨¡£;;;;;;;;;;;;x
+enforce_conference_decision_short;·þ´Ó§YÁÐÇ¿§WµÄ¾ö¶¨;;;;;;;;;;;;x
+enforce_conference_decision_setup;Ç¿ÆÈ§Y¹ú¼Ò§W½ÓÊÜ§YÁÐÇ¿§WµÄ¾ö¶¨¡£;;;;;;;;;;;;x
 no_to_congo;Í¶Æ±ÔÞ³É¸Õ¹û×ÔÓÉ°î¡£;;;;;;;;;;;;x
 abstained_to_congo;ÆúÈ¨¡£;;;;;;;;;;;;x
 admin_spen;AIµÄÐÐÕþ¿ªÖ§;;;;;;;;;;;;x
@@ -204,18 +205,18 @@ control_3_desc;¹ýÊ±ÊÇµ±Ò»¸ö¶ÔÏó¡¢·þÎñ»òÊµ¼ù²»ÔÙÐèÒªÊ±·¢ÉúµÄ×´Ì¬£¬¼´Ê¹Ëü¿ÉÄÜÈÔÈ»´
 control_4;ÌÔÌ­ÆûÂÖ»ú;;;;;;;;;;;;x
 control_4_desc;¹ýÊ±ÊÇÖ¸Ä³ÖÖÊÂÎï£¬·þÎñ»ò×ö·¨²»ÔÙ±»ÐèÒª£¬¼´Ê¹ËüÈÔÈ»´¦ÓÚÁ¼ºÃµÄ¹¤×÷×´Ì¬¡£ÊÂÊµÉÏ£¬ÆûÂÖ»úÒÑ¾­±äµÃÏàµ±¹ýÊ±²¢Ê§È¥ÁËÒ»Ð©ÓÅÊÆ¡£;;;;;;;;;;;;x
 acceptable_subsidies_l;ÖÐÊ§Òµ¾È¼Ã½ð;;;;;;;;;;;;x
-MONEY_IS_ATLEAST_TRIGGER;½ðÇ®²»ÉÙÓÚ¡ìY$VALUE$¡ìW¡è¡£\n;;;;;;;;;;;;x
-EFFECT_BUILD_IN_CAPITAL_DESC;¡ìY$BLD$¡ì!½¨Éè½«»á·¢ÉúÔÚ£º¡ìY$PROVS$¡ì!\n;;;;;;;;;;;;x
-ADD_WARGOAL_PRESTIGE;Èç¹ûÎÒÃÇ´ï³ÉÁËÕâ¸öÕ½ÕùÄ¿±ê£¬ÎÒÃÇ½«»ñµÃ$COST$µÄ¡ìYÍþÍû¡ìW;;;;;;;;;;;;x
-ADD_WARGOAL_MILITANCY;Èç¹ûÎÒÃÇÃ»ÄÜ´ï³ÉÕâ¸öÕ½ÕùÄ¿±ê£¬ÎÒÃÇµÄËùÓÐÃñÖÚ½«»ñµÃ$MILITANCY$µÄ¡ìY¶·ÕùÐÔ¡ìW;;;;;;;;;;;;x
+MONEY_IS_ATLEAST_TRIGGER;½ðÇ®²»ÉÙÓÚ§Y$VALUE$¤¡£\n;;;;;;;;;;;;x
+EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$?!½¨Éè½«»á·¢ÉúÔÚ£º§Y$PROVS$?!\n;;;;;;;;;;;;x
+ADD_WARGOAL_PRESTIGE;Èç¹ûÎÒÃÇ´ï³ÉÁËÕâ¸öÕ½ÕùÄ¿±ê£¬ÎÒÃÇ½«»ñµÃ$COST$µÄ§YÍþÍû§W;;;;;;;;;;;;x
+ADD_WARGOAL_MILITANCY;Èç¹ûÎÒÃÇÃ»ÄÜ´ï³ÉÕâ¸öÕ½ÕùÄ¿±ê£¬ÎÒÃÇµÄËùÓÐÃñÖÚ½«»ñµÃ$MILITANCY$µÄ§Y¶·ÕùÐÔ§W;;;;;;;;;;;;x
 ADD_WARGOAL_EFFECT;µ±ÎÒÃÇ¼ÓÈëÕâ¸öÕ½ÕùÄ¿±ê£¬½«»ñµÃ£º;;;;;;;;;;;;x
 ADD_WARGOAL_SUCCESS;µ±ÎÒÃÇ´ï³ÉÕâ¸öÕ½ÕùÄ¿±ê£¬½«»ñµÃ£º;;;;;;;;;;;;x
 ADD_WARGOAL_FAILURE;µ±ÎÒÃÇÎ´´ï³ÉÕâ¸öÕ½ÕùÄ¿±ê£¬½«»ñµÃ£º;;;;;;;;;;;;x
-BUY_FROM_STOCKPILE_DESC;ÔÊÐíÃñÖÚ¼°¹¤³§´Ó¹ú¼Ò¿â´æ¹ºÂòÎï×Ê\n\n¡ìY×¢Òâ£ºµ±ÈÔ´¦ÓÚÔÚÊÖ¶¯¹ºÂò»òÏúÊÛÉÌÆ·Ê±£¬¡ìR²»Òª¡ìWÊ¹ÓÃ´Ë°´Å¥¡£¡ìRÓ¦µ±¡ìWÔÚ¡ìRËùÓÐ¡ìWÉÌÆ·ÔÚ¡ìG×Ô¶¯¡ìW½»Ò×Ê±Ê¹ÓÃ¡ìW£¬¡ìR·ñÔò½«»áµ¼ÖÂ±¾µØºÍÈ«ÇòµÄ¾­¼Ã±ÀÀ££¬·çÏÕ×Ô¸º¡£¡ìW;;;;;;;;;;;;x
+BUY_FROM_STOCKPILE_DESC;ÔÊÐíÃñÖÚ¼°¹¤³§´Ó¹ú¼Ò¿â´æ¹ºÂòÎï×Ê\n\n§Y×¢Òâ£ºµ±ÈÔ´¦ÓÚÔÚÊÖ¶¯¹ºÂò»òÏúÊÛÉÌÆ·Ê±£¬§R²»Òª§WÊ¹ÓÃ´Ë°´Å¥¡£§RÓ¦µ±§WÔÚ§RËùÓÐ§WÉÌÆ·ÔÚ§G×Ô¶¯§W½»Ò×Ê±Ê¹ÓÃ§W£¬§R·ñÔò½«»áµ¼ÖÂ±¾µØºÍÈ«ÇòµÄ¾­¼Ã±ÀÀ££¬·çÏÕ×Ô¸º¡£§W;;;;;;;;;;;;x
 military_political_decision_making;Õ½Ê±ÄÚ¸ó;;;;;;;;;;;;x
 army_military_political_decision_making;Õ½Ê±ÄÚ¸ó;;;;;;;;;;;;x
 army_military_political_decision_making_desc;Õ½ÕùÆÚ¼ä£¬ÆÄ¾ßÓ°ÏìÁ¦µÄ¾ü·½Á¦Á¿Æ¾½è³¤ÆÚÓÎËµ£¬²»½ö¿ÉÒÔÍêÈ«¿ØÖÆÕ½ÕùµÄÖ´ÐÐ£¬»¹ÄÜÍêÈ«¿ØÖÆ¹ú¼ÒµÄ×ÊÔ´µ÷Åä¡£Õâ»ù±¾ÉÏ¿ÉÒÔ³ÆÎª×Ü²ÎÄ±²¿ÖÎÏÂµÄ¾üÊÂ¶À²ÃÁË£¡;;;;;;;;;;;;x
-COALITION_WIN;¡ìY$IDE$¡ìWÁªÃËÔÚÍ¶Æ±ÖÐ»ñµÃ$VAL$%µÄÖ§³Ö¶È£¬½«×é½¨Õþ¸®;;;;;;;;;;;;x
+COALITION_WIN;§Y$IDE$§WÁªÃËÔÚÍ¶Æ±ÖÐ»ñµÃ$VAL$%µÄÖ§³Ö¶È£¬½«×é½¨Õþ¸®;;;;;;;;;;;;x
 RULE_PRIMARY_CULTURE_VOTING;\nÖ÷Á÷ÎÄ»¯ÓµÓÐÍ¶Æ±È¨;;;;;;;;;;;;x
 RULE_CULTURE_VOTING;\n¿É½ÓÊÜÎÄ»¯ÓµÓÐÍ¶Æ±È¨;;;;;;;;;;;;x
 RULE_ALL_VOTING;\nËùÓÐÎÄ»¯ÓµÓÐÍ¶Æ±È¨;;;;;;;;;;;;x
@@ -273,12 +274,12 @@ NOT_IN_SOCIAL_MOVEMENT;²»´¦ÓÚÉç»áÔË¶¯\n;;;;;;;;;;;;x
 IN_POLITICAL_MOVEMENT;´¦ÓÚÕþÖÎÔË¶¯ÖÐ\n;;;;;;;;;;;;x
 NOT_IN_POLITICAL_MOVEMENT;Î´´¦ÓÚÕþÖÎÔË¶¯ÖÐ\n;;;;;;;;;;;;x
 NEUTRALITY_EFFECT;¸Ã¹ú¼Ò±äµÃÖÐÁ¢£¬½âÉ¢ËùÓÐÁªÃË²¢½â·ÅËùÓÐÎÀÐÇ¹ú¡£;;;;;;;;;;;;x
-INFLUENCE_CHANGE;¡ìY$ACTIVE$¡ìW¶Ô¡ìY$PASSIVE$¡ìWµÄÓ°ÏìÁ¦¸Ä±ä$MUCH$\n;;;;;;;;;;;;x
+INFLUENCE_CHANGE;§Y$ACTIVE$§W¶Ô§Y$PASSIVE$§WµÄÓ°ÏìÁ¦¸Ä±ä$MUCH$\n;;;;;;;;;;;;x
 THE_CAPITAL_IS_NOT;Ê×¶¼²»ÊÇ;;;;;;;;;;;;x
 ENDGAME_DESC;¹Ø¼üµÄÒ»°ÙÄêÒÑ¾­¹ýÈ¥£¬ÎÒÃÇ½øÈëÁËÏÖ´úÉç»á£¬ÄãµÄ¹ú¼Ò×¼±¸ÔõÃ´Ãæ¶ÔÕâ¸öÒÑ¾­±äµÃÍêÈ«²»Ò»ÑùµÄÊÀ½ç£¿;;;;;;;;;;;;x
 DIPLOMACY_FILTER_NORTH_AMERICA;±±ÃÀÖÞ;;;;;;;;;;;;x
 DIPLOMACY_FILTER_OCEANIA;½ü¶«;;;;;;;;;;;;x
-DIPLOMACY_FILTER_OCEANIA_TOOLTIP;ÁÐ³ö¡ìY½ü¶«¡ìW¹ú¼Ò;;;;;;;;;;;;x
+DIPLOMACY_FILTER_OCEANIA_TOOLTIP;ÁÐ³ö§Y½ü¶«§W¹ú¼Ò;;;;;;;;;;;;x
 north_america;±±ÃÀÖÞ;;;;;;;;;;;;x
 oceania;½ü¶«;;;;;;;;;;;;x
 siberian;Î÷²®ÀûÑÇÉÙÊýÃñ×å;;;;;;;;;;;;x
@@ -308,7 +309,7 @@ HOLD_ELECTION_BUTTON;¾ÙÐÐÑ¡¾Ù;;;;;;;;;;;;x
 HOLD_ELECTION;¾ÙÐÐÑ¡¾Ù\n;;;;;;;;;;;;x
 NATIONALIZE_INDUSTRY_EFFECT;ÊµÊ©¹úÓÐ»¯\n;;;;;;;;;;;;x
 2nd_caucasian_war;µÚ¶þ´Î¸ß¼ÓË÷Õ½Õù;;;;;;;;;;;;x
-RELEASE;ÊÍ·Å¡ìY$WHO$¡ìW×÷ÎªÒ»¸ö¶ÀÁ¢¹ú¼Ò\n;;;;;;;;;;;;x
+RELEASE;ÊÍ·Å§Y$WHO$§W×÷ÎªÒ»¸ö¶ÀÁ¢¹ú¼Ò\n;;;;;;;;;;;;x
 administrative_efficiency_modifier;ÐÐÕþÐ§ÂÊ;;;;;;;;;;;;x
 MODIFIER_ADMINISTRATIVE_EFFICIENCY;ÐÐÕþÐ§ÂÊ;;;;;;;;;;;;x
 in_great_war;´¦ÓÚÊÀ½ç´óÕ½;;;;;;;;;;;;x
@@ -330,8 +331,8 @@ house_of_saud_exiled;É³ÌØ¼Ò×åÔâ·ÅÖð;;;;;;;;;;;;x
 early_electrical_telegraph;ÔçÆÚµç±¨;;;;;;;;;;;;x
 early_electrical_telegraph_desc;µÚÒ»¸öÉÌÒµµç±¨ÓÉÍþÁ®¡¤¸£Éª¼ª¶û¡¤¿â¿Ë¾ôÊ¿ºÍ²é¶ûË¹¡¤»ÝË¹Í¨ÏÈÉú¹²Í¬¿ª·¢¡£ÕâÊÇÒ»¸öÎåÕëÁùÏßÏµÍ³¡£µçÀÂ×î³õ°²×°ÔÚ¸Ö¹ÜµÀµÄµØÏÂ£¬È»¶ø£¬µçÀÂÓÉÓÚ¾øÔµÁÓ»¯¶øºÜ¿ì¿ªÊ¼Ê§Ð§£¬²¢ÇÒÔÚÁ½¼«ÉÏÓÃÎ´¾øÔµµÄµçÏß´úÌæ¡£×÷Îª´úÌæ½«Ê¹ÓÃÁ½ÕëÏµÍ³ÎªÁÙÊ±´ëÊ©£¬ÆäÖÐÈý¸öÊ£ÓàµÄ»¹ÔÚ¹¤×÷ÖÐµÄµØÏÂÏßÂ·£¬¾¡¹ÜÊ¹ÓÃÁ½¸öÕë¾ßÀ´´«ÊäÐèÒª¸ü¶àµÄ´úÂë¡£;;;;;;;;;;;;x
 telegraph;µç±¨;;;;;;;;;;;;x
-REMOVE_MONEY_EFFECT;Ê§È¥¡ìR$VALUE$¡è¡ìW¡£\n;;;;;;;;;;;;x
-MONEY_EFFECT;Ö§¸¶¡ìR$VALUE$¡ìW¡è¡ìW¡£\n;;;;;;;;;;;;x
+REMOVE_MONEY_EFFECT;Ê§È¥§R$VALUE$¤§W¡£\n;;;;;;;;;;;;x
+MONEY_EFFECT;Ö§¸¶§R$VALUE$¤§W¡£\n;;;;;;;;;;;;x
 theocracy_ruler;Ê¥×ù;;;;;;;;;;;;x
 proletarian_dictatorship_ruler;Ö÷Ï¯;;;;;;;;;;;;x
 presidential_dictatorship_ruler;×ÜÍ³;;;;;;;;;;;;x
@@ -384,9 +385,9 @@ BUDGET_TAX_RICH;Ë°ÊÕ£¨¸»Ô£½×²ã£©;;;;;;;;;;;;x
 BUDGET_TAX_MIDDLE;Ë°ÊÕ£¨ÖÐ²ú½×²ã£©;;;;;;;;;;;;x
 BUDGET_TAX_POOR;Ë°ÊÕ£¨Æ¶À§½×²ã£©;;;;;;;;;;;;x
 NATIONAL_BANK;¹ú¼ÒÒøÐÐ;;;;;;;;;;;;x
-immigration_focus_desc;ÒÆÃñÓÐ¡ìY$VAL$%¡ìWµÄ¸ü´ó¿ÉÄÜÑ¡ÔñÕâÀï¡£Õâ¸ö½¹µã»áÎüÒý¸ü¶àµÄÒÆÃñÇ°À´¸ÃÊ¡·Ý£¬µ«²¢²»»áÓÐ¸ü¶àµÄÒÆÃñÇ°À´ÎÒÃÇ¹ú¼Ò¡£;;;;;;;;;;;;x
+immigration_focus_desc;ÒÆÃñÓÐ§Y$VAL$%§WµÄ¸ü´ó¿ÉÄÜÑ¡ÔñÕâÀï¡£Õâ¸ö½¹µã»áÎüÒý¸ü¶àµÄÒÆÃñÇ°À´¸ÃÊ¡·Ý£¬µ«²¢²»»áÓÐ¸ü¶àµÄÒÆÃñÇ°À´ÎÒÃÇ¹ú¼Ò¡£;;;;;;;;;;;;x
 emigration_focus;¹ÄÀøÒÆÃñ;;;;;;;;;;;;x
-emigration_focus_desc;µ±µØ¾ÓÃñÓÐ¡ìY$VAL$¡ìWµÄ¸ü´ó¿ÉÄÜÐÔÀë¿ª¸ÃÇøÓò¡£;;;;;;;;;;;;x
+emigration_focus_desc;µ±µØ¾ÓÃñÓÐ§Y$VAL$§WµÄ¸ü´ó¿ÉÄÜÐÔÀë¿ª¸ÃÇøÓò¡£;;;;;;;;;;;;x
 not_AI;¿ØÖÆÕß²»ÊÇAI;;;;;;;;;;;;x
 harassment_l;Õþµ³É§ÈÅ;;;;;;;;;;;;x
 land_reform;ÍÁµØ¸Ä¸ï;;;;;;;;;;;;x
@@ -492,6 +493,7 @@ yes_firearms_production_desc;Ç¹Ö§ÊÇÔÚÎÒ¹úÉú²úµÄ,²»ÐèÒªÒÀÀµÓÚ´ó¹æÄ£½ø¿Ú.;;;;;;;;;
 writing_system;ÊéÐ´ÏµÍ³;;;;;;;;;;;;x
 writing_system_l;ÊéÐ´ÏµÍ³;;;;;;;;;;;;x
 no_writing_language;ÎÞÊéÐ´ÏµÍ³;;;;;;;;;;;;x
+no_writing_language_l;;;;;;;;;;;;;x
 no_writing_language_desc;¿ÚÓïÊÇÎ¨Ò»µÄ¹µÍ¨·½Ê½,Ã»ÓÐÎÄ¼þ»òÐ´×÷ÓïÑÔ£¬Ã»ÓÐ½ÌÓýÖÆ¶ÈºÍÃ»ÓÐ¹Ù·½µÄ¹ú¼ÒÓïÑÔ.;;;;;;;;;;;;x
 writing_language;ÊéÐ´ÏµÍ³;;;;;;;;;;;;x
 writing_language_l;ÊéÐ´ÏµÍ³;;;;;;;;;;;;x
@@ -620,10 +622,10 @@ no_draft_l;ÎÞ±øÒÛ;;;;;;;;;;;;x
 no_draft_desc;Ã»ÓÐÒåÎñÕ÷±øÖÆ¶È;;;;;;;;;;;;x
 conscription;Õ÷±ø;;;;;;;;;;;;x
 movement_no_draft;·Ï³ý±øÒÛÔË¶¯;;;;;;;;;;;;x
-yes_slavery_desc;ÔÊÐíÅ«Á¥ÖÆ.\n¡ìRÕâÏî¸Ä¸ï»áÓ°ÏìÈË¿ÚÖ°Òµ×ª»¯£¬ÔÚÅ«Á¥ÖÆÔÊÐíÏÂ£¬±¾¹úÉõÖÁÈ«ÇòµÄÖ°Òµ×ª»¯»á±äÂý¡ìW\n¡ìYÔÚÐîÅ«µØÇø£¬»áÓÐ±È·ÇÐîÅ«µØÇø¸ü¶àµÄ±£ÊØÖ÷ÒåÖ§³ÖÕßºÍ¸üÉÙµÄ×ÔÓÉÖ÷ÒåÖ§³ÖÕßÕß,²¢ÇÒÆäËû¹ú¼ÒµÄÒÆÃñÆÕ±é²»Ì«Ï²»¶Å«Á¥ÖÆ¹ú¼Ò¡ìW\n¡ìGÅ«Á¥µÄÈË¿ÚÊýÁ¿»áÔö¼Ó¡ìW;;;;;;;;;;;;x
+yes_slavery_desc;ÔÊÐíÅ«Á¥ÖÆ.\n§RÕâÏî¸Ä¸ï»áÓ°ÏìÈË¿ÚÖ°Òµ×ª»¯£¬ÔÚÅ«Á¥ÖÆÔÊÐíÏÂ£¬±¾¹úÉõÖÁÈ«ÇòµÄÖ°Òµ×ª»¯»á±äÂý§W\n§YÔÚÐîÅ«µØÇø£¬»áÓÐ±È·ÇÐîÅ«µØÇø¸ü¶àµÄ±£ÊØÖ÷ÒåÖ§³ÖÕßºÍ¸üÉÙµÄ×ÔÓÉÖ÷ÒåÖ§³ÖÕßÕß,²¢ÇÒÆäËû¹ú¼ÒµÄÒÆÃñÆÕ±é²»Ì«Ï²»¶Å«Á¥ÖÆ¹ú¼Ò§W\n§GÅ«Á¥µÄÈË¿ÚÊýÁ¿»áÔö¼Ó§W;;;;;;;;;;;;x
 freedom_of_womb;×ÔÓÉÒ¡Àº;;;;;;;;;;;;x
 freedom_of_womb_l;×ÔÓÉÒ¡Àº·¨;;;;;;;;;;;;x
-freedom_of_womb_desc;¸Õ³öÉúµÄÅ«Á¥µÄÓ¤¶ù»á±»½â·Å£¬²¢ÇÒÔÚ´ó¶àÊýÇé¿öÏÂÄêÀÏµÄÅ«Á¥Ò²»á±»½â·Å\n¡ìRÕâÏî¸Ä¸ï»áÓ°ÏìÈË¿ÚÖ°Òµ×ª»¯£¬ÔÚÅ«Á¥ÖÆÔÊÐíÏÂ£¬±¾¹úÉõÖÁÈ«ÇòµÄÖ°Òµ×ª»¯»á±äÂý¡ìW\n¡ìYÔÚÐîÅ«µØÇø£¬»áÓÐ±È·ÇÐîÅ«µØÇø¸ü¶àµÄ±£ÊØÖ÷ÒåÖ§³ÖÕßºÍ¸üÉÙµÄ×ÔÓÉÖ÷ÒåÖ§³ÖÕßÕß,²¢ÇÒÆäËû¹ú¼ÒµÄÒÆÃñÆÕ±é²»Ì«Ï²»¶Å«Á¥ÖÆ¹ú¼Ò¡ìW\n¡ìRÅ«Á¥µÄÈË¿ÚÊýÁ¿»áÍ£Ö¹Ôö¼Ó¡ìW;;;;;;;;;;;;x
+freedom_of_womb_desc;¸Õ³öÉúµÄÅ«Á¥µÄÓ¤¶ù»á±»½â·Å£¬²¢ÇÒÔÚ´ó¶àÊýÇé¿öÏÂÄêÀÏµÄÅ«Á¥Ò²»á±»½â·Å\n§RÕâÏî¸Ä¸ï»áÓ°ÏìÈË¿ÚÖ°Òµ×ª»¯£¬ÔÚÅ«Á¥ÖÆÔÊÐíÏÂ£¬±¾¹úÉõÖÁÈ«ÇòµÄÖ°Òµ×ª»¯»á±äÂý§W\n§YÔÚÐîÅ«µØÇø£¬»áÓÐ±È·ÇÐîÅ«µØÇø¸ü¶àµÄ±£ÊØÖ÷ÒåÖ§³ÖÕßºÍ¸üÉÙµÄ×ÔÓÉÖ÷ÒåÖ§³ÖÕßÕß,²¢ÇÒÆäËû¹ú¼ÒµÄÒÆÃñÆÕ±é²»Ì«Ï²»¶Å«Á¥ÖÆ¹ú¼Ò§W\n§RÅ«Á¥µÄÈË¿ÚÊýÁ¿»áÍ£Ö¹Ôö¼Ó§W;;;;;;;;;;;;x
 movement_freedom_of_womb;×ÔÓÉÒ¡ÀºÔË¶¯;;;;;;;;;;;;x
 no_slavery;·Ï³ýÅ«Á¥ÖÆ;;;;;;;;;;;;x
 no_slavery_desc;Å«Á¥ÖÆÊÇ·Ç·¨µÄ.;;;;;;;;;;;;x
@@ -672,7 +674,7 @@ movement_child_labor_illegal;·Ï³ýÍ¯¹¤ÁªÃË;;;;;;;;;;;;x
 debt_law;Õ®Îñ·¨;;;;;;;;;;;;x
 serfdom;Å©Å«ÖÆ;;;;;;;;;;;;x
 serfdom_l;Å©Å«ÖÆ;;;;;;;;;;;;x
-serfdom_desc;Å©Å«±ØÈ»ÊÜÍÁµØËùÓÐÈ¨µÄÔ¼Êø£¬²¢±»ÆÈÔÚ·â½¨ÖÆ¶ÈÏÂ¹¤×÷¡£\n¡ìRÕâÖÖ¸Ä¸ï»áÓ°ÏìPOPµÄ×ª»¯»ú»á¡ª¡ª×ª»¯»á¸üÂý¡£¡ìW\n¡ìYÕâ¸ö¸Ä¸ïÊ¹µÃÅ©ÃñÆ¶Çî³ÖÐøÒ»¶¨Ê±ÆÚºó½«½µµÍµ½Å©Å«£¬²»»áÔÚÅ«Á¥ÖÆÖ®Ç°±»ÌÔÌ­¡ìW;;;;;;;;;;;;x
+serfdom_desc;Å©Å«±ØÈ»ÊÜÍÁµØËùÓÐÈ¨µÄÔ¼Êø£¬²¢±»ÆÈÔÚ·â½¨ÖÆ¶ÈÏÂ¹¤×÷¡£\n§RÕâÖÖ¸Ä¸ï»áÓ°ÏìPOPµÄ×ª»¯»ú»á¡ª¡ª×ª»¯»á¸üÂý¡£§W\n§YÕâ¸ö¸Ä¸ïÊ¹µÃÅ©ÃñÆ¶Çî³ÖÐøÒ»¶¨Ê±ÆÚºó½«½µµÍµ½Å©Å«£¬²»»áÔÚÅ«Á¥ÖÆÖ®Ç°±»ÌÔÌ­§W;;;;;;;;;;;;x
 movement_serfdom;µØÖ÷ÁªÃË;;;;;;;;;;;;x
 peonage;ÀÍÒÛ³¥Õ®;;;;;;;;;;;;x
 peonage_l;ÀÍÒÛ³¥Õ®;;;;;;;;;;;;x
@@ -680,7 +682,7 @@ peonage_desc;ÕâÊÇÒ»ÖÖÕ®ÎñÖÆ¶È£¬Õ®ÎñÈË±»ÆÈ³¥»¹Õ®Îñ¡£ ÕâÍùÍùµ¼ÖÂÓÀ¾ÃÐÔµÄ·Ç×ÔÔ¸ÀÍ¶¯
 movement_peonage;ÔÊÐíÀÍÒÛÔË¶¯;;;;;;;;;;;;x
 debtors_prisons;Õ®ÎñÈË¼àÓü;;;;;;;;;;;;x
 debtors_prisons_l;Õ®ÎñÈË¼àÓü;;;;;;;;;;;;x
-debtors_prisons_desc;Õ®ÎñÈË±»ÏÞÖÆÔÚ¼àÓü£¬Ö±µ½Õ®ÎñµÃµ½½â¾öÎªÖ¹¡£\n¡ìYÕâ¸ö¸Ä¸ïÊÇÖÐÐÔµÄ - ²»»á²úÉúÓ°Ïì¡£¡ìW;;;;;;;;;;;;x
+debtors_prisons_desc;Õ®ÎñÈË±»ÏÞÖÆÔÚ¼àÓü£¬Ö±µ½Õ®ÎñµÃµ½½â¾öÎªÖ¹¡£\n§YÕâ¸ö¸Ä¸ïÊÇÖÐÐÔµÄ - ²»»á²úÉúÓ°Ïì¡£§W;;;;;;;;;;;;x
 movement_debtors_prisons;·Ï³ýÕ®ÎñÀÍÒÛÔË¶¯;;;;;;;;;;;;x
 bankruptcy;ÔÊÐíÆÆ²ú;;;;;;;;;;;;x
 bankruptcy_l;ÔÊÐíÆÆ²ú;;;;;;;;;;;;x
@@ -693,11 +695,11 @@ movement_capital_punishment;»Ö¸´¿áÐÌÁªÃË;;;;;;;;;;;;x
 penal_system;ÐÌ·£ÖÆ¶È;;;;;;;;;;;;x
 colonial_transportation;Á÷·Å;;;;;;;;;;;;x
 colonial_transportation_l;Á÷·Å;;;;;;;;;;;;x
-colonial_transportation_desc;·¸ÈË»á´Ó×Ô¼ºµÄÄ¸¹ú±»Á÷·Åµ½Ò»¸öÖ³ÃñµØ»òÕßÒ»¸ö²»ÒË¾Ó×¡µÄµØ·½£¬ÕâÒ²»áÔö¼Ó¹ÙÁÅÐèÇóµÄ¸ºµ£\n¡ìY×¢Òâ£¬Õâ¸ö¸Ä¸ï»áÔö¼Ó¹ÙÁÅµÄ¸ºµ££¬µ«ÊÇËü»áÔö¼ÓÄãµÄÖ³ÃñµØÒÆÃñ¡ìW;;;;;;;;;;;;x
+colonial_transportation_desc;·¸ÈË»á´Ó×Ô¼ºµÄÄ¸¹ú±»Á÷·Åµ½Ò»¸öÖ³ÃñµØ»òÕßÒ»¸ö²»ÒË¾Ó×¡µÄµØ·½£¬ÕâÒ²»áÔö¼Ó¹ÙÁÅÐèÇóµÄ¸ºµ£\n§Y×¢Òâ£¬Õâ¸ö¸Ä¸ï»áÔö¼Ó¹ÙÁÅµÄ¸ºµ££¬µ«ÊÇËü»áÔö¼ÓÄãµÄÖ³ÃñµØÒÆÃñ§W;;;;;;;;;;;;x
 movement_colonial_transportation;·Ï³ý¿áÐÌÔË¶¯;;;;;;;;;;;;x
 incarceration;¼à½û;;;;;;;;;;;;x
 incarceration_l;¼à½û;;;;;;;;;;;;x
-incarceration_desc;¼à½ûÇô·¸µÄÄ¿µÄÊÇ°Ñ²»ÊÜ»¶Ó­µÄÈË´ÓÉç»áÖÐÇýÖð³öÈ¥£¬¾¡¹ÜËûÃÇ´ó¶àÊýÊ±ºò²¢²»Ï°¹ßÓÚ´ÓÊÂ¼è¿àµÄÌåÁ¦ÀÍ¶¯¡£\n¡ìYÕâÊÇÖÐÐÔ¸Ä¸ï£¬²»»á²úÉúÓ°Ïì¡ìW;;;;;;;;;;;;x
+incarceration_desc;¼à½ûÇô·¸µÄÄ¿µÄÊÇ°Ñ²»ÊÜ»¶Ó­µÄÈË´ÓÉç»áÖÐÇýÖð³öÈ¥£¬¾¡¹ÜËûÃÇ´ó¶àÊýÊ±ºò²¢²»Ï°¹ßÓÚ´ÓÊÂ¼è¿àµÄÌåÁ¦ÀÍ¶¯¡£\n§YÕâÊÇÖÐÐÔ¸Ä¸ï£¬²»»á²úÉúÓ°Ïì§W;;;;;;;;;;;;x
 movement_incarceration;·Ï³ýÁ÷·ÅÔË¶¯;;;;;;;;;;;;x
 rehabilitation;¸ÄÔì;;;;;;;;;;;;x
 rehabilitation_l;¸ÄÔì;;;;;;;;;;;;x

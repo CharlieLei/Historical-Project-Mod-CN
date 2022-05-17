@@ -876,7 +876,7 @@ country_event = {
         province_id = 2102
       }
       state_scope = {
-        change_region_name = "自由邦"  # Vrystaat
+        change_region_name = "弗雷斯塔特"  # Vrystaat
       }
     }
     random_owned = {
@@ -1105,7 +1105,7 @@ country_event = {
         province_id = 2102
       }
       state_scope = {
-        change_region_name = "自由邦"  # Vrystaat
+        change_region_name = "弗雷斯塔特"  # Vrystaat
       }
     }
     random_owned = {
@@ -1343,7 +1343,7 @@ country_event = {
         province_id = 2102
       }
       state_scope = {
-        change_region_name = "自由邦"  # Vrystaat
+        change_region_name = "弗雷斯塔特"  # Vrystaat
       }
     }
     random_owned = {

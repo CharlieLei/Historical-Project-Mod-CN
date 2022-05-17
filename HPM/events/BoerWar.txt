@@ -770,7 +770,7 @@ country_event = {
       add_core = SAF
       change_province_name = "温堡"  # Winburg
       state_scope = {
-        change_region_name = "自由邦"  # Vrystaat
+        change_region_name = "弗雷斯塔特"  # Vrystaat
       }
     }
     2103 = {
@@ -888,7 +888,7 @@ country_event = {
       add_core = SAF
       change_province_name = "温堡"  # Winburg
       state_scope = {
-        change_region_name = "自由邦"  # Vrystaat
+        change_region_name = "弗雷斯塔特"  # Vrystaat
       }
     }
     2103 = {

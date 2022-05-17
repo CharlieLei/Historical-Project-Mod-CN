@@ -2,19 +2,19 @@ country_event = {
   id = 23200
   trigger = {
     NOT = {
-      has_global_flag = NileDiscovered
+      has_global_flag = "NileDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNile
+      has_country_flag = "NoGoToNile"
     }
     NOT = {
-      has_country_flag = YesGoToNileAgain
+      has_country_flag = "YesGoToNileAgain"
     }
     NOT = {
-      has_country_flag = YesGoToNile
+      has_country_flag = "YesGoToNile"
     }
     NOT = {
-      has_country_flag = YesGoToNileThird
+      has_country_flag = "YesGoToNileThird"
     }
     NOT = {
       owns = 2019
@@ -111,7 +111,7 @@ country_event = {
         treasury = -30000
       }
     }
-    set_country_flag = YesGoToNile
+    set_country_flag = "YesGoToNile"
   }
   option = {
     name = "EVTOPTB23200"
@@ -137,19 +137,19 @@ country_event = {
         }
       }
     }
-    set_country_flag = NoGoToNile
+    set_country_flag = "NoGoToNile"
     prestige = -10
   }
 }
 country_event = {
   id = 23201
   trigger = {
-    has_country_flag = YesGoToNile
+    has_country_flag = "YesGoToNile"
     NOT = {
-      has_global_flag = NileDiscovered
+      has_global_flag = "NileDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNile
+      has_country_flag = "NoGoToNile"
     }
     year = 1868
   }
@@ -233,8 +233,8 @@ country_event = {
         treasury = -50000
       }
     }
-    set_country_flag = YesGoToNileAgain
-    clr_country_flag = YesGoToNile
+    set_country_flag = "YesGoToNileAgain"
+    clr_country_flag = "YesGoToNile"
   }
   option = {
     name = "EVTOPTB23201"
@@ -247,20 +247,20 @@ country_event = {
         }
       }
     }
-    clr_country_flag = YesGoToNile
-    set_country_flag = NoGoToNile
+    clr_country_flag = "YesGoToNile"
+    set_country_flag = "NoGoToNile"
     prestige = -25
   }
 }
 country_event = {
   id = 23202
   trigger = {
-    has_country_flag = YesGoToNileAgain
+    has_country_flag = "YesGoToNileAgain"
     NOT = {
-      has_global_flag = NileDiscovered
+      has_global_flag = "NileDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNile
+      has_country_flag = "NoGoToNile"
     }
     year = 1869
   }
@@ -344,8 +344,8 @@ country_event = {
         treasury = -50000
       }
     }
-    set_country_flag = YesGoToNileThird
-    clr_country_flag = YesGoToNileAgain
+    set_country_flag = "YesGoToNileThird"
+    clr_country_flag = "YesGoToNileAgain"
   }
   option = {
     name = "EVTOPTB23201"
@@ -358,8 +358,8 @@ country_event = {
         }
       }
     }
-    clr_country_flag = YesGoToNileAgain
-    set_country_flag = NoGoToNile
+    clr_country_flag = "YesGoToNileAgain"
+    set_country_flag = "NoGoToNile"
     prestige = -25
   }
 }
@@ -374,14 +374,14 @@ country_event = {
   news_desc_short = "EVTDESC23203_NEWS_SHORT"
   trigger = {
     or = {
-      has_country_flag = YesGoToNileAgain
-      has_country_flag = YesGoToNileThird
+      has_country_flag = "YesGoToNileAgain"
+      has_country_flag = "YesGoToNileThird"
     }
     NOT = {
-      has_global_flag = NileDiscovered
+      has_global_flag = "NileDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNile
+      has_country_flag = "NoGoToNile"
     }
     year = 1870
   }
@@ -466,9 +466,9 @@ country_event = {
   option = {
     name = "EVTOPTA232000000"
     prestige = 100
-    set_global_flag = NileDiscovered
-    clr_country_flag = YesGoToNileAgain
-    clr_country_flag = YesGoToNileThird
+    set_global_flag = "NileDiscovered"
+    clr_country_flag = "YesGoToNileAgain"
+    clr_country_flag = "YesGoToNileThird"
     random_owned = {
       limit = {
         owner = {
@@ -678,9 +678,9 @@ country_event = {
   option = {
     name = "EVTOPTB232000000"
     prestige = 100
-    set_global_flag = NileDiscovered
-    clr_country_flag = YesGoToNileAgain
-    clr_country_flag = YesGoToNileThird
+    set_global_flag = "NileDiscovered"
+    clr_country_flag = "YesGoToNileAgain"
+    clr_country_flag = "YesGoToNileThird"
     random_owned = {
       limit = {
         owner = {
@@ -877,9 +877,9 @@ country_event = {
   option = {
     name = "EVTOPTC232000000"
     prestige = 100
-    set_global_flag = NileDiscovered
-    clr_country_flag = YesGoToNileAgain
-    clr_country_flag = YesGoToNileThird
+    set_global_flag = "NileDiscovered"
+    clr_country_flag = "YesGoToNileAgain"
+    clr_country_flag = "YesGoToNileThird"
     random_owned = {
       limit = {
         owner = {
@@ -1069,9 +1069,9 @@ country_event = {
   option = {
     name = "EVTOPTD232000000"
     prestige = 100
-    set_global_flag = NileDiscovered
-    clr_country_flag = YesGoToNileAgain
-    clr_country_flag = YesGoToNileThird
+    set_global_flag = "NileDiscovered"
+    clr_country_flag = "YesGoToNileAgain"
+    clr_country_flag = "YesGoToNileThird"
     random_owned = {
       limit = {
         owner = {
@@ -1254,9 +1254,9 @@ country_event = {
   option = {
     name = "EVTOPTE232000000"
     prestige = 100
-    set_global_flag = NileDiscovered
-    clr_country_flag = YesGoToNileAgain
-    clr_country_flag = YesGoToNileThird
+    set_global_flag = "NileDiscovered"
+    clr_country_flag = "YesGoToNileAgain"
+    clr_country_flag = "YesGoToNileThird"
     random_owned = {
       limit = {
         owner = {
@@ -1448,19 +1448,19 @@ country_event = {
   id = 23204
   trigger = {
     NOT = {
-      has_global_flag = NorthPoleDiscovered
+      has_global_flag = "NorthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNorthPole
+      has_country_flag = "NoGoToNorthPole"
     }
     NOT = {
-      has_country_flag = YesGoToNorthPole
+      has_country_flag = "YesGoToNorthPole"
     }
     NOT = {
-      has_country_flag = YesGoToNorthPole
+      has_country_flag = "YesGoToNorthPole"
     }
     NOT = {
-      has_country_flag = YesGoToNorthPoleThird
+      has_country_flag = "YesGoToNorthPoleThird"
     }
     is_greater_power = yes
     year = 1895
@@ -1545,7 +1545,7 @@ country_event = {
         treasury = -30000
       }
     }
-    set_country_flag = YesGoToNorthPole
+    set_country_flag = "YesGoToNorthPole"
   }
   option = {
     name = "EVTOPTB23200"
@@ -1571,19 +1571,19 @@ country_event = {
         }
       }
     }
-    set_country_flag = NoGoToNorthPole
+    set_country_flag = "NoGoToNorthPole"
     prestige = -10
   }
 }
 country_event = {
   id = 23205
   trigger = {
-    has_country_flag = YesGoToNorthPole
+    has_country_flag = "YesGoToNorthPole"
     NOT = {
-      has_global_flag = NorthPoleDiscovered
+      has_global_flag = "NorthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNorthPole
+      has_country_flag = "NoGoToNorthPole"
     }
     year = 1897
   }
@@ -1667,8 +1667,8 @@ country_event = {
         treasury = -50000
       }
     }
-    set_country_flag = YesGoToNorthPoleAgain
-    clr_country_flag = YesGoToNorthPole
+    set_country_flag = "YesGoToNorthPoleAgain"
+    clr_country_flag = "YesGoToNorthPole"
   }
   option = {
     name = "EVTOPTB23201"
@@ -1681,20 +1681,20 @@ country_event = {
         }
       }
     }
-    clr_country_flag = YesGoToNorthPole
-    set_country_flag = NoGoToNorthPole
+    clr_country_flag = "YesGoToNorthPole"
+    set_country_flag = "NoGoToNorthPole"
     prestige = -25
   }
 }
 country_event = {
   id = 23206
   trigger = {
-    has_country_flag = YesGoToNorthPoleAgain
+    has_country_flag = "YesGoToNorthPoleAgain"
     NOT = {
-      has_global_flag = NorthPoleDiscovered
+      has_global_flag = "NorthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNorthPole
+      has_country_flag = "NoGoToNorthPole"
     }
     year = 1899
   }
@@ -1778,8 +1778,8 @@ country_event = {
         treasury = -50000
       }
     }
-    set_country_flag = YesGoToNorthPoleThird
-    clr_country_flag = YesGoToNorthPoleAgain
+    set_country_flag = "YesGoToNorthPoleThird"
+    clr_country_flag = "YesGoToNorthPoleAgain"
   }
   option = {
     name = "EVTOPTB23201"
@@ -1792,8 +1792,8 @@ country_event = {
         }
       }
     }
-    clr_country_flag = YesGoToNorthPoleAgain
-    set_country_flag = NoGoToNorthPole
+    clr_country_flag = "YesGoToNorthPoleAgain"
+    set_country_flag = "NoGoToNorthPole"
     prestige = -25
   }
 }
@@ -1805,14 +1805,14 @@ country_event = {
   news_desc_short = "EVTDESC23207_NEWS_SHORT"
   trigger = {
     or = {
-      has_country_flag = YesGoToNorthPoleAgain
-      has_country_flag = YesGoToNorthPoleThird
+      has_country_flag = "YesGoToNorthPoleAgain"
+      has_country_flag = "YesGoToNorthPoleThird"
     }
     NOT = {
-      has_global_flag = NorthPoleDiscovered
+      has_global_flag = "NorthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToNorthPole
+      has_country_flag = "NoGoToNorthPole"
     }
     year = 1900
   }
@@ -1837,28 +1837,28 @@ country_event = {
   option = {
     name = "EVTOPTA23203"
     prestige = 100
-    set_global_flag = NorthPoleDiscovered
-    clr_country_flag = YesGoToNorthPoleAgain
-    clr_country_flag = YesGoToNorthPoleThird
+    set_global_flag = "NorthPoleDiscovered"
+    clr_country_flag = "YesGoToNorthPoleAgain"
+    clr_country_flag = "YesGoToNorthPoleThird"
   }
 }
 country_event = {
   id = 23208
   trigger = {
     NOT = {
-      has_global_flag = SouthPoleDiscovered
+      has_global_flag = "SouthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToSouthPole
+      has_country_flag = "NoGoToSouthPole"
     }
     NOT = {
-      has_country_flag = YesGoToSouthPoleAgain
+      has_country_flag = "YesGoToSouthPoleAgain"
     }
     NOT = {
-      has_country_flag = YesGoToSouthPole
+      has_country_flag = "YesGoToSouthPole"
     }
     NOT = {
-      has_country_flag = YesGoToSouthPoleThird
+      has_country_flag = "YesGoToSouthPoleThird"
     }
     is_greater_power = yes
     year = 1906
@@ -1943,7 +1943,7 @@ country_event = {
         treasury = -30000
       }
     }
-    set_country_flag = YesGoToSouthPole
+    set_country_flag = "YesGoToSouthPole"
   }
   option = {
     name = "EVTOPTB23200"
@@ -1969,19 +1969,19 @@ country_event = {
         }
       }
     }
-    set_country_flag = NoGoToSouthPole
+    set_country_flag = "NoGoToSouthPole"
     prestige = -10
   }
 }
 country_event = {
   id = 23209
   trigger = {
-    has_country_flag = YesGoToSouthPole
+    has_country_flag = "YesGoToSouthPole"
     NOT = {
-      has_global_flag = SouthPoleDiscovered
+      has_global_flag = "SouthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToSouthPole
+      has_country_flag = "NoGoToSouthPole"
     }
     year = 1908
   }
@@ -2065,8 +2065,8 @@ country_event = {
         treasury = -50000
       }
     }
-    set_country_flag = YesGoToSouthPoleAgain
-    clr_country_flag = YesGoToSouthPole
+    set_country_flag = "YesGoToSouthPoleAgain"
+    clr_country_flag = "YesGoToSouthPole"
   }
   option = {
     name = "EVTOPTB23201"
@@ -2079,20 +2079,20 @@ country_event = {
         }
       }
     }
-    clr_country_flag = YesGoToSouthPole
-    set_country_flag = NoGoToSouthPole
+    clr_country_flag = "YesGoToSouthPole"
+    set_country_flag = "NoGoToSouthPole"
     prestige = -25
   }
 }
 country_event = {
   id = 23210
   trigger = {
-    has_country_flag = YesGoToSouthPoleAgain
+    has_country_flag = "YesGoToSouthPoleAgain"
     NOT = {
-      has_global_flag = SouthPoleDiscovered
+      has_global_flag = "SouthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToSouthPole
+      has_country_flag = "NoGoToSouthPole"
     }
     year = 1910
   }
@@ -2176,8 +2176,8 @@ country_event = {
         treasury = -50000
       }
     }
-    set_country_flag = YesGoToSouthPoleThird
-    clr_country_flag = YesGoToSouthPoleAgain
+    set_country_flag = "YesGoToSouthPoleThird"
+    clr_country_flag = "YesGoToSouthPoleAgain"
   }
   option = {
     name = "EVTOPTB23201"
@@ -2190,8 +2190,8 @@ country_event = {
         }
       }
     }
-    clr_country_flag = YesGoToSouthPoleAgain
-    set_country_flag = NoGoToSouthPole
+    clr_country_flag = "YesGoToSouthPoleAgain"
+    set_country_flag = "NoGoToSouthPole"
     prestige = -25
   }
 }
@@ -2203,14 +2203,14 @@ country_event = {
   news_desc_short = "EVTDESC23211_NEWS_SHORT"
   trigger = {
     or = {
-      has_country_flag = YesGoToSouthPoleAgain
-      has_country_flag = YesGoToSouthPoleThird
+      has_country_flag = "YesGoToSouthPoleAgain"
+      has_country_flag = "YesGoToSouthPoleThird"
     }
     NOT = {
-      has_global_flag = SouthPoleDiscovered
+      has_global_flag = "SouthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToSouthPole
+      has_country_flag = "NoGoToSouthPole"
     }
     year = 1910
   }
@@ -2235,9 +2235,9 @@ country_event = {
   option = {
     name = "EVTOPTA23203"
     prestige = 100
-    set_global_flag = SouthPoleDiscovered
-    clr_country_flag = YesGoToSouthPoleAgain
-    clr_country_flag = YesGoToSouthPoleThird
+    set_global_flag = "SouthPoleDiscovered"
+    clr_country_flag = "YesGoToSouthPoleAgain"
+    clr_country_flag = "YesGoToSouthPoleThird"
   }
 }
 country_event = {
@@ -2271,12 +2271,12 @@ country_event = {
   news_desc_medium = "EVTDESC23213_NEWS_MEDIUM"
   news_desc_short = "EVTDESC23213_NEWS_SHORT"
   trigger = {
-    has_country_flag = YesGoToSouthPole
+    has_country_flag = "YesGoToSouthPole"
     NOT = {
-      has_global_flag = SouthPoleDiscovered
+      has_global_flag = "SouthPoleDiscovered"
     }
     NOT = {
-      has_country_flag = NoGoToSouthPole
+      has_country_flag = "NoGoToSouthPole"
     }
     year = 1908
   }
@@ -2289,6 +2289,6 @@ country_event = {
   option = {
     name = "EVTOPTA23213"
     prestige = -5
-    clr_country_flag = YesGoToSouthPole
+    clr_country_flag = "YesGoToSouthPole"
   }
 }

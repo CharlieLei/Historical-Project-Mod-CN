@@ -6,7 +6,7 @@ country_event = {
     NOT = {
       year = 1840
       war_with = SWI
-      has_global_flag = LouisNapoleonExtradite
+      has_global_flag = "LouisNapoleonExtradite"
     }
   }
   fire_only_once = yes
@@ -30,7 +30,7 @@ country_event = {
       who = SWI
       value = -50
     }
-    set_global_flag = LouisNapoleonExtradite
+    set_global_flag = "LouisNapoleonExtradite"
   }
   option = {
     name = "EVTOPTB37200"
@@ -506,7 +506,7 @@ country_event = {
         value = moralism
       }
     }
-    set_country_flag = DreyfusTrial
+    set_country_flag = "DreyfusTrial"
   }
   option = {
     name = "EVTOPTB37216"
@@ -517,7 +517,7 @@ country_event = {
     soldiers = {
       militancy = 1
     }
-    set_country_flag = DreyfusInnocent
+    set_country_flag = "DreyfusInnocent"
     any_pop = {
       dominant_issue = {
         factor = 0.1
@@ -540,12 +540,12 @@ country_event = {
     tag = FRA
     exists = GER
     year = 1898
-    has_country_flag = DreyfusTrial
+    has_country_flag = "DreyfusTrial"
     NOT = {
       year = 1902
       war_with = GER
-      has_country_flag = DreyfusInnocent
-      has_country_flag = DreyfusGuilty
+      has_country_flag = "DreyfusInnocent"
+      has_country_flag = "DreyfusGuilty"
     }
   }
   fire_only_once = yes
@@ -565,7 +565,7 @@ country_event = {
   picture = "Dreyfus"
   option = {
     name = "EVTOPTA37217"
-    set_country_flag = DreyfusGuilty
+    set_country_flag = "DreyfusGuilty"
     any_pop = {
       scaled_consciousness = {
         factor = 3
@@ -600,11 +600,11 @@ country_event = {
     tag = FRA
     exists = GER
     year = 1899
-    has_country_flag = DreyfusGuilty
+    has_country_flag = "DreyfusGuilty"
     NOT = {
       year = 1903
       war_with = GER
-      has_country_flag = JAccuse
+      has_country_flag = "JAccuse"
     }
   }
   fire_only_once = yes
@@ -626,7 +626,7 @@ country_event = {
     name = "EVTOPTA37218"
     prestige = -15
     plurality = 5
-    set_country_flag = JAccuse
+    set_country_flag = "JAccuse"
     any_pop = {
       consciousness = 1
       dominant_issue = {
@@ -2071,7 +2071,7 @@ country_event = {
         }
       }
       1972 = {
-        change_province_name = "弗赖施塔特"  # Freistadt
+        change_province_name = "弗雷斯塔德"  # Freistadt
       }
     }
     random_owned = {
@@ -2091,7 +2091,7 @@ country_event = {
         }
       }
       1972 = {
-        change_province_name = "利伯利希塔"  # Liberacitta
+        change_province_name = "利伯拉西塔"  # Liberacitta
       }
     }
     random_owned = {
@@ -2101,7 +2101,7 @@ country_event = {
         }
       }
       1972 = {
-        change_province_name = "弗莱斯塔"  # Vrijstad
+        change_province_name = "维里斯塔德"  # Vrijstad
       }
     }
     random_owned = {
@@ -2111,7 +2111,7 @@ country_event = {
         }
       }
       1972 = {
-        change_province_name = "弗莱斯塔"  # Vrijstad
+        change_province_name = "维里斯塔德"  # Vrijstad
       }
     }
     random_owned = {
@@ -2171,7 +2171,7 @@ country_event = {
         }
       }
       1972 = {
-        change_province_name = "弗利斯大"  # Fristad
+        change_province_name = "弗瑞斯塔德"  # Fristad
       }
     }
     random_owned = {

@@ -1220,7 +1220,7 @@ political_decisions = {
       NOT = {
         OR = {
           has_country_flag = bonnie_blue_flag
-          has_country_flag = 1861CSAstart
+          has_country_flag = "1861CSAstart"
         }
       }
     }
@@ -2896,7 +2896,7 @@ political_decisions = {
         change_province_name = "格尼拉特福尔斯"  # Granite Falls
       }
       157 = {
-        change_province_name = "穆尔黑德"  # Moorhead
+        change_province_name = "茂海"  # Moorhead
       }
       106 = {
         change_province_name = "丹佛"  # Denver

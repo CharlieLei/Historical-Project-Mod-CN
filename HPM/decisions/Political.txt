@@ -388,7 +388,7 @@ political_decisions = {
         }
         owner = {
           1481 = {
-            change_province_name = "ÂÃË³"  # Ryojun
+            change_province_name = "ÂÃË³¿Ú"  # Ryojun
           }
           clr_global_flag = renamed_port_arthur
           clr_global_flag = lushun

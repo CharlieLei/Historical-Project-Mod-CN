@@ -1862,10 +1862,10 @@ political_decisions = {
         change_province_name = "Èø¹þÁÖº£°¶"  # Coast of Sakhalin
       }
       1088 = {
-        change_province_name = "Õ¼ÊØµº"  # Shumshu
+        change_province_name = "ÊæÄ·Êæ"  # Shumshu
       }
       1089 = {
-        change_province_name = "Ôñ×½µº"  # Iturrup
+        change_province_name = "ÒÁÍ¼Â³ÆÕ"  # Iturrup
       }
       1086 = {
         change_province_name = "²¨¼ª±È"  # Pogobi
@@ -2029,7 +2029,7 @@ political_decisions = {
               duration = 9125
             }
             add_province_modifier = {
-              name = plantation
+              name = "plantation"
               duration = -1
             }
           }

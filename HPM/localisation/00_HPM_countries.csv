@@ -1,5 +1,6 @@
 #Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+Key;English;;;;;;;;;;;;x
 GER_hms_government;德意志帝国;;;;;;;;;;;;x
 finnougric;芬兰-乌戈尔人;;;;;;;;;;;;x
 ARC_reactionary;人民复兴会;;;;;;;;;;;;x
@@ -1690,6 +1691,7 @@ NIG_liberal;统一人民民主党;;;;;;;;;;;;x
 NIG_conservative;民主与社会会议;;;;;;;;;;;;x
 NIG_socialist;促进民主与进步人民力量同盟-萨瓦巴;;;;;;;;;;;;x
 NIG_reactionary;促进社会发展全国运动;;;;;;;;;;;;x
+NIG_anarcho_liberal;自由党;;;;;;;;;;;;x
 NIG_communist;进步党;;;;;;;;;;;;x
 NIG_fascist;人民尊严党;;;;;;;;;;;;x
 NOR_liberal;自由派;;;;;;;;;;;;x
@@ -2399,10 +2401,10 @@ TOU_presidential_dictatorship;图库洛尔共和国;;;;;;;;;;;;x
 TOU_proletarian_dictatorship_ADJ;萨赫勒的;;;;;;;;;;;;x
 TOU_fascist_dictatorship_ADJ;萨赫勒的;;;;;;;;;;;;x
 TPG;太平天国;;;;;;;;;;;;x
-TPG_democracy;太平民国;;;;;;;;;;;;x
+TPG_democracy;太平共和国;;;;;;;;;;;;x
 TPG_bourgeois_dictatorship;拜上帝会;;;;;;;;;;;;x
-TPG_proletarian_dictatorship;天父天兄太平天囯;;;;;;;;;;;;x
-TPG_fascist_dictatorship;天父天兄天王太平天囯;;;;;;;;;;;;x
+TPG_proletarian_dictatorship;太平人民共和国;;;;;;;;;;;;x
+TPG_fascist_dictatorship;太平;;;;;;;;;;;;x
 TPG_presidential_dictatorship;太平军国;;;;;;;;;;;;x
 TPG_ADJ;天朝的;;;;;;;;;;;;x
 TPG_conservative;西王;;;;;;;;;;;;x

@@ -399,7 +399,7 @@ province_event = {
           }
         }
         2496 = {
-          change_province_name = "ÑÇÀ­Ëþ"  # Yalata
+          change_province_name = "ÑÅÀ­Ëþ"  # Yalata
           life_rating = -5
         }
       }

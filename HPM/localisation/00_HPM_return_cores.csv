@@ -1,5 +1,6 @@
 #Powered_by_ParaTranz;;;;;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
+Key;English;;;;;;;;;;;;x
 return_core_on_title;激活“归还核心”决议;;;;;;;;;;;;x
 return_core_on_desc;返回核心决策允许您返还附庸和势力范围国家的核心，只要您在地区没有核心，并且在其他时候保持隐藏，以避免它们使您的决议列表混乱。;;;;;;;;;;;;x
 return_core_off_title;关闭“归还核心”决议;;;;;;;;;;;;x

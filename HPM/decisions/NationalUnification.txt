@@ -1427,10 +1427,10 @@ political_decisions = {
     }
     effect = {
       410 = {
-        change_province_name = "科尔马"  # Kolmar
+        change_province_name = "克尔马"  # Kolmar
       }
       409 = {
-        change_province_name = "斯特拉斯堡"  # Stra脽burg
+        change_province_name = "斯特哈斯堡"  # Stra脽burg
         state_scope = {
           change_region_name = "艾尔萨斯-罗特宁根"  # Elsa脽-Lothringen
         }

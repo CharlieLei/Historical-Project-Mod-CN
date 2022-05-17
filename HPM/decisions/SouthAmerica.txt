@@ -420,7 +420,7 @@ political_decisions = {
         limit = {
           province_id = 2549
         }
-        change_province_name = "里奥布朗库"  # Rio Branco
+        change_province_name = "里约布兰科"  # Rio Branco
         add_province_modifier = {
           name = recently_built_city
           duration = 100
