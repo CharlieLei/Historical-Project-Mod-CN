@@ -117,7 +117,7 @@ province_event = {
   picture = "Slaves"
   option = {
     name = "EVTOPTA46302"
-    set_country_flag = "Sabinada"
+    set_country_flag = Sabinada
     slaves = {
       militancy = 6
     }

@@ -1598,7 +1598,7 @@ political_decisions = {
         }
         owner = {
           255 = {
-            change_province_name = "Derry"
+            change_province_name = "德里"  # Derry
           }
           set_global_flag = londonderry_renamed
         }
@@ -1611,7 +1611,7 @@ political_decisions = {
         }
         owner = {
           255 = {
-            change_province_name = "Londonderry"
+            change_province_name = "伦敦德里"  # Londonderry
           }
           clr_global_flag = londonderry_renamed
         }

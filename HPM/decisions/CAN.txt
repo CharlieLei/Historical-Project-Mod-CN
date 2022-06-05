@@ -218,7 +218,7 @@ political_decisions = {
         life_rating = 2
       }
       add_country_modifier = {
-        name = "rcmp"
+        name = rcmp
         duration = -1
       }
     }

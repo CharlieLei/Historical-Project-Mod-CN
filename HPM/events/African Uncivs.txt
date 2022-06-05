@@ -7,7 +7,7 @@ country_event = {
   option = {
     name = "EVT95518OPTA"
     add_country_modifier = {
-      name = "assegai"
+      name = assegai
       duration = -1
     }
     2072 = {

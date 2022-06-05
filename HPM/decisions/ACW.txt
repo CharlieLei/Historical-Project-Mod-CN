@@ -1220,7 +1220,7 @@ political_decisions = {
       NOT = {
         OR = {
           has_country_flag = bonnie_blue_flag
-          has_country_flag = "1861CSAstart"
+          has_country_flag = 1861CSAstart
         }
       }
     }

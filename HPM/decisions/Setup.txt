@@ -932,7 +932,7 @@ political_decisions = {
           duration = -1
         }
         add_province_modifier = {
-          name = "enclosures"
+          name = enclosures
           duration = -1
         }
       }
@@ -3804,7 +3804,7 @@ political_decisions = {
         remove_country_modifier = french_liberal_school
         remove_country_modifier = smithian_school
         add_country_modifier = {
-          name = "mercantilism"
+          name = mercantilism
           duration = 3650
         }
       }
@@ -3816,7 +3816,7 @@ political_decisions = {
         remove_country_modifier = french_liberal_school
         remove_country_modifier = smithian_school
         add_country_modifier = {
-          name = "mercantilism"
+          name = mercantilism
           duration = 3650
         }
       }
@@ -3828,7 +3828,7 @@ political_decisions = {
         remove_country_modifier = french_liberal_school
         remove_country_modifier = smithian_school
         add_country_modifier = {
-          name = "mercantilism"
+          name = mercantilism
           duration = 3650
         }
       }
@@ -3840,7 +3840,7 @@ political_decisions = {
         remove_country_modifier = french_liberal_school
         remove_country_modifier = smithian_school
         add_country_modifier = {
-          name = "mercantilism"
+          name = mercantilism
           duration = 3650
         }
       }
@@ -4233,7 +4233,7 @@ political_decisions = {
           duration = -1
         }
         add_country_modifier = {
-          name = "sakoku"
+          name = sakoku
           duration = -1
         }
       }
@@ -4263,7 +4263,7 @@ political_decisions = {
           duration = -1
         }
         add_country_modifier = {
-          name = "rangaku"
+          name = rangaku
           duration = -1
         }
         random_owned = {
@@ -4508,7 +4508,7 @@ political_decisions = {
       }
       ZUL = {
         add_country_modifier = {
-          name = "assegai"
+          name = assegai
           duration = -1
         }
       }
@@ -4774,7 +4774,7 @@ political_decisions = {
           }
         }
         add_country_modifier = {
-          name = "jizya"
+          name = jizya
           duration = -1
         }
       }

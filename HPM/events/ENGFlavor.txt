@@ -388,11 +388,11 @@ country_event = {
   id = 36909
   trigger = {
     tag = ENG
-    has_global_flag = "PlanWorldFair"
+    has_global_flag = PlanWorldFair
     year = 1849
     NOT = {
       year = 1852
-      has_country_flag = "CrystalPalace"
+      has_country_flag = CrystalPalace
     }
     war = no
   }
@@ -413,8 +413,8 @@ country_event = {
   option = {
     name = "EVTOPTA36909"
     prestige = 50
-    clr_global_flag = "PlanWorldFair"
-    set_country_flag = "CrystalPalace"
+    clr_global_flag = PlanWorldFair
+    set_country_flag = CrystalPalace
   }
 }
 country_event = {
@@ -897,7 +897,7 @@ country_event = {
       }
       consciousness = 2
     }
-    set_country_flag = "Darwin"
+    set_country_flag = Darwin
   }
 }
 country_event = {
@@ -971,7 +971,7 @@ country_event = {
     any_pop = {
       consciousness = 1
     }
-    set_country_flag = "JackTheRipper"
+    set_country_flag = JackTheRipper
   }
   option = {
     name = "EVTOPTB36925"
@@ -979,7 +979,7 @@ country_event = {
     any_pop = {
       militancy = 1
     }
-    set_country_flag = "JackTheRipper"
+    set_country_flag = JackTheRipper
   }
 }
 country_event = {
@@ -1320,7 +1320,7 @@ country_event = {
     }
     NOT = {
       year = 1936
-      has_global_flag = "ENGRoyalHouseAnglified"
+      has_global_flag = ENGRoyalHouseAnglified
     }
   }
   mean_time_to_happen = {
@@ -1343,7 +1343,7 @@ country_event = {
   picture = "windsor"
   option = {
     name = "EVTOPTA36937"
-    set_global_flag = "ENGRoyalHouseAnglified"
+    set_global_flag = ENGRoyalHouseAnglified
     any_pop = {
       consciousness = 1
     }

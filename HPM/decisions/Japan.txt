@@ -2029,7 +2029,7 @@ political_decisions = {
               duration = 9125
             }
             add_province_modifier = {
-              name = "plantation"
+              name = plantation
               duration = -1
             }
           }
